@@ -1,0 +1,56 @@
+# .github/workflows/space.yml
+#
+# Rewrites the section between the SPACE:START and SPACE:END markers in README.md once a
+# day. Commits only when the content actually changed, so the profile does not collect an
+# empty commit every morning.
+#
+# NASA_API_KEY is optional. Without it the script uses DEMO_KEY, which is rate-limited per
+# IP and shared across all GitHub-hosted runners, so it will fail some days and silently
+# fall back to the keyless news source. A free key from api.nasa.gov takes about a minute
+# and makes the picture reliable: add it under Settings, Secrets and variables, Actions.
+
+name: Space section
+
+on:
+  schedule:
+    # 06:17 UTC daily. Deliberately off the hour: GitHub queues scheduled jobs at busy
+    # times and on-the-hour crons can be delayed considerably.
+    - cron: "17 6 * * *"
+  workflow_dispatch: {}
+
+permissions:
+  contents: write
+
+concurrency:
+  group: space-section
+  cancel-in-progress: false
+
+jobs:
+  update:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+
+      - name: Verify the splice logic before touching the README
+        run: python scripts/update_space.py --self-check
+
+      - name: Fetch and rewrite
+        env:
+          NASA_API_KEY: ${{ secrets.NASA_API_KEY }}
+        run: python scripts/update_space.py --readme README.md
+
+      - name: Commit if anything changed
+        run: |
+          if git diff --quiet -- README.md; then
+            echo "nothing to commit"
+            exit 0
+          fi
+          git config user.name  "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add README.md
+          git commit -m "Update space section"
+          git push
