@@ -32,9 +32,12 @@
 <h3 align="left">🛰️ From orbit today:</h3>
 
 <!-- SPACE:START -->
-**[MTM's selfie footage of BepiColombo's eight-year journey](https://www.esa.int/ESA_Multimedia/Videos/2026/09/MTM_s_selfie_footage_of_BepiColombo_s_eight-year_journey)**
+<a href="https://epic.gsfc.nasa.gov/"><img src="https://epic.gsfc.nasa.gov/archive/natural/2026/09/07/png/epic_1b_20260907223142.png" alt="Earth today" width="440" /></a>
 
-<sub>ESA, 2026-09-09</sub>
+**Earth today**  
+This image was taken by NASA's EPIC camera onboard the NOAA DSCOVR spacecraft
+
+<sub>NASA EPIC aboard DSCOVR, 2026-09-07</sub>
 <!-- SPACE:END -->
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=XxAG17xX&hide_border=true" alt="GitHub streak" /></p>
