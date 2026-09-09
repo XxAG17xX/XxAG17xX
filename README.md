@@ -32,12 +32,30 @@
 <h3 align="left">🛰️ From orbit today:</h3>
 
 <!-- SPACE:START -->
-<a href="https://epic.gsfc.nasa.gov/"><img src="https://epic.gsfc.nasa.gov/archive/natural/2026/09/07/png/epic_1b_20260907223142.png" alt="Earth today" width="440" /></a>
+<table>
+<tr>
+<td width="50%" valign="top" align="center">
+<a href="https://epic.gsfc.nasa.gov/"><img src="https://epic.gsfc.nasa.gov/archive/natural/2026/09/07/png/epic_1b_20260907223142.png" alt="Earth today" width="100%" /></a>
+<br/><br/>
+<b>Earth today</b>
+<br/>
+<sub>This image was taken by NASA's EPIC camera onboard the NOAA DSCOVR spacecraft</sub>
+<br/><br/>
+<sub><i>NASA EPIC aboard DSCOVR, 2026-09-07</i></sub>
+</td>
+<td width="50%" valign="top" align="center">
+<img src="https://images-assets.nasa.gov/image/PIA04226/PIA04226~small.jpg" alt="Ghost Head Nebula" width="100%" />
+<br/><br/>
+<b>Ghost Head Nebula</b>
+<br/>
+<sub>Looking like a colorful holiday card, a new image from NASA Hubble Space Telescope reveals a vibrant green and red nebula far from Earth.</sub>
+<br/><br/>
+<sub><i>NASA Image Library, "nebula"</i></sub>
+</td>
+</tr>
+</table>
 
-**Earth today**  
-This image was taken by NASA's EPIC camera onboard the NOAA DSCOVR spacecraft
-
-<sub>NASA EPIC aboard DSCOVR, 2026-09-07</sub>
+📰 **[MTM's selfie footage of BepiColombo's eight-year journey](https://www.esa.int/ESA_Multimedia/Videos/2026/09/MTM_s_selfie_footage_of_BepiColombo_s_eight-year_journey)** <sub>ESA, 2026-09-09</sub>
 <!-- SPACE:END -->
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=XxAG17xX&hide_border=true" alt="GitHub streak" /></p>
