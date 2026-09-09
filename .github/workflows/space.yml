@@ -1,20 +1,27 @@
 # .github/workflows/space.yml
 #
 # Rewrites the section between the SPACE:START and SPACE:END markers in README.md once a
-# day. Commits only when the content actually changed, so the profile does not collect an
-# empty commit every morning.
+# day, and commits only when the content actually changed, so the profile does not collect
+# an empty commit every morning.
 #
-# NASA_API_KEY is optional. Without it the script uses DEMO_KEY, which is rate-limited per
-# IP and shared across all GitHub-hosted runners, so it will fail some days and silently
-# fall back to the keyless news source. A free key from api.nasa.gov takes about a minute
-# and makes the picture reliable: add it under Settings, Secrets and variables, Actions.
+# NASA_API_KEY is optional but worth setting. Without it the script uses DEMO_KEY, which is
+# rate-limited per IP and shared across all GitHub-hosted runners, so APOD and EPIC will
+# often 429 and it will fall back to the keyless NASA image archive. Free from
+# api.nasa.gov; add it under Settings, Secrets and variables, Actions.
+#
+# Updated 2026-09-09 after a "Node.js 20 is deprecated" warning:
+#   - actions/checkout bumped v4 -> v7 (v4 targets Node 20, which GitHub is retiring)
+#   - actions/setup-python REMOVED rather than bumped. update_space.py imports nothing
+#     outside the standard library and ubuntu-latest ships with Python, so the action was
+#     pure overhead and one more thing to keep upgrading. Deleting a dependency beats
+#     version-bumping one.
 
 name: Space section
 
 on:
   schedule:
     # 06:17 UTC daily. Deliberately off the hour: GitHub queues scheduled jobs at busy
-    # times and on-the-hour crons can be delayed considerably.
+    # times and on-the-hour crons get delayed.
     - cron: "17 6 * * *"
   workflow_dispatch: {}
 
@@ -29,19 +36,15 @@ jobs:
   update:
     runs-on: ubuntu-latest
     steps:
-      - uses: actions/checkout@v4
+      - uses: actions/checkout@v7
 
-      - uses: actions/setup-python@v5
-        with:
-          python-version: "3.12"
-
-      - name: Verify the splice logic before touching the README
-        run: python scripts/update_space.py --self-check
+      - name: Verify the splice and key guard before touching the README
+        run: python3 scripts/update_space.py --self-check
 
       - name: Fetch and rewrite
         env:
           NASA_API_KEY: ${{ secrets.NASA_API_KEY }}
-        run: python scripts/update_space.py --readme README.md
+        run: python3 scripts/update_space.py --readme README.md
 
       - name: Commit if anything changed
         run: |
