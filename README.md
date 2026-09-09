@@ -32,7 +32,9 @@
 <h3 align="left">🛰️ From orbit today:</h3>
 
 <!-- SPACE:START -->
-_Waiting for the first scheduled run. Trigger it manually from the Actions tab, or wait for the daily cron._
+**[MTM's selfie footage of BepiColombo's eight-year journey](https://www.esa.int/ESA_Multimedia/Videos/2026/09/MTM_s_selfie_footage_of_BepiColombo_s_eight-year_journey)**
+
+<sub>ESA, 2026-09-09</sub>
 <!-- SPACE:END -->
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=XxAG17xX&hide_border=true" alt="GitHub streak" /></p>
