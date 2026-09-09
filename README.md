@@ -4,7 +4,7 @@
 
 - 🔭 I'm currently working on **RailCast, a live rail-delay predictor running on AWS**
 
-- 🌱 I'm currently learning **C++ and algorithms for interviews, and working toward an AWS certification**
+- 🌱 I'm currently **working toward an AWS certification**
 
 - 💬 Ask me about **AWS serverless, applied ML on real operational data, and mixed reality on Quest 3**
 
