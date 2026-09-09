@@ -1,30 +1,32 @@
 #!/usr/bin/env python3
-"""Rewrite the space section of the profile README with something current, and preferably
-with a picture.
+"""Rewrite the space section of the profile README: two pictures side by side, plus the
+day's spaceflight headline underneath.
 
-Sources are tried in order of how good they look, falling through on any failure, so the
-section is never empty and is almost always an image:
+Layout
+------
+A two-column HTML table, because a single 440px image leaves half the README width empty.
+GitHub allows table, img, a, b, br and sub in Markdown, so this renders on the profile.
+If only one picture can be fetched, it falls back to a single centred image rather than a
+lopsided table. If none can, the headline alone still carries the section.
 
-  1. APOD, when it is an image        NASA's picture of the day. Curated, has an
-                                      explanation. About nine days in ten.
-  2. APOD video thumbnail             APOD is a video roughly one day in ten; a still
-                                      is better than nothing.
-  3. EPIC                             Full-disc Earth from DSCOVR at L1, a million miles
-                                      out. Updated most days and always an image.
-  4. NASA Image and Video Library     Enormous archive, needs no key at all. The search
-                                      term rotates by day so it does not repeat.
-  5. Spaceflight News                 Text headline. Keyless, and the last resort so that
-                                      something is always written.
+Picture sources, tried in order until two DIFFERENT ones succeed
+---------------------------------------------------------------
+  1. APOD      NASA's curated picture of the day, or its thumbnail when the entry is a
+               video (about one day in ten).
+  2. EPIC      Full-disc Earth from DSCOVR at L1, a million miles out. Updated most days.
+  3. Library   NASA Image and Video Library. Keyless, enormous, and the search term
+               rotates by day so it does not repeat. Used twice with different terms if
+               both APOD and EPIC are unavailable.
 
-KEY SAFETY, the important part
-------------------------------
-A README is public, so any URL written into it is public. NASA's own image endpoints under
-api.nasa.gov require ?api_key=, which would publish the key on the profile page. The image
-hosts used here are the keyless ones instead: apod.nasa.gov, epic.gsfc.nasa.gov and
-images-assets.nasa.gov. `guard` enforces that at write time and refuses anything carrying a
-key, so a future edit cannot leak one by accident.
+KEY SAFETY
+----------
+A README is world-readable, so every URL written into it is public. NASA's image endpoints
+under api.nasa.gov require ?api_key=, which would publish the key on the profile page. Only
+keyless image hosts are ever embedded: apod.nasa.gov, epic.gsfc.nasa.gov and
+images-assets.nasa.gov. `guard` enforces this at write time and the self-check covers it,
+so a later edit cannot leak a key by accident.
 
-Local check, writes nothing:
+Local checks, write nothing:
     python update_space.py --self-check
     python update_space.py --dry-run
 
@@ -37,6 +39,7 @@ import datetime
 import json
 import os
 import sys
+import urllib.parse
 import urllib.request
 
 START = "<!-- SPACE:START -->"
@@ -44,10 +47,10 @@ END = "<!-- SPACE:END -->"
 TIMEOUT = 25
 UA = "XxAG17xX-profile-readme (+https://github.com/XxAG17xX)"
 
-# Rotated by day of year so the archive pick is not the same picture every morning.
 LIBRARY_TERMS = [
     "nebula", "galaxy", "aurora", "saturn", "jupiter", "supernova remnant",
     "star cluster", "solar eclipse", "spacewalk", "hubble deep field",
+    "mars surface", "andromeda",
 ]
 
 
@@ -58,100 +61,143 @@ def get_json(url):
 
 
 def guard(url):
-    """Refuse to publish anything carrying a credential. A README is world-readable."""
+    """Refuse to publish anything carrying a credential."""
     if not url:
-        raise ValueError("empty image url")
+        raise ValueError("empty url")
     low = url.lower()
     if "api_key" in low or "apikey" in low:
         raise ValueError(f"refusing to write a URL containing a key: {url[:60]}...")
     return url
 
 
-def trim(text, limit=260):
+def trim(text, limit=150):
     text = " ".join((text or "").split())
     if len(text) <= limit:
         return text
     return text[:limit].rsplit(" ", 1)[0].rstrip(".,;:") + "..."
 
 
-def card(img, title, caption, link=None):
-    img = guard(img)
-    inner = f'<img src="{img}" alt="{title}" width="440" />'
-    if link:
-        inner = f'<a href="{guard(link)}">{inner}</a>'
-    return f"{inner}\n\n**{title}**  \n{caption}"
-
-
 def key():
     return os.environ.get("NASA_API_KEY", "").strip() or "DEMO_KEY"
 
 
-def from_apod():
+# --------------------------------------------------------------------- sources
+# Each returns {"img", "title", "caption", "link"} or raises.
+
+def src_apod():
     d = get_json(f"https://api.nasa.gov/planetary/apod?api_key={key()}")
     img = d.get("url") if d.get("media_type") == "image" else d.get("thumbnail_url")
     if not img:
         raise ValueError("APOD entry has no usable image")
-    return card(
-        img,
-        d.get("title", "Astronomy Picture of the Day"),
-        f'{trim(d.get("explanation", ""))}\n\n<sub>NASA Astronomy Picture of the Day, {d.get("date", "")}</sub>',
-        link=d.get("hdurl") or d.get("url"),
-    )
+    return {
+        "img": img,
+        "title": d.get("title", "Astronomy Picture of the Day"),
+        "caption": trim(d.get("explanation", "")),
+        "link": d.get("hdurl") or d.get("url"),
+        "credit": f'NASA APOD, {d.get("date", "")}',
+    }
 
 
-def from_epic():
-    """Full-disc Earth from a million miles away. Metadata needs the key; the image itself
-    is served keyless from epic.gsfc.nasa.gov, which is why that host is used and not the
-    api.nasa.gov archive path (that one 403s without a key)."""
+def src_epic():
     items = get_json(f"https://api.nasa.gov/EPIC/api/natural?api_key={key()}")
     if not items:
         raise ValueError("EPIC returned no frames")
     it = items[-1]
-    d = it["date"].split(" ")[0].replace("-", "/")
-    img = f'https://epic.gsfc.nasa.gov/archive/natural/{d}/png/{it["image"]}.png'
-    caption = trim(it.get("caption", "Earth from the DSCOVR satellite at L1."))
-    return card(
-        img,
-        "Earth today",
-        f'{caption}\n\n<sub>NASA EPIC aboard DSCOVR, {it["date"].split(" ")[0]}</sub>',
-        link="https://epic.gsfc.nasa.gov/",
-    )
+    day = it["date"].split(" ")[0]
+    return {
+        # epic.gsfc.nasa.gov is keyless; the api.nasa.gov archive path 403s without a key.
+        "img": f'https://epic.gsfc.nasa.gov/archive/natural/{day.replace("-", "/")}/png/{it["image"]}.png',
+        "title": "Earth today",
+        "caption": trim(it.get("caption", "Taken by NASA's EPIC camera aboard the NOAA DSCOVR spacecraft.")),
+        "link": "https://epic.gsfc.nasa.gov/",
+        "credit": f"NASA EPIC aboard DSCOVR, {day}",
+    }
 
 
-def from_library():
-    """Keyless end to end, so this still works if the key is missing or rate-limited."""
-    term = LIBRARY_TERMS[datetime.date.today().timetuple().tm_yday % len(LIBRARY_TERMS)]
+def src_library(offset=0):
+    """Keyless end to end, so it still works with no key or a rate-limited one."""
+    today = datetime.date.today()
+    term = LIBRARY_TERMS[(today.timetuple().tm_yday + offset) % len(LIBRARY_TERMS)]
     q = urllib.parse.quote(term)
     d = get_json(f"https://images-api.nasa.gov/search?q={q}&media_type=image&page_size=20")
     items = d.get("collection", {}).get("items", [])
     if not items:
         raise ValueError(f"no library results for {term}")
-    it = items[datetime.date.today().day % len(items)]
-    img = it["links"][0]["href"]
+    it = items[(today.day + offset) % len(items)]
     meta = it["data"][0]
-    return card(
-        img,
-        meta.get("title", term.title()),
-        f'{trim(meta.get("description", ""), 200)}\n\n<sub>NASA Image and Video Library, searched "{term}"</sub>',
-    )
+    return {
+        "img": it["links"][0]["href"],
+        "title": meta.get("title", term.title()),
+        "caption": trim(meta.get("description", "")),
+        "link": None,
+        "credit": f'NASA Image Library, "{term}"',
+    }
 
 
-def from_news():
+def src_news():
     d = get_json("https://api.spaceflightnewsapi.net/v4/articles/?limit=1")
     a = d["results"][0]
+    return {
+        "title": a.get("title", "").strip(),
+        "url": a.get("url", ""),
+        "site": a.get("news_site", ""),
+        "date": (a.get("published_at") or "")[:10],
+    }
+
+
+# --------------------------------------------------------------------- render
+
+def cell(p):
+    inner = f'<img src="{guard(p["img"])}" alt="{p["title"]}" width="100%" />'
+    if p.get("link"):
+        inner = f'<a href="{guard(p["link"])}">{inner}</a>'
     return (
-        f'**[{a.get("title", "").strip()}]({a.get("url", "")})**\n\n'
-        f'<sub>{a.get("news_site", "")}, {(a.get("published_at") or "")[:10]}</sub>'
+        '<td width="50%" valign="top" align="center">\n'
+        f"{inner}\n<br/><br/>\n"
+        f'<b>{p["title"]}</b>\n<br/>\n'
+        f'<sub>{p["caption"]}</sub>\n<br/><br/>\n'
+        f'<sub><i>{p["credit"]}</i></sub>\n'
+        "</td>"
     )
+
+
+def render(pics, news):
+    parts = []
+    if len(pics) >= 2:
+        parts.append("<table>\n<tr>\n" + cell(pics[0]) + "\n" + cell(pics[1]) + "\n</tr>\n</table>")
+    elif len(pics) == 1:
+        p = pics[0]
+        img = f'<img src="{guard(p["img"])}" alt="{p["title"]}" width="440" />'
+        if p.get("link"):
+            img = f'<a href="{guard(p["link"])}">{img}</a>'
+        parts.append(f'<p align="center">{img}<br/><b>{p["title"]}</b><br/>'
+                     f'<sub>{p["caption"]}</sub><br/><sub><i>{p["credit"]}</i></sub></p>')
+    if news:
+        parts.append(f'📰 **[{news["title"]}]({news["url"]})** <sub>{news["site"]}, {news["date"]}</sub>')
+    if not parts:
+        raise SystemExit("every source failed")
+    return "\n\n".join(parts)
 
 
 def build():
-    for fn in (from_apod, from_epic, from_library, from_news):
+    pics, seen = [], set()
+    for fn in (src_apod, src_epic, lambda: src_library(0), lambda: src_library(5)):
+        if len(pics) == 2:
+            break
         try:
-            return fn()
+            p = fn()
+            if p["img"] in seen:
+                continue
+            seen.add(p["img"])
+            pics.append(p)
         except Exception as e:                  # noqa: BLE001 - fall through on anything
-            print(f"{fn.__name__} unavailable: {e}", file=sys.stderr)
-    raise SystemExit("every source failed")
+            print(f"picture source unavailable: {e}", file=sys.stderr)
+    try:
+        news = src_news()
+    except Exception as e:                      # noqa: BLE001
+        print(f"news unavailable: {e}", file=sys.stderr)
+        news = None
+    return render(pics, news)
 
 
 def splice(readme, block):
@@ -168,15 +214,11 @@ def _self_check():
     assert out.startswith("before") and out.endswith("after")
 
     assert trim("a b c", 100) == "a b c"
-    assert trim("word " * 200).endswith("...") and len(trim("word " * 200)) <= 264
+    assert trim("word " * 200).endswith("...") and len(trim("word " * 200)) <= 154
 
-    # the guard is the part that must never regress
     guard("https://epic.gsfc.nasa.gov/archive/natural/x.png")
-    for bad in (
-        "https://api.nasa.gov/EPIC/archive/natural/x.png?api_key=abc123",
-        "https://example.com/i.png?apiKey=abc",
-        "",
-    ):
+    for bad in ("https://api.nasa.gov/EPIC/archive/x.png?api_key=abc",
+                "https://example.com/i.png?apiKey=abc", ""):
         try:
             guard(bad)
         except ValueError:
@@ -184,8 +226,18 @@ def _self_check():
         else:
             raise AssertionError(f"guard let through: {bad!r}")
 
-    assert 'src="https://epic.gsfc.nasa.gov/a.png"' in card(
-        "https://epic.gsfc.nasa.gov/a.png", "T", "C")
+    p = {"img": "https://epic.gsfc.nasa.gov/a.png", "title": "T",
+         "caption": "C", "link": None, "credit": "X"}
+    n = {"title": "H", "url": "https://e.com", "site": "S", "date": "2026-01-01"}
+
+    two = render([p, dict(p, img="https://epic.gsfc.nasa.gov/b.png")], n)
+    assert two.count("<td") == 2 and "<table>" in two and "📰" in two
+
+    one = render([p], n)
+    assert "<table>" not in one and 'width="440"' in one
+
+    none_ = render([], n)
+    assert "<img" not in none_ and "📰" in none_
     print("self-check passed")
 
 
@@ -217,5 +269,4 @@ def main():
 
 
 if __name__ == "__main__":
-    import urllib.parse  # noqa: E402 - only needed by from_library
     main()
