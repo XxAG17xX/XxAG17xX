@@ -35,27 +35,27 @@
 <table>
 <tr>
 <td width="50%" valign="top" align="center">
-<a href="https://epic.gsfc.nasa.gov/"><img src="https://epic.gsfc.nasa.gov/archive/natural/2026/09/07/png/epic_1b_20260907223142.png" alt="Earth today" width="100%" /></a>
+<a href="https://apod.nasa.gov/apod/image/2609/LDN1295_giraffe.jpg"><img src="https://apod.nasa.gov/apod/image/2609/LDN1295_giraffe_1024.jpg" alt="LDN 1295: The Giraffe Nebula" width="100%" /></a>
+<br/><br/>
+<b>LDN 1295: The Giraffe Nebula</b>
+<br/>
+<sub>What does this image look like to you? Many see a giraffe facing right, with neck stretched high and long legs mid-stride (but some may see a...</sub>
+<br/><br/>
+<sub><i>NASA APOD, 2026-09-10</i></sub>
+</td>
+<td width="50%" valign="top" align="center">
+<a href="https://epic.gsfc.nasa.gov/"><img src="https://epic.gsfc.nasa.gov/archive/natural/2026/09/08/png/epic_1b_20260908221300.png" alt="Earth today" width="100%" /></a>
 <br/><br/>
 <b>Earth today</b>
 <br/>
 <sub>This image was taken by NASA's EPIC camera onboard the NOAA DSCOVR spacecraft</sub>
 <br/><br/>
-<sub><i>NASA EPIC aboard DSCOVR, 2026-09-07</i></sub>
-</td>
-<td width="50%" valign="top" align="center">
-<img src="https://images-assets.nasa.gov/image/PIA04226/PIA04226~small.jpg" alt="Ghost Head Nebula" width="100%" />
-<br/><br/>
-<b>Ghost Head Nebula</b>
-<br/>
-<sub>Looking like a colorful holiday card, a new image from NASA Hubble Space Telescope reveals a vibrant green and red nebula far from Earth.</sub>
-<br/><br/>
-<sub><i>NASA Image Library, "nebula"</i></sub>
+<sub><i>NASA EPIC aboard DSCOVR, 2026-09-08</i></sub>
 </td>
 </tr>
 </table>
 
-📰 **[MTM's selfie footage of BepiColombo's eight-year journey](https://www.esa.int/ESA_Multimedia/Videos/2026/09/MTM_s_selfie_footage_of_BepiColombo_s_eight-year_journey)** <sub>ESA, 2026-09-09</sub>
+📰 **[The Exploration Company Books Ariane 6 Flight for Nyx Demo Mission](https://europeanspaceflight.com/the-exploration-company-books-ariane-6-flight-for-nyx-demo-mission/)** <sub>European Spaceflight, 2026-09-10</sub>
 <!-- SPACE:END -->
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=XxAG17xX&hide_border=true" alt="GitHub streak" /></p>
