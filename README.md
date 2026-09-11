@@ -35,6 +35,15 @@
 <table>
 <tr>
 <td width="50%" valign="top" align="center">
+<a href="https://apod.nasa.gov/apod/image/2609/M83_Final2_1x.jpg"><img src="https://apod.nasa.gov/apod/image/2609/M83_Final2_1x1024.jpg" alt="M83: The Southern Pinwheel" width="100%" /></a>
+<br/><br/>
+<b>M83: The Southern Pinwheel</b>
+<br/>
+<sub>Beautiful and bright spiral galaxy M83 lies some twelve million light-years away, near the southeastern tip of the very long constellation Hydra...</sub>
+<br/><br/>
+<sub><i>NASA APOD, 2026-09-11</i></sub>
+</td>
+<td width="50%" valign="top" align="center">
 <a href="https://epic.gsfc.nasa.gov/"><img src="https://epic.gsfc.nasa.gov/archive/natural/2026/09/08/png/epic_1b_20260908221300.png" alt="Earth today" width="100%" /></a>
 <br/><br/>
 <b>Earth today</b>
@@ -43,19 +52,8 @@
 <br/><br/>
 <sub><i>NASA EPIC aboard DSCOVR, 2026-09-08</i></sub>
 </td>
-<td width="50%" valign="top" align="center">
-<img src="https://images-assets.nasa.gov/image/GSFC_20171208_Archive_e001187/GSFC_20171208_Archive_e001187~medium.jpg" alt="GREECE Mission Launching Into Aurora" width="100%" />
-<br/><br/>
-<b>GREECE Mission Launching Into Aurora</b>
-<br/>
-<sub>Caption: A NASA-funded sounding rocket launches into an aurora in the early morning of March 3, 2014, over Venetie, Alaska. The GREECE mission...</sub>
-<br/><br/>
-<sub><i>NASA Image Library, "aurora"</i></sub>
-</td>
 </tr>
 </table>
-
-📰 **[Week in images: 07-11 Sep 2026](https://www.esa.int/About_Us/Week_in_images/Week_in_images_07-11_Sep_2026)** <sub>ESA, 2026-09-11</sub>
 <!-- SPACE:END -->
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=XxAG17xX&hide_border=true" alt="GitHub streak" /></p>
