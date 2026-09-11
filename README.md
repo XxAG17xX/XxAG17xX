@@ -35,15 +35,6 @@
 <table>
 <tr>
 <td width="50%" valign="top" align="center">
-<a href="https://apod.nasa.gov/apod/image/2609/LDN1295_giraffe.jpg"><img src="https://apod.nasa.gov/apod/image/2609/LDN1295_giraffe_1024.jpg" alt="LDN 1295: The Giraffe Nebula" width="100%" /></a>
-<br/><br/>
-<b>LDN 1295: The Giraffe Nebula</b>
-<br/>
-<sub>What does this image look like to you? Many see a giraffe facing right, with neck stretched high and long legs mid-stride (but some may see a...</sub>
-<br/><br/>
-<sub><i>NASA APOD, 2026-09-10</i></sub>
-</td>
-<td width="50%" valign="top" align="center">
 <a href="https://epic.gsfc.nasa.gov/"><img src="https://epic.gsfc.nasa.gov/archive/natural/2026/09/08/png/epic_1b_20260908221300.png" alt="Earth today" width="100%" /></a>
 <br/><br/>
 <b>Earth today</b>
@@ -52,10 +43,19 @@
 <br/><br/>
 <sub><i>NASA EPIC aboard DSCOVR, 2026-09-08</i></sub>
 </td>
+<td width="50%" valign="top" align="center">
+<img src="https://images-assets.nasa.gov/image/GSFC_20171208_Archive_e001187/GSFC_20171208_Archive_e001187~medium.jpg" alt="GREECE Mission Launching Into Aurora" width="100%" />
+<br/><br/>
+<b>GREECE Mission Launching Into Aurora</b>
+<br/>
+<sub>Caption: A NASA-funded sounding rocket launches into an aurora in the early morning of March 3, 2014, over Venetie, Alaska. The GREECE mission...</sub>
+<br/><br/>
+<sub><i>NASA Image Library, "aurora"</i></sub>
+</td>
 </tr>
 </table>
 
-📰 **[The Exploration Company Books Ariane 6 Flight for Nyx Demo Mission](https://europeanspaceflight.com/the-exploration-company-books-ariane-6-flight-for-nyx-demo-mission/)** <sub>European Spaceflight, 2026-09-10</sub>
+📰 **[Week in images: 07-11 Sep 2026](https://www.esa.int/About_Us/Week_in_images/Week_in_images_07-11_Sep_2026)** <sub>ESA, 2026-09-11</sub>
 <!-- SPACE:END -->
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=XxAG17xX&hide_border=true" alt="GitHub streak" /></p>
