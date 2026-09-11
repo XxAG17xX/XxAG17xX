@@ -41,6 +41,7 @@ import os
 import sys
 import urllib.parse
 import urllib.request
+import xml.etree.ElementTree as ET
 
 START = "<!-- SPACE:START -->"
 END = "<!-- SPACE:END -->"
@@ -135,14 +136,56 @@ def src_library(offset=0):
 
 
 def src_news():
-    d = get_json("https://api.spaceflightnewsapi.net/v4/articles/?limit=1")
-    a = d["results"][0]
-    return {
-        "title": a.get("title", "").strip(),
-        "url": a.get("url", ""),
-        "site": a.get("news_site", ""),
-        "date": (a.get("published_at") or "")[:10],
-    }
+    """The headline. Two independent sources, because one of them is failing in CI.
+
+    The Spaceflight News API works from a normal connection but produced no headline on
+    three consecutive GitHub Actions runs (2026-09-10 and 2026-09-11), while APOD and EPIC
+    succeeded in the same runs. The likely cause is that it rejects datacentre IP ranges,
+    which is what GitHub-hosted runners use. NASA's own RSS is the fallback because NASA
+    endpoints demonstrably reach the runner already.
+
+    The workflow log carries the reason: each failure prints "news source unavailable".
+    """
+    errors = []
+
+    try:
+        d = get_json("https://api.spaceflightnewsapi.net/v4/articles/?limit=1")
+        a = d["results"][0]
+        return {
+            "title": a.get("title", "").strip(),
+            "url": a.get("url", ""),
+            "site": a.get("news_site", ""),
+            "date": (a.get("published_at") or "")[:10],
+        }
+    except Exception as e:                      # noqa: BLE001
+        errors.append(f"spaceflightnewsapi: {e}")
+        print(f"news source unavailable, {errors[-1]}", file=sys.stderr)
+
+    try:
+        req = urllib.request.Request(
+            "https://www.nasa.gov/news-release/feed/", headers={"User-Agent": UA})
+        with urllib.request.urlopen(req, timeout=TIMEOUT) as r:
+            root = ET.fromstring(r.read())
+        item = root.find("./channel/item")
+        if item is None:
+            raise ValueError("RSS had no items")
+        pub = (item.findtext("pubDate") or "").strip()
+        # "Thu, 11 Sep 2026 14:02:00 +0000" -> "2026-09-11"
+        try:
+            date = datetime.datetime.strptime(pub[:25].strip(), "%a, %d %b %Y %H:%M:%S").strftime("%Y-%m-%d")
+        except ValueError:
+            date = datetime.date.today().isoformat()
+        return {
+            "title": (item.findtext("title") or "").strip(),
+            "url": (item.findtext("link") or "").strip(),
+            "site": "NASA",
+            "date": date,
+        }
+    except Exception as e:                      # noqa: BLE001
+        errors.append(f"nasa rss: {e}")
+        print(f"news source unavailable, {errors[-1]}", file=sys.stderr)
+
+    raise RuntimeError("; ".join(errors))
 
 
 # --------------------------------------------------------------------- render
@@ -195,8 +238,13 @@ def build():
     try:
         news = src_news()
     except Exception as e:                      # noqa: BLE001
-        print(f"news unavailable: {e}", file=sys.stderr)
-        news = None
+        # Do NOT drop this quietly. Both runs on 2026-09-10 and 2026-09-11 succeeded with
+        # two pictures and no headline, and nothing on the page said a third element was
+        # meant to be there. A section that silently loses a piece and still reports
+        # success is the exact failure this profile's owner writes about.
+        print(f"ALL news sources failed: {e}", file=sys.stderr)
+        news = {"title": "Headline unavailable today", "url": "https://www.nasa.gov/news/",
+                "site": "both news sources unreachable", "date": datetime.date.today().isoformat()}
     return render(pics, news)
 
 
