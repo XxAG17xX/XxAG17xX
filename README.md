@@ -35,13 +35,13 @@
 <table>
 <tr>
 <td width="50%" valign="top" align="center">
-<a href="https://apod.nasa.gov/apod/image/2609/M83_Final2_1x.jpg"><img src="https://apod.nasa.gov/apod/image/2609/M83_Final2_1x1024.jpg" alt="M83: The Southern Pinwheel" width="100%" /></a>
+<a href="https://apod.nasa.gov/apod/image/2609/AS11-40-5872HR.jpg"><img src="https://apod.nasa.gov/apod/image/2609/AS11-40-5872HR1024.jpg" alt="Apollo 11: Catching Some Sun" width="100%" /></a>
 <br/><br/>
-<b>M83: The Southern Pinwheel</b>
+<b>Apollo 11: Catching Some Sun</b>
 <br/>
-<sub>Beautiful and bright spiral galaxy M83 lies some twelve million light-years away, near the southeastern tip of the very long constellation Hydra...</sub>
+<sub>Bright sunlight glints as long dark shadows mark this image of the surface of the Moon. It was taken on July 20, 1969, by Apollo 11 astronaut Neil...</sub>
 <br/><br/>
-<sub><i>NASA APOD, 2026-09-11</i></sub>
+<sub><i>NASA APOD, 2026-09-12</i></sub>
 </td>
 <td width="50%" valign="top" align="center">
 <a href="https://epic.gsfc.nasa.gov/"><img src="https://epic.gsfc.nasa.gov/archive/natural/2026/09/08/png/epic_1b_20260908221300.png" alt="Earth today" width="100%" /></a>
@@ -55,7 +55,7 @@
 </tr>
 </table>
 
-📰 **[NASA’s Chandra Spots Galactic Gem](https://www.nasa.gov/image-article/nasas-chandra-spots-galactic-gem/)** <sub>NASA, 2026-09-11</sub>
+📰 **[First HyPrSpace Baguette One Launch Slips to 2027](https://europeanspaceflight.com/first-hyprspace-baguette-one-launch-slips-to-2027/)** <sub>European Spaceflight, 2026-09-12</sub>
 <!-- SPACE:END -->
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=XxAG17xX&hide_border=true" alt="GitHub streak" /></p>
