@@ -35,27 +35,27 @@
 <table>
 <tr>
 <td width="50%" valign="top" align="center">
-<a href="https://apod.nasa.gov/apod/image/2609/AS11-40-5872HR.jpg"><img src="https://apod.nasa.gov/apod/image/2609/AS11-40-5872HR1024.jpg" alt="Apollo 11: Catching Some Sun" width="100%" /></a>
-<br/><br/>
-<b>Apollo 11: Catching Some Sun</b>
-<br/>
-<sub>Bright sunlight glints as long dark shadows mark this image of the surface of the Moon. It was taken on July 20, 1969, by Apollo 11 astronaut Neil...</sub>
-<br/><br/>
-<sub><i>NASA APOD, 2026-09-12</i></sub>
-</td>
-<td width="50%" valign="top" align="center">
-<a href="https://epic.gsfc.nasa.gov/"><img src="https://epic.gsfc.nasa.gov/archive/natural/2026/09/08/png/epic_1b_20260908221300.png" alt="Earth today" width="100%" /></a>
+<a href="https://epic.gsfc.nasa.gov/"><img src="https://epic.gsfc.nasa.gov/archive/natural/2026/09/11/png/epic_1b_20260911220340.png" alt="Earth today" width="100%" /></a>
 <br/><br/>
 <b>Earth today</b>
 <br/>
 <sub>This image was taken by NASA's EPIC camera onboard the NOAA DSCOVR spacecraft</sub>
 <br/><br/>
-<sub><i>NASA EPIC aboard DSCOVR, 2026-09-08</i></sub>
+<sub><i>NASA EPIC aboard DSCOVR, 2026-09-11</i></sub>
+</td>
+<td width="50%" valign="top" align="center">
+<img src="https://images-assets.nasa.gov/image/PIA01324/PIA01324~thumb.jpg" alt="Jupiter" width="100%" />
+<br/><br/>
+<b>Jupiter</b>
+<br/>
+<sub>This crescent view of Jupiter was taken by NASA Voyager 1 on Mar. 24, 1979.</sub>
+<br/><br/>
+<sub><i>NASA Image Library, "jupiter"</i></sub>
 </td>
 </tr>
 </table>
 
-📰 **[First HyPrSpace Baguette One Launch Slips to 2027](https://europeanspaceflight.com/first-hyprspace-baguette-one-launch-slips-to-2027/)** <sub>European Spaceflight, 2026-09-12</sub>
+📰 **[Sirius Space Fires Complete STAR-1 Rocket Engine for the First Time](https://europeanspaceflight.com/sirius-space-fires-complete-star-1-rocket-engine-for-the-first-time/)** <sub>European Spaceflight, 2026-09-13</sub>
 <!-- SPACE:END -->
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=XxAG17xX&hide_border=true" alt="GitHub streak" /></p>
