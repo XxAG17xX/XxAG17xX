@@ -35,27 +35,27 @@
 <table>
 <tr>
 <td width="50%" valign="top" align="center">
-<a href="https://epic.gsfc.nasa.gov/"><img src="https://epic.gsfc.nasa.gov/archive/natural/2026/09/11/png/epic_1b_20260911220340.png" alt="Earth today" width="100%" /></a>
+<a href="https://apod.nasa.gov/apod/image/2609/ElementOrigins2_svs_6000.jpg"><img src="https://apod.nasa.gov/apod/image/2609/ElementOrigins2_svs_1080.jpg" alt="Where Your Elements Came From" width="100%" /></a>
 <br/><br/>
-<b>Earth today</b>
+<b>Where Your Elements Came From</b>
 <br/>
-<sub>This image was taken by NASA's EPIC camera onboard the NOAA DSCOVR spacecraft</sub>
+<sub>The hydrogen in your body and present in every molecule of water came from the Big Bang. There are no other appreciable sources of hydrogen in the...</sub>
 <br/><br/>
-<sub><i>NASA EPIC aboard DSCOVR, 2026-09-11</i></sub>
+<sub><i>NASA APOD, 2026-09-14</i></sub>
 </td>
 <td width="50%" valign="top" align="center">
-<img src="https://images-assets.nasa.gov/image/PIA01324/PIA01324~thumb.jpg" alt="Jupiter" width="100%" />
+<img src="https://images-assets.nasa.gov/image/PIA14884/PIA14884~medium.jpg" alt="Ancient Supernova Revealed" width="100%" />
 <br/><br/>
-<b>Jupiter</b>
+<b>Ancient Supernova Revealed</b>
 <br/>
-<sub>This crescent view of Jupiter was taken by NASA Voyager 1 on Mar. 24, 1979.</sub>
+<sub>Seen as a red dusty cloud in this image from NASA Wide-field Infrared Survey Explorer, Puppis A is the remnant of a supernova explosion.</sub>
 <br/><br/>
-<sub><i>NASA Image Library, "jupiter"</i></sub>
+<sub><i>NASA Image Library, "supernova remnant"</i></sub>
 </td>
 </tr>
 </table>
 
-📰 **[Sirius Space Fires Complete STAR-1 Rocket Engine for the First Time](https://europeanspaceflight.com/sirius-space-fires-complete-star-1-rocket-engine-for-the-first-time/)** <sub>European Spaceflight, 2026-09-13</sub>
+📰 **[ESA’s FLEX mission reveals the secret glow of plants](https://www.esa.int/ESA_Multimedia/Videos/2026/09/ESA_s_FLEX_mission_reveals_the_secret_glow_of_plants)** <sub>ESA, 2026-09-14</sub>
 <!-- SPACE:END -->
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=XxAG17xX&hide_border=true" alt="GitHub streak" /></p>
