@@ -1,6 +1,6 @@
 # Hi 👋, I'm Kartik Gupta
 
-### Final-year Computer Engineering at Trinity College Dublin. I build things that run autonomously and get measured against something real.
+### MAI in Computer Engineering at Trinity College Dublin. I build things that run autonomously and get measured against something real.
 
 - 🔭 I'm currently working on **RailCast, a live rail-delay predictor running on AWS**
 
