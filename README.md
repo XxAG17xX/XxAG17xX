@@ -35,27 +35,27 @@
 <table>
 <tr>
 <td width="50%" valign="top" align="center">
-<a href="https://apod.nasa.gov/apod/image/2609/ElementOrigins2_svs_6000.jpg"><img src="https://apod.nasa.gov/apod/image/2609/ElementOrigins2_svs_1080.jpg" alt="Where Your Elements Came From" width="100%" /></a>
+<a href="https://epic.gsfc.nasa.gov/"><img src="https://epic.gsfc.nasa.gov/archive/natural/2026/09/13/png/epic_1b_20260913205301.png" alt="Earth today" width="100%" /></a>
 <br/><br/>
-<b>Where Your Elements Came From</b>
+<b>Earth today</b>
 <br/>
-<sub>The hydrogen in your body and present in every molecule of water came from the Big Bang. There are no other appreciable sources of hydrogen in the...</sub>
+<sub>This image was taken by NASA's EPIC camera onboard the NOAA DSCOVR spacecraft</sub>
 <br/><br/>
-<sub><i>NASA APOD, 2026-09-14</i></sub>
+<sub><i>NASA EPIC aboard DSCOVR, 2026-09-13</i></sub>
 </td>
 <td width="50%" valign="top" align="center">
-<img src="https://images-assets.nasa.gov/image/PIA14884/PIA14884~medium.jpg" alt="Ancient Supernova Revealed" width="100%" />
+<img src="https://images-assets.nasa.gov/image/PIA15802/PIA15802~medium.jpg" alt="Starry Starry Skies Artist Concept" width="100%" />
 <br/><br/>
-<b>Ancient Supernova Revealed</b>
+<b>Starry Starry Skies Artist Concept</b>
 <br/>
-<sub>Seen as a red dusty cloud in this image from NASA Wide-field Infrared Survey Explorer, Puppis A is the remnant of a supernova explosion.</sub>
+<sub>Astronomers have discovered two gas giant planets orbiting stars in the Beehive cluster, a collection of about 1,000 tightly packed stars.</sub>
 <br/><br/>
-<sub><i>NASA Image Library, "supernova remnant"</i></sub>
+<sub><i>NASA Image Library, "star cluster"</i></sub>
 </td>
 </tr>
 </table>
 
-📰 **[ESA’s FLEX mission reveals the secret glow of plants](https://www.esa.int/ESA_Multimedia/Videos/2026/09/ESA_s_FLEX_mission_reveals_the_secret_glow_of_plants)** <sub>ESA, 2026-09-14</sub>
+📰 **[Avio Launches Second Successful Vega C Flight of 2026](https://europeanspaceflight.com/avio-launches-second-successful-vega-c-flight-of-2026/)** <sub>European Spaceflight, 2026-09-15</sub>
 <!-- SPACE:END -->
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=XxAG17xX&hide_border=true" alt="GitHub streak" /></p>
