@@ -35,6 +35,15 @@
 <table>
 <tr>
 <td width="50%" valign="top" align="center">
+<a href="https://apod.nasa.gov/apod/image/2609/M64_Webb.jpg"><img src="https://apod.nasa.gov/apod/image/2609/M64_Webb_1024.jpg" alt="Webb's View of M64" width="100%" /></a>
+<br/><br/>
+<b>Webb's View of M64</b>
+<br/>
+<sub>Sometimes where Hubble finds darkness, Webb sees light. An example is today’s composite images of Messier 64 (M64), a nearby spiral galaxy of many...</sub>
+<br/><br/>
+<sub><i>NASA APOD, 2026-09-16</i></sub>
+</td>
+<td width="50%" valign="top" align="center">
 <a href="https://epic.gsfc.nasa.gov/"><img src="https://epic.gsfc.nasa.gov/archive/natural/2026/09/13/png/epic_1b_20260913205301.png" alt="Earth today" width="100%" /></a>
 <br/><br/>
 <b>Earth today</b>
@@ -43,19 +52,10 @@
 <br/><br/>
 <sub><i>NASA EPIC aboard DSCOVR, 2026-09-13</i></sub>
 </td>
-<td width="50%" valign="top" align="center">
-<img src="https://images-assets.nasa.gov/image/PIA15802/PIA15802~medium.jpg" alt="Starry Starry Skies Artist Concept" width="100%" />
-<br/><br/>
-<b>Starry Starry Skies Artist Concept</b>
-<br/>
-<sub>Astronomers have discovered two gas giant planets orbiting stars in the Beehive cluster, a collection of about 1,000 tightly packed stars.</sub>
-<br/><br/>
-<sub><i>NASA Image Library, "star cluster"</i></sub>
-</td>
 </tr>
 </table>
 
-📰 **[Avio Launches Second Successful Vega C Flight of 2026](https://europeanspaceflight.com/avio-launches-second-successful-vega-c-flight-of-2026/)** <sub>European Spaceflight, 2026-09-15</sub>
+📰 **[Purple swirls on the Red Planet](https://www.esa.int/Science_Exploration/Space_Science/Mars_Express/Purple_swirls_on_the_Red_Planet)** <sub>ESA, 2026-09-16</sub>
 <!-- SPACE:END -->
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=XxAG17xX&hide_border=true" alt="GitHub streak" /></p>
