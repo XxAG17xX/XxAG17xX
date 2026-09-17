@@ -35,13 +35,13 @@
 <table>
 <tr>
 <td width="50%" valign="top" align="center">
-<a href="https://apod.nasa.gov/apod/image/2609/M64_Webb.jpg"><img src="https://apod.nasa.gov/apod/image/2609/M64_Webb_1024.jpg" alt="Webb's View of M64" width="100%" /></a>
+<a href="https://apod.nasa.gov/apod/image/2609/JWST_Treasure_Chest.jpg"><img src="https://apod.nasa.gov/apod/image/2609/JWST_Treasure_Chest_800.jpg" alt="A Treasure Chest in the Carina Nebula" width="100%" /></a>
 <br/><br/>
-<b>Webb's View of M64</b>
+<b>A Treasure Chest in the Carina Nebula</b>
 <br/>
-<sub>Sometimes where Hubble finds darkness, Webb sees light. An example is today’s composite images of Messier 64 (M64), a nearby spiral galaxy of many...</sub>
+<sub>This treasure chest is full of stars. The featured image was obtained with NASA's James Webb Space Telescope and shows a dust pilar in the Carina...</sub>
 <br/><br/>
-<sub><i>NASA APOD, 2026-09-16</i></sub>
+<sub><i>NASA APOD, 2026-09-17</i></sub>
 </td>
 <td width="50%" valign="top" align="center">
 <a href="https://epic.gsfc.nasa.gov/"><img src="https://epic.gsfc.nasa.gov/archive/natural/2026/09/13/png/epic_1b_20260913205301.png" alt="Earth today" width="100%" /></a>
@@ -55,7 +55,7 @@
 </tr>
 </table>
 
-📰 **[Purple swirls on the Red Planet](https://www.esa.int/Science_Exploration/Space_Science/Mars_Express/Purple_swirls_on_the_Red_Planet)** <sub>ESA, 2026-09-16</sub>
+📰 **[MTG-I2 timelapse : from arrival at Europe’s Spaceport to launch](https://www.esa.int/ESA_Multimedia/Videos/2026/09/MTG-I2_timelapse_from_arrival_at_Europe_s_Spaceport_to_launch)** <sub>ESA, 2026-09-17</sub>
 <!-- SPACE:END -->
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=XxAG17xX&hide_border=true" alt="GitHub streak" /></p>
