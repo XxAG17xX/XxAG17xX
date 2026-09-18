@@ -35,27 +35,27 @@
 <table>
 <tr>
 <td width="50%" valign="top" align="center">
-<a href="https://apod.nasa.gov/apod/image/2609/JWST_Treasure_Chest.jpg"><img src="https://apod.nasa.gov/apod/image/2609/JWST_Treasure_Chest_800.jpg" alt="A Treasure Chest in the Carina Nebula" width="100%" /></a>
+<a href="https://apod.nasa.gov/apod/image/2609/m33m14_rasa3NM.jpg"><img src="https://apod.nasa.gov/apod/image/2609/m33m14_rasa3NM1024.jpg" alt="Messier 33: The Triangulum Galaxy" width="100%" /></a>
 <br/><br/>
-<b>A Treasure Chest in the Carina Nebula</b>
+<b>Messier 33: The Triangulum Galaxy</b>
 <br/>
-<sub>This treasure chest is full of stars. The featured image was obtained with NASA's James Webb Space Telescope and shows a dust pilar in the Carina...</sub>
+<sub>The small, northern constellation Triangulum harbors this magnificent face-on spiral galaxy, Messier 33. Its popular names include the Pinwheel...</sub>
 <br/><br/>
-<sub><i>NASA APOD, 2026-09-17</i></sub>
+<sub><i>NASA APOD, 2026-09-18</i></sub>
 </td>
 <td width="50%" valign="top" align="center">
-<a href="https://epic.gsfc.nasa.gov/"><img src="https://epic.gsfc.nasa.gov/archive/natural/2026/09/13/png/epic_1b_20260913205301.png" alt="Earth today" width="100%" /></a>
+<a href="https://epic.gsfc.nasa.gov/"><img src="https://epic.gsfc.nasa.gov/archive/natural/2026/09/15/png/epic_1b_20260915221302.png" alt="Earth today" width="100%" /></a>
 <br/><br/>
 <b>Earth today</b>
 <br/>
 <sub>This image was taken by NASA's EPIC camera onboard the NOAA DSCOVR spacecraft</sub>
 <br/><br/>
-<sub><i>NASA EPIC aboard DSCOVR, 2026-09-13</i></sub>
+<sub><i>NASA EPIC aboard DSCOVR, 2026-09-15</i></sub>
 </td>
 </tr>
 </table>
 
-📰 **[MTG-I2 timelapse : from arrival at Europe’s Spaceport to launch](https://www.esa.int/ESA_Multimedia/Videos/2026/09/MTG-I2_timelapse_from_arrival_at_Europe_s_Spaceport_to_launch)** <sub>ESA, 2026-09-17</sub>
+📰 **[Earth from Space: Laguna Colorada](https://www.esa.int/ESA_Multimedia/Images/2026/09/Earth_from_Space_Laguna_Colorada)** <sub>ESA, 2026-09-18</sub>
 <!-- SPACE:END -->
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=XxAG17xX&hide_border=true" alt="GitHub streak" /></p>
