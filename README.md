@@ -35,27 +35,27 @@
 <table>
 <tr>
 <td width="50%" valign="top" align="center">
-<a href="https://apod.nasa.gov/apod/image/2609/m33m14_rasa3NM.jpg"><img src="https://apod.nasa.gov/apod/image/2609/m33m14_rasa3NM1024.jpg" alt="Messier 33: The Triangulum Galaxy" width="100%" /></a>
+<a href="https://apod.nasa.gov/apod/image/2609/2026-09-09ZodiacalLightHSP.jpg"><img src="https://apod.nasa.gov/apod/image/2609/2026-09-09ZodiacalLightHSP1024.jpg" alt="A Zodiacal Night" width="100%" /></a>
 <br/><br/>
-<b>Messier 33: The Triangulum Galaxy</b>
+<b>A Zodiacal Night</b>
 <br/>
-<sub>The small, northern constellation Triangulum harbors this magnificent face-on spiral galaxy, Messier 33. Its popular names include the Pinwheel...</sub>
+<sub>Also known as the false dawn, a luminous band of zodiacal light is captured in this dark night skyscape. The serene view was recorded just before the...</sub>
 <br/><br/>
-<sub><i>NASA APOD, 2026-09-18</i></sub>
+<sub><i>NASA APOD, 2026-09-19</i></sub>
 </td>
 <td width="50%" valign="top" align="center">
-<a href="https://epic.gsfc.nasa.gov/"><img src="https://epic.gsfc.nasa.gov/archive/natural/2026/09/15/png/epic_1b_20260915221302.png" alt="Earth today" width="100%" /></a>
+<a href="https://epic.gsfc.nasa.gov/"><img src="https://epic.gsfc.nasa.gov/archive/natural/2026/09/16/png/epic_1b_20260916215422.png" alt="Earth today" width="100%" /></a>
 <br/><br/>
 <b>Earth today</b>
 <br/>
 <sub>This image was taken by NASA's EPIC camera onboard the NOAA DSCOVR spacecraft</sub>
 <br/><br/>
-<sub><i>NASA EPIC aboard DSCOVR, 2026-09-15</i></sub>
+<sub><i>NASA EPIC aboard DSCOVR, 2026-09-16</i></sub>
 </td>
 </tr>
 </table>
 
-📰 **[Earth from Space: Laguna Colorada](https://www.esa.int/ESA_Multimedia/Images/2026/09/Earth_from_Space_Laguna_Colorada)** <sub>ESA, 2026-09-18</sub>
+📰 **[Pikachu in the Cupola](https://www.esa.int/ESA_Multimedia/Images/2026/09/Pikachu_in_the_Cupola)** <sub>ESA, 2026-09-21</sub>
 <!-- SPACE:END -->
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=XxAG17xX&hide_border=true" alt="GitHub streak" /></p>
