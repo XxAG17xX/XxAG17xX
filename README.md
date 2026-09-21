@@ -50,10 +50,10 @@ SPACE SECTION. Filled daily by .github/workflows/space.yml. Everything between t
 SPACE:START and SPACE:END markers is machine-written; edit around them, never inside.
 -->
 
-<h3 align="left">🛰️ From orbit today:</h3>
+<p align="center"><img src="assets/orbit.svg" alt="🛰️ From orbit today" width="100%" /></p>
 
 <!-- SPACE:START -->
-<details>
+<details open>
 <summary>📰 <b><a href="https://www.esa.int/ESA_Multimedia/Images/2026/09/Pikachu_in_the_Cupola">Pikachu in the Cupola</a></b> <sub>ESA, 2026-09-21</sub></summary>
 
 <table>

@@ -4,8 +4,8 @@ day's spaceflight headline underneath.
 
 Layout
 ------
-The headline is the <summary> of a collapsed <details> block; the pictures sit inside it,
-so the section costs one line until someone opens it. Inside: a two-column HTML table, so
+The headline is the <summary> of a <details open> block; the pictures sit inside it,
+open by default; one click folds it to a single line. Inside: a two-column HTML table, so
 each picture keeps its own caption. GitHub allows table, details, summary, img, a, b, br
 and sub in Markdown, so this renders on the profile. The Earth cell holds up to four EPIC
 frames from the same day (a 2x2 grid), the APOD caption ends with a "more" link to the APOD
@@ -283,8 +283,8 @@ def render(pics, news):
     body = "\n\n".join(parts)
     if not headline:
         return body
-    # summary = headline, so the section is one line until opened
-    return f"<details>\n<summary>{headline}</summary>\n\n{body}\n\n</details>"
+    # summary = headline; open by default, a click folds it to one line
+    return f"<details open>\n<summary>{headline}</summary>\n\n{body}\n\n</details>"
 
 
 def build():
@@ -348,7 +348,7 @@ def _self_check():
 
     two = render([p, dict(p, img="https://epic.gsfc.nasa.gov/b.jpg")], n)
     assert two.count("<td") == 2 and "<table>" in two and "\U0001F4F0" in two
-    assert two.startswith("<details>") and "<summary>" in two and two.endswith("</details>")
+    assert two.startswith("<details open>") and "<summary>" in two and two.endswith("</details>")
 
     four = dict(p, imgs=[f"https://epic.gsfc.nasa.gov/{i}.jpg" for i in range(4)])
     assert render([p, four], n).count("<img") == 5
@@ -357,7 +357,7 @@ def _self_check():
     assert "<table>" not in one and 'width="440"' in one
 
     none_ = render([], n)
-    assert "<img" not in none_ and "\U0001F4F0" in none_ and "<details>" not in none_
+    assert "<img" not in none_ and "\U0001F4F0" in none_ and "<details" not in none_
 
     assert "more \u2192" in cell(dict(p, more="https://apod.nasa.gov/apod/ap260920.html"))
     assert "&quot;" in cell(dict(p, title='A "quoted" title')) and '"quoted"' not in cell(dict(p, title='A "quoted" title'))
