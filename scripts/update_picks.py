@@ -139,7 +139,14 @@ def pick_book(day):
         cat, title, author = books[i]
         q = urllib.parse.urlencode({"title": title, "author": author, "limit": 5,
                                     "fields": "key,title,cover_i,first_publish_year,ratings_average"})
-        docs = get_json(f"https://openlibrary.org/search.json?{q}")["docs"]
+        for attempt in range(3):  # Open Library is slow and drops the odd request; retry it
+            try:
+                docs = get_json(f"https://openlibrary.org/search.json?{q}")["docs"]
+                break
+            except OSError as e:
+                print(f"Open Library attempt {attempt + 1} failed: {e}", file=sys.stderr)
+                if attempt == 2:
+                    raise
         d = next((d for d in docs if d.get("cover_i")), None)
         if not d:
             print(f"no Open Library cover for {title!r}", file=sys.stderr)
