@@ -125,6 +125,12 @@
 <br/><sub>⭐ 7.9 · 2016 · 202 chs · Adventure · Psychological</sub>
 </td>
 <td width="25%" valign="top" align="center">
+<a href="https://openlibrary.org/works/OL28148070W"><img src="https://covers.openlibrary.org/b/id/13191259-L.jpg" alt="Outlive" width="180" height="260" /></a>
+<br/><sub><b>📚 MINDSET</b></sub>
+<br/><b><a href="https://openlibrary.org/works/OL28148070W">Outlive</a></b>
+<br/><sub>Peter Attia · 2023 · ⭐ 8.7</sub>
+</td>
+<td width="25%" valign="top" align="center">
 <a href="https://zenquotes.io/"><img src="assets/daily/quote-2026-09-21.svg" alt="“The smallest act of kindness is worth more than the greatest intention.” — Kahlil Gibran" width="180" height="260" /></a>
 <br/><sub><b>💬 QUOTE</b></sub>
 <br/><b><a href="https://zenquotes.io/">Kahlil Gibran</a></b>
