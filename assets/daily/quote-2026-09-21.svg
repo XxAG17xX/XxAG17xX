@@ -1,17 +1,17 @@
 <svg xmlns="http://www.w3.org/2000/svg" width="360" height="520" viewBox="0 0 360 520">
-<defs><linearGradient id="bg" x1="0" y1="0" x2="0.4" y2="1"><stop offset="0" stop-color="#16171d"/><stop offset="1" stop-color="#211d24"/></linearGradient>
-<filter id="grain"><feTurbulence type="fractalNoise" baseFrequency="0.9" numOctaves="2" seed="3"/><feColorMatrix values="0 0 0 0 1  0 0 0 0 1  0 0 0 0 1  0 0 0 0.07 0"/></filter>
+<defs><linearGradient id="bg" x1="0" y1="0" x2="0.4" y2="1"><stop offset="0" stop-color="#2a1c2e"/><stop offset="1" stop-color="#4a2a38"/></linearGradient>
+<filter id="grain"><feTurbulence type="fractalNoise" baseFrequency="0.9" numOctaves="2" seed="3"/><feColorMatrix values="0 0 0 0 1  0 0 0 0 1  0 0 0 0 1  0 0 0 0.06 0"/></filter>
 <clipPath id="card"><rect width="360" height="520" rx="18"/></clipPath></defs>
 <g clip-path="url(#card)">
 <rect width="360" height="520" fill="url(#bg)"/>
-<circle cx="180" cy="240" r="132" fill="none" stroke="#c9a96e" stroke-width="14" stroke-linecap="round" stroke-dasharray="760 70" transform="rotate(-70 180 240)" opacity="0.09"/>
-<text x="180" y="124" text-anchor="middle" font-family="Georgia, 'Times New Roman', serif" font-size="64" fill="#c9a96e" opacity="0.55">“</text>
-<text text-anchor="middle" font-family="Georgia, 'Times New Roman', serif" font-style="italic" font-size="27" fill="#ece6da"><tspan x="180" y="185">I am nobody. And I</tspan><tspan x="180" y="222">have nothing. So</tspan><tspan x="180" y="258">let&#x27;s change</tspan><tspan x="180" y="295">everything.</tspan></text>
-<rect x="160" y="325" width="40" height="1.5" fill="#c9a96e" opacity="0.7"/>
-<text x="180" y="355" text-anchor="middle" font-family="'Segoe UI', Helvetica, Arial, sans-serif" font-size="14" letter-spacing="3" fill="#d8d2c4">SUNNY</text>
-<text x="180" y="377" text-anchor="middle" font-family="Georgia, 'Times New Roman', serif" font-style="italic" font-size="14" fill="#9c968a">Shadow Slave</text>
-<text x="180" y="492" text-anchor="middle" font-family="'Yu Gothic', 'Meiryo', 'Hiragino Sans', sans-serif" font-size="12" letter-spacing="6" fill="#8a8577">今日の言葉</text>
-<rect x="10" y="10" width="340" height="500" rx="12" fill="none" stroke="#ffffff" stroke-opacity="0.06"/>
+<circle cx="180" cy="560" r="150" fill="#e7b98f" opacity="0.13"/><circle cx="180" cy="560" r="105" fill="#f0c9a0" opacity="0.12"/>
+<text x="180" y="124" text-anchor="middle" font-family="Georgia, 'Times New Roman', serif" font-size="64" fill="#e7b98f" opacity="0.6">“</text>
+<text text-anchor="middle" font-family="Georgia, 'Times New Roman', serif" font-style="italic" font-size="27" fill="#f6e9dc"><tspan x="180" y="185">I am nobody. And I</tspan><tspan x="180" y="222">have nothing. So</tspan><tspan x="180" y="258">let&#x27;s change</tspan><tspan x="180" y="295">everything.</tspan></text>
+<rect x="160" y="325" width="40" height="1.5" fill="#e7b98f" opacity="0.8"/>
+<text x="180" y="355" text-anchor="middle" font-family="'Segoe UI', Helvetica, Arial, sans-serif" font-size="14" letter-spacing="3" fill="#f0dccb">SUNNY</text>
+<text x="180" y="377" text-anchor="middle" font-family="Georgia, 'Times New Roman', serif" font-style="italic" font-size="14" fill="#b89a92">Shadow Slave</text>
+<text x="180" y="492" text-anchor="middle" font-family="'Yu Gothic', 'Meiryo', 'Hiragino Sans', sans-serif" font-size="12" letter-spacing="6" fill="#b89a92">今日の言葉</text>
+<rect x="10" y="10" width="340" height="500" rx="12" fill="none" stroke="#f6e9dc" stroke-opacity="0.07"/>
 <rect width="360" height="520" filter="url(#grain)"/>
 </g>
 </svg>
