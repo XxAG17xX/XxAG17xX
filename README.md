@@ -74,13 +74,13 @@
 <table>
 <tr>
 <td width="50%" valign="top" align="center">
-<a href="https://apod.nasa.gov/apod/image/2609/CallanishAnalemma_Petricca_1280.jpg"><img src="https://apod.nasa.gov/apod/image/2609/CallanishAnalemma_Petricca_960.jpg" alt="Analemma over the Callanish Stones" width="100%" /></a>
+<a href="https://apod.nasa.gov/apod/image/2609/Cocoon_Czerski_3000.jpg"><img src="https://apod.nasa.gov/apod/image/2609/Cocoon_Czerski_1080.jpg" alt="Cocoon Nebula Wide Field" width="100%" /></a>
 <br/><br/>
-<b>Analemma over the Callanish Stones</b>
+<b>Cocoon Nebula Wide Field</b>
 <br/>
-<sub>If you went outside at the same time every day and took a picture that included the Sun, how would the Sun&#x27;s position change? A visual answer to that... <a href="https://apod.nasa.gov/apod/ap260920.html">more →</a></sub>
+<sub>When does a nebula look like a comet? In this crowded starfield covering over two degrees within the high-flying constellation of the Swan (Cygnus)... <a href="https://apod.nasa.gov/apod/ap260921.html">more →</a></sub>
 <br/><br/>
-<sub><i>NASA APOD, 2026-09-20</i></sub>
+<sub><i>NASA APOD, 2026-09-21</i></sub>
 </td>
 <td width="50%" valign="top" align="center">
 <a href="https://epic.gsfc.nasa.gov/"><img src="https://epic.gsfc.nasa.gov/archive/natural/2026/09/17/jpg/epic_1b_20260917000831.jpg" alt="Earth, 4 days ago" width="48%" />
