@@ -29,6 +29,27 @@
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/matplotlib/matplotlib-original.svg" alt="Matplotlib" width="40" height="40"/>
 </p>
 
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=XxAG17xX&hide_border=true" alt="GitHub streak" /></p>
+
+<!--
+NOTES, 2026-09-09.
+
+ICONS. Django, Dart and Flask removed at Kartik's request; everything else from the
+generator is kept, plus PyTorch and Oracle which were missing and are real. The 17
+skillicons ids were each fetched individually and all returned real content, so none
+render as a blank tile. The <a> wrappers the generator adds are deliberately gone: it
+points every icon at developer.mozilla.org/en-US/docs/Web/<tool>, which 404s for aws,
+unreal, unity and most of the rest. Verified 404.
+
+STATS CARDS. Both github-readme-stats.vercel.app URLs returned HTTP 503 on every attempt
+across two days, which is why they showed as broken images. That is a free shared
+instance and is chronically rate-limited. The streak card is a different service, returns
+200, and is kept. Re-check occasionally.
+
+SPACE SECTION. Filled daily by .github/workflows/space.yml. Everything between the
+SPACE:START and SPACE:END markers is machine-written; edit around them, never inside.
+-->
+
 <h3 align="left">🛰️ From orbit today:</h3>
 
 <!-- SPACE:START -->
@@ -57,24 +78,3 @@
 
 📰 **[Pikachu in the Cupola](https://www.esa.int/ESA_Multimedia/Images/2026/09/Pikachu_in_the_Cupola)** <sub>ESA, 2026-09-21</sub>
 <!-- SPACE:END -->
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=XxAG17xX&hide_border=true" alt="GitHub streak" /></p>
-
-<!--
-NOTES, 2026-09-09.
-
-ICONS. Django, Dart and Flask removed at Kartik's request; everything else from the
-generator is kept, plus PyTorch and Oracle which were missing and are real. The 17
-skillicons ids were each fetched individually and all returned real content, so none
-render as a blank tile. The <a> wrappers the generator adds are deliberately gone: it
-points every icon at developer.mozilla.org/en-US/docs/Web/<tool>, which 404s for aws,
-unreal, unity and most of the rest. Verified 404.
-
-STATS CARDS. Both github-readme-stats.vercel.app URLs returned HTTP 503 on every attempt
-across two days, which is why they showed as broken images. That is a free shared
-instance and is chronically rate-limited. The streak card is a different service, returns
-200, and is kept. Re-check occasionally.
-
-SPACE SECTION. Filled daily by .github/workflows/space.yml. Everything between the
-SPACE:START and SPACE:END markers is machine-written; edit around them, never inside.
--->
