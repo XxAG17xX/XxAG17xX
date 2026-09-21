@@ -83,16 +83,16 @@
 <sub><i>NASA APOD, 2026-09-21</i></sub>
 </td>
 <td width="50%" valign="top" align="center">
-<a href="https://epic.gsfc.nasa.gov/"><img src="https://epic.gsfc.nasa.gov/archive/natural/2026/09/17/jpg/epic_1b_20260917000831.jpg" alt="Earth, 4 days ago" width="48%" />
-<img src="https://epic.gsfc.nasa.gov/archive/natural/2026/09/17/jpg/epic_1b_20260917072041.jpg" alt="Earth, 4 days ago" width="48%" />
-<img src="https://epic.gsfc.nasa.gov/archive/natural/2026/09/17/jpg/epic_1b_20260917143252.jpg" alt="Earth, 4 days ago" width="48%" />
-<img src="https://epic.gsfc.nasa.gov/archive/natural/2026/09/17/jpg/epic_1b_20260917214501.jpg" alt="Earth, 4 days ago" width="48%" /></a>
+<a href="https://epic.gsfc.nasa.gov/"><img src="https://epic.gsfc.nasa.gov/archive/natural/2026/09/19/jpg/epic_1b_20260919004554.jpg" alt="Earth, 2 days ago" width="48%" />
+<img src="https://epic.gsfc.nasa.gov/archive/natural/2026/09/19/jpg/epic_1b_20260919075804.jpg" alt="Earth, 2 days ago" width="48%" />
+<img src="https://epic.gsfc.nasa.gov/archive/natural/2026/09/19/jpg/epic_1b_20260919151014.jpg" alt="Earth, 2 days ago" width="48%" />
+<img src="https://epic.gsfc.nasa.gov/archive/natural/2026/09/19/jpg/epic_1b_20260919222224.jpg" alt="Earth, 2 days ago" width="48%" /></a>
 <br/><br/>
-<b>Earth, 4 days ago</b>
+<b>Earth, 2 days ago</b>
 <br/>
-<sub>Full-disc Earth from DSCOVR, 1.59 million km out. 4 frames from 2026-09-17; the latest is centred on 6°N 146°W.</sub>
+<sub>Full-disc Earth from DSCOVR, 1.59 million km out. 4 frames from 2026-09-19; the latest is centred on 6°N 156°W.</sub>
 <br/><br/>
-<sub><i>NASA EPIC aboard DSCOVR, 2026-09-17</i></sub>
+<sub><i>NASA EPIC aboard DSCOVR, 2026-09-19</i></sub>
 </td>
 </tr>
 </table>
