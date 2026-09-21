@@ -113,22 +113,16 @@
 <table>
 <tr>
 <td width="25%" valign="top" align="center">
-<a href="https://anilist.co/anime/20791"><img src="https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx20791-yPCX5GJuMH2k.png" alt="Fate/stay night [Heaven&#x27;s Feel] I. presage flower" width="180" height="260" /></a>
+<a href="https://anilist.co/anime/20623"><img src="https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx20623-dUARfggnNDOe.jpg" alt="Parasyte -the maxim-" width="180" height="260" /></a>
 <br/><sub><b>🎬 ANIME</b></sub>
-<br/><b><a href="https://anilist.co/anime/20791">Fate/stay night [Heaven&#x27;s Feel] I...</a></b>
-<br/><sub>⭐ 8.0 · 2017 · 1 ep · Action · Fantasy</sub>
+<br/><b><a href="https://anilist.co/anime/20623">Parasyte -the maxim-</a></b>
+<br/><sub>⭐ 8.1 · 2014 · 24 eps · Action · Psychological</sub>
 </td>
 <td width="25%" valign="top" align="center">
-<a href="https://anilist.co/manga/103655"><img src="https://s4.anilist.co/file/anilistcdn/media/manga/cover/large/nx103655-v8Inz6BscNSW.png" alt="My Status as an Assassin Obviously Exceeds the Hero’s" width="180" height="260" /></a>
+<a href="https://anilist.co/manga/97830"><img src="https://s4.anilist.co/file/anilistcdn/media/manga/cover/large/bx97830-Xl76R9pzLWOE.jpg" alt="To Your Eternity" width="180" height="260" /></a>
 <br/><sub><b>📖 MANGA</b></sub>
-<br/><b><a href="https://anilist.co/manga/103655">My Status as an Assassin Obviously...</a></b>
-<br/><sub>⭐ 6.7 · 2018 · Action · Adventure</sub>
-</td>
-<td width="25%" valign="top" align="center">
-<a href="https://openlibrary.org/works/OL276726W"><img src="https://covers.openlibrary.org/b/id/1069050-L.jpg" alt="Flawless" width="180" height="260" /></a>
-<br/><sub><b>📚 MYSTERY</b></sub>
-<br/><b><a href="https://openlibrary.org/works/OL276726W">Flawless</a></b>
-<br/><sub>Sara Shepard · 2006 · ⭐ 7.3</sub>
+<br/><b><a href="https://anilist.co/manga/97830">To Your Eternity</a></b>
+<br/><sub>⭐ 7.9 · 2016 · 202 chs · Adventure · Psychological</sub>
 </td>
 <td width="25%" valign="top" align="center">
 <a href="https://zenquotes.io/"><img src="assets/daily/quote-2026-09-21.svg" alt="“The smallest act of kindness is worth more than the greatest intention.” — Kahlil Gibran" width="180" height="260" /></a>
