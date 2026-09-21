@@ -1,8 +1,9 @@
 # .github/workflows/extras.yml
 #
 # The profile's other two daily pieces, kept out of space.yml so either can break alone:
-#   otaku  rewrites the OTAKU:START...OTAKU:END block (scripts/update_otaku.py, AniList,
-#          keyless) and commits only when it changed.
+#   picks  rewrites the PICKS:START...PICKS:END block (scripts/update_picks.py: AniList,
+#          Open Library, ZenQuotes, all keyless), redraws today's quote card in
+#          assets/daily/, and commits only when something changed.
 #   snake  draws the contribution-graph snake in the README's neon colours and pushes the
 #          SVGs to the `output` branch, so main does not collect a snake commit every day.
 #
@@ -23,27 +24,27 @@ concurrency:
   cancel-in-progress: false
 
 jobs:
-  otaku:
+  picks:
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v7
 
       - name: Self-check
-        run: python3 scripts/update_otaku.py --self-check
+        run: python3 scripts/update_picks.py --self-check
 
       - name: Fetch and rewrite
-        run: python3 scripts/update_otaku.py --readme README.md
+        run: python3 scripts/update_picks.py --readme README.md
 
       - name: Commit if anything changed
         run: |
-          if git diff --quiet -- README.md; then
+          if [ -z "$(git status --porcelain -- README.md assets/daily)" ]; then
             echo "nothing to commit"
             exit 0
           fi
           git config user.name  "github-actions[bot]"
           git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
-          git add README.md
-          git commit -m "Update otaku pick"
+          git add -A README.md assets/daily
+          git commit -m "Update daily picks"
           git pull --rebase
           git push
 

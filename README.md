@@ -53,7 +53,11 @@
 </td></tr>
 </table>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=XxAG17xX&hide_border=true" alt="GitHub streak" /></p>
+<p align="center"><img src="assets/divider-neon.svg" alt="" width="100%" /></p>
+
+<p align="center"><img src="assets/activity-neon.svg" alt="Activity log: every lit square is a day I shipped, the snake eats them" width="100%" /></p>
+
+<p align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=XxAG17xX&hide_border=true&background=0D0221&stroke=2A0845&ring=FF2BD6&fire=FF2BD6&currStreakNum=F4F7FF&sideNums=F4F7FF&currStreakLabel=7DF9FF&sideLabels=7DF9FF&dates=9AA6D8" alt="GitHub streak" /></p>
 
 <p align="center">
 <picture>
@@ -103,28 +107,38 @@
 
 <p align="center"><img src="assets/divider-neon.svg" alt="" width="100%" /></p>
 
-<p align="center"><img src="assets/otaku-neon.svg" alt="🎴 Otaku pick of the day" width="100%" /></p>
+<p align="center"><img src="assets/picks-neon.svg" alt="Daily picks: anime, manga, books and a quote" width="100%" /></p>
 
-<!-- OTAKU:START -->
+<!-- PICKS:START -->
 <table>
 <tr>
-<td width="32%" valign="top"><a href="https://anilist.co/anime/3784"><img src="https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx3784-TGCsqLryKJ2R.jpg" alt="Evangelion: 2.0 You Can (Not) Advance" width="100%" /></a></td>
-<td valign="top">
-<sub>🎴 <b>ANIME</b> · pick of the day</sub>
-<h3><a href="https://anilist.co/anime/3784">Evangelion: 2.0 You Can (Not) Advance</a></h3>
-<sub>Evangelion Shin Movie: Ha · ヱヴァンゲリヲン新劇場版:破</sub>
-<br/><br/>
-⭐ <b>8.1</b>/10 · 2009 · 1 episode
-<br/>
-<sub>Action · Drama · Mecha · Psychological · Sci-Fi</sub>
-<br/><br/>
-In the earliest battles against the monstrous Angels, young Eva pilots Shinji and Rei were forced to carry humanity&#x27;s hopes on their shoulders. Now, with the deadly onslaught of the Angels escalating and the apocalyptic Third Impact looming, Shinji and Rei...
-<br/><br/>
-<sub><i>Drawn at random from AniList's most popular · <a href="https://anilist.co/anime/3784">open on AniList →</a></i></sub>
+<td width="25%" valign="top" align="center">
+<a href="https://anilist.co/anime/20791"><img src="https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx20791-yPCX5GJuMH2k.png" alt="Fate/stay night [Heaven&#x27;s Feel] I. presage flower" width="180" height="260" /></a>
+<br/><sub><b>🎬 ANIME</b></sub>
+<br/><b><a href="https://anilist.co/anime/20791">Fate/stay night [Heaven&#x27;s Feel] I...</a></b>
+<br/><sub>⭐ 8.0 · 2017 · 1 ep · Action · Fantasy</sub>
+</td>
+<td width="25%" valign="top" align="center">
+<a href="https://anilist.co/manga/103655"><img src="https://s4.anilist.co/file/anilistcdn/media/manga/cover/large/nx103655-v8Inz6BscNSW.png" alt="My Status as an Assassin Obviously Exceeds the Hero’s" width="180" height="260" /></a>
+<br/><sub><b>📖 MANGA</b></sub>
+<br/><b><a href="https://anilist.co/manga/103655">My Status as an Assassin Obviously...</a></b>
+<br/><sub>⭐ 6.7 · 2018 · Action · Adventure</sub>
+</td>
+<td width="25%" valign="top" align="center">
+<a href="https://openlibrary.org/works/OL276726W"><img src="https://covers.openlibrary.org/b/id/1069050-L.jpg" alt="Flawless" width="180" height="260" /></a>
+<br/><sub><b>📚 MYSTERY</b></sub>
+<br/><b><a href="https://openlibrary.org/works/OL276726W">Flawless</a></b>
+<br/><sub>Sara Shepard · 2006 · ⭐ 7.3</sub>
+</td>
+<td width="25%" valign="top" align="center">
+<a href="https://zenquotes.io/"><img src="assets/daily/quote-2026-09-21.svg" alt="“The smallest act of kindness is worth more than the greatest intention.” — Kahlil Gibran" width="180" height="260" /></a>
+<br/><sub><b>💬 QUOTE</b></sub>
+<br/><b><a href="https://zenquotes.io/">Kahlil Gibran</a></b>
+<br/><sub>via ZenQuotes</sub>
 </td>
 </tr>
 </table>
-<!-- OTAKU:END -->
+<!-- PICKS:END -->
 
 <p align="center"><img src="assets/footer-neon.svg" alt="End of transmission" width="100%" /></p>
 
@@ -146,10 +160,11 @@ instance and is chronically rate-limited. The streak card is a different service
 SPACE SECTION. Filled daily by .github/workflows/space.yml. Everything between the
 SPACE:START and SPACE:END markers is machine-written; edit around them, never inside.
 
-OTAKU SECTION. Filled daily by .github/workflows/extras.yml (scripts/update_otaku.py), a
-random pick from AniList's most popular anime/manga/manhwa/manhua/novels. Same rule: never
-edit between OTAKU:START and OTAKU:END. The snake image is built by the same workflow and
-lives on the `output` branch, not main. The banners, divider, footer and the five icon
+DAILY PICKS. Filled daily by .github/workflows/extras.yml (scripts/update_picks.py): an
+anime and a read (manga/manhwa/manhua/novel) from AniList, a book from Open Library and
+ZenQuotes' quote of the day, which the script draws as assets/daily/quote-<date>.svg.
+Never edit between PICKS:START and PICKS:END. The snake image is built by the same workflow
+and lives on the `output` branch, not main. The banners, divider, footer and the five icon
 tiles in assets/ are hand-made SVGs; the tiles copy skillicons' dark style for the tools
 skillicons does not have.
 -->
