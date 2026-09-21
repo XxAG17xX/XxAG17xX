@@ -1,0 +1,6 @@
+# Titles that never appear in Daily Picks (anime, manga, manhwa, manhua, novels).
+# One per line; matched case-insensitively against the English and romaji titles, and a
+# line matches any title that contains it (so "Classroom of the Elite" also drops its
+# sequels and spin-offs). Lines starting with # are ignored.
+
+Classroom of the Elite

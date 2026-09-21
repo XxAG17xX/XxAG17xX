@@ -1,10 +1,15 @@
 #!/usr/bin/env python3
 """Rewrite the Daily Picks section of the profile README: four matching tiles a day.
 
-    ANIME   AniList, drawn from the most popular 500 (TV, movie, ONA)
-    READ    AniList, rotating by date: manga, manhwa, manhua, light/web novel
-    BOOK    Open Library, English, drawn from the most-read in a rotating genre
+    ANIME   AniList: a random title from the 100 most popular that pass the taste filter
+    READ    AniList, same filter, rotating by date: manga, manhwa, manhua, light/web novel
+    BOOK    a random line of scripts/books.txt (hand-picked), cover from Open Library
     QUOTE   ZenQuotes' quote of the day, drawn by this script as a neon card
+
+Taste filter, for a 22-year-old engineer's profile that recruiters also read: scored at
+least ~7/10 on AniList, at least one of the genres in COOL, nothing ecchi, adult,
+romance-led, magical-girl, harem, fan-service or kids, and nothing in picks_skip.txt. Books are not filtered by an API at all: Open Library's
+popular shelves are full of YA and explicit "dark romance", so the pool is a curated list.
 
 Every tile has the same shape: a 180x260 image, a label, a title, one line of facts. The
 quote has no picture of its own, so it is rendered to assets/daily/quote-<date>.svg in the
@@ -13,7 +18,6 @@ banner style; the date in the filename stops browsers showing yesterday's cached
 Every choice is seeded by the date, so a re-run on the same day changes nothing and makes
 no commit. Each tile fails on its own: a dead source drops that tile, not the section, and
 if every source is down the section keeps yesterday's picks. All sources are keyless.
-Adult and ecchi titles are filtered out: this is a profile page recruiters read.
 
 Local checks, write nothing:
     python update_picks.py --self-check
@@ -37,20 +41,28 @@ from update_space import TIMEOUT, UA, esc, get_json, guard, splice, trim
 START = "<!-- PICKS:START -->"
 END = "<!-- PICKS:END -->"
 DAILY_DIR = "assets/daily"
+HERE = os.path.dirname(os.path.abspath(__file__))
+BOOKS = os.path.join(HERE, "books.txt")
+SKIP = os.path.join(HERE, "picks_skip.txt")
 W, H = 180, 260  # every tile image is forced to this, so the row lines up
 
+# AniList's genre_in means "has ALL of these", so "has ANY of these" is checked here instead
+COOL = {"Action", "Sci-Fi", "Psychological", "Thriller", "Mystery", "Mecha", "Sports",
+        "Adventure", "Supernatural"}
+ANIME = {"type": "ANIME", "format": ["TV", "MOVIE", "ONA"], "score": 72}
 READS = [
-    ("MANGA", {"country": "JP", "format": ["MANGA", "ONE_SHOT"]}, 400),
-    ("MANHWA", {"country": "KR", "format": ["MANGA", "ONE_SHOT"]}, 250),
-    ("MANHUA", {"country": "CN", "format": ["MANGA", "ONE_SHOT"]}, 150),
-    ("NOVEL", {"format": ["NOVEL"]}, 300),
+    ("MANGA", {"type": "MANGA", "country": "JP", "format": ["MANGA", "ONE_SHOT"], "score": 72}),
+    ("MANHWA", {"type": "MANGA", "country": "KR", "format": ["MANGA", "ONE_SHOT"], "score": 70}),
+    ("MANHUA", {"type": "MANGA", "country": "CN", "format": ["MANGA", "ONE_SHOT"], "score": 68}),
+    ("NOVEL", {"type": "MANGA", "format": ["NOVEL"], "score": 72}),
 ]
-BOOK_GENRES = ["science_fiction", "fantasy", "mystery", "thriller", "horror", "historical_fiction"]
 
-QUERY = """query($page:Int,$type:MediaType,$country:CountryCode,$format:[MediaFormat]){
-Page(page:$page,perPage:1){media(type:$type,countryOfOrigin:$country,format_in:$format,
-isAdult:false,genre_not_in:["Ecchi","Hentai"],sort:POPULARITY_DESC){siteUrl
-title{romaji english} coverImage{extraLarge} averageScore genres episodes chapters startDate{year}}}}"""
+QUERY = """query($page:Int,$type:MediaType,$country:CountryCode,$format:[MediaFormat],$score:Int){
+Page(page:$page,perPage:50){media(type:$type,countryOfOrigin:$country,format_in:$format,
+averageScore_greater:$score,genre_not_in:["Ecchi","Hentai","Romance","Mahou Shoujo"],
+tag_not_in:["Harem","Reverse Harem","Fan Service","Kids"],
+isAdult:false,sort:POPULARITY_DESC){siteUrl title{romaji english} coverImage{extraLarge}
+averageScore genres episodes chapters startDate{year}}}}"""
 
 
 def rng(day, what):
@@ -61,15 +73,23 @@ def plural(n, word):
     return f"{n} {word}{'s' * (n != 1)}"
 
 
-def anilist(variables):
-    body = json.dumps({"query": QUERY, "variables": variables}).encode()
-    req = urllib.request.Request("https://graphql.anilist.co", body, {
-        "Content-Type": "application/json", "Accept": "application/json", "User-Agent": UA})
-    with urllib.request.urlopen(req, timeout=TIMEOUT) as r:
-        media = json.load(r)["data"]["Page"]["media"]
+def top100(filters):
+    """The 100 most popular titles for these filters that also have a COOL genre."""
+    media = []
+    for page in (1, 2):
+        body = json.dumps({"query": QUERY, "variables": dict(filters, page=page)}).encode()
+        req = urllib.request.Request("https://graphql.anilist.co", body, {
+            "Content-Type": "application/json", "Accept": "application/json", "User-Agent": UA})
+        with urllib.request.urlopen(req, timeout=TIMEOUT) as r:
+            media += json.load(r)["data"]["Page"]["media"]
+    skip = load_lines(SKIP)
+    media = [m for m in media if COOL & set(m.get("genres") or []) and not skipped(m, skip)]
     if not media:
-        raise ValueError(f"AniList returned nothing for {variables}")
-    m = media[0]
+        raise ValueError(f"AniList returned nothing for {filters}")
+    return media
+
+
+def tile_from(m, label):
     facts = []
     if m.get("averageScore"):
         facts.append(f'⭐ {m["averageScore"] / 10:.1f}')
@@ -79,53 +99,60 @@ def anilist(variables):
         facts.append(plural(m["episodes"], "ep"))
     elif m.get("chapters"):
         facts.append(plural(m["chapters"], "ch"))
-    facts += (m.get("genres") or [])[:2]
-    return {"img": m["coverImage"]["extraLarge"], "url": m["siteUrl"],
+    facts += [g for g in m["genres"] if g in COOL][:2]
+    return {"img": m["coverImage"]["extraLarge"], "url": m["siteUrl"], "label": label,
             "title": m["title"].get("english") or m["title"]["romaji"], "facts": facts}
 
 
 def pick_anime(day):
-    page = rng(day, "anime").randint(1, 500)
-    return dict(anilist({"page": page, "type": "ANIME", "format": ["TV", "MOVIE", "ONA"]}),
-                label="\U0001F3AC ANIME")
+    return tile_from(rng(day, "anime").choice(top100(ANIME)), "\U0001F3AC ANIME")
 
 
 def pick_read(day):
-    kind, filters, pool = READS[day.toordinal() % len(READS)]
-    page = rng(day, "read").randint(1, pool)
-    return dict(anilist(dict(filters, page=page, type="MANGA")), label=f"\U0001F4D6 {kind}")
+    kind, filters = READS[day.toordinal() % len(READS)]
+    return tile_from(rng(day, "read").choice(top100(filters)), f"\U0001F4D6 {kind}")
 
 
-def latin(s):
-    # Open Library files some works under their original title (e.g. 三体); skip those
-    return all(ord(c) < 0x250 or not c.isalpha() for c in s)
+def load_lines(path):
+    """Non-blank, non-comment lines of a text file; missing file = empty list."""
+    try:
+        with open(path, encoding="utf-8") as f:
+            return [l.strip() for l in f if l.strip() and not l.lstrip().startswith("#")]
+    except FileNotFoundError:
+        return []
+
+
+def skipped(m, skip):
+    names = " / ".join(filter(None, (m["title"].get("english"), m["title"].get("romaji")))).lower()
+    return any(s.lower() in names for s in skip)
+
+
+def load_books(path=BOOKS):
+    return [tuple(x.strip() for x in row.split("|")) for row in load_lines(path)]
 
 
 def pick_book(day):
-    r = rng(day, "book")
-    genre = BOOK_GENRES[day.toordinal() % len(BOOK_GENRES)]
-    q = urllib.parse.urlencode({
-        "q": f"subject_key:{genre}", "language": "eng", "sort": "readinglog", "limit": 20,
-        "offset": r.randint(0, 200), "fields": "title,author_name,cover_i,first_publish_year,key,ratings_average"})
-    for attempt in range(2):  # Open Library drops the odd connection; one retry covers it
-        try:
-            docs = get_json(f"https://openlibrary.org/search.json?{q}")["docs"]
-            break
-        except OSError:
-            if attempt:
-                raise
-    docs = [d for d in docs if d.get("cover_i") and latin(d["title"])]
-    if not docs:
-        raise ValueError(f"no usable book in {genre}")
-    d = r.choice(docs)
-    facts = [d["author_name"][0]] if d.get("author_name") else []
-    if d.get("first_publish_year"):
-        facts.append(str(d["first_publish_year"]))
-    if d.get("ratings_average"):
-        facts.append(f'⭐ {d["ratings_average"] * 2:.1f}')  # out of 5 there, out of 10 like the others
-    return {"img": f'https://covers.openlibrary.org/b/id/{d["cover_i"]}-L.jpg',
-            "url": f'https://openlibrary.org{d["key"]}', "title": d["title"], "facts": facts,
-            "label": "\U0001F4DA " + genre.replace("_", " ").upper()}
+    books = load_books()
+    order = list(range(len(books)))
+    rng(day, "book").shuffle(order)
+    for i in order[:3]:  # a book Open Library has no cover for is skipped, not shown blank
+        cat, title, author = books[i]
+        q = urllib.parse.urlencode({"title": title, "author": author, "limit": 5,
+                                    "fields": "key,title,cover_i,first_publish_year,ratings_average"})
+        docs = get_json(f"https://openlibrary.org/search.json?{q}")["docs"]
+        d = next((d for d in docs if d.get("cover_i")), None)
+        if not d:
+            print(f"no Open Library cover for {title!r}", file=sys.stderr)
+            continue
+        facts = [author]
+        if d.get("first_publish_year"):
+            facts.append(str(d["first_publish_year"]))
+        if d.get("ratings_average"):
+            facts.append(f'⭐ {d["ratings_average"] * 2:.1f}')  # out of 5 there, out of 10 like the others
+        return {"img": f'https://covers.openlibrary.org/b/id/{d["cover_i"]}-L.jpg',
+                "url": f'https://openlibrary.org{d["key"]}', "title": title, "facts": facts,
+                "label": f"\U0001F4DA {cat}"}
+    raise ValueError("no cover found for three books in a row")
 
 
 def quote_svg(text, author):
@@ -193,7 +220,16 @@ def _self_check():
     d = datetime.date(2026, 9, 21)
     assert rng(d, "a").random() == rng(d, "a").random() != rng(d, "b").random()
     assert len({READS[(d.toordinal() + i) % len(READS)][0] for i in range(4)}) == 4
-    assert latin("The Martian") and latin("Don Quijote de la Mancha") and not latin("三体")
+    books = load_books()
+    assert len(books) >= 100 and all(len(b) == 3 and all(b) for b in books), "books.txt malformed"
+    m = {"siteUrl": "https://anilist.co/anime/1", "title": {"romaji": "R", "english": None},
+         "coverImage": {"extraLarge": "https://s4.anilist.co/c.jpg"}, "averageScore": 85,
+         "genres": ["Drama", "Action", "Sci-Fi", "Mystery"], "episodes": 1, "startDate": {"year": 2020}}
+    t = tile_from(m, "X")
+    cote = {"title": {"english": "Classroom of the Elite II", "romaji": "Youkoso Jitsuryoku"}}
+    assert skipped(cote, ["classroom of the elite"]) and not skipped(m, ["classroom of the elite"])
+    assert "Classroom of the Elite" in load_lines(SKIP)
+    assert t["title"] == "R" and t["facts"] == ["⭐ 8.5", "2020", "1 ep", "Action", "Sci-Fi"]
     assert plural(1, "ep") == "1 ep" and plural(12, "ch") == "12 chs"
 
     svg = quote_svg('Be "bold" & <kind>' + " word" * 40, "Someone")
