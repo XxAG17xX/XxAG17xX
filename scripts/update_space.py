@@ -336,11 +336,11 @@ def build():
     return render(pics, news)
 
 
-def splice(readme, block):
-    i, j = readme.find(START), readme.find(END)
+def splice(readme, block, start=START, end=END):
+    i, j = readme.find(start), readme.find(end)
     if i == -1 or j == -1 or j < i:
-        raise SystemExit(f"markers not found in README: expected {START} ... {END}")
-    return readme[: i + len(START)] + "\n" + block + "\n" + readme[j:]
+        raise SystemExit(f"markers not found in README: expected {start} ... {end}")
+    return readme[: i + len(start)] + "\n" + block + "\n" + readme[j:]
 
 
 def _self_check():

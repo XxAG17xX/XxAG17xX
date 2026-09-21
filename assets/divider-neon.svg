@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1280" height="28" viewBox="0 0 1280 28">
+<defs><filter id="glow" x="-50%" y="-50%" width="200%" height="200%"><feGaussianBlur stdDeviation="3" result="b"/><feMerge><feMergeNode in="b"/><feMergeNode in="SourceGraphic"/></feMerge></filter>
+<pattern id="scan" width="4" height="4" patternUnits="userSpaceOnUse"><rect width="4" height="1" fill="#000" opacity="0.35"/></pattern>
+<linearGradient id="neon" x1="0" x2="1"><stop offset="0" stop-color="#7df9ff" stop-opacity="0"/><stop offset="0.2" stop-color="#7df9ff"/><stop offset="0.8" stop-color="#ff2bd6"/><stop offset="1" stop-color="#ff2bd6" stop-opacity="0"/></linearGradient>
+<radialGradient id="pulse"><stop offset="0" stop-color="#fff"/><stop offset="0.4" stop-color="#7df9ff"/><stop offset="1" stop-color="#7df9ff" stop-opacity="0"/></radialGradient></defs>
+<rect x="40" y="13" width="1200" height="2" fill="url(#neon)" opacity="0.8"/>
+<ellipse cy="14" rx="60" ry="4" fill="url(#pulse)"><animate attributeName="cx" values="40;1240" dur="3.5s" repeatCount="indefinite"/></ellipse>
+<g transform="translate(640 14)"><rect x="-7" y="-7" width="14" height="14" transform="rotate(45)" fill="#0d0322" stroke="#ff2bd6" stroke-width="2" filter="url(#glow)"/>
+<rect x="-2.5" y="-2.5" width="5" height="5" transform="rotate(45)" fill="#7df9ff"><animate attributeName="opacity" values="1;0.2;1" dur="1.6s" repeatCount="indefinite"/></rect></g>
+</svg>

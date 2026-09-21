@@ -1,4 +1,4 @@
-# Hi 👋, I'm Kartik Gupta
+<p align="center"><img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=700&size=28&duration=2600&pause=900&color=7DF9FF&center=true&vCenter=true&width=760&height=56&lines=Hi,+I'm+Kartik+Gupta;%E3%82%AB%E3%83%AB%E3%83%86%E3%82%A3%E3%82%AF%E3%83%BB%E3%82%B0%E3%83%97%E3%82%BF%E3%81%A7%E3%81%99;Computer+Engineering+%40+Trinity+College+Dublin;AWS+%C2%B7+Applied+ML+%C2%B7+Mixed+Reality;I+build+things+that+run+on+their+own" alt="Hi, I'm Kartik Gupta" /></p>
 
 ### MAI in Computer Engineering at Trinity College Dublin. I build things that run autonomously and get measured against something real.
 
@@ -19,36 +19,50 @@
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
-<p align="left">
-<img src="https://skillicons.dev/icons?i=py,c,cpp,cs,aws,fastapi,pytorch,unity,blender,arduino,opencv,matlab,mysql,anaconda,photoshop,git" alt="Python, C, C++, C#, AWS, FastAPI, PyTorch, Unity, Blender, Arduino, OpenCV, MATLAB, MySQL, Anaconda, Photoshop, Git" />
-&nbsp;
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain.svg" alt="Microsoft SQL Server" width="40" height="40"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/oracle/oracle-original.svg" alt="Oracle Database" width="40" height="40"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" alt="NumPy" width="40" height="40"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/matplotlib/matplotlib-original.svg" alt="Matplotlib" width="40" height="40"/>
-</p>
+<table>
+<tr><td align="right"><b>Languages</b></td><td>
+<img src="https://skillicons.dev/icons?i=py" width="44" alt="Python" />
+<img src="https://skillicons.dev/icons?i=c" width="44" alt="C" />
+<img src="https://skillicons.dev/icons?i=cpp" width="44" alt="C++" />
+<img src="https://skillicons.dev/icons?i=cs" width="44" alt="C#" />
+</td></tr>
+<tr><td align="right"><b>ML &amp; Data</b></td><td>
+<img src="https://skillicons.dev/icons?i=pytorch" width="44" alt="PyTorch" />
+<img src="https://skillicons.dev/icons?i=opencv" width="44" alt="OpenCV" />
+<img src="assets/icons/numpy.svg" width="44" alt="NumPy" />
+<img src="assets/icons/pandas.svg" width="44" alt="pandas" />
+<img src="assets/icons/matplotlib.svg" width="44" alt="Matplotlib" />
+<img src="https://skillicons.dev/icons?i=anaconda" width="44" alt="Anaconda" />
+<img src="https://skillicons.dev/icons?i=matlab" width="44" alt="MATLAB" />
+</td></tr>
+<tr><td align="right"><b>Cloud &amp; Databases</b></td><td>
+<img src="https://skillicons.dev/icons?i=aws" width="44" alt="AWS" />
+<img src="https://skillicons.dev/icons?i=fastapi" width="44" alt="FastAPI" />
+<img src="https://skillicons.dev/icons?i=mysql" width="44" alt="MySQL" />
+<img src="assets/icons/sqlserver.svg" width="44" alt="Microsoft SQL Server" />
+<img src="assets/icons/oracle.svg" width="44" alt="Oracle Database" />
+</td></tr>
+<tr><td align="right"><b>XR, 3D &amp; Hardware</b></td><td>
+<img src="https://skillicons.dev/icons?i=unity" width="44" alt="Unity" />
+<img src="https://skillicons.dev/icons?i=blender" width="44" alt="Blender" />
+<img src="https://skillicons.dev/icons?i=arduino" width="44" alt="Arduino" />
+</td></tr>
+<tr><td align="right"><b>Tools</b></td><td>
+<img src="https://skillicons.dev/icons?i=git" width="44" alt="Git" />
+<img src="https://skillicons.dev/icons?i=photoshop" width="44" alt="Photoshop" />
+</td></tr>
+</table>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=XxAG17xX&hide_border=true" alt="GitHub streak" /></p>
 
-<!--
-NOTES, 2026-09-09.
+<p align="center">
+<picture>
+<source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/XxAG17xX/XxAG17xX/output/snake-neon.svg" />
+<img src="https://raw.githubusercontent.com/XxAG17xX/XxAG17xX/output/snake-light.svg" alt="Snake eating my contribution graph" width="100%" />
+</picture>
+</p>
 
-ICONS. Django, Dart and Flask removed at Kartik's request; everything else from the
-generator is kept, plus PyTorch and Oracle which were missing and are real. The 17
-skillicons ids were each fetched individually and all returned real content, so none
-render as a blank tile. The <a> wrappers the generator adds are deliberately gone: it
-points every icon at developer.mozilla.org/en-US/docs/Web/<tool>, which 404s for aws,
-unreal, unity and most of the rest. Verified 404.
-
-STATS CARDS. Both github-readme-stats.vercel.app URLs returned HTTP 503 on every attempt
-across two days, which is why they showed as broken images. That is a free shared
-instance and is chronically rate-limited. The streak card is a different service, returns
-200, and is kept. Re-check occasionally.
-
-SPACE SECTION. Filled daily by .github/workflows/space.yml. Everything between the
-SPACE:START and SPACE:END markers is machine-written; edit around them, never inside.
--->
+<p align="center"><img src="assets/divider-neon.svg" alt="" width="100%" /></p>
 
 <p align="center"><img src="assets/orbit-neon.svg" alt="🛰️ From orbit today" width="100%" /></p>
 
@@ -86,3 +100,56 @@ SPACE:START and SPACE:END markers is machine-written; edit around them, never in
 </tr>
 </table>
 <!-- SPACE:END -->
+
+<p align="center"><img src="assets/divider-neon.svg" alt="" width="100%" /></p>
+
+<p align="center"><img src="assets/otaku-neon.svg" alt="🎴 Otaku pick of the day" width="100%" /></p>
+
+<!-- OTAKU:START -->
+<table>
+<tr>
+<td width="32%" valign="top"><a href="https://anilist.co/anime/3784"><img src="https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx3784-TGCsqLryKJ2R.jpg" alt="Evangelion: 2.0 You Can (Not) Advance" width="100%" /></a></td>
+<td valign="top">
+<sub>🎴 <b>ANIME</b> · pick of the day</sub>
+<h3><a href="https://anilist.co/anime/3784">Evangelion: 2.0 You Can (Not) Advance</a></h3>
+<sub>Evangelion Shin Movie: Ha · ヱヴァンゲリヲン新劇場版:破</sub>
+<br/><br/>
+⭐ <b>8.1</b>/10 · 2009 · 1 episode
+<br/>
+<sub>Action · Drama · Mecha · Psychological · Sci-Fi</sub>
+<br/><br/>
+In the earliest battles against the monstrous Angels, young Eva pilots Shinji and Rei were forced to carry humanity&#x27;s hopes on their shoulders. Now, with the deadly onslaught of the Angels escalating and the apocalyptic Third Impact looming, Shinji and Rei...
+<br/><br/>
+<sub><i>Drawn at random from AniList's most popular · <a href="https://anilist.co/anime/3784">open on AniList →</a></i></sub>
+</td>
+</tr>
+</table>
+<!-- OTAKU:END -->
+
+<p align="center"><img src="assets/footer-neon.svg" alt="End of transmission" width="100%" /></p>
+
+<!--
+NOTES, 2026-09-09.
+
+ICONS. Django, Dart and Flask removed at Kartik's request; everything else from the
+generator is kept, plus PyTorch and Oracle which were missing and are real. The 17
+skillicons ids were each fetched individually and all returned real content, so none
+render as a blank tile. The <a> wrappers the generator adds are deliberately gone: it
+points every icon at developer.mozilla.org/en-US/docs/Web/<tool>, which 404s for aws,
+unreal, unity and most of the rest. Verified 404.
+
+STATS CARDS. Both github-readme-stats.vercel.app URLs returned HTTP 503 on every attempt
+across two days, which is why they showed as broken images. That is a free shared
+instance and is chronically rate-limited. The streak card is a different service, returns
+200, and is kept. Re-check occasionally.
+
+SPACE SECTION. Filled daily by .github/workflows/space.yml. Everything between the
+SPACE:START and SPACE:END markers is machine-written; edit around them, never inside.
+
+OTAKU SECTION. Filled daily by .github/workflows/extras.yml (scripts/update_otaku.py), a
+random pick from AniList's most popular anime/manga/manhwa/manhua/novels. Same rule: never
+edit between OTAKU:START and OTAKU:END. The snake image is built by the same workflow and
+lives on the `output` branch, not main. The banners, divider, footer and the five icon
+tiles in assets/ are hand-made SVGs; the tiles copy skillicons' dark style for the tools
+skillicons does not have.
+-->
