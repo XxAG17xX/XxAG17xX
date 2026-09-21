@@ -79,5 +79,10 @@ SPACE:START and SPACE:END markers is machine-written; edit around them, never in
 </tr>
 </table>
 
-<p align="center">📰 <b>Today in spaceflight:</b> <a href="https://www.esa.int/ESA_Multimedia/Images/2026/09/Pikachu_in_the_Cupola">Pikachu in the Cupola</a> <sub>ESA, 2026-09-21</sub></p>
+<table>
+<tr>
+<td width="40%" valign="middle"><a href="https://www.esa.int/ESA_Multimedia/Images/2026/09/Pikachu_in_the_Cupola"><img src="https://www.esa.int/var/esa/storage/images/esa_multimedia/images/2026/09/pikachu_in_the_cupola/27530034-1-eng-GB/Pikachu_in_the_Cupola_card_full.jpg" alt="Pikachu in the Cupola" width="100%" /></a></td>
+<td valign="middle">📰 <b>Today in spaceflight</b><br/><br/><b><a href="https://www.esa.int/ESA_Multimedia/Images/2026/09/Pikachu_in_the_Cupola">Pikachu in the Cupola</a></b><br/><br/><sub>ESA, 2026-09-21</sub></td>
+</tr>
+</table>
 <!-- SPACE:END -->

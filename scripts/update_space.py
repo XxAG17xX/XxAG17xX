@@ -4,7 +4,7 @@ day's spaceflight headline underneath.
 
 Layout
 ------
-A two-column HTML table, so each picture keeps its own caption, then the headline on its
+A two-column HTML table, so each picture keeps its own caption, then the headline as a card (thumbnail + title) on its
 own labelled line underneath. Always shown, nothing to click open. GitHub allows table,
 img, a, b, br and sub in Markdown, so this renders on the profile. The Earth cell holds up to four EPIC
 frames from the same day (a 2x2 grid), the APOD caption ends with a "more" link to the APOD
@@ -42,6 +42,7 @@ import datetime
 import html
 import json
 import os
+import re
 import sys
 import urllib.parse
 import urllib.request
@@ -188,6 +189,19 @@ def src_library(offset=0):
     }
 
 
+def first_img(body):
+    m = re.search(r'<img[^>]+src="([^"]+)"', body or "")
+    return html.unescape(m.group(1)) if m else None
+
+
+def safe_img(url):
+    """A news thumbnail is optional: anything guard would refuse is dropped, not fatal."""
+    try:
+        return guard(url) if url and url.startswith("https://") else None
+    except ValueError:
+        return None
+
+
 def src_news():
     """The headline. Two independent sources, because one of them is failing in CI.
 
@@ -209,6 +223,7 @@ def src_news():
             "url": a.get("url", ""),
             "site": a.get("news_site", ""),
             "date": (a.get("published_at") or "")[:10],
+            "img": safe_img(a.get("image_url")),
         }
     except Exception as e:                      # noqa: BLE001
         errors.append(f"spaceflightnewsapi: {e}")
@@ -233,6 +248,8 @@ def src_news():
             "url": (item.findtext("link") or "").strip(),
             "site": "NASA",
             "date": date,
+            # the feed has no image field; the article body's first <img> is its lead picture
+            "img": safe_img(first_img(item.findtext("{http://purl.org/rss/1.0/modules/content/}encoded"))),
         }
     except Exception as e:                      # noqa: BLE001
         errors.append(f"nasa rss: {e}")
@@ -273,9 +290,18 @@ def render(pics, news):
                      f'<sub>{esc(p["caption"])}</sub><br/><sub><i>{esc(p["credit"])}</i></sub></p>')
     if news:
         # labelled and below the pictures, so it never reads as their title
-        parts.append(f'<p align="center">\U0001F4F0 <b>Today in spaceflight:</b> '
-                     f'<a href="{news["url"]}">{esc(news["title"])}</a> '
-                     f'<sub>{esc(news["site"])}, {news["date"]}</sub></p>')
+        link = f'<a href="{news["url"]}">{esc(news["title"])}</a>'
+        meta = f'<sub>{esc(news["site"])}, {news["date"]}</sub>'
+        if news.get("img"):
+            parts.append(
+                "<table>\n<tr>\n"
+                f'<td width="40%" valign="middle"><a href="{news["url"]}">'
+                f'<img src="{guard(news["img"])}" alt="{esc(news["title"])}" width="100%" /></a></td>\n'
+                f'<td valign="middle">\U0001F4F0 <b>Today in spaceflight</b><br/><br/>'
+                f"<b>{link}</b><br/><br/>{meta}</td>\n"
+                "</tr>\n</table>")
+        else:
+            parts.append(f'<p align="center">\U0001F4F0 <b>Today in spaceflight:</b> {link} {meta}</p>')
     if not parts:
         raise SystemExit("every source failed")
     return "\n\n".join(parts)
@@ -346,6 +372,11 @@ def _self_check():
 
     four = dict(p, imgs=[f"https://epic.gsfc.nasa.gov/{i}.jpg" for i in range(4)])
     assert render([p, four], n).count("<img") == 5
+
+    card = render([p], dict(n, img="https://e.com/thumb.jpg"))
+    assert "thumb.jpg" in card and card.count("<table>") == 1
+    assert safe_img("https://e.com/x.jpg?api_key=abc") is None and safe_img(None) is None
+    assert first_img('<p><img class="a" src="https://e.com/a.jpg?w=1&#038;h=2" /></p>') == "https://e.com/a.jpg?w=1&h=2"
 
     one = render([p], n)
     assert "<table>" not in one and 'width="440"' in one
