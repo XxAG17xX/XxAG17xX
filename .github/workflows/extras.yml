@@ -2,7 +2,7 @@
 #
 # The profile's other two daily pieces, kept out of space.yml so either can break alone:
 #   picks  rewrites the PICKS:START...PICKS:END block (scripts/update_picks.py: AniList,
-#          Open Library, ZenQuotes, all keyless), redraws today's quote card in
+#          Open Library, curated books/quotes, all keyless), redraws today's quote card in
 #          assets/daily/, and commits only when something changed.
 #   snake  draws the contribution-graph snake in the README's neon colours and pushes the
 #          SVGs to the `output` branch, so main does not collect a snake commit every day.

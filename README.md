@@ -161,8 +161,8 @@ SPACE SECTION. Filled daily by .github/workflows/space.yml. Everything between t
 SPACE:START and SPACE:END markers is machine-written; edit around them, never inside.
 
 DAILY PICKS. Filled daily by .github/workflows/extras.yml (scripts/update_picks.py): an
-anime and a read (manga/manhwa/manhua/novel) from AniList, a book from Open Library and
-ZenQuotes' quote of the day, which the script draws as assets/daily/quote-<date>.svg.
+anime and a read (manga/manhwa/manhua/novel) from AniList, a book from scripts/books.txt and
+a quote from scripts/quotes.txt, which the script draws as assets/daily/quote-<date>.svg.
 Never edit between PICKS:START and PICKS:END. The snake image is built by the same workflow
 and lives on the `output` branch, not main. The banners, divider, footer and the five icon
 tiles in assets/ are hand-made SVGs; the tiles copy skillicons' dark style for the tools

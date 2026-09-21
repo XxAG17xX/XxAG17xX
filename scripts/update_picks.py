@@ -4,7 +4,7 @@
     ANIME   AniList: a random title from the 100 most popular that pass the taste filter
     READ    AniList, same filter, rotating by date: manga, manhwa, manhua, light/web novel
     BOOK    a random line of scripts/books.txt (hand-picked), cover from Open Library
-    QUOTE   ZenQuotes' quote of the day, drawn by this script as a neon card
+    QUOTE   a line of scripts/quotes.txt (hand-picked), drawn by this script as a card
 
 Taste filter, for a 22-year-old engineer's profile that recruiters also read: scored at
 least ~7/10 on AniList, at least one of the genres in COOL, nothing ecchi, adult,
@@ -18,6 +18,8 @@ banner style; the date in the filename stops browsers showing yesterday's cached
 Every choice is seeded by the date, so a re-run on the same day changes nothing and makes
 no commit. Each tile fails on its own: a dead source drops that tile, not the section, and
 if every source is down the section keeps yesterday's picks. All sources are keyless.
+Books and quotes walk their lists in a shuffled order, so neither repeats until the list
+has gone all the way round.
 
 Local checks, write nothing:
     python update_picks.py --self-check
@@ -27,7 +29,6 @@ Local checks, write nothing:
 import argparse
 import datetime
 import glob
-import html
 import json
 import os
 import random
@@ -44,6 +45,7 @@ DAILY_DIR = "assets/daily"
 HERE = os.path.dirname(os.path.abspath(__file__))
 BOOKS = os.path.join(HERE, "books.txt")
 SKIP = os.path.join(HERE, "picks_skip.txt")
+QUOTES = os.path.join(HERE, "quotes.txt")
 W, H = 180, 260  # every tile image is forced to this, so the row lines up
 
 # AniList's genre_in means "has ALL of these", so "has ANY of these" is checked here instead
@@ -133,9 +135,7 @@ def load_books(path=BOOKS):
 
 def pick_book(day):
     books = load_books()
-    order = list(range(len(books)))
-    rng(day, "book").shuffle(order)
-    for i in order[:3]:  # a book Open Library has no cover for is skipped, not shown blank
+    for i in cycle(books, day, "books")[:3]:  # a book Open Library has no cover for is skipped, not shown blank
         cat, title, author = books[i]
         q = urllib.parse.urlencode({"title": title, "author": author, "limit": 5,
                                     "fields": "key,title,cover_i,first_publish_year,ratings_average"})
@@ -162,38 +162,54 @@ def pick_book(day):
     raise ValueError("no cover found for three books in a row")
 
 
-def quote_svg(text, author):
-    """A 360x520 neon card (shown at 180x260), same look as the banners."""
+def quote_svg(text, who, work):
+    """A 360x520 card (shown at 180x260). Deliberately NOT neon: ink-and-paper, so the words
+    carry it. Charcoal ground, ivory serif italic, muted gold, a faint enso and film grain."""
     n = len(text)
-    size = 30 if n <= 70 else 25 if n <= 120 else 21 if n <= 180 else 18
-    lines = textwrap.wrap(text, width=int(560 / size))
-    lh = size * 1.3
-    y0 = 250 - lh * (len(lines) - 1) / 2
+    size = 32 if n <= 50 else 27 if n <= 100 else 24 if n <= 150 else 21
+    lines = textwrap.wrap(text, width=int(520 / size))
+    lh = size * 1.35
+    y0 = 240 - lh * (len(lines) - 1) / 2
+    yend = y0 + lh * (len(lines) - 1)
     tspans = "".join(f'<tspan x="180" y="{y0 + i * lh:.0f}">{esc(l)}</tspan>' for i, l in enumerate(lines))
-    return f'''<svg xmlns="http://www.w3.org/2000/svg" width="360" height="520" viewBox="0 0 360 520">
-<defs><linearGradient id="bg" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#0b0322"/><stop offset="1" stop-color="#2a0838"/></linearGradient>
-<filter id="glow" x="-50%" y="-50%" width="200%" height="200%"><feGaussianBlur stdDeviation="3" result="b"/><feMerge><feMergeNode in="b"/><feMergeNode in="SourceGraphic"/></feMerge></filter>
-<pattern id="scan" width="4" height="4" patternUnits="userSpaceOnUse"><rect width="4" height="1" fill="#000" opacity="0.3"/></pattern></defs>
-<rect width="360" height="520" rx="18" fill="url(#bg)"/>
-<text x="40" y="150" font-family="Georgia, serif" font-size="180" fill="#ff2bd6" opacity="0.18">“</text>
-<text text-anchor="middle" font-family="'Segoe UI', Helvetica, Arial, sans-serif" font-size="{size}" font-weight="600" fill="#f4f7ff">{tspans}</text>
-<rect x="150" y="{y0 + lh * (len(lines) - 1) + 30:.0f}" width="60" height="3" fill="#7df9ff" filter="url(#glow)"/>
-<text x="180" y="{y0 + lh * (len(lines) - 1) + 66:.0f}" text-anchor="middle" font-family="Consolas, 'Courier New', monospace" font-size="17" letter-spacing="2" fill="#7df9ff">{esc(author.upper())}</text>
-<text x="180" y="490" text-anchor="middle" font-family="'Yu Gothic', 'Meiryo', sans-serif" font-size="14" letter-spacing="8" fill="#ff4fd8" opacity="0.8">今日の言葉</text>
-<rect width="360" height="520" rx="18" fill="url(#scan)"/>
-<g stroke="#7df9ff" stroke-width="2.5" fill="none" opacity="0.8"><path d="M14,40 V14 H40"/><path d="M320,14 H346 V40"/><path d="M14,480 V506 H40"/><path d="M320,506 H346 V480"/></g>
+    return f"""<svg xmlns="http://www.w3.org/2000/svg" width="360" height="520" viewBox="0 0 360 520">
+<defs><linearGradient id="bg" x1="0" y1="0" x2="0.4" y2="1"><stop offset="0" stop-color="#16171d"/><stop offset="1" stop-color="#211d24"/></linearGradient>
+<filter id="grain"><feTurbulence type="fractalNoise" baseFrequency="0.9" numOctaves="2" seed="3"/><feColorMatrix values="0 0 0 0 1  0 0 0 0 1  0 0 0 0 1  0 0 0 0.07 0"/></filter>
+<clipPath id="card"><rect width="360" height="520" rx="18"/></clipPath></defs>
+<g clip-path="url(#card)">
+<rect width="360" height="520" fill="url(#bg)"/>
+<circle cx="180" cy="{(y0 + yend) / 2:.0f}" r="132" fill="none" stroke="#c9a96e" stroke-width="14" stroke-linecap="round" stroke-dasharray="760 70" transform="rotate(-70 180 {(y0 + yend) / 2:.0f})" opacity="0.09"/>
+<text x="180" y="{y0 - size - 34:.0f}" text-anchor="middle" font-family="Georgia, 'Times New Roman', serif" font-size="64" fill="#c9a96e" opacity="0.55">“</text>
+<text text-anchor="middle" font-family="Georgia, 'Times New Roman', serif" font-style="italic" font-size="{size}" fill="#ece6da">{tspans}</text>
+<rect x="160" y="{yend + 30:.0f}" width="40" height="1.5" fill="#c9a96e" opacity="0.7"/>
+<text x="180" y="{yend + 60:.0f}" text-anchor="middle" font-family="'Segoe UI', Helvetica, Arial, sans-serif" font-size="14" letter-spacing="3" fill="#d8d2c4">{esc(who.upper())}</text>
+<text x="180" y="{yend + 82:.0f}" text-anchor="middle" font-family="Georgia, 'Times New Roman', serif" font-style="italic" font-size="14" fill="#9c968a">{esc(work)}</text>
+<text x="180" y="492" text-anchor="middle" font-family="'Yu Gothic', 'Meiryo', 'Hiragino Sans', sans-serif" font-size="12" letter-spacing="6" fill="#8a8577">今日の言葉</text>
+<rect x="10" y="10" width="340" height="500" rx="12" fill="none" stroke="#ffffff" stroke-opacity="0.06"/>
+<rect width="360" height="520" filter="url(#grain)"/>
+</g>
 </svg>
-'''
+"""
+
+
+def cycle(items, day, salt):
+    """items[k] for today, walking a fixed shuffled order one step per day, so nothing
+    repeats until the whole list has been shown (a plain daily random pick would)."""
+    order = list(range(len(items)))
+    random.Random(salt).shuffle(order)
+    return order[day.toordinal() % len(items):] + order[:day.toordinal() % len(items)]
+
+
+def load_quotes(path=QUOTES):
+    return [tuple(x.strip() for x in row.split("|")) for row in load_lines(path)]
 
 
 def pick_quote(day):
-    q = get_json("https://zenquotes.io/api/today")[0]
-    text, author = html.unescape(q["q"]).strip(), html.unescape(q["a"]).strip()
-    if not text or "too many requests" in text.lower():
-        raise ValueError(f"ZenQuotes gave no quote: {text!r}")
-    return {"svg": quote_svg(text, author), "img": f"{DAILY_DIR}/quote-{day.isoformat()}.svg",
-            "url": "https://zenquotes.io/", "title": author, "facts": ["via ZenQuotes"],
-            "label": "\U0001F4AC QUOTE", "alt": f"“{text}” — {author}"}
+    text, who, work = load_quotes()[cycle(load_quotes(), day, "quotes")[0]]
+    img = f"{DAILY_DIR}/quote-{day.isoformat()}.svg"
+    return {"svg": quote_svg(text, who, work), "img": img, "url": img,
+            "title": who, "facts": [work], "label": "\U0001F4AC QUOTE",
+            "alt": f"“{text}” — {who}, {work}"}
 
 
 def tile(p):
@@ -239,8 +255,13 @@ def _self_check():
     assert t["title"] == "R" and t["facts"] == ["⭐ 8.5", "2020", "1 ep", "Action", "Sci-Fi"]
     assert plural(1, "ep") == "1 ep" and plural(12, "ch") == "12 chs"
 
-    svg = quote_svg('Be "bold" & <kind>' + " word" * 40, "Someone")
-    assert "&quot;bold&quot; &amp; &lt;kind&gt;" in svg and "SOMEONE" in svg and svg.count("<tspan") > 3
+    svg = quote_svg('Be "bold" & <kind>' + " word" * 30, "Someone", "A Work")
+    assert "&quot;bold&quot; &amp; &lt;kind&gt;" in svg and "SOMEONE" in svg and "A Work" in svg
+    assert svg.count("<tspan") > 3 and "#ff2bd6" not in svg  # the calm card, not the neon one
+    quotes = load_quotes()
+    assert len(quotes) >= 40 and all(len(q) == 3 and all(q) and len(q[0].split()) <= 40 for q in quotes)
+    seen = {cycle(quotes, d + datetime.timedelta(i), "quotes")[0] for i in range(len(quotes))}
+    assert len(seen) == len(quotes)  # a full lap shows every quote exactly once
 
     p = {"img": "https://s4.anilist.co/c.jpg", "url": "https://anilist.co/anime/1", "title": 'A "B"',
          "facts": ["⭐ 8.1", "2009"], "label": "\U0001F3AC ANIME"}
