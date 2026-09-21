@@ -53,6 +53,9 @@ SPACE:START and SPACE:END markers is machine-written; edit around them, never in
 <h3 align="left">🛰️ From orbit today:</h3>
 
 <!-- SPACE:START -->
+<details>
+<summary>📰 <b><a href="https://www.esa.int/ESA_Multimedia/Images/2026/09/Pikachu_in_the_Cupola">Pikachu in the Cupola</a></b> <sub>ESA, 2026-09-21</sub></summary>
+
 <table>
 <tr>
 <td width="50%" valign="top" align="center">
@@ -60,21 +63,24 @@ SPACE:START and SPACE:END markers is machine-written; edit around them, never in
 <br/><br/>
 <b>Analemma over the Callanish Stones</b>
 <br/>
-<sub>If you went outside at the same time every day and took a picture that included the Sun, how would the Sun's position change? A visual answer to that...</sub>
+<sub>If you went outside at the same time every day and took a picture that included the Sun, how would the Sun&#x27;s position change? A visual answer to that... <a href="https://apod.nasa.gov/apod/ap260920.html">more →</a></sub>
 <br/><br/>
 <sub><i>NASA APOD, 2026-09-20</i></sub>
 </td>
 <td width="50%" valign="top" align="center">
-<a href="https://epic.gsfc.nasa.gov/"><img src="https://epic.gsfc.nasa.gov/archive/natural/2026/09/17/png/epic_1b_20260917214501.png" alt="Earth today" width="100%" /></a>
+<a href="https://epic.gsfc.nasa.gov/"><img src="https://epic.gsfc.nasa.gov/archive/natural/2026/09/17/jpg/epic_1b_20260917000831.jpg" alt="Earth, 4 days ago" width="48%" />
+<img src="https://epic.gsfc.nasa.gov/archive/natural/2026/09/17/jpg/epic_1b_20260917072041.jpg" alt="Earth, 4 days ago" width="48%" />
+<img src="https://epic.gsfc.nasa.gov/archive/natural/2026/09/17/jpg/epic_1b_20260917143252.jpg" alt="Earth, 4 days ago" width="48%" />
+<img src="https://epic.gsfc.nasa.gov/archive/natural/2026/09/17/jpg/epic_1b_20260917214501.jpg" alt="Earth, 4 days ago" width="48%" /></a>
 <br/><br/>
-<b>Earth today</b>
+<b>Earth, 4 days ago</b>
 <br/>
-<sub>This image was taken by NASA's EPIC camera onboard the NOAA DSCOVR spacecraft</sub>
+<sub>Full-disc Earth from DSCOVR, 1.59 million km out. 4 frames from 2026-09-17; the latest is centred on 6°N 146°W.</sub>
 <br/><br/>
 <sub><i>NASA EPIC aboard DSCOVR, 2026-09-17</i></sub>
 </td>
 </tr>
 </table>
 
-📰 **[Pikachu in the Cupola](https://www.esa.int/ESA_Multimedia/Images/2026/09/Pikachu_in_the_Cupola)** <sub>ESA, 2026-09-21</sub>
+</details>
 <!-- SPACE:END -->
