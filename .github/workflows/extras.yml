@@ -14,9 +14,6 @@ on:
   schedule:
     - cron: "47 6 * * *"
   workflow_dispatch: {}
-  # TEMPORARY: lets the branch preview build before this file exists on main. Remove on merge.
-  push:
-    branches: [space-v2]
 
 permissions:
   contents: write
