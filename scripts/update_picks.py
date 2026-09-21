@@ -5,6 +5,7 @@
     READ    AniList, same filter, rotating by date: manga, manhwa, manhua, light/web novel
     BOOK    a random line of scripts/books.txt (hand-picked), cover from Open Library
     QUOTE   a line of scripts/quotes.txt (hand-picked), drawn by this script as a card
+            whose look rotates daily through six calm themes (THEMES)
 
 Taste filter, for a 22-year-old engineer's profile that recruiters also read: scored at
 least ~7/10 on AniList, at least one of the genres in COOL, nothing ecchi, adult,
@@ -162,30 +163,82 @@ def pick_book(day):
     raise ValueError("no cover found for three books in a row")
 
 
-def quote_svg(text, who, work):
-    """A 360x520 card (shown at 180x260). Deliberately NOT neon: ink-and-paper, so the words
-    carry it. Charcoal ground, ivory serif italic, muted gold, a faint enso and film grain."""
+def _stars(seed, n=40):
+    r = random.Random(seed)
+    return "".join(f'<circle cx="{r.uniform(15, 345):.0f}" cy="{r.uniform(15, 505):.0f}" r="{r.choice([0.6, 0.9, 1.3])}" '
+                   f'fill="#dfe8ff" opacity="{r.uniform(0.15, 0.55):.2f}"/>' for _ in range(n))
+
+
+def _bamboo():
+    out = []
+    for x, h, o in ((34, 520, 0.10), (58, 460, 0.07), (318, 520, 0.09), (296, 430, 0.06)):
+        out.append(f'<rect x="{x}" y="{520 - h}" width="7" height="{h}" rx="3" fill="#8fbf9f" opacity="{o}"/>')
+        out += [f'<rect x="{x - 1}" y="{y}" width="9" height="2" fill="#8fbf9f" opacity="{o + 0.05:.2f}"/>'
+                for y in range(520 - h + 60, 520, 90)]
+    return "".join(out)
+
+
+def _waves():
+    arcs = []
+    for row, y in enumerate(range(400, 560, 22)):
+        for x in range(-20 + (row % 2) * 22, 400, 44):
+            arcs += [f'<path d="M{x - rr},{y} a{rr},{rr} 0 0 1 {2 * rr},0" fill="none" stroke="#9fc4d6" '
+                     f'stroke-width="1.2" opacity="0.13"/>' for rr in (20, 14, 8)]
+    return "".join(arcs)
+
+
+# Six calm looks, one per day in turn. Each: background top/bottom, quote text, accent,
+# name line, work line, and a motif drawn behind the words (given the text's centre y).
+THEMES = [
+    ("ink", "#16171d", "#211d24", "#ece6da", "#c9a96e", "#d8d2c4", "#9c968a",
+     lambda cy: f'<circle cx="180" cy="{cy}" r="132" fill="none" stroke="#c9a96e" stroke-width="14" stroke-linecap="round" '
+                f'stroke-dasharray="760 70" transform="rotate(-70 180 {cy})" opacity="0.09"/>'),
+    ("midnight", "#0b1224", "#17203a", "#e6ecf7", "#9db4d8", "#cfd8ea", "#8793ab",
+     lambda cy: _stars(7) + '<circle cx="282" cy="78" r="30" fill="#e8eefc" opacity="0.85"/>'
+                            '<circle cx="294" cy="70" r="27" fill="#0f1830"/>'),
+    ("dusk", "#2a1c2e", "#4a2a38", "#f6e9dc", "#e7b98f", "#f0dccb", "#b89a92",
+     lambda cy: '<circle cx="180" cy="560" r="150" fill="#e7b98f" opacity="0.13"/>'
+                '<circle cx="180" cy="560" r="105" fill="#f0c9a0" opacity="0.12"/>'),
+    ("washi", "#f1ebdf", "#e6ddcd", "#2b2724", "#b0413e", "#3a3431", "#7d746b",
+     lambda cy: '<rect x="296" y="428" width="38" height="38" rx="4" fill="none" stroke="#b0413e" stroke-width="3" opacity="0.8"/>'
+                '<text x="315" y="455" text-anchor="middle" font-family="\'Yu Mincho\', \'MS Mincho\', serif" font-size="22" fill="#b0413e" opacity="0.85">言</text>'),
+    ("bamboo", "#0f1f1a", "#18302a", "#e8f0ea", "#8fbf9f", "#d3e2d7", "#8aa596",
+     lambda cy: _bamboo()),
+    ("tide", "#132028", "#1d3440", "#e6f0f4", "#9fc4d6", "#d0e2ea", "#88a3b0",
+     lambda cy: _waves()),
+]
+
+
+def theme_for(day):
+    return THEMES[day.toordinal() % len(THEMES)]
+
+
+def quote_svg(text, who, work, theme=THEMES[0]):
+    """A 360x520 card (shown at 180x260). Deliberately NOT neon: calm, so the words carry
+    it. The look rotates daily through THEMES; the layout is the same in all of them."""
+    _, top, bottom, ink, accent, name, sub, motif = theme
     n = len(text)
     size = 32 if n <= 50 else 27 if n <= 100 else 24 if n <= 150 else 21
     lines = textwrap.wrap(text, width=int(520 / size))
     lh = size * 1.35
     y0 = 240 - lh * (len(lines) - 1) / 2
     yend = y0 + lh * (len(lines) - 1)
+    cy = round((y0 + yend) / 2)
     tspans = "".join(f'<tspan x="180" y="{y0 + i * lh:.0f}">{esc(l)}</tspan>' for i, l in enumerate(lines))
     return f"""<svg xmlns="http://www.w3.org/2000/svg" width="360" height="520" viewBox="0 0 360 520">
-<defs><linearGradient id="bg" x1="0" y1="0" x2="0.4" y2="1"><stop offset="0" stop-color="#16171d"/><stop offset="1" stop-color="#211d24"/></linearGradient>
-<filter id="grain"><feTurbulence type="fractalNoise" baseFrequency="0.9" numOctaves="2" seed="3"/><feColorMatrix values="0 0 0 0 1  0 0 0 0 1  0 0 0 0 1  0 0 0 0.07 0"/></filter>
+<defs><linearGradient id="bg" x1="0" y1="0" x2="0.4" y2="1"><stop offset="0" stop-color="{top}"/><stop offset="1" stop-color="{bottom}"/></linearGradient>
+<filter id="grain"><feTurbulence type="fractalNoise" baseFrequency="0.9" numOctaves="2" seed="3"/><feColorMatrix values="0 0 0 0 1  0 0 0 0 1  0 0 0 0 1  0 0 0 0.06 0"/></filter>
 <clipPath id="card"><rect width="360" height="520" rx="18"/></clipPath></defs>
 <g clip-path="url(#card)">
 <rect width="360" height="520" fill="url(#bg)"/>
-<circle cx="180" cy="{(y0 + yend) / 2:.0f}" r="132" fill="none" stroke="#c9a96e" stroke-width="14" stroke-linecap="round" stroke-dasharray="760 70" transform="rotate(-70 180 {(y0 + yend) / 2:.0f})" opacity="0.09"/>
-<text x="180" y="{y0 - size - 34:.0f}" text-anchor="middle" font-family="Georgia, 'Times New Roman', serif" font-size="64" fill="#c9a96e" opacity="0.55">“</text>
-<text text-anchor="middle" font-family="Georgia, 'Times New Roman', serif" font-style="italic" font-size="{size}" fill="#ece6da">{tspans}</text>
-<rect x="160" y="{yend + 30:.0f}" width="40" height="1.5" fill="#c9a96e" opacity="0.7"/>
-<text x="180" y="{yend + 60:.0f}" text-anchor="middle" font-family="'Segoe UI', Helvetica, Arial, sans-serif" font-size="14" letter-spacing="3" fill="#d8d2c4">{esc(who.upper())}</text>
-<text x="180" y="{yend + 82:.0f}" text-anchor="middle" font-family="Georgia, 'Times New Roman', serif" font-style="italic" font-size="14" fill="#9c968a">{esc(work)}</text>
-<text x="180" y="492" text-anchor="middle" font-family="'Yu Gothic', 'Meiryo', 'Hiragino Sans', sans-serif" font-size="12" letter-spacing="6" fill="#8a8577">今日の言葉</text>
-<rect x="10" y="10" width="340" height="500" rx="12" fill="none" stroke="#ffffff" stroke-opacity="0.06"/>
+{motif(cy)}
+<text x="180" y="{y0 - size - 34:.0f}" text-anchor="middle" font-family="Georgia, 'Times New Roman', serif" font-size="64" fill="{accent}" opacity="0.6">“</text>
+<text text-anchor="middle" font-family="Georgia, 'Times New Roman', serif" font-style="italic" font-size="{size}" fill="{ink}">{tspans}</text>
+<rect x="160" y="{yend + 30:.0f}" width="40" height="1.5" fill="{accent}" opacity="0.8"/>
+<text x="180" y="{yend + 60:.0f}" text-anchor="middle" font-family="'Segoe UI', Helvetica, Arial, sans-serif" font-size="14" letter-spacing="3" fill="{name}">{esc(who.upper())}</text>
+<text x="180" y="{yend + 82:.0f}" text-anchor="middle" font-family="Georgia, 'Times New Roman', serif" font-style="italic" font-size="14" fill="{sub}">{esc(work)}</text>
+<text x="180" y="492" text-anchor="middle" font-family="'Yu Gothic', 'Meiryo', 'Hiragino Sans', sans-serif" font-size="12" letter-spacing="6" fill="{sub}">今日の言葉</text>
+<rect x="10" y="10" width="340" height="500" rx="12" fill="none" stroke="{ink}" stroke-opacity="0.07"/>
 <rect width="360" height="520" filter="url(#grain)"/>
 </g>
 </svg>
@@ -207,7 +260,7 @@ def load_quotes(path=QUOTES):
 def pick_quote(day):
     text, who, work = load_quotes()[cycle(load_quotes(), day, "quotes")[0]]
     img = f"{DAILY_DIR}/quote-{day.isoformat()}.svg"
-    return {"svg": quote_svg(text, who, work), "img": img, "url": img,
+    return {"svg": quote_svg(text, who, work, theme_for(day)), "img": img, "url": img,
             "title": who, "facts": [work], "label": "\U0001F4AC QUOTE",
             "alt": f"“{text}” — {who}, {work}"}
 
@@ -258,6 +311,10 @@ def _self_check():
     svg = quote_svg('Be "bold" & <kind>' + " word" * 30, "Someone", "A Work")
     assert "&quot;bold&quot; &amp; &lt;kind&gt;" in svg and "SOMEONE" in svg and "A Work" in svg
     assert svg.count("<tspan") > 3 and "#ff2bd6" not in svg  # the calm card, not the neon one
+    looks = {theme_for(d + datetime.timedelta(i))[0] for i in range(len(THEMES))}
+    assert len(looks) == len(THEMES)  # every look turns up within one lap of days
+    for t in THEMES:
+        assert "<svg" in quote_svg("Arise.", "Sung Jinwoo", "Solo Leveling", t)
     quotes = load_quotes()
     assert len(quotes) >= 40 and all(len(q) == 3 and all(q) and len(q[0].split()) <= 40 for q in quotes)
     seen = {cycle(quotes, d + datetime.timedelta(i), "quotes")[0] for i in range(len(quotes))}
