@@ -50,7 +50,7 @@ SPACE SECTION. Filled daily by .github/workflows/space.yml. Everything between t
 SPACE:START and SPACE:END markers is machine-written; edit around them, never inside.
 -->
 
-<p align="center"><img src="assets/orbit.svg" alt="🛰️ From orbit today" width="100%" /></p>
+<p align="center"><img src="assets/orbit-neon.svg" alt="🛰️ From orbit today" width="100%" /></p>
 
 <!-- SPACE:START -->
 <table>
