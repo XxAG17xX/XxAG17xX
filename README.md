@@ -142,29 +142,4 @@
 
 <p align="center"><img src="assets/footer-neon.svg" alt="End of transmission" width="100%" /></p>
 
-<!--
-NOTES, 2026-09-09.
-
-ICONS. Django, Dart and Flask removed at Kartik's request; everything else from the
-generator is kept, plus PyTorch and Oracle which were missing and are real. The 17
-skillicons ids were each fetched individually and all returned real content, so none
-render as a blank tile. The <a> wrappers the generator adds are deliberately gone: it
-points every icon at developer.mozilla.org/en-US/docs/Web/<tool>, which 404s for aws,
-unreal, unity and most of the rest. Verified 404.
-
-STATS CARDS. Both github-readme-stats.vercel.app URLs returned HTTP 503 on every attempt
-across two days, which is why they showed as broken images. That is a free shared
-instance and is chronically rate-limited. The streak card is a different service, returns
-200, and is kept. Re-check occasionally.
-
-SPACE SECTION. Filled daily by .github/workflows/space.yml. Everything between the
-SPACE:START and SPACE:END markers is machine-written; edit around them, never inside.
-
-DAILY PICKS. Filled daily by .github/workflows/extras.yml (scripts/update_picks.py): an
-anime and a read (manga/manhwa/manhua/novel) from AniList, a book from scripts/books.txt and
-a quote from scripts/quotes.txt, which the script draws as assets/daily/quote-<date>.svg.
-Never edit between PICKS:START and PICKS:END. The snake image is built by the same workflow
-and lives on the `output` branch, not main. The banners, divider, footer and the five icon
-tiles in assets/ are hand-made SVGs; the tiles copy skillicons' dark style for the tools
-skillicons does not have.
--->
+<!-- © 2026 Kartik Gupta. All rights reserved; see LICENSE. The SPACE and PICKS blocks are machine-written daily. -->
