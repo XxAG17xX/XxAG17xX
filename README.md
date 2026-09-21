@@ -53,9 +53,6 @@ SPACE:START and SPACE:END markers is machine-written; edit around them, never in
 <p align="center"><img src="assets/orbit.svg" alt="🛰️ From orbit today" width="100%" /></p>
 
 <!-- SPACE:START -->
-<details open>
-<summary>📰 <b><a href="https://www.esa.int/ESA_Multimedia/Images/2026/09/Pikachu_in_the_Cupola">Pikachu in the Cupola</a></b> <sub>ESA, 2026-09-21</sub></summary>
-
 <table>
 <tr>
 <td width="50%" valign="top" align="center">
@@ -82,5 +79,5 @@ SPACE:START and SPACE:END markers is machine-written; edit around them, never in
 </tr>
 </table>
 
-</details>
+<p align="center">📰 <b>Today in spaceflight:</b> <a href="https://www.esa.int/ESA_Multimedia/Images/2026/09/Pikachu_in_the_Cupola">Pikachu in the Cupola</a> <sub>ESA, 2026-09-21</sub></p>
 <!-- SPACE:END -->

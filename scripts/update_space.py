@@ -4,10 +4,9 @@ day's spaceflight headline underneath.
 
 Layout
 ------
-The headline is the <summary> of a <details open> block; the pictures sit inside it,
-open by default; one click folds it to a single line. Inside: a two-column HTML table, so
-each picture keeps its own caption. GitHub allows table, details, summary, img, a, b, br
-and sub in Markdown, so this renders on the profile. The Earth cell holds up to four EPIC
+A two-column HTML table, so each picture keeps its own caption, then the headline on its
+own labelled line underneath. Always shown, nothing to click open. GitHub allows table,
+img, a, b, br and sub in Markdown, so this renders on the profile. The Earth cell holds up to four EPIC
 frames from the same day (a 2x2 grid), the APOD caption ends with a "more" link to the APOD
 page. If only one picture can be fetched, it falls back to a single centred image rather
 than a lopsided table. If none can, the headline alone carries the section.
@@ -272,19 +271,14 @@ def render(pics, news):
             img = f'<a href="{guard(p["link"])}">{img}</a>'
         parts.append(f'<p align="center">{img}<br/><b>{esc(p["title"])}</b><br/>'
                      f'<sub>{esc(p["caption"])}</sub><br/><sub><i>{esc(p["credit"])}</i></sub></p>')
-    headline = ""
     if news:
-        headline = (f'\U0001F4F0 <b><a href="{news["url"]}">{esc(news["title"])}</a></b> '
-                    f'<sub>{esc(news["site"])}, {news["date"]}</sub>')
-    if not parts and not headline:
-        raise SystemExit("every source failed")
+        # labelled and below the pictures, so it never reads as their title
+        parts.append(f'<p align="center">\U0001F4F0 <b>Today in spaceflight:</b> '
+                     f'<a href="{news["url"]}">{esc(news["title"])}</a> '
+                     f'<sub>{esc(news["site"])}, {news["date"]}</sub></p>')
     if not parts:
-        return f"<p>{headline}</p>"
-    body = "\n\n".join(parts)
-    if not headline:
-        return body
-    # summary = headline; open by default, a click folds it to one line
-    return f"<details open>\n<summary>{headline}</summary>\n\n{body}\n\n</details>"
+        raise SystemExit("every source failed")
+    return "\n\n".join(parts)
 
 
 def build():
@@ -348,7 +342,7 @@ def _self_check():
 
     two = render([p, dict(p, img="https://epic.gsfc.nasa.gov/b.jpg")], n)
     assert two.count("<td") == 2 and "<table>" in two and "\U0001F4F0" in two
-    assert two.startswith("<details open>") and "<summary>" in two and two.endswith("</details>")
+    assert "<details" not in two and two.index("<table>") < two.index("Today in spaceflight")
 
     four = dict(p, imgs=[f"https://epic.gsfc.nasa.gov/{i}.jpg" for i in range(4)])
     assert render([p, four], n).count("<img") == 5
@@ -357,7 +351,7 @@ def _self_check():
     assert "<table>" not in one and 'width="440"' in one
 
     none_ = render([], n)
-    assert "<img" not in none_ and "\U0001F4F0" in none_ and "<details" not in none_
+    assert "<img" not in none_ and "\U0001F4F0" in none_
 
     assert "more \u2192" in cell(dict(p, more="https://apod.nasa.gov/apod/ap260920.html"))
     assert "&quot;" in cell(dict(p, title='A "quoted" title')) and '"quoted"' not in cell(dict(p, title='A "quoted" title'))
