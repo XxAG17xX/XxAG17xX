@@ -113,28 +113,28 @@
 <table>
 <tr>
 <td width="25%" valign="top" align="center">
-<a href="https://anilist.co/anime/20623"><img src="https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx20623-dUARfggnNDOe.jpg" alt="Parasyte -the maxim-" width="180" height="260" /></a>
+<a href="https://anilist.co/anime/110277"><img src="https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx110277-sKUNXAsWMNFw.jpg" alt="Attack on Titan Final Season" width="180" height="260" /></a>
 <br/><sub><b>🎬 ANIME</b></sub>
-<br/><b><a href="https://anilist.co/anime/20623">Parasyte -the maxim-</a></b>
-<br/><sub>⭐ 8.1 · 2014 · 24 eps · Action · Psychological</sub>
+<br/><b><a href="https://anilist.co/anime/110277">Attack on Titan Final Season</a></b>
+<br/><sub>⭐ 8.7 · 2020 · 16 eps · Action · Mystery</sub>
 </td>
 <td width="25%" valign="top" align="center">
-<a href="https://anilist.co/manga/97830"><img src="https://s4.anilist.co/file/anilistcdn/media/manga/cover/large/bx97830-Xl76R9pzLWOE.jpg" alt="To Your Eternity" width="180" height="260" /></a>
-<br/><sub><b>📖 MANGA</b></sub>
-<br/><b><a href="https://anilist.co/manga/97830">To Your Eternity</a></b>
-<br/><sub>⭐ 7.9 · 2016 · 202 chs · Adventure · Psychological</sub>
+<a href="https://anilist.co/manga/139572"><img src="https://s4.anilist.co/file/anilistcdn/media/manga/cover/large/bx139572-e3vwLcOVQISn.jpg" alt="The Lone Necromancer" width="180" height="260" /></a>
+<br/><sub><b>📖 MANHWA</b></sub>
+<br/><b><a href="https://anilist.co/manga/139572">The Lone Necromancer</a></b>
+<br/><sub>⭐ 7.1 · 2021 · 223 chs · Action</sub>
 </td>
 <td width="25%" valign="top" align="center">
-<a href="https://openlibrary.org/works/OL19677694W"><img src="https://covers.openlibrary.org/b/id/8814451-L.jpg" alt="Endure" width="180" height="260" /></a>
+<a href="https://openlibrary.org/works/OL17930368W"><img src="https://covers.openlibrary.org/b/id/12539702-L.jpg" alt="Atomic Habits" width="180" height="260" /></a>
 <br/><sub><b>📚 MINDSET</b></sub>
-<br/><b><a href="https://openlibrary.org/works/OL19677694W">Endure</a></b>
-<br/><sub>Alex Hutchinson · 2018</sub>
+<br/><b><a href="https://openlibrary.org/works/OL17930368W">Atomic Habits</a></b>
+<br/><sub>James Clear · 2016 · ⭐ 8.0</sub>
 </td>
 <td width="25%" valign="top" align="center">
-<a href="assets/daily/quote-2026-09-21.svg"><img src="assets/daily/quote-2026-09-21.svg" alt="“I am nobody. And I have nothing. So let&#x27;s change everything.” — Sunny, Shadow Slave" width="180" height="260" /></a>
+<a href="assets/daily/quote-2026-09-22.svg"><img src="assets/daily/quote-2026-09-22.svg" alt="“Only perseverance remains in my heart.” — Fang Yuan, Reverend Insanity" width="180" height="260" /></a>
 <br/><sub><b>💬 QUOTE</b></sub>
-<br/><b><a href="assets/daily/quote-2026-09-21.svg">Sunny</a></b>
-<br/><sub>Shadow Slave</sub>
+<br/><b><a href="assets/daily/quote-2026-09-22.svg">Fang Yuan</a></b>
+<br/><sub>Reverend Insanity</sub>
 </td>
 </tr>
 </table>
