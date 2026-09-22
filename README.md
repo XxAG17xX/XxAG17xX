@@ -74,21 +74,21 @@
 <table>
 <tr>
 <td width="50%" valign="top" align="center">
-<a href="https://apod.nasa.gov/apod/image/2609/Cocoon_Czerski_3000.jpg"><img src="https://apod.nasa.gov/apod/image/2609/Cocoon_Czerski_1080.jpg" alt="Cocoon Nebula Wide Field" width="100%" /></a>
+<a href="https://apod.nasa.gov/apod/image/2609/PlaneIssSpots_Horalek_1500.jpg"><img src="https://apod.nasa.gov/apod/image/2609/PlaneIssSpots_Horalek_960.jpg" alt="Chance Triple Alignment: Plane, Space Station, Sun" width="100%" /></a>
 <br/><br/>
-<b>Cocoon Nebula Wide Field</b>
+<b>Chance Triple Alignment: Plane, Space Station, Sun</b>
 <br/>
-<sub>When does a nebula look like a comet? In this crowded starfield covering over two degrees within the high-flying constellation of the Swan (Cygnus)... <a href="https://apod.nasa.gov/apod/ap260921.html">more →</a></sub>
+<sub>This shot captured an unexpected silhouette. Which is it? It isn&#x27;t the sunspots, the small dark regions caused by concentrated magnetic fields... <a href="https://apod.nasa.gov/apod/ap260922.html">more →</a></sub>
 <br/><br/>
-<sub><i>NASA APOD, 2026-09-21</i></sub>
+<sub><i>NASA APOD, 2026-09-22</i></sub>
 </td>
 <td width="50%" valign="top" align="center">
-<a href="https://epic.gsfc.nasa.gov/"><img src="https://epic.gsfc.nasa.gov/archive/natural/2026/09/19/jpg/epic_1b_20260919004554.jpg" alt="Earth, 2 days ago" width="48%" />
-<img src="https://epic.gsfc.nasa.gov/archive/natural/2026/09/19/jpg/epic_1b_20260919075804.jpg" alt="Earth, 2 days ago" width="48%" />
-<img src="https://epic.gsfc.nasa.gov/archive/natural/2026/09/19/jpg/epic_1b_20260919151014.jpg" alt="Earth, 2 days ago" width="48%" />
-<img src="https://epic.gsfc.nasa.gov/archive/natural/2026/09/19/jpg/epic_1b_20260919222224.jpg" alt="Earth, 2 days ago" width="48%" /></a>
+<a href="https://epic.gsfc.nasa.gov/"><img src="https://epic.gsfc.nasa.gov/archive/natural/2026/09/19/jpg/epic_1b_20260919004554.jpg" alt="Earth, 3 days ago" width="48%" />
+<img src="https://epic.gsfc.nasa.gov/archive/natural/2026/09/19/jpg/epic_1b_20260919075804.jpg" alt="Earth, 3 days ago" width="48%" />
+<img src="https://epic.gsfc.nasa.gov/archive/natural/2026/09/19/jpg/epic_1b_20260919151014.jpg" alt="Earth, 3 days ago" width="48%" />
+<img src="https://epic.gsfc.nasa.gov/archive/natural/2026/09/19/jpg/epic_1b_20260919222224.jpg" alt="Earth, 3 days ago" width="48%" /></a>
 <br/><br/>
-<b>Earth, 2 days ago</b>
+<b>Earth, 3 days ago</b>
 <br/>
 <sub>Full-disc Earth from DSCOVR, 1.59 million km out. 4 frames from 2026-09-19; the latest is centred on 6°N 156°W.</sub>
 <br/><br/>
@@ -99,8 +99,8 @@
 
 <table>
 <tr>
-<td width="40%" valign="middle"><a href="https://www.esa.int/ESA_Multimedia/Images/2026/09/Pikachu_in_the_Cupola"><img src="https://www.esa.int/var/esa/storage/images/esa_multimedia/images/2026/09/pikachu_in_the_cupola/27530034-1-eng-GB/Pikachu_in_the_Cupola_card_full.jpg" alt="Pikachu in the Cupola" width="100%" /></a></td>
-<td valign="middle">📰 <b>Today in spaceflight</b><br/><br/><b><a href="https://www.esa.int/ESA_Multimedia/Images/2026/09/Pikachu_in_the_Cupola">Pikachu in the Cupola</a></b><br/><br/><sub>ESA, 2026-09-21</sub></td>
+<td width="40%" valign="middle"><a href="https://www.nasa.gov/organizations/oiir/nasa-welcomes-albania-as-newest-artemis-accords-signatory/"><img src="https://www.nasa.gov/wp-content/uploads/2026/09/55541281672-5c736ba51b-k.jpg" alt="NASA Welcomes Albania as Newest Artemis Accords Signatory" width="100%" /></a></td>
+<td valign="middle">📰 <b>Today in spaceflight</b><br/><br/><b><a href="https://www.nasa.gov/organizations/oiir/nasa-welcomes-albania-as-newest-artemis-accords-signatory/">NASA Welcomes Albania as Newest Artemis Accords Signatory</a></b><br/><br/><sub>NASA, 2026-09-21</sub></td>
 </tr>
 </table>
 <!-- SPACE:END -->
