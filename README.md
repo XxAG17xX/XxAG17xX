@@ -113,27 +113,27 @@
 <table>
 <tr>
 <td width="25%" valign="top" align="center">
-<a href="https://anilist.co/anime/110277"><img src="https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx110277-sKUNXAsWMNFw.jpg" alt="Attack on Titan Final Season" width="180" height="260" /></a>
+<a href="https://anilist.co/anime/145139"><img src="https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx145139-rRimpHGWLhym.png" alt="Demon Slayer: Kimetsu no Yaiba Swordsmith Village Arc" width="180" height="260" /></a>
 <br/><sub><b>🎬 ANIME</b></sub>
-<br/><b><a href="https://anilist.co/anime/110277">Attack on Titan Final Season</a></b>
-<br/><sub>⭐ 8.7 · 2020 · 16 eps · Action · Mystery</sub>
+<br/><b><a href="https://anilist.co/anime/145139">Demon Slayer: Kimetsu no Yaiba Swordsmith...</a></b>
+<br/><sub>⭐ 8.0 · 2023 · 11 eps · Action · Adventure</sub>
 </td>
 <td width="25%" valign="top" align="center">
-<a href="https://anilist.co/manga/139572"><img src="https://s4.anilist.co/file/anilistcdn/media/manga/cover/large/bx139572-e3vwLcOVQISn.jpg" alt="The Lone Necromancer" width="180" height="260" /></a>
-<br/><sub><b>📖 MANHWA</b></sub>
-<br/><b><a href="https://anilist.co/manga/139572">The Lone Necromancer</a></b>
-<br/><sub>⭐ 7.1 · 2021 · 223 chs · Action</sub>
+<a href="https://anilist.co/manga/108095"><img src="https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/b108095-xRbDsgGWUbAN.jpg" alt="Heresy" width="180" height="260" /></a>
+<br/><sub><b>📖 MANHUA</b></sub>
+<br/><b><a href="https://anilist.co/manga/108095">Heresy</a></b>
+<br/><sub>⭐ 7.0 · 2018 · 136 chs · Action · Adventure</sub>
 </td>
 <td width="25%" valign="top" align="center">
-<a href="https://openlibrary.org/works/OL17930368W"><img src="https://covers.openlibrary.org/b/id/12539702-L.jpg" alt="Atomic Habits" width="180" height="260" /></a>
-<br/><sub><b>📚 MINDSET</b></sub>
-<br/><b><a href="https://openlibrary.org/works/OL17930368W">Atomic Habits</a></b>
-<br/><sub>James Clear · 2016 · ⭐ 8.0</sub>
+<a href="https://openlibrary.org/works/OL17450797W"><img src="https://covers.openlibrary.org/b/id/7603832-L.jpg" alt="Prince of Thorns" width="180" height="260" /></a>
+<br/><sub><b>📚 FANTASY</b></sub>
+<br/><b><a href="https://openlibrary.org/works/OL17450797W">Prince of Thorns</a></b>
+<br/><sub>Mark Lawrence · 2011 · ⭐ 7.2</sub>
 </td>
 <td width="25%" valign="top" align="center">
-<a href="assets/daily/quote-2026-09-22.svg"><img src="assets/daily/quote-2026-09-22.svg" alt="“Only perseverance remains in my heart.” — Fang Yuan, Reverend Insanity" width="180" height="260" /></a>
+<a href="assets/daily/quote-2026-09-23.svg"><img src="assets/daily/quote-2026-09-23.svg" alt="“Because hardships strengthen resolve, the strong-minded will not be lured by worldly affairs. Today I step on grass; later I shall step on mountains and rivers!” — Fang Yuan, Reverend Insanity" width="180" height="260" /></a>
 <br/><sub><b>💬 QUOTE</b></sub>
-<br/><b><a href="assets/daily/quote-2026-09-22.svg">Fang Yuan</a></b>
+<br/><b><a href="assets/daily/quote-2026-09-23.svg">Fang Yuan</a></b>
 <br/><sub>Reverend Insanity</sub>
 </td>
 </tr>
