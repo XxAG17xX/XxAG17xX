@@ -74,33 +74,33 @@
 <table>
 <tr>
 <td width="50%" valign="top" align="center">
-<a href="https://apod.nasa.gov/apod/image/2609/PlaneIssSpots_Horalek_1500.jpg"><img src="https://apod.nasa.gov/apod/image/2609/PlaneIssSpots_Horalek_960.jpg" alt="Chance Triple Alignment: Plane, Space Station, Sun" width="100%" /></a>
+<a href="https://apod.nasa.gov/apod/image/2609/mcgetchin_after.jpg"><img src="https://apod.nasa.gov/apod/image/2609/mcgetchin_after.jpg" alt="A New Lunar Crater: McGetchin" width="100%" /></a>
 <br/><br/>
-<b>Chance Triple Alignment: Plane, Space Station, Sun</b>
+<b>A New Lunar Crater: McGetchin</b>
 <br/>
-<sub>This shot captured an unexpected silhouette. Which is it? It isn&#x27;t the sunspots, the small dark regions caused by concentrated magnetic fields... <a href="https://apod.nasa.gov/apod/ap260922.html">more →</a></sub>
+<sub>A once-in-a-lifetime crater has appeared on the Moon! A comet or asteroid roughly the size of a humpback whale (approximately 10-20 meters, 30-60... <a href="https://apod.nasa.gov/apod/ap260923.html">more →</a></sub>
 <br/><br/>
-<sub><i>NASA APOD, 2026-09-22</i></sub>
+<sub><i>NASA APOD, 2026-09-23</i></sub>
 </td>
 <td width="50%" valign="top" align="center">
-<a href="https://epic.gsfc.nasa.gov/"><img src="https://epic.gsfc.nasa.gov/archive/natural/2026/09/19/jpg/epic_1b_20260919004554.jpg" alt="Earth, 3 days ago" width="48%" />
-<img src="https://epic.gsfc.nasa.gov/archive/natural/2026/09/19/jpg/epic_1b_20260919075804.jpg" alt="Earth, 3 days ago" width="48%" />
-<img src="https://epic.gsfc.nasa.gov/archive/natural/2026/09/19/jpg/epic_1b_20260919151014.jpg" alt="Earth, 3 days ago" width="48%" />
-<img src="https://epic.gsfc.nasa.gov/archive/natural/2026/09/19/jpg/epic_1b_20260919222224.jpg" alt="Earth, 3 days ago" width="48%" /></a>
+<a href="https://epic.gsfc.nasa.gov/"><img src="https://epic.gsfc.nasa.gov/archive/natural/2026/09/20/jpg/epic_1b_20260920010437.jpg" alt="Earth, 3 days ago" width="48%" />
+<img src="https://epic.gsfc.nasa.gov/archive/natural/2026/09/20/jpg/epic_1b_20260920081646.jpg" alt="Earth, 3 days ago" width="48%" />
+<img src="https://epic.gsfc.nasa.gov/archive/natural/2026/09/20/jpg/epic_1b_20260920152856.jpg" alt="Earth, 3 days ago" width="48%" />
+<img src="https://epic.gsfc.nasa.gov/archive/natural/2026/09/20/jpg/epic_1b_20260920224105.jpg" alt="Earth, 3 days ago" width="48%" /></a>
 <br/><br/>
 <b>Earth, 3 days ago</b>
 <br/>
-<sub>Full-disc Earth from DSCOVR, 1.59 million km out. 4 frames from 2026-09-19; the latest is centred on 6°N 156°W.</sub>
+<sub>Full-disc Earth from DSCOVR, 1.59 million km out. 4 frames from 2026-09-20; the latest is centred on 6°N 161°W.</sub>
 <br/><br/>
-<sub><i>NASA EPIC aboard DSCOVR, 2026-09-19</i></sub>
+<sub><i>NASA EPIC aboard DSCOVR, 2026-09-20</i></sub>
 </td>
 </tr>
 </table>
 
 <table>
 <tr>
-<td width="40%" valign="middle"><a href="https://www.nasa.gov/organizations/oiir/nasa-welcomes-albania-as-newest-artemis-accords-signatory/"><img src="https://www.nasa.gov/wp-content/uploads/2026/09/55541281672-5c736ba51b-k.jpg" alt="NASA Welcomes Albania as Newest Artemis Accords Signatory" width="100%" /></a></td>
-<td valign="middle">📰 <b>Today in spaceflight</b><br/><br/><b><a href="https://www.nasa.gov/organizations/oiir/nasa-welcomes-albania-as-newest-artemis-accords-signatory/">NASA Welcomes Albania as Newest Artemis Accords Signatory</a></b><br/><br/><sub>NASA, 2026-09-21</sub></td>
+<td width="40%" valign="middle"><a href="https://www.esa.int/Space_Safety/Planetary_Defence/First_switch_on_for_ESA-JAXA_Ramses_asteroid_mission"><img src="https://www.esa.int/var/esa/storage/images/esa_multimedia/images/2026/09/first_switch-on_of_the_ramses_spacecraft/27537289-1-eng-GB/First_switch-on_of_the_Ramses_spacecraft_card_full.jpg" alt="First switch on for ESA-JAXA Ramses asteroid mission" width="100%" /></a></td>
+<td valign="middle">📰 <b>Today in spaceflight</b><br/><br/><b><a href="https://www.esa.int/Space_Safety/Planetary_Defence/First_switch_on_for_ESA-JAXA_Ramses_asteroid_mission">First switch on for ESA-JAXA Ramses asteroid mission</a></b><br/><br/><sub>ESA, 2026-09-23</sub></td>
 </tr>
 </table>
 <!-- SPACE:END -->
