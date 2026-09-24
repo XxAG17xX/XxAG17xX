@@ -74,33 +74,33 @@
 <table>
 <tr>
 <td width="50%" valign="top" align="center">
-<a href="https://apod.nasa.gov/apod/image/2609/mcgetchin_after.jpg"><img src="https://apod.nasa.gov/apod/image/2609/mcgetchin_after.jpg" alt="A New Lunar Crater: McGetchin" width="100%" /></a>
+<a href="https://apod.nasa.gov/apod/image/2609/5SNR_Auriga_2000.jpg"><img src="https://apod.nasa.gov/apod/image/2609/5SNR_Auriga_1000.jpg" alt="The Ghosts of Five Supernovas" width="100%" /></a>
 <br/><br/>
-<b>A New Lunar Crater: McGetchin</b>
+<b>The Ghosts of Five Supernovas</b>
 <br/>
-<sub>A once-in-a-lifetime crater has appeared on the Moon! A comet or asteroid roughly the size of a humpback whale (approximately 10-20 meters, 30-60... <a href="https://apod.nasa.gov/apod/ap260923.html">more →</a></sub>
+<sub>The ghosts of five supernovas haunt this extraordinary image. It was acquired at Oukaïmeden Observatory in Morocco with approximately 200 hours of... <a href="https://apod.nasa.gov/apod/ap260924.html">more →</a></sub>
 <br/><br/>
-<sub><i>NASA APOD, 2026-09-23</i></sub>
+<sub><i>NASA APOD, 2026-09-24</i></sub>
 </td>
 <td width="50%" valign="top" align="center">
-<a href="https://epic.gsfc.nasa.gov/"><img src="https://epic.gsfc.nasa.gov/archive/natural/2026/09/20/jpg/epic_1b_20260920010437.jpg" alt="Earth, 3 days ago" width="48%" />
-<img src="https://epic.gsfc.nasa.gov/archive/natural/2026/09/20/jpg/epic_1b_20260920081646.jpg" alt="Earth, 3 days ago" width="48%" />
-<img src="https://epic.gsfc.nasa.gov/archive/natural/2026/09/20/jpg/epic_1b_20260920152856.jpg" alt="Earth, 3 days ago" width="48%" />
-<img src="https://epic.gsfc.nasa.gov/archive/natural/2026/09/20/jpg/epic_1b_20260920224105.jpg" alt="Earth, 3 days ago" width="48%" /></a>
+<a href="https://epic.gsfc.nasa.gov/"><img src="https://epic.gsfc.nasa.gov/archive/natural/2026/09/22/jpg/epic_1b_20260922003633.jpg" alt="Earth, 2 days ago" width="48%" />
+<img src="https://epic.gsfc.nasa.gov/archive/natural/2026/09/22/jpg/epic_1b_20260922074843.jpg" alt="Earth, 2 days ago" width="48%" />
+<img src="https://epic.gsfc.nasa.gov/archive/natural/2026/09/22/jpg/epic_1b_20260922150053.jpg" alt="Earth, 2 days ago" width="48%" />
+<img src="https://epic.gsfc.nasa.gov/archive/natural/2026/09/22/jpg/epic_1b_20260922221303.jpg" alt="Earth, 2 days ago" width="48%" /></a>
 <br/><br/>
-<b>Earth, 3 days ago</b>
+<b>Earth, 2 days ago</b>
 <br/>
-<sub>Full-disc Earth from DSCOVR, 1.59 million km out. 4 frames from 2026-09-20; the latest is centred on 6°N 161°W.</sub>
+<sub>Full-disc Earth from DSCOVR, 1.58 million km out. 4 frames from 2026-09-22; the latest is centred on 6°N 155°W.</sub>
 <br/><br/>
-<sub><i>NASA EPIC aboard DSCOVR, 2026-09-20</i></sub>
+<sub><i>NASA EPIC aboard DSCOVR, 2026-09-22</i></sub>
 </td>
 </tr>
 </table>
 
 <table>
 <tr>
-<td width="40%" valign="middle"><a href="https://www.esa.int/Space_Safety/Planetary_Defence/First_switch_on_for_ESA-JAXA_Ramses_asteroid_mission"><img src="https://www.esa.int/var/esa/storage/images/esa_multimedia/images/2026/09/first_switch-on_of_the_ramses_spacecraft/27537289-1-eng-GB/First_switch-on_of_the_Ramses_spacecraft_card_full.jpg" alt="First switch on for ESA-JAXA Ramses asteroid mission" width="100%" /></a></td>
-<td valign="middle">📰 <b>Today in spaceflight</b><br/><br/><b><a href="https://www.esa.int/Space_Safety/Planetary_Defence/First_switch_on_for_ESA-JAXA_Ramses_asteroid_mission">First switch on for ESA-JAXA Ramses asteroid mission</a></b><br/><br/><sub>ESA, 2026-09-23</sub></td>
+<td width="40%" valign="middle"><a href="https://www.esa.int/About_Us/Business_with_ESA/Record_participation_in_ESA_s_Industry_Space_Days_2026"><img src="https://www.esa.int/var/esa/storage/images/esa_multimedia/images/2026/09/industry_space_days_20263/27536066-2-eng-GB/Industry_Space_Days_2026_card_full.jpg" alt="Record participation in ESA’s Industry Space Days 2026" width="100%" /></a></td>
+<td valign="middle">📰 <b>Today in spaceflight</b><br/><br/><b><a href="https://www.esa.int/About_Us/Business_with_ESA/Record_participation_in_ESA_s_Industry_Space_Days_2026">Record participation in ESA’s Industry Space Days 2026</a></b><br/><br/><sub>ESA, 2026-09-24</sub></td>
 </tr>
 </table>
 <!-- SPACE:END -->
