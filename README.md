@@ -113,28 +113,28 @@
 <table>
 <tr>
 <td width="25%" valign="top" align="center">
-<a href="https://anilist.co/anime/145139"><img src="https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx145139-rRimpHGWLhym.png" alt="Demon Slayer: Kimetsu no Yaiba Swordsmith Village Arc" width="180" height="260" /></a>
+<a href="https://anilist.co/anime/1575"><img src="https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx1575-hsmWM2ydNm1m.jpg" alt="Code Geass: Lelouch of the Rebellion" width="180" height="260" /></a>
 <br/><sub><b>🎬 ANIME</b></sub>
-<br/><b><a href="https://anilist.co/anime/145139">Demon Slayer: Kimetsu no Yaiba Swordsmith...</a></b>
-<br/><sub>⭐ 8.0 · 2023 · 11 eps · Action · Adventure</sub>
+<br/><b><a href="https://anilist.co/anime/1575">Code Geass: Lelouch of the Rebellion</a></b>
+<br/><sub>⭐ 8.5 · 2006 · 25 eps · Action · Mecha</sub>
 </td>
 <td width="25%" valign="top" align="center">
-<a href="https://anilist.co/manga/108095"><img src="https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/b108095-xRbDsgGWUbAN.jpg" alt="Heresy" width="180" height="260" /></a>
-<br/><sub><b>📖 MANHUA</b></sub>
-<br/><b><a href="https://anilist.co/manga/108095">Heresy</a></b>
-<br/><sub>⭐ 7.0 · 2018 · 136 chs · Action · Adventure</sub>
+<a href="https://anilist.co/manga/115935"><img src="https://s4.anilist.co/file/anilistcdn/media/manga/cover/large/bx115935-8KLFsuYlRlDR.jpg" alt="Spy Classroom" width="180" height="260" /></a>
+<br/><sub><b>📖 NOVEL</b></sub>
+<br/><b><a href="https://anilist.co/manga/115935">Spy Classroom</a></b>
+<br/><sub>⭐ 7.4 · 2020 · Action · Mystery</sub>
 </td>
 <td width="25%" valign="top" align="center">
-<a href="https://openlibrary.org/works/OL17450797W"><img src="https://covers.openlibrary.org/b/id/7603832-L.jpg" alt="Prince of Thorns" width="180" height="260" /></a>
-<br/><sub><b>📚 FANTASY</b></sub>
-<br/><b><a href="https://openlibrary.org/works/OL17450797W">Prince of Thorns</a></b>
-<br/><sub>Mark Lawrence · 2011 · ⭐ 7.2</sub>
+<a href="https://openlibrary.org/works/OL43161739W"><img src="https://covers.openlibrary.org/b/id/14937760-L.jpg" alt="The Count of Monte Cristo" width="180" height="260" /></a>
+<br/><sub><b>📚 CLASSIC</b></sub>
+<br/><b><a href="https://openlibrary.org/works/OL43161739W">The Count of Monte Cristo</a></b>
+<br/><sub>Alexandre Dumas · 1964</sub>
 </td>
 <td width="25%" valign="top" align="center">
-<a href="assets/daily/quote-2026-09-23.svg"><img src="assets/daily/quote-2026-09-23.svg" alt="“Because hardships strengthen resolve, the strong-minded will not be lured by worldly affairs. Today I step on grass; later I shall step on mountains and rivers!” — Fang Yuan, Reverend Insanity" width="180" height="260" /></a>
+<a href="assets/daily/quote-2026-09-24.svg"><img src="assets/daily/quote-2026-09-24.svg" alt="“A place where someone still thinks about you is a place you can call home.” — Jiraiya, Naruto" width="180" height="260" /></a>
 <br/><sub><b>💬 QUOTE</b></sub>
-<br/><b><a href="assets/daily/quote-2026-09-23.svg">Fang Yuan</a></b>
-<br/><sub>Reverend Insanity</sub>
+<br/><b><a href="assets/daily/quote-2026-09-24.svg">Jiraiya</a></b>
+<br/><sub>Naruto</sub>
 </td>
 </tr>
 </table>
