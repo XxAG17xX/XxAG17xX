@@ -113,28 +113,28 @@
 <table>
 <tr>
 <td width="25%" valign="top" align="center">
-<a href="https://anilist.co/anime/1575"><img src="https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx1575-hsmWM2ydNm1m.jpg" alt="Code Geass: Lelouch of the Rebellion" width="180" height="260" /></a>
+<a href="https://anilist.co/anime/161645"><img src="https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx161645-QLbzHXiYRgV2.jpg" alt="The Apothecary Diaries" width="180" height="260" /></a>
 <br/><sub><b>🎬 ANIME</b></sub>
-<br/><b><a href="https://anilist.co/anime/1575">Code Geass: Lelouch of the Rebellion</a></b>
-<br/><sub>⭐ 8.5 · 2006 · 25 eps · Action · Mecha</sub>
+<br/><b><a href="https://anilist.co/anime/161645">The Apothecary Diaries</a></b>
+<br/><sub>⭐ 8.8 · 2023 · 24 eps · Mystery</sub>
 </td>
 <td width="25%" valign="top" align="center">
-<a href="https://anilist.co/manga/115935"><img src="https://s4.anilist.co/file/anilistcdn/media/manga/cover/large/bx115935-8KLFsuYlRlDR.jpg" alt="Spy Classroom" width="180" height="260" /></a>
-<br/><sub><b>📖 NOVEL</b></sub>
-<br/><b><a href="https://anilist.co/manga/115935">Spy Classroom</a></b>
-<br/><sub>⭐ 7.4 · 2020 · Action · Mystery</sub>
+<a href="https://anilist.co/manga/30936"><img src="https://s4.anilist.co/file/anilistcdn/media/manga/cover/large/bx30936-P55KMUW1sgLN.jpg" alt="Homunculus" width="180" height="260" /></a>
+<br/><sub><b>📖 MANGA</b></sub>
+<br/><b><a href="https://anilist.co/manga/30936">Homunculus</a></b>
+<br/><sub>⭐ 8.3 · 2003 · 166 chs · Mystery · Psychological</sub>
 </td>
 <td width="25%" valign="top" align="center">
-<a href="https://openlibrary.org/works/OL43161739W"><img src="https://covers.openlibrary.org/b/id/14937760-L.jpg" alt="The Count of Monte Cristo" width="180" height="260" /></a>
-<br/><sub><b>📚 CLASSIC</b></sub>
-<br/><b><a href="https://openlibrary.org/works/OL43161739W">The Count of Monte Cristo</a></b>
-<br/><sub>Alexandre Dumas · 1964</sub>
+<a href="https://openlibrary.org/works/OL1892617W"><img src="https://covers.openlibrary.org/b/id/10432365-L.jpg" alt="A Brief History of Time" width="180" height="260" /></a>
+<br/><sub><b>📚 SCIENCE</b></sub>
+<br/><b><a href="https://openlibrary.org/works/OL1892617W">A Brief History of Time</a></b>
+<br/><sub>Stephen Hawking · 1988 · ⭐ 8.3</sub>
 </td>
 <td width="25%" valign="top" align="center">
-<a href="assets/daily/quote-2026-09-24.svg"><img src="assets/daily/quote-2026-09-24.svg" alt="“A place where someone still thinks about you is a place you can call home.” — Jiraiya, Naruto" width="180" height="260" /></a>
+<a href="assets/daily/quote-2026-09-25.svg"><img src="assets/daily/quote-2026-09-25.svg" alt="“You have to be realistic about these things.” — Logen Ninefingers, The First Law" width="180" height="260" /></a>
 <br/><sub><b>💬 QUOTE</b></sub>
-<br/><b><a href="assets/daily/quote-2026-09-24.svg">Jiraiya</a></b>
-<br/><sub>Naruto</sub>
+<br/><b><a href="assets/daily/quote-2026-09-25.svg">Logen Ninefingers</a></b>
+<br/><sub>The First Law</sub>
 </td>
 </tr>
 </table>
