@@ -113,28 +113,28 @@
 <table>
 <tr>
 <td width="25%" valign="top" align="center">
-<a href="https://anilist.co/anime/161645"><img src="https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx161645-QLbzHXiYRgV2.jpg" alt="The Apothecary Diaries" width="180" height="260" /></a>
+<a href="https://anilist.co/anime/6746"><img src="https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx6746-3LTwM95Uqeoa.png" alt="Durarara!!" width="180" height="260" /></a>
 <br/><sub><b>🎬 ANIME</b></sub>
-<br/><b><a href="https://anilist.co/anime/161645">The Apothecary Diaries</a></b>
-<br/><sub>⭐ 8.8 · 2023 · 24 eps · Mystery</sub>
+<br/><b><a href="https://anilist.co/anime/6746">Durarara!!</a></b>
+<br/><sub>⭐ 7.9 · 2010 · 24 eps · Action · Mystery</sub>
 </td>
 <td width="25%" valign="top" align="center">
-<a href="https://anilist.co/manga/30936"><img src="https://s4.anilist.co/file/anilistcdn/media/manga/cover/large/bx30936-P55KMUW1sgLN.jpg" alt="Homunculus" width="180" height="260" /></a>
-<br/><sub><b>📖 MANGA</b></sub>
-<br/><b><a href="https://anilist.co/manga/30936">Homunculus</a></b>
-<br/><sub>⭐ 8.3 · 2003 · 166 chs · Mystery · Psychological</sub>
+<a href="https://anilist.co/manga/110042"><img src="https://s4.anilist.co/file/anilistcdn/media/manga/cover/large/bx110042-cHMKKa0lxiaJ.png" alt="I Am the Sorcerer King" width="180" height="260" /></a>
+<br/><sub><b>📖 MANHWA</b></sub>
+<br/><b><a href="https://anilist.co/manga/110042">I Am the Sorcerer King</a></b>
+<br/><sub>⭐ 7.1 · 2019 · 143 chs · Action · Adventure</sub>
 </td>
 <td width="25%" valign="top" align="center">
-<a href="https://openlibrary.org/works/OL1892617W"><img src="https://covers.openlibrary.org/b/id/10432365-L.jpg" alt="A Brief History of Time" width="180" height="260" /></a>
-<br/><sub><b>📚 SCIENCE</b></sub>
-<br/><b><a href="https://openlibrary.org/works/OL1892617W">A Brief History of Time</a></b>
-<br/><sub>Stephen Hawking · 1988 · ⭐ 8.3</sub>
+<a href="https://openlibrary.org/works/OL262454W"><img src="https://covers.openlibrary.org/b/id/8063264-L.jpg" alt="The Hound of the Baskervilles" width="180" height="260" /></a>
+<br/><sub><b>📚 THRILLER</b></sub>
+<br/><b><a href="https://openlibrary.org/works/OL262454W">The Hound of the Baskervilles</a></b>
+<br/><sub>Arthur Conan Doyle · 1900 · ⭐ 8.0</sub>
 </td>
 <td width="25%" valign="top" align="center">
-<a href="assets/daily/quote-2026-09-25.svg"><img src="assets/daily/quote-2026-09-25.svg" alt="“You have to be realistic about these things.” — Logen Ninefingers, The First Law" width="180" height="260" /></a>
+<a href="assets/daily/quote-2026-09-26.svg"><img src="assets/daily/quote-2026-09-26.svg" alt="“Hard work is worthless for those that don&#x27;t believe in themselves.” — Naruto Uzumaki, Naruto" width="180" height="260" /></a>
 <br/><sub><b>💬 QUOTE</b></sub>
-<br/><b><a href="assets/daily/quote-2026-09-25.svg">Logen Ninefingers</a></b>
-<br/><sub>The First Law</sub>
+<br/><b><a href="assets/daily/quote-2026-09-26.svg">Naruto Uzumaki</a></b>
+<br/><sub>Naruto</sub>
 </td>
 </tr>
 </table>
