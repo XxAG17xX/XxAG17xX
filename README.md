@@ -113,28 +113,28 @@
 <table>
 <tr>
 <td width="25%" valign="top" align="center">
-<a href="https://anilist.co/anime/6746"><img src="https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx6746-3LTwM95Uqeoa.png" alt="Durarara!!" width="180" height="260" /></a>
+<a href="https://anilist.co/anime/104578"><img src="https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx104578-k61nx3LPjvgd.jpg" alt="Attack on Titan Season 3 Part 2" width="180" height="260" /></a>
 <br/><sub><b>🎬 ANIME</b></sub>
-<br/><b><a href="https://anilist.co/anime/6746">Durarara!!</a></b>
-<br/><sub>⭐ 7.9 · 2010 · 24 eps · Action · Mystery</sub>
+<br/><b><a href="https://anilist.co/anime/104578">Attack on Titan Season 3 Part 2</a></b>
+<br/><sub>⭐ 8.9 · 2019 · 10 eps · Action · Mystery</sub>
 </td>
 <td width="25%" valign="top" align="center">
-<a href="https://anilist.co/manga/110042"><img src="https://s4.anilist.co/file/anilistcdn/media/manga/cover/large/bx110042-cHMKKa0lxiaJ.png" alt="I Am the Sorcerer King" width="180" height="260" /></a>
-<br/><sub><b>📖 MANHWA</b></sub>
-<br/><b><a href="https://anilist.co/manga/110042">I Am the Sorcerer King</a></b>
-<br/><sub>⭐ 7.1 · 2019 · 143 chs · Action · Adventure</sub>
+<a href="https://anilist.co/manga/86624"><img src="https://s4.anilist.co/file/anilistcdn/media/manga/cover/large/bx86624-ha9n55cf0aNA.jpg" alt="Martial Universe" width="180" height="260" /></a>
+<br/><sub><b>📖 MANHUA</b></sub>
+<br/><b><a href="https://anilist.co/manga/86624">Martial Universe</a></b>
+<br/><sub>⭐ 6.9 · 2013 · Action · Adventure</sub>
 </td>
 <td width="25%" valign="top" align="center">
-<a href="https://openlibrary.org/works/OL262454W"><img src="https://covers.openlibrary.org/b/id/8063264-L.jpg" alt="The Hound of the Baskervilles" width="180" height="260" /></a>
-<br/><sub><b>📚 THRILLER</b></sub>
-<br/><b><a href="https://openlibrary.org/works/OL262454W">The Hound of the Baskervilles</a></b>
-<br/><sub>Arthur Conan Doyle · 1900 · ⭐ 8.0</sub>
+<a href="https://openlibrary.org/works/OL1963268W"><img src="https://covers.openlibrary.org/b/id/380332-L.jpg" alt="Hyperion" width="180" height="260" /></a>
+<br/><sub><b>📚 SCI-FI</b></sub>
+<br/><b><a href="https://openlibrary.org/works/OL1963268W">Hyperion</a></b>
+<br/><sub>Dan Simmons · 1989 · ⭐ 8.3</sub>
 </td>
 <td width="25%" valign="top" align="center">
-<a href="assets/daily/quote-2026-09-26.svg"><img src="assets/daily/quote-2026-09-26.svg" alt="“Hard work is worthless for those that don&#x27;t believe in themselves.” — Naruto Uzumaki, Naruto" width="180" height="260" /></a>
+<a href="assets/daily/quote-2026-09-27.svg"><img src="assets/daily/quote-2026-09-27.svg" alt="“We suffer more often in imagination than in reality.” — Seneca, Letters to Lucilius" width="180" height="260" /></a>
 <br/><sub><b>💬 QUOTE</b></sub>
-<br/><b><a href="assets/daily/quote-2026-09-26.svg">Naruto Uzumaki</a></b>
-<br/><sub>Naruto</sub>
+<br/><b><a href="assets/daily/quote-2026-09-27.svg">Seneca</a></b>
+<br/><sub>Letters to Lucilius</sub>
 </td>
 </tr>
 </table>
