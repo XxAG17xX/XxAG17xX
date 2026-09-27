@@ -74,33 +74,33 @@
 <table>
 <tr>
 <td width="50%" valign="top" align="center">
-<a href="https://apod.nasa.gov/apod/image/2609/MilkyWayMeteorLSTJeffDai.jpg"><img src="https://apod.nasa.gov/apod/image/2609/MilkyWayMeteorLSTJeffDai1024.jpg" alt="Mirrored Meteor and Milky Way" width="100%" /></a>
+<a href="https://apod.nasa.gov/apod/image/2609/M31Before_Scherer_4298.jpg"><img src="https://apod.nasa.gov/apod/image/2609/M31Before_Scherer_960.jpg" alt="Andromeda before Photoshop" width="100%" /></a>
 <br/><br/>
-<b>Mirrored Meteor and Milky Way</b>
+<b>Andromeda before Photoshop</b>
 <br/>
-<sub>On August 15, this perseid meteor streaked through night skies over the Observatorio del Roque de los Muchachos at La Palma, Canary Islands, Spain... <a href="https://apod.nasa.gov/apod/ap260926.html">more →</a></sub>
+<sub>What does the Andromeda galaxy really look like? The featured image shows how our Milky Way Galaxy&#x27;s closest major galactic neighbor really appears... <a href="https://apod.nasa.gov/apod/ap260927.html">more →</a></sub>
 <br/><br/>
-<sub><i>NASA APOD, 2026-09-26</i></sub>
+<sub><i>NASA APOD, 2026-09-27</i></sub>
 </td>
 <td width="50%" valign="top" align="center">
-<a href="https://epic.gsfc.nasa.gov/"><img src="https://epic.gsfc.nasa.gov/archive/natural/2026/09/23/jpg/epic_1b_20260923001751.jpg" alt="Earth, 3 days ago" width="48%" />
-<img src="https://epic.gsfc.nasa.gov/archive/natural/2026/09/23/jpg/epic_1b_20260923073001.jpg" alt="Earth, 3 days ago" width="48%" />
-<img src="https://epic.gsfc.nasa.gov/archive/natural/2026/09/23/jpg/epic_1b_20260923144211.jpg" alt="Earth, 3 days ago" width="48%" />
-<img src="https://epic.gsfc.nasa.gov/archive/natural/2026/09/23/jpg/epic_1b_20260923215420.jpg" alt="Earth, 3 days ago" width="48%" /></a>
+<a href="https://epic.gsfc.nasa.gov/"><img src="https://epic.gsfc.nasa.gov/archive/natural/2026/09/25/jpg/epic_1b_20260925002712.jpg" alt="Earth, 2 days ago" width="48%" />
+<img src="https://epic.gsfc.nasa.gov/archive/natural/2026/09/25/jpg/epic_1b_20260925073922.jpg" alt="Earth, 2 days ago" width="48%" />
+<img src="https://epic.gsfc.nasa.gov/archive/natural/2026/09/25/jpg/epic_1b_20260925145132.jpg" alt="Earth, 2 days ago" width="48%" />
+<img src="https://epic.gsfc.nasa.gov/archive/natural/2026/09/25/jpg/epic_1b_20260925220342.jpg" alt="Earth, 2 days ago" width="48%" /></a>
 <br/><br/>
-<b>Earth, 3 days ago</b>
+<b>Earth, 2 days ago</b>
 <br/>
-<sub>Full-disc Earth from DSCOVR, 1.58 million km out. 4 frames from 2026-09-23; the latest is centred on 6°N 151°W.</sub>
+<sub>Full-disc Earth from DSCOVR, 1.58 million km out. 4 frames from 2026-09-25; the latest is centred on 6°N 154°W.</sub>
 <br/><br/>
-<sub><i>NASA EPIC aboard DSCOVR, 2026-09-23</i></sub>
+<sub><i>NASA EPIC aboard DSCOVR, 2026-09-25</i></sub>
 </td>
 </tr>
 </table>
 
 <table>
 <tr>
-<td width="40%" valign="middle"><a href="https://science.nasa.gov/image-article/apod-2026-september-26-mirrored-meteor-and-milky-way/"><img src="https://assets.science.nasa.gov/dynamicimage/assets/science/cds/apod/apod/2026/september/MilkyWayMeteorLSTJeffDai.jpg" alt="APOD: 2026 September 26 – Mirrored Meteor and Milky Way" width="100%" /></a></td>
-<td valign="middle">📰 <b>Today in spaceflight</b><br/><br/><b><a href="https://science.nasa.gov/image-article/apod-2026-september-26-mirrored-meteor-and-milky-way/">APOD: 2026 September 26 – Mirrored Meteor and Milky Way</a></b><br/><br/><sub>NASA, 2026-09-26</sub></td>
+<td width="40%" valign="middle"><a href="https://science.nasa.gov/image-article/apod-2026-september-27-andromeda-before-photoshop/"><img src="https://assets.science.nasa.gov/dynamicimage/assets/science/cds/apod/apod/2026/september/M31Before_Scherer_4298.jpg" alt="APOD: 2026 September 27 – Andromeda Before and After Photoshop" width="100%" /></a></td>
+<td valign="middle">📰 <b>Today in spaceflight</b><br/><br/><b><a href="https://science.nasa.gov/image-article/apod-2026-september-27-andromeda-before-photoshop/">APOD: 2026 September 27 – Andromeda Before and After Photoshop</a></b><br/><br/><sub>NASA, 2026-09-27</sub></td>
 </tr>
 </table>
 <!-- SPACE:END -->
