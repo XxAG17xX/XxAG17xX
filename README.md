@@ -2,7 +2,7 @@
 
 ### MAI in Computer Engineering at Trinity College Dublin. I build things that run autonomously and get measured against something real.
 
-- 🔭 I'm currently working on **RailCast, a live rail-delay predictor running on AWS**
+- 🔭 I'm currently building **Pagerless, an AI on-call engineer: when an alert fires, it investigates metrics, traces and logs and writes a root-cause report that cites its evidence**
 
 - 🌱 I'm currently **working toward an AWS certification**
 
