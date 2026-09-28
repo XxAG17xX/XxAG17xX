@@ -113,28 +113,28 @@
 <table>
 <tr>
 <td width="25%" valign="top" align="center">
-<a href="https://anilist.co/anime/104578"><img src="https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx104578-k61nx3LPjvgd.jpg" alt="Attack on Titan Season 3 Part 2" width="180" height="260" /></a>
+<a href="https://anilist.co/anime/128893"><img src="https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx128893-Gc2t8b8M0mVu.jpg" alt="Hell’s Paradise" width="180" height="260" /></a>
 <br/><sub><b>🎬 ANIME</b></sub>
-<br/><b><a href="https://anilist.co/anime/104578">Attack on Titan Season 3 Part 2</a></b>
-<br/><sub>⭐ 8.9 · 2019 · 10 eps · Action · Mystery</sub>
+<br/><b><a href="https://anilist.co/anime/128893">Hell’s Paradise</a></b>
+<br/><sub>⭐ 8.0 · 2023 · 13 eps · Action · Adventure</sub>
 </td>
 <td width="25%" valign="top" align="center">
-<a href="https://anilist.co/manga/86624"><img src="https://s4.anilist.co/file/anilistcdn/media/manga/cover/large/bx86624-ha9n55cf0aNA.jpg" alt="Martial Universe" width="180" height="260" /></a>
-<br/><sub><b>📖 MANHUA</b></sub>
-<br/><b><a href="https://anilist.co/manga/86624">Martial Universe</a></b>
-<br/><sub>⭐ 6.9 · 2013 · Action · Adventure</sub>
+<a href="https://anilist.co/manga/123125"><img src="https://s4.anilist.co/file/anilistcdn/media/manga/cover/large/bx123125-acsmYYqFtwpT.jpg" alt="Bungo Stray Dogs: BEAST" width="180" height="260" /></a>
+<br/><sub><b>📖 NOVEL</b></sub>
+<br/><b><a href="https://anilist.co/manga/123125">Bungo Stray Dogs: BEAST</a></b>
+<br/><sub>⭐ 8.4 · 2019 · 4 chs · Action · Mystery</sub>
 </td>
 <td width="25%" valign="top" align="center">
-<a href="https://openlibrary.org/works/OL1963268W"><img src="https://covers.openlibrary.org/b/id/380332-L.jpg" alt="Hyperion" width="180" height="260" /></a>
+<a href="https://openlibrary.org/works/OL2163649W"><img src="https://covers.openlibrary.org/b/id/12986869-L.jpg" alt="The Hitchhiker&#x27;s Guide to the Galaxy" width="180" height="260" /></a>
 <br/><sub><b>📚 SCI-FI</b></sub>
-<br/><b><a href="https://openlibrary.org/works/OL1963268W">Hyperion</a></b>
-<br/><sub>Dan Simmons · 1989 · ⭐ 8.3</sub>
+<br/><b><a href="https://openlibrary.org/works/OL2163649W">The Hitchhiker&#x27;s Guide to the Galaxy</a></b>
+<br/><sub>Douglas Adams · 1979 · ⭐ 9.0</sub>
 </td>
 <td width="25%" valign="top" align="center">
-<a href="assets/daily/quote-2026-09-27.svg"><img src="assets/daily/quote-2026-09-27.svg" alt="“We suffer more often in imagination than in reality.” — Seneca, Letters to Lucilius" width="180" height="260" /></a>
+<a href="assets/daily/quote-2026-09-28.svg"><img src="assets/daily/quote-2026-09-28.svg" alt="“We are a way for the cosmos to know itself.” — Carl Sagan, Cosmos" width="180" height="260" /></a>
 <br/><sub><b>💬 QUOTE</b></sub>
-<br/><b><a href="assets/daily/quote-2026-09-27.svg">Seneca</a></b>
-<br/><sub>Letters to Lucilius</sub>
+<br/><b><a href="assets/daily/quote-2026-09-28.svg">Carl Sagan</a></b>
+<br/><sub>Cosmos</sub>
 </td>
 </tr>
 </table>
