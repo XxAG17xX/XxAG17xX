@@ -74,33 +74,33 @@
 <table>
 <tr>
 <td width="50%" valign="top" align="center">
-<a href="https://apod.nasa.gov/apod/image/2609/M31Before_Scherer_4298.jpg"><img src="https://apod.nasa.gov/apod/image/2609/M31Before_Scherer_960.jpg" alt="Andromeda before Photoshop" width="100%" /></a>
+<a href="https://apod.nasa.gov/apod/image/2609/CosmicLatte_jhu_960.jpg"><img src="https://apod.nasa.gov/apod/image/2609/CosmicLatte_jhu_960_annotated.jpg" alt="Cosmic Latte: The Average Color of the Universe" width="100%" /></a>
 <br/><br/>
-<b>Andromeda before Photoshop</b>
+<b>Cosmic Latte: The Average Color of the Universe</b>
 <br/>
-<sub>What does the Andromeda galaxy really look like? The featured image shows how our Milky Way Galaxy&#x27;s closest major galactic neighbor really appears... <a href="https://apod.nasa.gov/apod/ap260927.html">more →</a></sub>
+<sub>What color is the universe? More precisely, if the entire sky were smeared out, what color would the final mix be? This whimsical question came up... <a href="https://apod.nasa.gov/apod/ap260928.html">more →</a></sub>
 <br/><br/>
-<sub><i>NASA APOD, 2026-09-27</i></sub>
+<sub><i>NASA APOD, 2026-09-28</i></sub>
 </td>
 <td width="50%" valign="top" align="center">
-<a href="https://epic.gsfc.nasa.gov/"><img src="https://epic.gsfc.nasa.gov/archive/natural/2026/09/25/jpg/epic_1b_20260925002712.jpg" alt="Earth, 2 days ago" width="48%" />
-<img src="https://epic.gsfc.nasa.gov/archive/natural/2026/09/25/jpg/epic_1b_20260925073922.jpg" alt="Earth, 2 days ago" width="48%" />
-<img src="https://epic.gsfc.nasa.gov/archive/natural/2026/09/25/jpg/epic_1b_20260925145132.jpg" alt="Earth, 2 days ago" width="48%" />
-<img src="https://epic.gsfc.nasa.gov/archive/natural/2026/09/25/jpg/epic_1b_20260925220342.jpg" alt="Earth, 2 days ago" width="48%" /></a>
+<a href="https://epic.gsfc.nasa.gov/"><img src="https://epic.gsfc.nasa.gov/archive/natural/2026/09/26/jpg/epic_1b_20260926004554.jpg" alt="Earth, 2 days ago" width="48%" />
+<img src="https://epic.gsfc.nasa.gov/archive/natural/2026/09/26/jpg/epic_1b_20260926075804.jpg" alt="Earth, 2 days ago" width="48%" />
+<img src="https://epic.gsfc.nasa.gov/archive/natural/2026/09/26/jpg/epic_1b_20260926151014.jpg" alt="Earth, 2 days ago" width="48%" />
+<img src="https://epic.gsfc.nasa.gov/archive/natural/2026/09/26/jpg/epic_1b_20260926222223.jpg" alt="Earth, 2 days ago" width="48%" /></a>
 <br/><br/>
 <b>Earth, 2 days ago</b>
 <br/>
-<sub>Full-disc Earth from DSCOVR, 1.58 million km out. 4 frames from 2026-09-25; the latest is centred on 6°N 154°W.</sub>
+<sub>Full-disc Earth from DSCOVR, 1.58 million km out. 4 frames from 2026-09-26; the latest is centred on 5°N 159°W.</sub>
 <br/><br/>
-<sub><i>NASA EPIC aboard DSCOVR, 2026-09-25</i></sub>
+<sub><i>NASA EPIC aboard DSCOVR, 2026-09-26</i></sub>
 </td>
 </tr>
 </table>
 
 <table>
 <tr>
-<td width="40%" valign="middle"><a href="https://science.nasa.gov/image-article/apod-2026-september-27-andromeda-before-photoshop/"><img src="https://assets.science.nasa.gov/dynamicimage/assets/science/cds/apod/apod/2026/september/M31Before_Scherer_4298.jpg" alt="APOD: 2026 September 27 – Andromeda Before and After Photoshop" width="100%" /></a></td>
-<td valign="middle">📰 <b>Today in spaceflight</b><br/><br/><b><a href="https://science.nasa.gov/image-article/apod-2026-september-27-andromeda-before-photoshop/">APOD: 2026 September 27 – Andromeda Before and After Photoshop</a></b><br/><br/><sub>NASA, 2026-09-27</sub></td>
+<td width="40%" valign="middle"><a href="https://europeanspaceflight.com/uk-creates-space-effects-squadron-to-protect-its-satellites/"><img src="https://europeanspaceflight.com/wp-content/uploads/2026/09/UK-Creates-Space-Effects-Squadron-to-Protect-Its-Satellites.webp" alt="UK Creates Space Effects Squadron to Protect Its Satellites" width="100%" /></a></td>
+<td valign="middle">📰 <b>Today in spaceflight</b><br/><br/><b><a href="https://europeanspaceflight.com/uk-creates-space-effects-squadron-to-protect-its-satellites/">UK Creates Space Effects Squadron to Protect Its Satellites</a></b><br/><br/><sub>European Spaceflight, 2026-09-28</sub></td>
 </tr>
 </table>
 <!-- SPACE:END -->
