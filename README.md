@@ -113,28 +113,28 @@
 <table>
 <tr>
 <td width="25%" valign="top" align="center">
-<a href="https://anilist.co/anime/128893"><img src="https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx128893-Gc2t8b8M0mVu.jpg" alt="Hell’s Paradise" width="180" height="260" /></a>
+<a href="https://anilist.co/anime/21311"><img src="https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx21311-hAXyT8Yoh6G9.jpg" alt="Bungo Stray Dogs" width="180" height="260" /></a>
 <br/><sub><b>🎬 ANIME</b></sub>
-<br/><b><a href="https://anilist.co/anime/128893">Hell’s Paradise</a></b>
-<br/><sub>⭐ 8.0 · 2023 · 13 eps · Action · Adventure</sub>
+<br/><b><a href="https://anilist.co/anime/21311">Bungo Stray Dogs</a></b>
+<br/><sub>⭐ 7.7 · 2016 · 12 eps · Action · Mystery</sub>
 </td>
 <td width="25%" valign="top" align="center">
-<a href="https://anilist.co/manga/123125"><img src="https://s4.anilist.co/file/anilistcdn/media/manga/cover/large/bx123125-acsmYYqFtwpT.jpg" alt="Bungo Stray Dogs: BEAST" width="180" height="260" /></a>
-<br/><sub><b>📖 NOVEL</b></sub>
-<br/><b><a href="https://anilist.co/manga/123125">Bungo Stray Dogs: BEAST</a></b>
-<br/><sub>⭐ 8.4 · 2019 · 4 chs · Action · Mystery</sub>
+<a href="https://anilist.co/manga/33986"><img src="https://s4.anilist.co/file/anilistcdn/media/manga/cover/large/bx33986-eRw42IOKn6UI.jpg" alt="Deadman Wonderland" width="180" height="260" /></a>
+<br/><sub><b>📖 MANGA</b></sub>
+<br/><b><a href="https://anilist.co/manga/33986">Deadman Wonderland</a></b>
+<br/><sub>⭐ 7.4 · 2007 · 58 chs · Action · Adventure</sub>
 </td>
 <td width="25%" valign="top" align="center">
-<a href="https://openlibrary.org/works/OL2163649W"><img src="https://covers.openlibrary.org/b/id/12986869-L.jpg" alt="The Hitchhiker&#x27;s Guide to the Galaxy" width="180" height="260" /></a>
+<a href="https://openlibrary.org/works/OL43125206W"><img src="https://covers.openlibrary.org/b/id/15170836-L.jpg" alt="2001: A Space Odyssey" width="180" height="260" /></a>
 <br/><sub><b>📚 SCI-FI</b></sub>
-<br/><b><a href="https://openlibrary.org/works/OL2163649W">The Hitchhiker&#x27;s Guide to the Galaxy</a></b>
-<br/><sub>Douglas Adams · 1979 · ⭐ 9.0</sub>
+<br/><b><a href="https://openlibrary.org/works/OL43125206W">2001: A Space Odyssey</a></b>
+<br/><sub>Arthur C. Clarke · 1968 · ⭐ 8.0</sub>
 </td>
 <td width="25%" valign="top" align="center">
-<a href="assets/daily/quote-2026-09-28.svg"><img src="assets/daily/quote-2026-09-28.svg" alt="“We are a way for the cosmos to know itself.” — Carl Sagan, Cosmos" width="180" height="260" /></a>
+<a href="assets/daily/quote-2026-09-29.svg"><img src="assets/daily/quote-2026-09-29.svg" alt="“Because it has no legs, only wings, thus it has no choice but to fly.” — Fang Yuan, Reverend Insanity" width="180" height="260" /></a>
 <br/><sub><b>💬 QUOTE</b></sub>
-<br/><b><a href="assets/daily/quote-2026-09-28.svg">Carl Sagan</a></b>
-<br/><sub>Cosmos</sub>
+<br/><b><a href="assets/daily/quote-2026-09-29.svg">Fang Yuan</a></b>
+<br/><sub>Reverend Insanity</sub>
 </td>
 </tr>
 </table>
