@@ -74,21 +74,21 @@
 <table>
 <tr>
 <td width="50%" valign="top" align="center">
-<a href="https://apod.nasa.gov/apod/image/2609/CosmicLatte_jhu_960.jpg"><img src="https://apod.nasa.gov/apod/image/2609/CosmicLatte_jhu_960_annotated.jpg" alt="Cosmic Latte: The Average Color of the Universe" width="100%" /></a>
+<a href="https://apod.nasa.gov/apod/image/2609/Shrimp_Pawel_2048.jpg"><img src="https://apod.nasa.gov/apod/image/2609/Shrimp_Pawel_960.jpg" alt="Sh2-188: The Shrimp Nebula" width="100%" /></a>
 <br/><br/>
-<b>Cosmic Latte: The Average Color of the Universe</b>
+<b>Sh2-188: The Shrimp Nebula</b>
 <br/>
-<sub>What color is the universe? More precisely, if the entire sky were smeared out, what color would the final mix be? This whimsical question came up... <a href="https://apod.nasa.gov/apod/ap260928.html">more →</a></sub>
+<sub>What causes the swirl in the Shrimp Nebula? Its high speed is likely. What is sure is that Sh2-188 is one of the larger planetary nebulas on the... <a href="https://apod.nasa.gov/apod/ap260929.html">more →</a></sub>
 <br/><br/>
-<sub><i>NASA APOD, 2026-09-28</i></sub>
+<sub><i>NASA APOD, 2026-09-29</i></sub>
 </td>
 <td width="50%" valign="top" align="center">
-<a href="https://epic.gsfc.nasa.gov/"><img src="https://epic.gsfc.nasa.gov/archive/natural/2026/09/26/jpg/epic_1b_20260926004554.jpg" alt="Earth, 2 days ago" width="48%" />
-<img src="https://epic.gsfc.nasa.gov/archive/natural/2026/09/26/jpg/epic_1b_20260926075804.jpg" alt="Earth, 2 days ago" width="48%" />
-<img src="https://epic.gsfc.nasa.gov/archive/natural/2026/09/26/jpg/epic_1b_20260926151014.jpg" alt="Earth, 2 days ago" width="48%" />
-<img src="https://epic.gsfc.nasa.gov/archive/natural/2026/09/26/jpg/epic_1b_20260926222223.jpg" alt="Earth, 2 days ago" width="48%" /></a>
+<a href="https://epic.gsfc.nasa.gov/"><img src="https://epic.gsfc.nasa.gov/archive/natural/2026/09/26/jpg/epic_1b_20260926004554.jpg" alt="Earth, 3 days ago" width="48%" />
+<img src="https://epic.gsfc.nasa.gov/archive/natural/2026/09/26/jpg/epic_1b_20260926075804.jpg" alt="Earth, 3 days ago" width="48%" />
+<img src="https://epic.gsfc.nasa.gov/archive/natural/2026/09/26/jpg/epic_1b_20260926151014.jpg" alt="Earth, 3 days ago" width="48%" />
+<img src="https://epic.gsfc.nasa.gov/archive/natural/2026/09/26/jpg/epic_1b_20260926222223.jpg" alt="Earth, 3 days ago" width="48%" /></a>
 <br/><br/>
-<b>Earth, 2 days ago</b>
+<b>Earth, 3 days ago</b>
 <br/>
 <sub>Full-disc Earth from DSCOVR, 1.58 million km out. 4 frames from 2026-09-26; the latest is centred on 5°N 159°W.</sub>
 <br/><br/>
@@ -99,8 +99,8 @@
 
 <table>
 <tr>
-<td width="40%" valign="middle"><a href="https://europeanspaceflight.com/uk-creates-space-effects-squadron-to-protect-its-satellites/"><img src="https://europeanspaceflight.com/wp-content/uploads/2026/09/UK-Creates-Space-Effects-Squadron-to-Protect-Its-Satellites.webp" alt="UK Creates Space Effects Squadron to Protect Its Satellites" width="100%" /></a></td>
-<td valign="middle">📰 <b>Today in spaceflight</b><br/><br/><b><a href="https://europeanspaceflight.com/uk-creates-space-effects-squadron-to-protect-its-satellites/">UK Creates Space Effects Squadron to Protect Its Satellites</a></b><br/><br/><sub>European Spaceflight, 2026-09-28</sub></td>
+<td width="40%" valign="middle"><a href="https://spacenews.com/if-ai-cannot-be-trusted-in-a-classroom-why-should-it-be-trusted-in-orbit/"><img src="https://i0.wp.com/spacenews.com/wp-content/uploads/2026/09/Screenshot-2026-09-28-081521.png?fit=1024%2C576&ssl=1" alt="If AI cannot be trusted in a classroom, why should it be trusted in orbit?" width="100%" /></a></td>
+<td valign="middle">📰 <b>Today in spaceflight</b><br/><br/><b><a href="https://spacenews.com/if-ai-cannot-be-trusted-in-a-classroom-why-should-it-be-trusted-in-orbit/">If AI cannot be trusted in a classroom, why should it be trusted in orbit?</a></b><br/><br/><sub>SpaceNews, 2026-09-29</sub></td>
 </tr>
 </table>
 <!-- SPACE:END -->
