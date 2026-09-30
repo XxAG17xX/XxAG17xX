@@ -113,28 +113,28 @@
 <table>
 <tr>
 <td width="25%" valign="top" align="center">
-<a href="https://anilist.co/anime/21311"><img src="https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx21311-hAXyT8Yoh6G9.jpg" alt="Bungo Stray Dogs" width="180" height="260" /></a>
+<a href="https://anilist.co/anime/6547"><img src="https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx6547-SYexAn5aFyss.png" alt="Angel Beats!" width="180" height="260" /></a>
 <br/><sub><b>🎬 ANIME</b></sub>
-<br/><b><a href="https://anilist.co/anime/21311">Bungo Stray Dogs</a></b>
-<br/><sub>⭐ 7.7 · 2016 · 12 eps · Action · Mystery</sub>
+<br/><b><a href="https://anilist.co/anime/6547">Angel Beats!</a></b>
+<br/><sub>⭐ 7.7 · 2010 · 13 eps · Action · Supernatural</sub>
 </td>
 <td width="25%" valign="top" align="center">
-<a href="https://anilist.co/manga/33986"><img src="https://s4.anilist.co/file/anilistcdn/media/manga/cover/large/bx33986-eRw42IOKn6UI.jpg" alt="Deadman Wonderland" width="180" height="260" /></a>
-<br/><sub><b>📖 MANGA</b></sub>
-<br/><b><a href="https://anilist.co/manga/33986">Deadman Wonderland</a></b>
-<br/><sub>⭐ 7.4 · 2007 · 58 chs · Action · Adventure</sub>
+<a href="https://anilist.co/manga/110472"><img src="https://s4.anilist.co/file/anilistcdn/media/manga/cover/large/bx110472-jxJG7CZ3lf4d.jpg" alt="Study Group" width="180" height="260" /></a>
+<br/><sub><b>📖 MANHWA</b></sub>
+<br/><b><a href="https://anilist.co/manga/110472">Study Group</a></b>
+<br/><sub>⭐ 7.4 · 2019 · Action</sub>
 </td>
 <td width="25%" valign="top" align="center">
-<a href="https://openlibrary.org/works/OL43125206W"><img src="https://covers.openlibrary.org/b/id/15170836-L.jpg" alt="2001: A Space Odyssey" width="180" height="260" /></a>
-<br/><sub><b>📚 SCI-FI</b></sub>
-<br/><b><a href="https://openlibrary.org/works/OL43125206W">2001: A Space Odyssey</a></b>
-<br/><sub>Arthur C. Clarke · 1968 · ⭐ 8.0</sub>
+<a href="https://openlibrary.org/works/OL2664916W"><img src="https://covers.openlibrary.org/b/id/499340-L.jpg" alt="The Bourne Identity" width="180" height="260" /></a>
+<br/><sub><b>📚 THRILLER</b></sub>
+<br/><b><a href="https://openlibrary.org/works/OL2664916W">The Bourne Identity</a></b>
+<br/><sub>Robert Ludlum · 1980 · ⭐ 6.4</sub>
 </td>
 <td width="25%" valign="top" align="center">
-<a href="assets/daily/quote-2026-09-29.svg"><img src="assets/daily/quote-2026-09-29.svg" alt="“Because it has no legs, only wings, thus it has no choice but to fly.” — Fang Yuan, Reverend Insanity" width="180" height="260" /></a>
+<a href="assets/daily/quote-2026-09-30.svg"><img src="assets/daily/quote-2026-09-30.svg" alt="“Stand up and walk. Keep moving forward. You&#x27;ve got two good legs.” — Edward Elric, Fullmetal Alchemist" width="180" height="260" /></a>
 <br/><sub><b>💬 QUOTE</b></sub>
-<br/><b><a href="assets/daily/quote-2026-09-29.svg">Fang Yuan</a></b>
-<br/><sub>Reverend Insanity</sub>
+<br/><b><a href="assets/daily/quote-2026-09-30.svg">Edward Elric</a></b>
+<br/><sub>Fullmetal Alchemist</sub>
 </td>
 </tr>
 </table>
