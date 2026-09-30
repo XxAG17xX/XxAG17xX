@@ -74,33 +74,33 @@
 <table>
 <tr>
 <td width="50%" valign="top" align="center">
-<a href="https://apod.nasa.gov/apod/image/2609/Shrimp_Pawel_2048.jpg"><img src="https://apod.nasa.gov/apod/image/2609/Shrimp_Pawel_960.jpg" alt="Sh2-188: The Shrimp Nebula" width="100%" /></a>
-<br/><br/>
-<b>Sh2-188: The Shrimp Nebula</b>
-<br/>
-<sub>What causes the swirl in the Shrimp Nebula? Its high speed is likely. What is sure is that Sh2-188 is one of the larger planetary nebulas on the... <a href="https://apod.nasa.gov/apod/ap260929.html">more →</a></sub>
-<br/><br/>
-<sub><i>NASA APOD, 2026-09-29</i></sub>
-</td>
-<td width="50%" valign="top" align="center">
-<a href="https://epic.gsfc.nasa.gov/"><img src="https://epic.gsfc.nasa.gov/archive/natural/2026/09/26/jpg/epic_1b_20260926004554.jpg" alt="Earth, 3 days ago" width="48%" />
-<img src="https://epic.gsfc.nasa.gov/archive/natural/2026/09/26/jpg/epic_1b_20260926075804.jpg" alt="Earth, 3 days ago" width="48%" />
-<img src="https://epic.gsfc.nasa.gov/archive/natural/2026/09/26/jpg/epic_1b_20260926151014.jpg" alt="Earth, 3 days ago" width="48%" />
-<img src="https://epic.gsfc.nasa.gov/archive/natural/2026/09/26/jpg/epic_1b_20260926222223.jpg" alt="Earth, 3 days ago" width="48%" /></a>
+<a href="https://epic.gsfc.nasa.gov/"><img src="https://epic.gsfc.nasa.gov/archive/natural/2026/09/27/jpg/epic_1b_20260927010436.jpg" alt="Earth, 3 days ago" width="48%" />
+<img src="https://epic.gsfc.nasa.gov/archive/natural/2026/09/27/jpg/epic_1b_20260927081646.jpg" alt="Earth, 3 days ago" width="48%" />
+<img src="https://epic.gsfc.nasa.gov/archive/natural/2026/09/27/jpg/epic_1b_20260927152856.jpg" alt="Earth, 3 days ago" width="48%" />
+<img src="https://epic.gsfc.nasa.gov/archive/natural/2026/09/27/jpg/epic_1b_20260927224107.jpg" alt="Earth, 3 days ago" width="48%" /></a>
 <br/><br/>
 <b>Earth, 3 days ago</b>
 <br/>
-<sub>Full-disc Earth from DSCOVR, 1.58 million km out. 4 frames from 2026-09-26; the latest is centred on 5°N 159°W.</sub>
+<sub>Full-disc Earth from DSCOVR, 1.58 million km out. 4 frames from 2026-09-27; the latest is centred on 5°N 164°W.</sub>
 <br/><br/>
-<sub><i>NASA EPIC aboard DSCOVR, 2026-09-26</i></sub>
+<sub><i>NASA EPIC aboard DSCOVR, 2026-09-27</i></sub>
+</td>
+<td width="50%" valign="top" align="center">
+<img src="https://images-assets.nasa.gov/image/NHQ202606050003/NHQ202606050003~large.jpg" alt="Beyond the Deep Field: Hubble’s Legacy and the Future of Cosmi" width="100%" />
+<br/><br/>
+<b>Beyond the Deep Field: Hubble’s Legacy and the Future of Cosmi</b>
+<br/>
+<sub>NASA’s Goddard Space Flight Center deputy project manager for the Hubble Space Telescope, Jim Jeletic, moderates a panel about “Partnerships Across...</sub>
+<br/><br/>
+<sub><i>NASA Image Library, &quot;hubble deep field&quot;</i></sub>
 </td>
 </tr>
 </table>
 
 <table>
 <tr>
-<td width="40%" valign="middle"><a href="https://spacenews.com/if-ai-cannot-be-trusted-in-a-classroom-why-should-it-be-trusted-in-orbit/"><img src="https://i0.wp.com/spacenews.com/wp-content/uploads/2026/09/Screenshot-2026-09-28-081521.png?fit=1024%2C576&ssl=1" alt="If AI cannot be trusted in a classroom, why should it be trusted in orbit?" width="100%" /></a></td>
-<td valign="middle">📰 <b>Today in spaceflight</b><br/><br/><b><a href="https://spacenews.com/if-ai-cannot-be-trusted-in-a-classroom-why-should-it-be-trusted-in-orbit/">If AI cannot be trusted in a classroom, why should it be trusted in orbit?</a></b><br/><br/><sub>SpaceNews, 2026-09-29</sub></td>
+<td width="40%" valign="middle"><a href="https://europeanspaceflight.com/esa-selects-airbus-and-ohb-to-lead-european-space-station-studies/"><img src="https://europeanspaceflight.com/wp-content/uploads/2026/09/ESA-Selects-Airbus-and-OHB-to-Lead-European-Space-Station-Studies.webp" alt="ESA Selects Airbus and OHB to Lead European Space Station Studies" width="100%" /></a></td>
+<td valign="middle">📰 <b>Today in spaceflight</b><br/><br/><b><a href="https://europeanspaceflight.com/esa-selects-airbus-and-ohb-to-lead-european-space-station-studies/">ESA Selects Airbus and OHB to Lead European Space Station Studies</a></b><br/><br/><sub>European Spaceflight, 2026-09-30</sub></td>
 </tr>
 </table>
 <!-- SPACE:END -->
