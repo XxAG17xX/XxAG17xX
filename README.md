@@ -113,28 +113,28 @@
 <table>
 <tr>
 <td width="25%" valign="top" align="center">
-<a href="https://anilist.co/anime/6547"><img src="https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx6547-SYexAn5aFyss.png" alt="Angel Beats!" width="180" height="260" /></a>
+<a href="https://anilist.co/anime/104578"><img src="https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx104578-k61nx3LPjvgd.jpg" alt="Attack on Titan Season 3 Part 2" width="180" height="260" /></a>
 <br/><sub><b>🎬 ANIME</b></sub>
-<br/><b><a href="https://anilist.co/anime/6547">Angel Beats!</a></b>
-<br/><sub>⭐ 7.7 · 2010 · 13 eps · Action · Supernatural</sub>
+<br/><b><a href="https://anilist.co/anime/104578">Attack on Titan Season 3 Part 2</a></b>
+<br/><sub>⭐ 8.9 · 2019 · 10 eps · Action · Mystery</sub>
 </td>
 <td width="25%" valign="top" align="center">
-<a href="https://anilist.co/manga/110472"><img src="https://s4.anilist.co/file/anilistcdn/media/manga/cover/large/bx110472-jxJG7CZ3lf4d.jpg" alt="Study Group" width="180" height="260" /></a>
-<br/><sub><b>📖 MANHWA</b></sub>
-<br/><b><a href="https://anilist.co/manga/110472">Study Group</a></b>
-<br/><sub>⭐ 7.4 · 2019 · Action</sub>
+<a href="https://anilist.co/manga/120688"><img src="https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/b120688-vbR3pnEPRZca.jpg" alt="Cultivator vs Superhero" width="180" height="260" /></a>
+<br/><sub><b>📖 MANHUA</b></sub>
+<br/><b><a href="https://anilist.co/manga/120688">Cultivator vs Superhero</a></b>
+<br/><sub>⭐ 6.9 · 2020 · Action · Adventure</sub>
 </td>
 <td width="25%" valign="top" align="center">
-<a href="https://openlibrary.org/works/OL2664916W"><img src="https://covers.openlibrary.org/b/id/499340-L.jpg" alt="The Bourne Identity" width="180" height="260" /></a>
-<br/><sub><b>📚 THRILLER</b></sub>
-<br/><b><a href="https://openlibrary.org/works/OL2664916W">The Bourne Identity</a></b>
-<br/><sub>Robert Ludlum · 1980 · ⭐ 6.4</sub>
+<a href="https://openlibrary.org/works/OL8400950W"><img src="https://covers.openlibrary.org/b/id/14543422-L.jpg" alt="The Blade Itself" width="180" height="260" /></a>
+<br/><sub><b>📚 FANTASY</b></sub>
+<br/><b><a href="https://openlibrary.org/works/OL8400950W">The Blade Itself</a></b>
+<br/><sub>Joe Abercrombie · 2001 · ⭐ 8.2</sub>
 </td>
 <td width="25%" valign="top" align="center">
-<a href="assets/daily/quote-2026-09-30.svg"><img src="assets/daily/quote-2026-09-30.svg" alt="“Stand up and walk. Keep moving forward. You&#x27;ve got two good legs.” — Edward Elric, Fullmetal Alchemist" width="180" height="260" /></a>
+<a href="assets/daily/quote-2026-10-01.svg"><img src="assets/daily/quote-2026-10-01.svg" alt="“The only thing lacking in this world is a medicine for regret.” — Fang Yuan, Reverend Insanity" width="180" height="260" /></a>
 <br/><sub><b>💬 QUOTE</b></sub>
-<br/><b><a href="assets/daily/quote-2026-09-30.svg">Edward Elric</a></b>
-<br/><sub>Fullmetal Alchemist</sub>
+<br/><b><a href="assets/daily/quote-2026-10-01.svg">Fang Yuan</a></b>
+<br/><sub>Reverend Insanity</sub>
 </td>
 </tr>
 </table>
