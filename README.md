@@ -74,33 +74,33 @@
 <table>
 <tr>
 <td width="50%" valign="top" align="center">
-<a href="https://epic.gsfc.nasa.gov/"><img src="https://epic.gsfc.nasa.gov/archive/natural/2026/09/27/jpg/epic_1b_20260927010436.jpg" alt="Earth, 3 days ago" width="48%" />
-<img src="https://epic.gsfc.nasa.gov/archive/natural/2026/09/27/jpg/epic_1b_20260927081646.jpg" alt="Earth, 3 days ago" width="48%" />
-<img src="https://epic.gsfc.nasa.gov/archive/natural/2026/09/27/jpg/epic_1b_20260927152856.jpg" alt="Earth, 3 days ago" width="48%" />
-<img src="https://epic.gsfc.nasa.gov/archive/natural/2026/09/27/jpg/epic_1b_20260927224107.jpg" alt="Earth, 3 days ago" width="48%" /></a>
+<a href="https://science.nasa.gov/wp-content/themes/nasa-child/assets/images/nasa-logo@2x.png"><img src="https://science.nasa.gov/wp-content/themes/nasa-child/assets/images/nasa-logo@2x.png" alt="NASA Science" width="100%" /></a>
+<br/><br/>
+<b>NASA Science</b>
+<br/>
+<sub>Have you ever seen the full moon rise? This colorful image was photographed last weekend in Sicily, just outside the town of Nicosia, in Italy. It is... <a href="https://apod.nasa.gov/apod/ap261001.html">more →</a></sub>
+<br/><br/>
+<sub><i>NASA APOD, 2026-10-01</i></sub>
+</td>
+<td width="50%" valign="top" align="center">
+<a href="https://epic.gsfc.nasa.gov/"><img src="https://epic.gsfc.nasa.gov/archive/natural/2026/09/28/jpg/epic_1b_20260928005515.jpg" alt="Earth, 3 days ago" width="48%" />
+<img src="https://epic.gsfc.nasa.gov/archive/natural/2026/09/28/jpg/epic_1b_20260928080725.jpg" alt="Earth, 3 days ago" width="48%" />
+<img src="https://epic.gsfc.nasa.gov/archive/natural/2026/09/28/jpg/epic_1b_20260928151935.jpg" alt="Earth, 3 days ago" width="48%" />
+<img src="https://epic.gsfc.nasa.gov/archive/natural/2026/09/28/jpg/epic_1b_20260928223145.jpg" alt="Earth, 3 days ago" width="48%" /></a>
 <br/><br/>
 <b>Earth, 3 days ago</b>
 <br/>
-<sub>Full-disc Earth from DSCOVR, 1.58 million km out. 4 frames from 2026-09-27; the latest is centred on 5°N 164°W.</sub>
+<sub>Full-disc Earth from DSCOVR, 1.58 million km out. 4 frames from 2026-09-28; the latest is centred on 5°N 162°W.</sub>
 <br/><br/>
-<sub><i>NASA EPIC aboard DSCOVR, 2026-09-27</i></sub>
-</td>
-<td width="50%" valign="top" align="center">
-<img src="https://images-assets.nasa.gov/image/NHQ202606050003/NHQ202606050003~large.jpg" alt="Beyond the Deep Field: Hubble’s Legacy and the Future of Cosmi" width="100%" />
-<br/><br/>
-<b>Beyond the Deep Field: Hubble’s Legacy and the Future of Cosmi</b>
-<br/>
-<sub>NASA’s Goddard Space Flight Center deputy project manager for the Hubble Space Telescope, Jim Jeletic, moderates a panel about “Partnerships Across...</sub>
-<br/><br/>
-<sub><i>NASA Image Library, &quot;hubble deep field&quot;</i></sub>
+<sub><i>NASA EPIC aboard DSCOVR, 2026-09-28</i></sub>
 </td>
 </tr>
 </table>
 
 <table>
 <tr>
-<td width="40%" valign="middle"><a href="https://europeanspaceflight.com/esa-selects-airbus-and-ohb-to-lead-european-space-station-studies/"><img src="https://europeanspaceflight.com/wp-content/uploads/2026/09/ESA-Selects-Airbus-and-OHB-to-Lead-European-Space-Station-Studies.webp" alt="ESA Selects Airbus and OHB to Lead European Space Station Studies" width="100%" /></a></td>
-<td valign="middle">📰 <b>Today in spaceflight</b><br/><br/><b><a href="https://europeanspaceflight.com/esa-selects-airbus-and-ohb-to-lead-european-space-station-studies/">ESA Selects Airbus and OHB to Lead European Space Station Studies</a></b><br/><br/><sub>European Spaceflight, 2026-09-30</sub></td>
+<td width="40%" valign="middle"><a href="https://www.nasaspaceflight.com/2026/10/transporter-18/"><img src="https://www.nasaspaceflight.com/wp-content/uploads/2026/09/0C67D3BF-9038-495A-A53F-3E356705001C-scaled.jpeg" alt="Starfish Otter, other payloads set to launch on Transporter 18" width="100%" /></a></td>
+<td valign="middle">📰 <b>Today in spaceflight</b><br/><br/><b><a href="https://www.nasaspaceflight.com/2026/10/transporter-18/">Starfish Otter, other payloads set to launch on Transporter 18</a></b><br/><br/><sub>NASASpaceflight, 2026-10-01</sub></td>
 </tr>
 </table>
 <!-- SPACE:END -->
