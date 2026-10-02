@@ -74,33 +74,33 @@
 <table>
 <tr>
 <td width="50%" valign="top" align="center">
-<a href="https://science.nasa.gov/wp-content/themes/nasa-child/assets/images/nasa-logo@2x.png"><img src="https://science.nasa.gov/wp-content/themes/nasa-child/assets/images/nasa-logo@2x.png" alt="NASA Science" width="100%" /></a>
+<a href="https://epic.gsfc.nasa.gov/"><img src="https://epic.gsfc.nasa.gov/archive/natural/2026/09/28/jpg/epic_1b_20260928005515.jpg" alt="Earth, 4 days ago" width="48%" />
+<img src="https://epic.gsfc.nasa.gov/archive/natural/2026/09/28/jpg/epic_1b_20260928080725.jpg" alt="Earth, 4 days ago" width="48%" />
+<img src="https://epic.gsfc.nasa.gov/archive/natural/2026/09/28/jpg/epic_1b_20260928151935.jpg" alt="Earth, 4 days ago" width="48%" />
+<img src="https://epic.gsfc.nasa.gov/archive/natural/2026/09/28/jpg/epic_1b_20260928223145.jpg" alt="Earth, 4 days ago" width="48%" /></a>
 <br/><br/>
-<b>NASA Science</b>
-<br/>
-<sub>Have you ever seen the full moon rise? This colorful image was photographed last weekend in Sicily, just outside the town of Nicosia, in Italy. It is... <a href="https://apod.nasa.gov/apod/ap261001.html">more →</a></sub>
-<br/><br/>
-<sub><i>NASA APOD, 2026-10-01</i></sub>
-</td>
-<td width="50%" valign="top" align="center">
-<a href="https://epic.gsfc.nasa.gov/"><img src="https://epic.gsfc.nasa.gov/archive/natural/2026/09/28/jpg/epic_1b_20260928005515.jpg" alt="Earth, 3 days ago" width="48%" />
-<img src="https://epic.gsfc.nasa.gov/archive/natural/2026/09/28/jpg/epic_1b_20260928080725.jpg" alt="Earth, 3 days ago" width="48%" />
-<img src="https://epic.gsfc.nasa.gov/archive/natural/2026/09/28/jpg/epic_1b_20260928151935.jpg" alt="Earth, 3 days ago" width="48%" />
-<img src="https://epic.gsfc.nasa.gov/archive/natural/2026/09/28/jpg/epic_1b_20260928223145.jpg" alt="Earth, 3 days ago" width="48%" /></a>
-<br/><br/>
-<b>Earth, 3 days ago</b>
+<b>Earth, 4 days ago</b>
 <br/>
 <sub>Full-disc Earth from DSCOVR, 1.58 million km out. 4 frames from 2026-09-28; the latest is centred on 5°N 162°W.</sub>
 <br/><br/>
 <sub><i>NASA EPIC aboard DSCOVR, 2026-09-28</i></sub>
+</td>
+<td width="50%" valign="top" align="center">
+<img src="https://images-assets.nasa.gov/image/PIA04921/PIA04921~medium.jpg" alt="Andromeda Galaxy" width="100%" />
+<br/><br/>
+<b>Andromeda Galaxy</b>
+<br/>
+<sub>This image is from NASA Galaxy Evolution Explorer is an observation of the large galaxy in Andromeda, Messier 31. The Andromeda galaxy is the most...</sub>
+<br/><br/>
+<sub><i>NASA Image Library, &quot;andromeda&quot;</i></sub>
 </td>
 </tr>
 </table>
 
 <table>
 <tr>
-<td width="40%" valign="middle"><a href="https://www.nasaspaceflight.com/2026/10/transporter-18/"><img src="https://www.nasaspaceflight.com/wp-content/uploads/2026/09/0C67D3BF-9038-495A-A53F-3E356705001C-scaled.jpeg" alt="Starfish Otter, other payloads set to launch on Transporter 18" width="100%" /></a></td>
-<td valign="middle">📰 <b>Today in spaceflight</b><br/><br/><b><a href="https://www.nasaspaceflight.com/2026/10/transporter-18/">Starfish Otter, other payloads set to launch on Transporter 18</a></b><br/><br/><sub>NASASpaceflight, 2026-10-01</sub></td>
+<td width="40%" valign="middle"><a href="https://www.esa.int/ESA_Multimedia/Videos/2026/10/A_guide_to_blood_draws_in_orbit"><img src="https://www.esa.int/var/esa/storage/images/esa_multimedia/videos/2026/10/a_guide_to_blood_draws_in_orbit/27551016-1-eng-GB/A_guide_to_blood_draws_in_orbit_card_full.jpg" alt="A guide to blood draws in orbit" width="100%" /></a></td>
+<td valign="middle">📰 <b>Today in spaceflight</b><br/><br/><b><a href="https://www.esa.int/ESA_Multimedia/Videos/2026/10/A_guide_to_blood_draws_in_orbit">A guide to blood draws in orbit</a></b><br/><br/><sub>ESA, 2026-10-02</sub></td>
 </tr>
 </table>
 <!-- SPACE:END -->
