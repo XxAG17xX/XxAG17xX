@@ -74,33 +74,33 @@
 <table>
 <tr>
 <td width="50%" valign="top" align="center">
-<a href="https://epic.gsfc.nasa.gov/"><img src="https://epic.gsfc.nasa.gov/archive/natural/2026/09/28/jpg/epic_1b_20260928005515.jpg" alt="Earth, 4 days ago" width="48%" />
-<img src="https://epic.gsfc.nasa.gov/archive/natural/2026/09/28/jpg/epic_1b_20260928080725.jpg" alt="Earth, 4 days ago" width="48%" />
-<img src="https://epic.gsfc.nasa.gov/archive/natural/2026/09/28/jpg/epic_1b_20260928151935.jpg" alt="Earth, 4 days ago" width="48%" />
-<img src="https://epic.gsfc.nasa.gov/archive/natural/2026/09/28/jpg/epic_1b_20260928223145.jpg" alt="Earth, 4 days ago" width="48%" /></a>
+<a href="https://epic.gsfc.nasa.gov/"><img src="https://epic.gsfc.nasa.gov/archive/natural/2026/09/28/jpg/epic_1b_20260928005515.jpg" alt="Earth, 5 days ago" width="48%" />
+<img src="https://epic.gsfc.nasa.gov/archive/natural/2026/09/28/jpg/epic_1b_20260928080725.jpg" alt="Earth, 5 days ago" width="48%" />
+<img src="https://epic.gsfc.nasa.gov/archive/natural/2026/09/28/jpg/epic_1b_20260928151935.jpg" alt="Earth, 5 days ago" width="48%" />
+<img src="https://epic.gsfc.nasa.gov/archive/natural/2026/09/28/jpg/epic_1b_20260928223145.jpg" alt="Earth, 5 days ago" width="48%" /></a>
 <br/><br/>
-<b>Earth, 4 days ago</b>
+<b>Earth, 5 days ago</b>
 <br/>
 <sub>Full-disc Earth from DSCOVR, 1.58 million km out. 4 frames from 2026-09-28; the latest is centred on 5°N 162°W.</sub>
 <br/><br/>
 <sub><i>NASA EPIC aboard DSCOVR, 2026-09-28</i></sub>
 </td>
 <td width="50%" valign="top" align="center">
-<img src="https://images-assets.nasa.gov/image/PIA04921/PIA04921~medium.jpg" alt="Andromeda Galaxy" width="100%" />
+<img src="https://images-assets.nasa.gov/image/PIA04220/PIA04220~small.jpg" alt="Trifid Nebula" width="100%" />
 <br/><br/>
-<b>Andromeda Galaxy</b>
+<b>Trifid Nebula</b>
 <br/>
-<sub>This image is from NASA Galaxy Evolution Explorer is an observation of the large galaxy in Andromeda, Messier 31. The Andromeda galaxy is the most...</sub>
+<sub>Atlas Image mosaic, covering 14.8 x 20.0 on the sky, of the Trifid Nebula, aka Messier 20 and NGC 6514. The Trifid is only about 1.5 degrees...</sub>
 <br/><br/>
-<sub><i>NASA Image Library, &quot;andromeda&quot;</i></sub>
+<sub><i>NASA Image Library, &quot;nebula&quot;</i></sub>
 </td>
 </tr>
 </table>
 
 <table>
 <tr>
-<td width="40%" valign="middle"><a href="https://www.esa.int/ESA_Multimedia/Videos/2026/10/A_guide_to_blood_draws_in_orbit"><img src="https://www.esa.int/var/esa/storage/images/esa_multimedia/videos/2026/10/a_guide_to_blood_draws_in_orbit/27551016-1-eng-GB/A_guide_to_blood_draws_in_orbit_card_full.jpg" alt="A guide to blood draws in orbit" width="100%" /></a></td>
-<td valign="middle">📰 <b>Today in spaceflight</b><br/><br/><b><a href="https://www.esa.int/ESA_Multimedia/Videos/2026/10/A_guide_to_blood_draws_in_orbit">A guide to blood draws in orbit</a></b><br/><br/><sub>ESA, 2026-10-02</sub></td>
+<td width="40%" valign="middle"><a href="https://science.nasa.gov/image-article/apod-2026-october-3-selfie-at-vera-rubin-ridge/"><img src="https://assets.science.nasa.gov/dynamicimage/assets/science/cds/apod/apod/2026/october/Sol1943CuriosityBodrov.jpg" alt="APOD: 2026 October 3 – Selfie at Vera Rubin Ridge" width="100%" /></a></td>
+<td valign="middle">📰 <b>Today in spaceflight</b><br/><br/><b><a href="https://science.nasa.gov/image-article/apod-2026-october-3-selfie-at-vera-rubin-ridge/">APOD: 2026 October 3 – Selfie at Vera Rubin Ridge</a></b><br/><br/><sub>NASA, 2026-10-03</sub></td>
 </tr>
 </table>
 <!-- SPACE:END -->
