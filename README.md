@@ -113,28 +113,28 @@
 <table>
 <tr>
 <td width="25%" valign="top" align="center">
-<a href="https://anilist.co/anime/13601"><img src="https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx13601-i42VFuHpqEOJ.jpg" alt="PSYCHO-PASS" width="180" height="260" /></a>
+<a href="https://anilist.co/anime/5114"><img src="https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx5114-nSWCgQlmOMtj.jpg" alt="Fullmetal Alchemist: Brotherhood" width="180" height="260" /></a>
 <br/><sub><b>🎬 ANIME</b></sub>
-<br/><b><a href="https://anilist.co/anime/13601">PSYCHO-PASS</a></b>
-<br/><sub>⭐ 8.1 · 2012 · 22 eps · Action · Psychological</sub>
+<br/><b><a href="https://anilist.co/anime/5114">Fullmetal Alchemist: Brotherhood</a></b>
+<br/><sub>⭐ 9.0 · 2009 · 64 eps · Action · Adventure</sub>
 </td>
 <td width="25%" valign="top" align="center">
-<a href="https://anilist.co/manga/87233"><img src="https://s4.anilist.co/file/anilistcdn/media/manga/cover/large/bx87233-ato64nezwd0E.jpg" alt="Tokyo Ghoul: Days" width="180" height="260" /></a>
-<br/><sub><b>📖 NOVEL</b></sub>
-<br/><b><a href="https://anilist.co/manga/87233">Tokyo Ghoul: Days</a></b>
-<br/><sub>⭐ 7.4 · 2013 · 6 chs · Action · Mystery</sub>
+<a href="https://anilist.co/manga/146983"><img src="https://s4.anilist.co/file/anilistcdn/media/manga/cover/large/bx146983-pLf4apCkFwKL.jpg" alt="Goodbye, Eri" width="180" height="260" /></a>
+<br/><sub><b>📖 MANGA</b></sub>
+<br/><b><a href="https://anilist.co/manga/146983">Goodbye, Eri</a></b>
+<br/><sub>⭐ 8.5 · 2022 · 1 ch · Psychological</sub>
 </td>
 <td width="25%" valign="top" align="center">
-<a href="https://openlibrary.org/works/OL38501W"><img src="https://covers.openlibrary.org/b/id/392508-L.jpg" alt="Snow Crash" width="180" height="260" /></a>
-<br/><sub><b>📚 SCI-FI</b></sub>
-<br/><b><a href="https://openlibrary.org/works/OL38501W">Snow Crash</a></b>
-<br/><sub>Neal Stephenson · 1992 · ⭐ 8.1</sub>
+<a href="https://openlibrary.org/works/OL27513W"><img src="https://covers.openlibrary.org/b/id/14627060-L.jpg" alt="The Fellowship of the Ring" width="180" height="260" /></a>
+<br/><sub><b>📚 FANTASY</b></sub>
+<br/><b><a href="https://openlibrary.org/works/OL27513W">The Fellowship of the Ring</a></b>
+<br/><sub>J. R. R. Tolkien · 1954 · ⭐ 8.7</sub>
 </td>
 <td width="25%" valign="top" align="center">
-<a href="assets/daily/quote-2026-10-02.svg"><img src="assets/daily/quote-2026-10-02.svg" alt="“The most important step a man can take. It&#x27;s not the first one, is it? It&#x27;s the next one.” — Dalinar Kholin, The Stormlight Archive" width="180" height="260" /></a>
+<a href="assets/daily/quote-2026-10-03.svg"><img src="assets/daily/quote-2026-10-03.svg" alt="“My soldiers, rage! My soldiers, scream! My soldiers, fight!” — Erwin Smith, Attack on Titan" width="180" height="260" /></a>
 <br/><sub><b>💬 QUOTE</b></sub>
-<br/><b><a href="assets/daily/quote-2026-10-02.svg">Dalinar Kholin</a></b>
-<br/><sub>The Stormlight Archive</sub>
+<br/><b><a href="assets/daily/quote-2026-10-03.svg">Erwin Smith</a></b>
+<br/><sub>Attack on Titan</sub>
 </td>
 </tr>
 </table>
