@@ -113,28 +113,28 @@
 <table>
 <tr>
 <td width="25%" valign="top" align="center">
-<a href="https://anilist.co/anime/5114"><img src="https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx5114-nSWCgQlmOMtj.jpg" alt="Fullmetal Alchemist: Brotherhood" width="180" height="260" /></a>
+<a href="https://anilist.co/anime/101338"><img src="https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx101338-rokVscjRYzdP.jpg" alt="Mob Psycho 100 II" width="180" height="260" /></a>
 <br/><sub><b>🎬 ANIME</b></sub>
-<br/><b><a href="https://anilist.co/anime/5114">Fullmetal Alchemist: Brotherhood</a></b>
-<br/><sub>⭐ 9.0 · 2009 · 64 eps · Action · Adventure</sub>
+<br/><b><a href="https://anilist.co/anime/101338">Mob Psycho 100 II</a></b>
+<br/><sub>⭐ 8.7 · 2019 · 13 eps · Action · Psychological</sub>
 </td>
 <td width="25%" valign="top" align="center">
-<a href="https://anilist.co/manga/146983"><img src="https://s4.anilist.co/file/anilistcdn/media/manga/cover/large/bx146983-pLf4apCkFwKL.jpg" alt="Goodbye, Eri" width="180" height="260" /></a>
-<br/><sub><b>📖 MANGA</b></sub>
-<br/><b><a href="https://anilist.co/manga/146983">Goodbye, Eri</a></b>
-<br/><sub>⭐ 8.5 · 2022 · 1 ch · Psychological</sub>
+<a href="https://anilist.co/manga/170400"><img src="https://s4.anilist.co/file/anilistcdn/media/manga/cover/large/bx170400-yMIuOIboWuoO.jpg" alt="The Stellar Swordmaster" width="180" height="260" /></a>
+<br/><sub><b>📖 MANHWA</b></sub>
+<br/><b><a href="https://anilist.co/manga/170400">The Stellar Swordmaster</a></b>
+<br/><sub>⭐ 8.2 · 2023 · Action · Adventure</sub>
 </td>
 <td width="25%" valign="top" align="center">
-<a href="https://openlibrary.org/works/OL27513W"><img src="https://covers.openlibrary.org/b/id/14627060-L.jpg" alt="The Fellowship of the Ring" width="180" height="260" /></a>
-<br/><sub><b>📚 FANTASY</b></sub>
-<br/><b><a href="https://openlibrary.org/works/OL27513W">The Fellowship of the Ring</a></b>
-<br/><sub>J. R. R. Tolkien · 1954 · ⭐ 8.7</sub>
+<a href="https://openlibrary.org/works/OL19714233W"><img src="https://covers.openlibrary.org/b/id/11300391-L.jpg" alt="Ikigai" width="180" height="260" /></a>
+<br/><sub><b>📚 MINDSET</b></sub>
+<br/><b><a href="https://openlibrary.org/works/OL19714233W">Ikigai</a></b>
+<br/><sub>Hector Garcia · 2016 · ⭐ 7.9</sub>
 </td>
 <td width="25%" valign="top" align="center">
-<a href="assets/daily/quote-2026-10-03.svg"><img src="assets/daily/quote-2026-10-03.svg" alt="“My soldiers, rage! My soldiers, scream! My soldiers, fight!” — Erwin Smith, Attack on Titan" width="180" height="260" /></a>
+<a href="assets/daily/quote-2026-10-04.svg"><img src="assets/daily/quote-2026-10-04.svg" alt="“Arise.” — Sung Jinwoo, Solo Leveling" width="180" height="260" /></a>
 <br/><sub><b>💬 QUOTE</b></sub>
-<br/><b><a href="assets/daily/quote-2026-10-03.svg">Erwin Smith</a></b>
-<br/><sub>Attack on Titan</sub>
+<br/><b><a href="assets/daily/quote-2026-10-04.svg">Sung Jinwoo</a></b>
+<br/><sub>Solo Leveling</sub>
 </td>
 </tr>
 </table>
