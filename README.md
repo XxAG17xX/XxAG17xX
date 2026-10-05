@@ -74,15 +74,6 @@
 <table>
 <tr>
 <td width="50%" valign="top" align="center">
-<a href="https://science.nasa.gov/wp-content/themes/nasa-child/assets/images/nasa-logo@2x.png"><img src="https://science.nasa.gov/wp-content/themes/nasa-child/assets/images/nasa-logo@2x.png" alt="NASA Science" width="100%" /></a>
-<br/><br/>
-<b>NASA Science</b>
-<br/>
-<sub>A deep image of the Sombrero galaxy reveals surprises. M104 is named the Sombrero galaxy because, on shorter exposures, it looks like a hat. A key... <a href="https://apod.nasa.gov/apod/ap261005.html">more →</a></sub>
-<br/><br/>
-<sub><i>NASA APOD, 2026-10-05</i></sub>
-</td>
-<td width="50%" valign="top" align="center">
 <img src="https://images-assets.nasa.gov/image/KSC-20251111-PH-JBS01_0013/KSC-20251111-PH-JBS01_0013~large.jpg" alt="Aurora Borealis at Kennedy Space Center" width="100%" />
 <br/><br/>
 <b>Aurora Borealis at Kennedy Space Center</b>
@@ -90,6 +81,15 @@
 <sub>The faint glow of an aurora is seen over Launch Complex 39B at NASA’s Kennedy Space Center in Florida on Tuesday, Nov. 11, 2025. Auroras are created...</sub>
 <br/><br/>
 <sub><i>NASA Image Library, &quot;aurora&quot;</i></sub>
+</td>
+<td width="50%" valign="top" align="center">
+<img src="https://images-assets.nasa.gov/image/NHQ201708190106/NHQ201708190106~medium.jpg" alt="2017 Total Solar Eclipse" width="100%" />
+<br/><br/>
+<b>2017 Total Solar Eclipse</b>
+<br/>
+<sub>A welcome sign is seen along the roads in Madras, Oregon, where thousands of visitors are expected for the total solar eclipse, Saturday, August 19...</sub>
+<br/><br/>
+<sub><i>NASA Image Library, &quot;solar eclipse&quot;</i></sub>
 </td>
 </tr>
 </table>
