@@ -74,6 +74,18 @@
 <table>
 <tr>
 <td width="50%" valign="top" align="center">
+<a href="https://www.star.nesdis.noaa.gov/GOES/fulldisk.php?sat=G19"><img src="https://cdn.star.nesdis.noaa.gov/GOES19/ABI/FD/GEOCOLOR/20262771930_GOES19-ABI-FD-GEOCOLOR-678x678.jpg" alt="Earth today" width="48%" />
+<img src="https://cdn.star.nesdis.noaa.gov/GOES19/ABI/FD/GEOCOLOR/20262780130_GOES19-ABI-FD-GEOCOLOR-678x678.jpg" alt="Earth today" width="48%" />
+<img src="https://cdn.star.nesdis.noaa.gov/GOES19/ABI/FD/GEOCOLOR/20262780730_GOES19-ABI-FD-GEOCOLOR-678x678.jpg" alt="Earth today" width="48%" />
+<img src="https://cdn.star.nesdis.noaa.gov/GOES19/ABI/FD/GEOCOLOR/20262781330_GOES19-ABI-FD-GEOCOLOR-678x678.jpg" alt="Earth today" width="48%" /></a>
+<br/><br/>
+<b>Earth today</b>
+<br/>
+<sub>The Americas from NOAA&#x27;s GOES-19, 35,786 km up. 4 frames, six hours apart; the latest at 13:30 UTC. City lights show on the night side.</sub>
+<br/><br/>
+<sub><i>NOAA GOES-19 GeoColor, 2026-10-05</i></sub>
+</td>
+<td width="50%" valign="top" align="center">
 <img src="https://images-assets.nasa.gov/image/KSC-20251111-PH-JBS01_0013/KSC-20251111-PH-JBS01_0013~large.jpg" alt="Aurora Borealis at Kennedy Space Center" width="100%" />
 <br/><br/>
 <b>Aurora Borealis at Kennedy Space Center</b>
@@ -81,15 +93,6 @@
 <sub>The faint glow of an aurora is seen over Launch Complex 39B at NASA’s Kennedy Space Center in Florida on Tuesday, Nov. 11, 2025. Auroras are created...</sub>
 <br/><br/>
 <sub><i>NASA Image Library, &quot;aurora&quot;</i></sub>
-</td>
-<td width="50%" valign="top" align="center">
-<img src="https://images-assets.nasa.gov/image/NHQ201708190106/NHQ201708190106~medium.jpg" alt="2017 Total Solar Eclipse" width="100%" />
-<br/><br/>
-<b>2017 Total Solar Eclipse</b>
-<br/>
-<sub>A welcome sign is seen along the roads in Madras, Oregon, where thousands of visitors are expected for the total solar eclipse, Saturday, August 19...</sub>
-<br/><br/>
-<sub><i>NASA Image Library, &quot;solar eclipse&quot;</i></sub>
 </td>
 </tr>
 </table>
