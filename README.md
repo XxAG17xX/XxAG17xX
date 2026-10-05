@@ -74,14 +74,14 @@
 <table>
 <tr>
 <td width="50%" valign="top" align="center">
-<a href="https://www.star.nesdis.noaa.gov/GOES/fulldisk.php?sat=G19"><img src="https://cdn.star.nesdis.noaa.gov/GOES19/ABI/FD/GEOCOLOR/20262771930_GOES19-ABI-FD-GEOCOLOR-678x678.jpg" alt="Earth today" width="48%" />
-<img src="https://cdn.star.nesdis.noaa.gov/GOES19/ABI/FD/GEOCOLOR/20262780130_GOES19-ABI-FD-GEOCOLOR-678x678.jpg" alt="Earth today" width="48%" />
-<img src="https://cdn.star.nesdis.noaa.gov/GOES19/ABI/FD/GEOCOLOR/20262780730_GOES19-ABI-FD-GEOCOLOR-678x678.jpg" alt="Earth today" width="48%" />
-<img src="https://cdn.star.nesdis.noaa.gov/GOES19/ABI/FD/GEOCOLOR/20262781330_GOES19-ABI-FD-GEOCOLOR-678x678.jpg" alt="Earth today" width="48%" /></a>
+<a href="https://www.star.nesdis.noaa.gov/GOES/fulldisk.php?sat=G19"><img src="https://cdn.star.nesdis.noaa.gov/GOES19/ABI/FD/GEOCOLOR/20262772010_GOES19-ABI-FD-GEOCOLOR-678x678.jpg" alt="Earth today" width="48%" />
+<img src="https://cdn.star.nesdis.noaa.gov/GOES19/ABI/FD/GEOCOLOR/20262780210_GOES19-ABI-FD-GEOCOLOR-678x678.jpg" alt="Earth today" width="48%" />
+<img src="https://cdn.star.nesdis.noaa.gov/GOES19/ABI/FD/GEOCOLOR/20262780810_GOES19-ABI-FD-GEOCOLOR-678x678.jpg" alt="Earth today" width="48%" />
+<img src="https://cdn.star.nesdis.noaa.gov/GOES19/ABI/FD/GEOCOLOR/20262781410_GOES19-ABI-FD-GEOCOLOR-678x678.jpg" alt="Earth today" width="48%" /></a>
 <br/><br/>
 <b>Earth today</b>
 <br/>
-<sub>The Americas from NOAA&#x27;s GOES-19, 35,786 km up. 4 frames, six hours apart; the latest at 13:30 UTC. City lights show on the night side.</sub>
+<sub>The Americas from NOAA&#x27;s GOES-19, 35,786 km up. 4 frames, six hours apart; the latest at 14:10 UTC. City lights show on the night side.</sub>
 <br/><br/>
 <sub><i>NOAA GOES-19 GeoColor, 2026-10-05</i></sub>
 </td>
@@ -99,8 +99,8 @@
 
 <table>
 <tr>
-<td width="40%" valign="middle"><a href="https://spacenews.com/agile-space-industries-strengthens-board-and-corporate-development-to-support-continued-growth/"><img src="https://i0.wp.com/spacenews.com/wp-content/uploads/2026/07/agile-space-industries-square-logo-scaled.png?fit=1024%2C1024&ssl=1" alt="Agile Space Industries Strengthens Board and Corporate Development to Support Continued Growth" width="100%" /></a></td>
-<td valign="middle">📰 <b>Today in spaceflight</b><br/><br/><b><a href="https://spacenews.com/agile-space-industries-strengthens-board-and-corporate-development-to-support-continued-growth/">Agile Space Industries Strengthens Board and Corporate Development to Support Continued Growth</a></b><br/><br/><sub>SpaceNews, 2026-10-05</sub></td>
+<td width="40%" valign="middle"><a href="https://europeanspaceflight.com/second-hyimpulse-suborbital-sr75-flight-slips-to-2027/"><img src="https://europeanspaceflight.com/wp-content/uploads/2026/10/Second-HyImpulse-Suborbital-SR75-Flight-Slips-to-2027-.webp" alt="Second HyImpulse Suborbital SR75 Flight Slips to 2027" width="100%" /></a></td>
+<td valign="middle">📰 <b>Today in spaceflight</b><br/><br/><b><a href="https://europeanspaceflight.com/second-hyimpulse-suborbital-sr75-flight-slips-to-2027/">Second HyImpulse Suborbital SR75 Flight Slips to 2027</a></b><br/><br/><sub>European Spaceflight, 2026-10-05</sub></td>
 </tr>
 </table>
 <!-- SPACE:END -->
