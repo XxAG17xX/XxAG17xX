@@ -110,28 +110,28 @@
 <table>
 <tr>
 <td width="25%" valign="top" align="center">
-<a href="https://anilist.co/anime/101338"><img src="https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx101338-rokVscjRYzdP.jpg" alt="Mob Psycho 100 II" width="180" height="260" /></a>
+<a href="https://anilist.co/anime/97986"><img src="https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx97986-TQ7dCgbS3y5s.jpg" alt="Made in Abyss" width="180" height="260" /></a>
 <br/><sub><b>🎬 ANIME</b></sub>
-<br/><b><a href="https://anilist.co/anime/101338">Mob Psycho 100 II</a></b>
-<br/><sub>⭐ 8.7 · 2019 · 13 eps · Action · Psychological</sub>
+<br/><b><a href="https://anilist.co/anime/97986">Made in Abyss</a></b>
+<br/><sub>⭐ 8.4 · 2017 · 13 eps · Adventure · Mystery</sub>
 </td>
 <td width="25%" valign="top" align="center">
-<a href="https://anilist.co/manga/170400"><img src="https://s4.anilist.co/file/anilistcdn/media/manga/cover/large/bx170400-yMIuOIboWuoO.jpg" alt="The Stellar Swordmaster" width="180" height="260" /></a>
-<br/><sub><b>📖 MANHWA</b></sub>
-<br/><b><a href="https://anilist.co/manga/170400">The Stellar Swordmaster</a></b>
-<br/><sub>⭐ 8.2 · 2023 · Action · Adventure</sub>
+<a href="https://anilist.co/manga/108095"><img src="https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/b108095-xRbDsgGWUbAN.jpg" alt="Heresy" width="180" height="260" /></a>
+<br/><sub><b>📖 MANHUA</b></sub>
+<br/><b><a href="https://anilist.co/manga/108095">Heresy</a></b>
+<br/><sub>⭐ 6.9 · 2018 · 136 chs · Action · Adventure</sub>
 </td>
 <td width="25%" valign="top" align="center">
-<a href="https://openlibrary.org/works/OL19714233W"><img src="https://covers.openlibrary.org/b/id/11300391-L.jpg" alt="Ikigai" width="180" height="260" /></a>
-<br/><sub><b>📚 MINDSET</b></sub>
-<br/><b><a href="https://openlibrary.org/works/OL19714233W">Ikigai</a></b>
-<br/><sub>Hector Garcia · 2016 · ⭐ 7.9</sub>
+<a href="https://openlibrary.org/works/OL17373843W"><img src="https://covers.openlibrary.org/b/id/8264706-L.jpg" alt="Children of Time" width="180" height="260" /></a>
+<br/><sub><b>📚 SCI-FI</b></sub>
+<br/><b><a href="https://openlibrary.org/works/OL17373843W">Children of Time</a></b>
+<br/><sub>Adrian Tchaikovsky · 2015 · ⭐ 8.5</sub>
 </td>
 <td width="25%" valign="top" align="center">
-<a href="assets/daily/quote-2026-10-04.svg"><img src="assets/daily/quote-2026-10-04.svg" alt="“Arise.” — Sung Jinwoo, Solo Leveling" width="180" height="260" /></a>
+<a href="assets/daily/quote-2026-10-05.svg"><img src="assets/daily/quote-2026-10-05.svg" alt="“Being weak is nothing to be ashamed of. Staying weak is!” — Fuegoleon Vermillion, Black Clover" width="180" height="260" /></a>
 <br/><sub><b>💬 QUOTE</b></sub>
-<br/><b><a href="assets/daily/quote-2026-10-04.svg">Sung Jinwoo</a></b>
-<br/><sub>Solo Leveling</sub>
+<br/><b><a href="assets/daily/quote-2026-10-05.svg">Fuegoleon Vermillion</a></b>
+<br/><sub>Black Clover</sub>
 </td>
 </tr>
 </table>
