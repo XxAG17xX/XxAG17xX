@@ -74,33 +74,30 @@
 <table>
 <tr>
 <td width="50%" valign="top" align="center">
-<a href="https://epic.gsfc.nasa.gov/"><img src="https://epic.gsfc.nasa.gov/archive/natural/2026/09/28/jpg/epic_1b_20260928005515.jpg" alt="Earth, 6 days ago" width="48%" />
-<img src="https://epic.gsfc.nasa.gov/archive/natural/2026/09/28/jpg/epic_1b_20260928080725.jpg" alt="Earth, 6 days ago" width="48%" />
-<img src="https://epic.gsfc.nasa.gov/archive/natural/2026/09/28/jpg/epic_1b_20260928151935.jpg" alt="Earth, 6 days ago" width="48%" />
-<img src="https://epic.gsfc.nasa.gov/archive/natural/2026/09/28/jpg/epic_1b_20260928223145.jpg" alt="Earth, 6 days ago" width="48%" /></a>
+<a href="https://science.nasa.gov/wp-content/themes/nasa-child/assets/images/nasa-logo@2x.png"><img src="https://science.nasa.gov/wp-content/themes/nasa-child/assets/images/nasa-logo@2x.png" alt="NASA Science" width="100%" /></a>
 <br/><br/>
-<b>Earth, 6 days ago</b>
+<b>NASA Science</b>
 <br/>
-<sub>Full-disc Earth from DSCOVR, 1.58 million km out. 4 frames from 2026-09-28; the latest is centred on 5°N 162°W.</sub>
+<sub>A deep image of the Sombrero galaxy reveals surprises. M104 is named the Sombrero galaxy because, on shorter exposures, it looks like a hat. A key... <a href="https://apod.nasa.gov/apod/ap261005.html">more →</a></sub>
 <br/><br/>
-<sub><i>NASA EPIC aboard DSCOVR, 2026-09-28</i></sub>
+<sub><i>NASA APOD, 2026-10-05</i></sub>
 </td>
 <td width="50%" valign="top" align="center">
-<img src="https://images-assets.nasa.gov/image/PIA04635/PIA04635~small.jpg" alt="Galaxy NGC5962" width="100%" />
+<img src="https://images-assets.nasa.gov/image/KSC-20251111-PH-JBS01_0013/KSC-20251111-PH-JBS01_0013~large.jpg" alt="Aurora Borealis at Kennedy Space Center" width="100%" />
 <br/><br/>
-<b>Galaxy NGC5962</b>
+<b>Aurora Borealis at Kennedy Space Center</b>
 <br/>
-<sub>NASA Galaxy Evolution Explorer took this ultraviolet color image of the galaxy NGC5962 on June 7, 2003. This spiral galaxy is located 90 million...</sub>
+<sub>The faint glow of an aurora is seen over Launch Complex 39B at NASA’s Kennedy Space Center in Florida on Tuesday, Nov. 11, 2025. Auroras are created...</sub>
 <br/><br/>
-<sub><i>NASA Image Library, &quot;galaxy&quot;</i></sub>
+<sub><i>NASA Image Library, &quot;aurora&quot;</i></sub>
 </td>
 </tr>
 </table>
 
 <table>
 <tr>
-<td width="40%" valign="middle"><a href="https://science.nasa.gov/image-article/apod-2026-october-4-supernumerary-rainbows-over-new-jersey/"><img src="https://assets.science.nasa.gov/dynamicimage/assets/science/cds/apod/apod/2026/october/SupernumeraryRainbows_Entwistle_1362.jpg" alt="APOD: 2026 October 4 – Supernumerary Rainbows over New Jersey" width="100%" /></a></td>
-<td valign="middle">📰 <b>Today in spaceflight</b><br/><br/><b><a href="https://science.nasa.gov/image-article/apod-2026-october-4-supernumerary-rainbows-over-new-jersey/">APOD: 2026 October 4 – Supernumerary Rainbows over New Jersey</a></b><br/><br/><sub>NASA, 2026-10-04</sub></td>
+<td width="40%" valign="middle"><a href="https://spacenews.com/agile-space-industries-strengthens-board-and-corporate-development-to-support-continued-growth/"><img src="https://i0.wp.com/spacenews.com/wp-content/uploads/2026/07/agile-space-industries-square-logo-scaled.png?fit=1024%2C1024&ssl=1" alt="Agile Space Industries Strengthens Board and Corporate Development to Support Continued Growth" width="100%" /></a></td>
+<td valign="middle">📰 <b>Today in spaceflight</b><br/><br/><b><a href="https://spacenews.com/agile-space-industries-strengthens-board-and-corporate-development-to-support-continued-growth/">Agile Space Industries Strengthens Board and Corporate Development to Support Continued Growth</a></b><br/><br/><sub>SpaceNews, 2026-10-05</sub></td>
 </tr>
 </table>
 <!-- SPACE:END -->
