@@ -113,28 +113,28 @@
 <table>
 <tr>
 <td width="25%" valign="top" align="center">
-<a href="https://anilist.co/anime/97986"><img src="https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx97986-TQ7dCgbS3y5s.jpg" alt="Made in Abyss" width="180" height="260" /></a>
+<a href="https://anilist.co/anime/100388"><img src="https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx100388-hjkg1AnlJR5z.jpg" alt="BANANA FISH" width="180" height="260" /></a>
 <br/><sub><b>🎬 ANIME</b></sub>
-<br/><b><a href="https://anilist.co/anime/97986">Made in Abyss</a></b>
-<br/><sub>⭐ 8.4 · 2017 · 13 eps · Adventure · Mystery</sub>
+<br/><b><a href="https://anilist.co/anime/100388">BANANA FISH</a></b>
+<br/><sub>⭐ 8.3 · 2018 · 24 eps · Action · Psychological</sub>
 </td>
 <td width="25%" valign="top" align="center">
-<a href="https://anilist.co/manga/108095"><img src="https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/b108095-xRbDsgGWUbAN.jpg" alt="Heresy" width="180" height="260" /></a>
-<br/><sub><b>📖 MANHUA</b></sub>
-<br/><b><a href="https://anilist.co/manga/108095">Heresy</a></b>
-<br/><sub>⭐ 6.9 · 2018 · 136 chs · Action · Adventure</sub>
+<a href="https://anilist.co/manga/61651"><img src="https://s4.anilist.co/file/anilistcdn/media/manga/cover/large/bx61651-e6xpMtO9U0La.jpg" alt="A Certain Magical Index SS" width="180" height="260" /></a>
+<br/><sub><b>📖 NOVEL</b></sub>
+<br/><b><a href="https://anilist.co/manga/61651">A Certain Magical Index SS</a></b>
+<br/><sub>⭐ 7.4 · 2007 · 28 chs · Supernatural</sub>
 </td>
 <td width="25%" valign="top" align="center">
-<a href="https://openlibrary.org/works/OL17373843W"><img src="https://covers.openlibrary.org/b/id/8264706-L.jpg" alt="Children of Time" width="180" height="260" /></a>
-<br/><sub><b>📚 SCI-FI</b></sub>
-<br/><b><a href="https://openlibrary.org/works/OL17373843W">Children of Time</a></b>
-<br/><sub>Adrian Tchaikovsky · 2015 · ⭐ 8.5</sub>
+<a href="https://openlibrary.org/works/OL19293745W"><img src="https://covers.openlibrary.org/b/id/8434671-L.jpg" alt="Designing Data-Intensive Applications" width="180" height="260" /></a>
+<br/><sub><b>📚 BUILDER</b></sub>
+<br/><b><a href="https://openlibrary.org/works/OL19293745W">Designing Data-Intensive Applications</a></b>
+<br/><sub>Martin Kleppmann · 2017 · ⭐ 10.0</sub>
 </td>
 <td width="25%" valign="top" align="center">
-<a href="assets/daily/quote-2026-10-05.svg"><img src="assets/daily/quote-2026-10-05.svg" alt="“Being weak is nothing to be ashamed of. Staying weak is!” — Fuegoleon Vermillion, Black Clover" width="180" height="260" /></a>
+<a href="assets/daily/quote-2026-10-06.svg"><img src="assets/daily/quote-2026-10-06.svg" alt="“Waste no more time arguing what a good man should be. Be one.” — Marcus Aurelius, Meditations" width="180" height="260" /></a>
 <br/><sub><b>💬 QUOTE</b></sub>
-<br/><b><a href="assets/daily/quote-2026-10-05.svg">Fuegoleon Vermillion</a></b>
-<br/><sub>Black Clover</sub>
+<br/><b><a href="assets/daily/quote-2026-10-06.svg">Marcus Aurelius</a></b>
+<br/><sub>Meditations</sub>
 </td>
 </tr>
 </table>
