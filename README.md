@@ -74,33 +74,33 @@
 <table>
 <tr>
 <td width="50%" valign="top" align="center">
-<a href="https://www.star.nesdis.noaa.gov/GOES/fulldisk.php?sat=G19"><img src="https://cdn.star.nesdis.noaa.gov/GOES19/ABI/FD/GEOCOLOR/20262772010_GOES19-ABI-FD-GEOCOLOR-678x678.jpg" alt="Earth today" width="48%" />
-<img src="https://cdn.star.nesdis.noaa.gov/GOES19/ABI/FD/GEOCOLOR/20262780210_GOES19-ABI-FD-GEOCOLOR-678x678.jpg" alt="Earth today" width="48%" />
-<img src="https://cdn.star.nesdis.noaa.gov/GOES19/ABI/FD/GEOCOLOR/20262780810_GOES19-ABI-FD-GEOCOLOR-678x678.jpg" alt="Earth today" width="48%" />
-<img src="https://cdn.star.nesdis.noaa.gov/GOES19/ABI/FD/GEOCOLOR/20262781410_GOES19-ABI-FD-GEOCOLOR-678x678.jpg" alt="Earth today" width="48%" /></a>
+<a href="https://www.star.nesdis.noaa.gov/GOES/fulldisk.php?sat=G19"><img src="https://cdn.star.nesdis.noaa.gov/GOES19/ABI/FD/GEOCOLOR/20262781900_GOES19-ABI-FD-GEOCOLOR-678x678.jpg" alt="Earth today" width="48%" />
+<img src="https://cdn.star.nesdis.noaa.gov/GOES19/ABI/FD/GEOCOLOR/20262790100_GOES19-ABI-FD-GEOCOLOR-678x678.jpg" alt="Earth today" width="48%" />
+<img src="https://cdn.star.nesdis.noaa.gov/GOES19/ABI/FD/GEOCOLOR/20262790700_GOES19-ABI-FD-GEOCOLOR-678x678.jpg" alt="Earth today" width="48%" />
+<img src="https://cdn.star.nesdis.noaa.gov/GOES19/ABI/FD/GEOCOLOR/20262791300_GOES19-ABI-FD-GEOCOLOR-678x678.jpg" alt="Earth today" width="48%" /></a>
 <br/><br/>
 <b>Earth today</b>
 <br/>
-<sub>The Americas from NOAA&#x27;s GOES-19, 35,786 km up. 4 frames, six hours apart; the latest at 14:10 UTC. City lights show on the night side.</sub>
+<sub>The Americas from NOAA&#x27;s GOES-19, 35,786 km up. 4 frames, six hours apart; the latest at 13:00 UTC. City lights show on the night side.</sub>
 <br/><br/>
-<sub><i>NOAA GOES-19 GeoColor, 2026-10-05</i></sub>
+<sub><i>NOAA GOES-19 GeoColor, 2026-10-06</i></sub>
 </td>
 <td width="50%" valign="top" align="center">
-<img src="https://images-assets.nasa.gov/image/KSC-20251111-PH-JBS01_0013/KSC-20251111-PH-JBS01_0013~large.jpg" alt="Aurora Borealis at Kennedy Space Center" width="100%" />
+<img src="https://images-assets.nasa.gov/image/PIA10497/PIA10497~small.jpg" alt="Saturn in Recline" width="100%" />
 <br/><br/>
-<b>Aurora Borealis at Kennedy Space Center</b>
+<b>Saturn in Recline</b>
 <br/>
-<sub>The faint glow of an aurora is seen over Launch Complex 39B at NASA’s Kennedy Space Center in Florida on Tuesday, Nov. 11, 2025. Auroras are created...</sub>
+<sub>Saturn in Recline</sub>
 <br/><br/>
-<sub><i>NASA Image Library, &quot;aurora&quot;</i></sub>
+<sub><i>NASA Image Library, &quot;saturn&quot;</i></sub>
 </td>
 </tr>
 </table>
 
 <table>
 <tr>
-<td width="40%" valign="middle"><a href="https://europeanspaceflight.com/second-hyimpulse-suborbital-sr75-flight-slips-to-2027/"><img src="https://europeanspaceflight.com/wp-content/uploads/2026/10/Second-HyImpulse-Suborbital-SR75-Flight-Slips-to-2027-.webp" alt="Second HyImpulse Suborbital SR75 Flight Slips to 2027" width="100%" /></a></td>
-<td valign="middle">📰 <b>Today in spaceflight</b><br/><br/><b><a href="https://europeanspaceflight.com/second-hyimpulse-suborbital-sr75-flight-slips-to-2027/">Second HyImpulse Suborbital SR75 Flight Slips to 2027</a></b><br/><br/><sub>European Spaceflight, 2026-10-05</sub></td>
+<td width="40%" valign="middle"><a href="https://www.esa.int/ESA_Multimedia/Images/2026/10/Webb_captures_commotion_from_nebula_s_stellar_jets"><img src="https://www.esa.int/var/esa/storage/images/esa_multimedia/images/2026/10/webb_captures_commotion_from_nebula_s_stellar_jets/27545931-4-eng-GB/Webb_captures_commotion_from_nebula_s_stellar_jets_card_full.jpg" alt="Webb captures commotion from nebula’s stellar jets" width="100%" /></a></td>
+<td valign="middle">📰 <b>Today in spaceflight</b><br/><br/><b><a href="https://www.esa.int/ESA_Multimedia/Images/2026/10/Webb_captures_commotion_from_nebula_s_stellar_jets">Webb captures commotion from nebula’s stellar jets</a></b><br/><br/><sub>ESA, 2026-10-06</sub></td>
 </tr>
 </table>
 <!-- SPACE:END -->
