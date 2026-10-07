@@ -116,28 +116,28 @@
 <table>
 <tr>
 <td width="25%" valign="top" align="center">
-<a href="https://anilist.co/anime/100388"><img src="https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx100388-hjkg1AnlJR5z.jpg" alt="BANANA FISH" width="180" height="260" /></a>
+<a href="https://anilist.co/anime/127230"><img src="https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx127230-DdP4vAdssLoz.png" alt="Chainsaw Man" width="180" height="260" /></a>
 <br/><sub><b>🎬 ANIME</b></sub>
-<br/><b><a href="https://anilist.co/anime/100388">BANANA FISH</a></b>
-<br/><sub>⭐ 8.3 · 2018 · 24 eps · Action · Psychological</sub>
+<br/><b><a href="https://anilist.co/anime/127230">Chainsaw Man</a></b>
+<br/><sub>⭐ 8.3 · 2022 · 12 eps · Action · Supernatural</sub>
 </td>
 <td width="25%" valign="top" align="center">
-<a href="https://anilist.co/manga/61651"><img src="https://s4.anilist.co/file/anilistcdn/media/manga/cover/large/bx61651-e6xpMtO9U0La.jpg" alt="A Certain Magical Index SS" width="180" height="260" /></a>
-<br/><sub><b>📖 NOVEL</b></sub>
-<br/><b><a href="https://anilist.co/manga/61651">A Certain Magical Index SS</a></b>
-<br/><sub>⭐ 7.4 · 2007 · 28 chs · Supernatural</sub>
+<a href="https://anilist.co/manga/107098"><img src="https://s4.anilist.co/file/anilistcdn/media/manga/cover/large/nx107098-zjO64Bc3Nrm5.jpg" alt="Record of Ragnarok" width="180" height="260" /></a>
+<br/><sub><b>📖 MANGA</b></sub>
+<br/><b><a href="https://anilist.co/manga/107098">Record of Ragnarok</a></b>
+<br/><sub>⭐ 7.7 · 2017 · Action · Supernatural</sub>
 </td>
 <td width="25%" valign="top" align="center">
-<a href="https://openlibrary.org/works/OL19293745W"><img src="https://covers.openlibrary.org/b/id/8434671-L.jpg" alt="Designing Data-Intensive Applications" width="180" height="260" /></a>
-<br/><sub><b>📚 BUILDER</b></sub>
-<br/><b><a href="https://openlibrary.org/works/OL19293745W">Designing Data-Intensive Applications</a></b>
-<br/><sub>Martin Kleppmann · 2017 · ⭐ 10.0</sub>
+<a href="https://openlibrary.org/works/OL40875W"><img src="https://covers.openlibrary.org/b/id/9296899-L.jpg" alt="No Country for Old Men" width="180" height="260" /></a>
+<br/><sub><b>📚 THRILLER</b></sub>
+<br/><b><a href="https://openlibrary.org/works/OL40875W">No Country for Old Men</a></b>
+<br/><sub>Cormac McCarthy · 1900 · ⭐ 8.2</sub>
 </td>
 <td width="25%" valign="top" align="center">
-<a href="assets/daily/quote-2026-10-06.svg"><img src="assets/daily/quote-2026-10-06.svg" alt="“Waste no more time arguing what a good man should be. Be one.” — Marcus Aurelius, Meditations" width="180" height="260" /></a>
+<a href="assets/daily/quote-2026-10-07.svg"><img src="assets/daily/quote-2026-10-07.svg" alt="“A true warrior doesn&#x27;t need a sword.” — Thors, Vinland Saga" width="180" height="260" /></a>
 <br/><sub><b>💬 QUOTE</b></sub>
-<br/><b><a href="assets/daily/quote-2026-10-06.svg">Marcus Aurelius</a></b>
-<br/><sub>Meditations</sub>
+<br/><b><a href="assets/daily/quote-2026-10-07.svg">Thors</a></b>
+<br/><sub>Vinland Saga</sub>
 </td>
 </tr>
 </table>
