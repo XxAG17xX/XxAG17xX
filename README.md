@@ -116,16 +116,16 @@
 <table>
 <tr>
 <td width="25%" valign="top" align="center">
-<a href="https://anilist.co/anime/127230"><img src="https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx127230-DdP4vAdssLoz.png" alt="Chainsaw Man" width="180" height="260" /></a>
+<a href="https://anilist.co/anime/6702"><img src="https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/b6702-KI4qgSMyI8Pm.png" alt="Fairy Tail" width="180" height="260" /></a>
 <br/><sub><b>🎬 ANIME</b></sub>
-<br/><b><a href="https://anilist.co/anime/127230">Chainsaw Man</a></b>
-<br/><sub>⭐ 8.3 · 2022 · 12 eps · Action · Supernatural</sub>
+<br/><b><a href="https://anilist.co/anime/6702">Fairy Tail</a></b>
+<br/><sub>⭐ 7.2 · 2009 · 175 eps · Action · Adventure</sub>
 </td>
 <td width="25%" valign="top" align="center">
-<a href="https://anilist.co/manga/107098"><img src="https://s4.anilist.co/file/anilistcdn/media/manga/cover/large/nx107098-zjO64Bc3Nrm5.jpg" alt="Record of Ragnarok" width="180" height="260" /></a>
-<br/><sub><b>📖 MANGA</b></sub>
-<br/><b><a href="https://anilist.co/manga/107098">Record of Ragnarok</a></b>
-<br/><sub>⭐ 7.7 · 2017 · Action · Supernatural</sub>
+<a href="https://anilist.co/manga/60079"><img src="https://s4.anilist.co/file/anilistcdn/media/manga/cover/large/bx60079-m0IndfC9eHAJ.png" alt="The Sound of Magic: Annarasumanara" width="180" height="260" /></a>
+<br/><sub><b>📖 MANHWA</b></sub>
+<br/><b><a href="https://anilist.co/manga/60079">The Sound of Magic: Annarasumanara</a></b>
+<br/><sub>⭐ 7.9 · 2010 · 28 chs · Psychological · Supernatural</sub>
 </td>
 <td width="25%" valign="top" align="center">
 <a href="https://openlibrary.org/works/OL40875W"><img src="https://covers.openlibrary.org/b/id/9296899-L.jpg" alt="No Country for Old Men" width="180" height="260" /></a>
@@ -134,10 +134,10 @@
 <br/><sub>Cormac McCarthy · 1900 · ⭐ 8.2</sub>
 </td>
 <td width="25%" valign="top" align="center">
-<a href="assets/daily/quote-2026-10-07.svg"><img src="assets/daily/quote-2026-10-07.svg" alt="“A true warrior doesn&#x27;t need a sword.” — Thors, Vinland Saga" width="180" height="260" /></a>
+<a href="assets/daily/quote-2026-10-08.svg"><img src="assets/daily/quote-2026-10-08.svg" alt="“The impediment to action advances action. What stands in the way becomes the way.” — Marcus Aurelius, Meditations" width="180" height="260" /></a>
 <br/><sub><b>💬 QUOTE</b></sub>
-<br/><b><a href="assets/daily/quote-2026-10-07.svg">Thors</a></b>
-<br/><sub>Vinland Saga</sub>
+<br/><b><a href="assets/daily/quote-2026-10-08.svg">Marcus Aurelius</a></b>
+<br/><sub>Meditations</sub>
 </td>
 </tr>
 </table>
