@@ -116,28 +116,28 @@
 <table>
 <tr>
 <td width="25%" valign="top" align="center">
-<a href="https://anilist.co/anime/6702"><img src="https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/b6702-KI4qgSMyI8Pm.png" alt="Fairy Tail" width="180" height="260" /></a>
+<a href="https://anilist.co/anime/164"><img src="https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx164-ySuGzCWVw2cL.jpg" alt="Princess Mononoke" width="180" height="260" /></a>
 <br/><sub><b>🎬 ANIME</b></sub>
-<br/><b><a href="https://anilist.co/anime/6702">Fairy Tail</a></b>
-<br/><sub>⭐ 7.2 · 2009 · 175 eps · Action · Adventure</sub>
+<br/><b><a href="https://anilist.co/anime/164">Princess Mononoke</a></b>
+<br/><sub>⭐ 8.5 · 1997 · 1 ep · Action · Adventure</sub>
 </td>
 <td width="25%" valign="top" align="center">
-<a href="https://anilist.co/manga/60079"><img src="https://s4.anilist.co/file/anilistcdn/media/manga/cover/large/bx60079-m0IndfC9eHAJ.png" alt="The Sound of Magic: Annarasumanara" width="180" height="260" /></a>
-<br/><sub><b>📖 MANHWA</b></sub>
-<br/><b><a href="https://anilist.co/manga/60079">The Sound of Magic: Annarasumanara</a></b>
-<br/><sub>⭐ 7.9 · 2010 · 28 chs · Psychological · Supernatural</sub>
+<a href="https://anilist.co/manga/162199"><img src="https://s4.anilist.co/file/anilistcdn/media/manga/cover/large/bx162199-KSWonApHYIDA.png" alt="Starting Over as a Tree" width="180" height="260" /></a>
+<br/><sub><b>📖 MANHUA</b></sub>
+<br/><b><a href="https://anilist.co/manga/162199">Starting Over as a Tree</a></b>
+<br/><sub>⭐ 7.2 · 2022 · Action · Adventure</sub>
 </td>
 <td width="25%" valign="top" align="center">
-<a href="https://openlibrary.org/works/OL40875W"><img src="https://covers.openlibrary.org/b/id/9296899-L.jpg" alt="No Country for Old Men" width="180" height="260" /></a>
-<br/><sub><b>📚 THRILLER</b></sub>
-<br/><b><a href="https://openlibrary.org/works/OL40875W">No Country for Old Men</a></b>
-<br/><sub>Cormac McCarthy · 1900 · ⭐ 8.2</sub>
+<a href="https://openlibrary.org/works/OL8369445W"><img src="https://covers.openlibrary.org/b/id/6307636-L.jpg" alt="The Lies of Locke Lamora" width="180" height="260" /></a>
+<br/><sub><b>📚 FANTASY</b></sub>
+<br/><b><a href="https://openlibrary.org/works/OL8369445W">The Lies of Locke Lamora</a></b>
+<br/><sub>Scott Lynch · 2001 · ⭐ 8.3</sub>
 </td>
 <td width="25%" valign="top" align="center">
-<a href="assets/daily/quote-2026-10-08.svg"><img src="assets/daily/quote-2026-10-08.svg" alt="“The impediment to action advances action. What stands in the way becomes the way.” — Marcus Aurelius, Meditations" width="180" height="260" /></a>
+<a href="assets/daily/quote-2026-10-09.svg"><img src="assets/daily/quote-2026-10-09.svg" alt="“A lesson without pain is meaningless. That&#x27;s because no one can gain without sacrificing something.” — Edward Elric, Fullmetal Alchemist" width="180" height="260" /></a>
 <br/><sub><b>💬 QUOTE</b></sub>
-<br/><b><a href="assets/daily/quote-2026-10-08.svg">Marcus Aurelius</a></b>
-<br/><sub>Meditations</sub>
+<br/><b><a href="assets/daily/quote-2026-10-09.svg">Edward Elric</a></b>
+<br/><sub>Fullmetal Alchemist</sub>
 </td>
 </tr>
 </table>

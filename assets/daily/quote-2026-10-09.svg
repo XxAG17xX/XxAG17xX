@@ -1,0 +1,17 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="360" height="520" viewBox="0 0 360 520">
+<defs><linearGradient id="bg" x1="0" y1="0" x2="0.4" y2="1"><stop offset="0" stop-color="#2a1c2e"/><stop offset="1" stop-color="#4a2a38"/></linearGradient>
+<filter id="grain"><feTurbulence type="fractalNoise" baseFrequency="0.9" numOctaves="2" seed="3"/><feColorMatrix values="0 0 0 0 1  0 0 0 0 1  0 0 0 0 1  0 0 0 0.06 0"/></filter>
+<clipPath id="card"><rect width="360" height="520" rx="18"/></clipPath></defs>
+<g clip-path="url(#card)">
+<rect width="360" height="520" fill="url(#bg)"/>
+<circle cx="180" cy="560" r="150" fill="#e7b98f" opacity="0.13"/><circle cx="180" cy="560" r="105" fill="#f0c9a0" opacity="0.12"/>
+<text x="180" y="70" text-anchor="middle" font-family="Georgia, 'Times New Roman', serif" font-size="64" fill="#e7b98f" opacity="0.6">“</text>
+<text text-anchor="middle" font-family="Georgia, 'Times New Roman', serif" font-style="italic" font-size="27" fill="#f6e9dc"><tspan x="180" y="131">A lesson without</tspan><tspan x="180" y="167">pain is</tspan><tspan x="180" y="204">meaningless. That&#x27;s</tspan><tspan x="180" y="240">because no one can</tspan><tspan x="180" y="276">gain without</tspan><tspan x="180" y="313">sacrificing</tspan><tspan x="180" y="349">something.</tspan></text>
+<rect x="160" y="379" width="40" height="1.5" fill="#e7b98f" opacity="0.8"/>
+<text x="180" y="409" text-anchor="middle" font-family="'Segoe UI', Helvetica, Arial, sans-serif" font-size="14" letter-spacing="3" fill="#f0dccb">EDWARD ELRIC</text>
+<text x="180" y="431" text-anchor="middle" font-family="Georgia, 'Times New Roman', serif" font-style="italic" font-size="14" fill="#b89a92">Fullmetal Alchemist</text>
+<text x="180" y="492" text-anchor="middle" font-family="'Yu Gothic', 'Meiryo', 'Hiragino Sans', sans-serif" font-size="12" letter-spacing="6" fill="#b89a92">今日の言葉</text>
+<rect x="10" y="10" width="340" height="500" rx="12" fill="none" stroke="#f6e9dc" stroke-opacity="0.07"/>
+<rect width="360" height="520" filter="url(#grain)"/>
+</g>
+</svg>
