@@ -116,28 +116,28 @@
 <table>
 <tr>
 <td width="25%" valign="top" align="center">
-<a href="https://anilist.co/anime/164"><img src="https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx164-ySuGzCWVw2cL.jpg" alt="Princess Mononoke" width="180" height="260" /></a>
+<a href="https://anilist.co/anime/120377"><img src="https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx120377-ayZPoxiWt4Li.jpg" alt="Cyberpunk: Edgerunners" width="180" height="260" /></a>
 <br/><sub><b>🎬 ANIME</b></sub>
-<br/><b><a href="https://anilist.co/anime/164">Princess Mononoke</a></b>
-<br/><sub>⭐ 8.5 · 1997 · 1 ep · Action · Adventure</sub>
+<br/><b><a href="https://anilist.co/anime/120377">Cyberpunk: Edgerunners</a></b>
+<br/><sub>⭐ 8.5 · 2022 · 10 eps · Action · Psychological</sub>
 </td>
 <td width="25%" valign="top" align="center">
-<a href="https://anilist.co/manga/162199"><img src="https://s4.anilist.co/file/anilistcdn/media/manga/cover/large/bx162199-KSWonApHYIDA.png" alt="Starting Over as a Tree" width="180" height="260" /></a>
-<br/><sub><b>📖 MANHUA</b></sub>
-<br/><b><a href="https://anilist.co/manga/162199">Starting Over as a Tree</a></b>
-<br/><sub>⭐ 7.2 · 2022 · Action · Adventure</sub>
+<a href="https://anilist.co/manga/104664"><img src="https://s4.anilist.co/file/anilistcdn/media/manga/cover/large/bx104664-SzR4e85Xjrk9.jpg" alt="One Piece: Ace&#x27;s Story" width="180" height="260" /></a>
+<br/><sub><b>📖 NOVEL</b></sub>
+<br/><b><a href="https://anilist.co/manga/104664">One Piece: Ace&#x27;s Story</a></b>
+<br/><sub>⭐ 7.7 · 2018 · 11 chs · Action · Adventure</sub>
 </td>
 <td width="25%" valign="top" align="center">
-<a href="https://openlibrary.org/works/OL8369445W"><img src="https://covers.openlibrary.org/b/id/6307636-L.jpg" alt="The Lies of Locke Lamora" width="180" height="260" /></a>
+<a href="https://openlibrary.org/works/OL15358691W"><img src="https://covers.openlibrary.org/b/id/14658316-L.jpg" alt="The Way of Kings" width="180" height="260" /></a>
 <br/><sub><b>📚 FANTASY</b></sub>
-<br/><b><a href="https://openlibrary.org/works/OL8369445W">The Lies of Locke Lamora</a></b>
-<br/><sub>Scott Lynch · 2001 · ⭐ 8.3</sub>
+<br/><b><a href="https://openlibrary.org/works/OL15358691W">The Way of Kings</a></b>
+<br/><sub>Brandon Sanderson · 2010 · ⭐ 9.0</sub>
 </td>
 <td width="25%" valign="top" align="center">
-<a href="assets/daily/quote-2026-10-09.svg"><img src="assets/daily/quote-2026-10-09.svg" alt="“A lesson without pain is meaningless. That&#x27;s because no one can gain without sacrificing something.” — Edward Elric, Fullmetal Alchemist" width="180" height="260" /></a>
+<a href="assets/daily/quote-2026-10-10.svg"><img src="assets/daily/quote-2026-10-10.svg" alt="“Although I do not want to die, I do not fear death.” — Fang Yuan, Reverend Insanity" width="180" height="260" /></a>
 <br/><sub><b>💬 QUOTE</b></sub>
-<br/><b><a href="assets/daily/quote-2026-10-09.svg">Edward Elric</a></b>
-<br/><sub>Fullmetal Alchemist</sub>
+<br/><b><a href="assets/daily/quote-2026-10-10.svg">Fang Yuan</a></b>
+<br/><sub>Reverend Insanity</sub>
 </td>
 </tr>
 </table>
