@@ -74,36 +74,36 @@
 <table>
 <tr>
 <td width="50%" valign="top" align="center">
-<a href="https://epic.gsfc.nasa.gov/"><img src="https://epic.gsfc.nasa.gov/archive/natural/2026/10/07/jpg/epic_1b_20261007001752.jpg" alt="Earth, 2 days ago" width="48%" />
-<img src="https://epic.gsfc.nasa.gov/archive/natural/2026/10/07/jpg/epic_1b_20261007073002.jpg" alt="Earth, 2 days ago" width="48%" />
-<img src="https://epic.gsfc.nasa.gov/archive/natural/2026/10/07/jpg/epic_1b_20261007144212.jpg" alt="Earth, 2 days ago" width="48%" />
-<img src="https://epic.gsfc.nasa.gov/archive/natural/2026/10/07/jpg/epic_1b_20261007215421.jpg" alt="Earth, 2 days ago" width="48%" /></a>
+<a href="https://epic.gsfc.nasa.gov/"><img src="https://epic.gsfc.nasa.gov/archive/natural/2026/10/08/jpg/epic_1b_20261008000831.jpg" alt="Earth, 2 days ago" width="48%" />
+<img src="https://epic.gsfc.nasa.gov/archive/natural/2026/10/08/jpg/epic_1b_20261008072040.jpg" alt="Earth, 2 days ago" width="48%" />
+<img src="https://epic.gsfc.nasa.gov/archive/natural/2026/10/08/jpg/epic_1b_20261008143250.jpg" alt="Earth, 2 days ago" width="48%" />
+<img src="https://epic.gsfc.nasa.gov/archive/natural/2026/10/08/jpg/epic_1b_20261008214500.jpg" alt="Earth, 2 days ago" width="48%" /></a>
 <br/><br/>
 <b>Earth, 2 days ago</b>
 <br/>
-<sub>Full-disc Earth from DSCOVR, 1.57 million km out. 4 frames from 2026-10-07; the latest is centred on 3°N 156°W.</sub>
+<sub>Full-disc Earth from DSCOVR, 1.57 million km out. 4 frames from 2026-10-08; the latest is centred on 3°N 154°W.</sub>
 <br/><br/>
-<sub><i>NASA EPIC aboard DSCOVR, 2026-10-07</i></sub>
+<sub><i>NASA EPIC aboard DSCOVR, 2026-10-08</i></sub>
 </td>
 <td width="50%" valign="top" align="center">
-<a href="https://www.star.nesdis.noaa.gov/GOES/fulldisk.php?sat=G19"><img src="https://cdn.star.nesdis.noaa.gov/GOES19/ABI/FD/GEOCOLOR/20262811850_GOES19-ABI-FD-GEOCOLOR-678x678.jpg" alt="Earth today" width="48%" />
-<img src="https://cdn.star.nesdis.noaa.gov/GOES19/ABI/FD/GEOCOLOR/20262820050_GOES19-ABI-FD-GEOCOLOR-678x678.jpg" alt="Earth today" width="48%" />
-<img src="https://cdn.star.nesdis.noaa.gov/GOES19/ABI/FD/GEOCOLOR/20262820650_GOES19-ABI-FD-GEOCOLOR-678x678.jpg" alt="Earth today" width="48%" />
-<img src="https://cdn.star.nesdis.noaa.gov/GOES19/ABI/FD/GEOCOLOR/20262821250_GOES19-ABI-FD-GEOCOLOR-678x678.jpg" alt="Earth today" width="48%" /></a>
+<a href="https://www.star.nesdis.noaa.gov/GOES/fulldisk.php?sat=G19"><img src="https://cdn.star.nesdis.noaa.gov/GOES19/ABI/FD/GEOCOLOR/20262821810_GOES19-ABI-FD-GEOCOLOR-678x678.jpg" alt="Earth today" width="48%" />
+<img src="https://cdn.star.nesdis.noaa.gov/GOES19/ABI/FD/GEOCOLOR/20262830010_GOES19-ABI-FD-GEOCOLOR-678x678.jpg" alt="Earth today" width="48%" />
+<img src="https://cdn.star.nesdis.noaa.gov/GOES19/ABI/FD/GEOCOLOR/20262830610_GOES19-ABI-FD-GEOCOLOR-678x678.jpg" alt="Earth today" width="48%" />
+<img src="https://cdn.star.nesdis.noaa.gov/GOES19/ABI/FD/GEOCOLOR/20262831210_GOES19-ABI-FD-GEOCOLOR-678x678.jpg" alt="Earth today" width="48%" /></a>
 <br/><br/>
 <b>Earth today</b>
 <br/>
-<sub>The Americas from NOAA&#x27;s GOES-19, 35,786 km up. 4 frames, six hours apart; the latest at 12:50 UTC. City lights show on the night side.</sub>
+<sub>The Americas from NOAA&#x27;s GOES-19, 35,786 km up. 4 frames, six hours apart; the latest at 12:10 UTC. City lights show on the night side.</sub>
 <br/><br/>
-<sub><i>NOAA GOES-19 GeoColor, 2026-10-09</i></sub>
+<sub><i>NOAA GOES-19 GeoColor, 2026-10-10</i></sub>
 </td>
 </tr>
 </table>
 
 <table>
 <tr>
-<td width="40%" valign="middle"><a href="https://www.esa.int/About_Us/Week_in_images/Week_in_images_05-09_October_2026"><img src="https://www.esa.int/var/esa/storage/images/esa_multimedia/images/2026/10/webb_captures_commotion_from_nebula_s_stellar_jets/27545931-4-eng-GB/Webb_captures_commotion_from_nebula_s_stellar_jets_card_full.jpg" alt="Week in images: 05-09 October 2026" width="100%" /></a></td>
-<td valign="middle">📰 <b>Today in spaceflight</b><br/><br/><b><a href="https://www.esa.int/About_Us/Week_in_images/Week_in_images_05-09_October_2026">Week in images: 05-09 October 2026</a></b><br/><br/><sub>ESA, 2026-10-09</sub></td>
+<td width="40%" valign="middle"><a href="https://www.esa.int/Science_Exploration/Human_and_Robotic_Exploration/epsilon/ESA_astronaut_Sophie_Adenot_returns_from_her_first_mission_to_the_International_Space_Station"><img src="https://www.esa.int/var/esa/storage/images/esa_multimedia/images/2026/10/sophie_is_back_in_europe2/27568712-2-eng-GB/Sophie_is_back_in_Europe_card_full.jpg" alt="ESA astronaut Sophie Adenot returns from her first mission to the International Space Station" width="100%" /></a></td>
+<td valign="middle">📰 <b>Today in spaceflight</b><br/><br/><b><a href="https://www.esa.int/Science_Exploration/Human_and_Robotic_Exploration/epsilon/ESA_astronaut_Sophie_Adenot_returns_from_her_first_mission_to_the_International_Space_Station">ESA astronaut Sophie Adenot returns from her first mission to the International Space Station</a></b><br/><br/><sub>ESA, 2026-10-10</sub></td>
 </tr>
 </table>
 <!-- SPACE:END -->
