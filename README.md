@@ -116,28 +116,28 @@
 <table>
 <tr>
 <td width="25%" valign="top" align="center">
-<a href="https://anilist.co/anime/120377"><img src="https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx120377-ayZPoxiWt4Li.jpg" alt="Cyberpunk: Edgerunners" width="180" height="260" /></a>
+<a href="https://anilist.co/anime/21698"><img src="https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx21698-RL71mr1YU5Io.png" alt="HAIKYU!! 3rd Season" width="180" height="260" /></a>
 <br/><sub><b>🎬 ANIME</b></sub>
-<br/><b><a href="https://anilist.co/anime/120377">Cyberpunk: Edgerunners</a></b>
-<br/><sub>⭐ 8.5 · 2022 · 10 eps · Action · Psychological</sub>
+<br/><b><a href="https://anilist.co/anime/21698">HAIKYU!! 3rd Season</a></b>
+<br/><sub>⭐ 8.7 · 2016 · 10 eps · Sports</sub>
 </td>
 <td width="25%" valign="top" align="center">
-<a href="https://anilist.co/manga/104664"><img src="https://s4.anilist.co/file/anilistcdn/media/manga/cover/large/bx104664-SzR4e85Xjrk9.jpg" alt="One Piece: Ace&#x27;s Story" width="180" height="260" /></a>
-<br/><sub><b>📖 NOVEL</b></sub>
-<br/><b><a href="https://anilist.co/manga/104664">One Piece: Ace&#x27;s Story</a></b>
-<br/><sub>⭐ 7.7 · 2018 · 11 chs · Action · Adventure</sub>
+<a href="https://anilist.co/manga/150378"><img src="https://s4.anilist.co/file/anilistcdn/media/manga/cover/large/bx150378-cClKErwmvgsv.jpg" alt="Gokurakugai" width="180" height="260" /></a>
+<br/><sub><b>📖 MANGA</b></sub>
+<br/><b><a href="https://anilist.co/manga/150378">Gokurakugai</a></b>
+<br/><sub>⭐ 7.6 · 2022 · Action · Supernatural</sub>
 </td>
 <td width="25%" valign="top" align="center">
-<a href="https://openlibrary.org/works/OL15358691W"><img src="https://covers.openlibrary.org/b/id/14658316-L.jpg" alt="The Way of Kings" width="180" height="260" /></a>
-<br/><sub><b>📚 FANTASY</b></sub>
-<br/><b><a href="https://openlibrary.org/works/OL15358691W">The Way of Kings</a></b>
-<br/><sub>Brandon Sanderson · 2010 · ⭐ 9.0</sub>
+<a href="https://openlibrary.org/works/OL17825802W"><img src="https://covers.openlibrary.org/b/id/8858487-L.jpg" alt="Shoe Dog" width="180" height="260" /></a>
+<br/><sub><b>📚 BUILDER</b></sub>
+<br/><b><a href="https://openlibrary.org/works/OL17825802W">Shoe Dog</a></b>
+<br/><sub>Phil Knight · 2014 · ⭐ 9.1</sub>
 </td>
 <td width="25%" valign="top" align="center">
-<a href="assets/daily/quote-2026-10-10.svg"><img src="assets/daily/quote-2026-10-10.svg" alt="“Although I do not want to die, I do not fear death.” — Fang Yuan, Reverend Insanity" width="180" height="260" /></a>
+<a href="assets/daily/quote-2026-10-11.svg"><img src="assets/daily/quote-2026-10-11.svg" alt="“Whatever you lose, you&#x27;ll find it again. But what you throw away you&#x27;ll never get back.” — Kenshin Himura, Rurouni Kenshin" width="180" height="260" /></a>
 <br/><sub><b>💬 QUOTE</b></sub>
-<br/><b><a href="assets/daily/quote-2026-10-10.svg">Fang Yuan</a></b>
-<br/><sub>Reverend Insanity</sub>
+<br/><b><a href="assets/daily/quote-2026-10-11.svg">Kenshin Himura</a></b>
+<br/><sub>Rurouni Kenshin</sub>
 </td>
 </tr>
 </table>
