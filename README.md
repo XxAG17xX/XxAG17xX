@@ -86,24 +86,21 @@
 <sub><i>NASA EPIC aboard DSCOVR, 2026-10-10</i></sub>
 </td>
 <td width="50%" valign="top" align="center">
-<a href="https://www.star.nesdis.noaa.gov/GOES/fulldisk.php?sat=G19"><img src="https://cdn.star.nesdis.noaa.gov/GOES19/ABI/FD/GEOCOLOR/20262842110_GOES19-ABI-FD-GEOCOLOR-678x678.jpg" alt="Earth today" width="48%" />
-<img src="https://cdn.star.nesdis.noaa.gov/GOES19/ABI/FD/GEOCOLOR/20262850310_GOES19-ABI-FD-GEOCOLOR-678x678.jpg" alt="Earth today" width="48%" />
-<img src="https://cdn.star.nesdis.noaa.gov/GOES19/ABI/FD/GEOCOLOR/20262850910_GOES19-ABI-FD-GEOCOLOR-678x678.jpg" alt="Earth today" width="48%" />
-<img src="https://cdn.star.nesdis.noaa.gov/GOES19/ABI/FD/GEOCOLOR/20262851500_GOES19-ABI-FD-GEOCOLOR-678x678.jpg" alt="Earth today" width="48%" /></a>
+<img src="https://images-assets.nasa.gov/image/NHQ202606040047/NHQ202606040047~large.jpg" alt="Beyond the Deep Field: Hubble’s Legacy and the Future of Cosmi" width="100%" />
 <br/><br/>
-<b>Earth today</b>
+<b>Beyond the Deep Field: Hubble’s Legacy and the Future of Cosmi</b>
 <br/>
-<sub>The Americas from NOAA&#x27;s GOES-19, 35,786 km up. 4 frames, six hours apart; the latest at 15:00 UTC. City lights show on the night side.</sub>
+<sub>Space Telescope Science Institute (STScI) head of the Hubble Space Telescope mission office Julia Roman-Duval, second from right, speaks about the...</sub>
 <br/><br/>
-<sub><i>NOAA GOES-19 GeoColor, 2026-10-12</i></sub>
+<sub><i>NASA Image Library, &quot;hubble deep field&quot;</i></sub>
 </td>
 </tr>
 </table>
 
 <table>
 <tr>
-<td width="40%" valign="middle"><a href="https://www.esa.int/ESA_Multimedia/Videos/2026/10/Welcome_home_Sophie_Adenot"><img src="https://www.esa.int/var/esa/storage/images/esa_multimedia/videos/2026/10/welcome_home_sophie_adenot/27571908-1-eng-GB/Welcome_home_Sophie_Adenot_card_full.png" alt="Welcome home, Sophie Adenot" width="100%" /></a></td>
-<td valign="middle">📰 <b>Today in spaceflight</b><br/><br/><b><a href="https://www.esa.int/ESA_Multimedia/Videos/2026/10/Welcome_home_Sophie_Adenot">Welcome home, Sophie Adenot</a></b><br/><br/><sub>ESA, 2026-10-12</sub></td>
+<td width="40%" valign="middle"><a href="https://spacenews.com/jena-optronik-is-proud-to-partner-with-mda-space-for-its-first-astro-hp-mission/"><img src="https://i0.wp.com/spacenews.com/wp-content/uploads/2026/10/jenaoptronik.png?fit=719%2C719&ssl=1" alt="Jena-Optronik is proud to partner with MDA Space for its first ASTRO HP mission." width="100%" /></a></td>
+<td valign="middle">📰 <b>Today in spaceflight</b><br/><br/><b><a href="https://spacenews.com/jena-optronik-is-proud-to-partner-with-mda-space-for-its-first-astro-hp-mission/">Jena-Optronik is proud to partner with MDA Space for its first ASTRO HP mission.</a></b><br/><br/><sub>SpaceNews, 2026-10-12</sub></td>
 </tr>
 </table>
 <!-- SPACE:END -->
