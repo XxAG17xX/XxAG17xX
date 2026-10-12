@@ -116,28 +116,28 @@
 <table>
 <tr>
 <td width="25%" valign="top" align="center">
-<a href="https://anilist.co/anime/21698"><img src="https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx21698-RL71mr1YU5Io.png" alt="HAIKYU!! 3rd Season" width="180" height="260" /></a>
+<a href="https://anilist.co/anime/101338"><img src="https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx101338-rokVscjRYzdP.jpg" alt="Mob Psycho 100 II" width="180" height="260" /></a>
 <br/><sub><b>🎬 ANIME</b></sub>
-<br/><b><a href="https://anilist.co/anime/21698">HAIKYU!! 3rd Season</a></b>
-<br/><sub>⭐ 8.7 · 2016 · 10 eps · Sports</sub>
+<br/><b><a href="https://anilist.co/anime/101338">Mob Psycho 100 II</a></b>
+<br/><sub>⭐ 8.7 · 2019 · 13 eps · Action · Psychological</sub>
 </td>
 <td width="25%" valign="top" align="center">
-<a href="https://anilist.co/manga/150378"><img src="https://s4.anilist.co/file/anilistcdn/media/manga/cover/large/bx150378-cClKErwmvgsv.jpg" alt="Gokurakugai" width="180" height="260" /></a>
-<br/><sub><b>📖 MANGA</b></sub>
-<br/><b><a href="https://anilist.co/manga/150378">Gokurakugai</a></b>
-<br/><sub>⭐ 7.6 · 2022 · Action · Supernatural</sub>
+<a href="https://anilist.co/manga/113488"><img src="https://s4.anilist.co/file/anilistcdn/media/manga/cover/large/bx113488-0ghq0eEnftk0.jpg" alt="Weak Hero" width="180" height="260" /></a>
+<br/><sub><b>📖 MANHWA</b></sub>
+<br/><b><a href="https://anilist.co/manga/113488">Weak Hero</a></b>
+<br/><sub>⭐ 7.9 · 2018 · 268 chs · Action</sub>
 </td>
 <td width="25%" valign="top" align="center">
-<a href="https://openlibrary.org/works/OL17825802W"><img src="https://covers.openlibrary.org/b/id/8858487-L.jpg" alt="Shoe Dog" width="180" height="260" /></a>
-<br/><sub><b>📚 BUILDER</b></sub>
-<br/><b><a href="https://openlibrary.org/works/OL17825802W">Shoe Dog</a></b>
-<br/><sub>Phil Knight · 2014 · ⭐ 9.1</sub>
+<a href="https://openlibrary.org/works/OL2918756W"><img src="https://covers.openlibrary.org/b/id/2394441-L.jpg" alt="Shogun" width="180" height="260" /></a>
+<br/><sub><b>📚 CLASSIC</b></sub>
+<br/><b><a href="https://openlibrary.org/works/OL2918756W">Shogun</a></b>
+<br/><sub>James Clavell · 1975 · ⭐ 8.6</sub>
 </td>
 <td width="25%" valign="top" align="center">
-<a href="assets/daily/quote-2026-10-11.svg"><img src="assets/daily/quote-2026-10-11.svg" alt="“Whatever you lose, you&#x27;ll find it again. But what you throw away you&#x27;ll never get back.” — Kenshin Himura, Rurouni Kenshin" width="180" height="260" /></a>
+<a href="assets/daily/quote-2026-10-12.svg"><img src="assets/daily/quote-2026-10-12.svg" alt="“If you don&#x27;t take risks, you can&#x27;t create a future.” — Monkey D. Luffy, One Piece" width="180" height="260" /></a>
 <br/><sub><b>💬 QUOTE</b></sub>
-<br/><b><a href="assets/daily/quote-2026-10-11.svg">Kenshin Himura</a></b>
-<br/><sub>Rurouni Kenshin</sub>
+<br/><b><a href="assets/daily/quote-2026-10-12.svg">Monkey D. Luffy</a></b>
+<br/><sub>One Piece</sub>
 </td>
 </tr>
 </table>
