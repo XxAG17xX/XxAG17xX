@@ -113,28 +113,28 @@
 <table>
 <tr>
 <td width="25%" valign="top" align="center">
-<a href="https://anilist.co/anime/101338"><img src="https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx101338-rokVscjRYzdP.jpg" alt="Mob Psycho 100 II" width="180" height="260" /></a>
+<a href="https://anilist.co/anime/113415"><img src="https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx113415-LHBAeoZDIsnF.jpg" alt="JUJUTSU KAISEN" width="180" height="260" /></a>
 <br/><sub><b>🎬 ANIME</b></sub>
-<br/><b><a href="https://anilist.co/anime/101338">Mob Psycho 100 II</a></b>
-<br/><sub>⭐ 8.7 · 2019 · 13 eps · Action · Psychological</sub>
+<br/><b><a href="https://anilist.co/anime/113415">JUJUTSU KAISEN</a></b>
+<br/><sub>⭐ 8.4 · 2020 · 24 eps · Action · Supernatural</sub>
 </td>
 <td width="25%" valign="top" align="center">
-<a href="https://anilist.co/manga/113488"><img src="https://s4.anilist.co/file/anilistcdn/media/manga/cover/large/bx113488-0ghq0eEnftk0.jpg" alt="Weak Hero" width="180" height="260" /></a>
-<br/><sub><b>📖 MANHWA</b></sub>
-<br/><b><a href="https://anilist.co/manga/113488">Weak Hero</a></b>
-<br/><sub>⭐ 7.9 · 2018 · 268 chs · Action</sub>
+<a href="https://anilist.co/manga/31320"><img src="https://s4.anilist.co/file/anilistcdn/media/manga/cover/large/bx31320-34hlJNSVlvbb.jpg" alt="The Ravages of Time" width="180" height="260" /></a>
+<br/><sub><b>📖 MANHUA</b></sub>
+<br/><b><a href="https://anilist.co/manga/31320">The Ravages of Time</a></b>
+<br/><sub>⭐ 8.1 · 2001 · Action · Adventure</sub>
 </td>
 <td width="25%" valign="top" align="center">
-<a href="https://openlibrary.org/works/OL2918756W"><img src="https://covers.openlibrary.org/b/id/2394441-L.jpg" alt="Shogun" width="180" height="260" /></a>
-<br/><sub><b>📚 CLASSIC</b></sub>
-<br/><b><a href="https://openlibrary.org/works/OL2918756W">Shogun</a></b>
-<br/><sub>James Clavell · 1975 · ⭐ 8.6</sub>
+<a href="https://openlibrary.org/works/OL16314245W"><img src="https://covers.openlibrary.org/b/id/10526598-L.jpg" alt="The Dark Forest" width="180" height="260" /></a>
+<br/><sub><b>📚 SCI-FI</b></sub>
+<br/><b><a href="https://openlibrary.org/works/OL16314245W">The Dark Forest</a></b>
+<br/><sub>Liu Cixin · 2008 · ⭐ 8.9</sub>
 </td>
 <td width="25%" valign="top" align="center">
-<a href="assets/daily/quote-2026-10-12.svg"><img src="assets/daily/quote-2026-10-12.svg" alt="“If you don&#x27;t take risks, you can&#x27;t create a future.” — Monkey D. Luffy, One Piece" width="180" height="260" /></a>
+<a href="assets/daily/quote-2026-10-13.svg"><img src="assets/daily/quote-2026-10-13.svg" alt="“Words are worthless, silence is gold.” — Sunny, Shadow Slave" width="180" height="260" /></a>
 <br/><sub><b>💬 QUOTE</b></sub>
-<br/><b><a href="assets/daily/quote-2026-10-12.svg">Monkey D. Luffy</a></b>
-<br/><sub>One Piece</sub>
+<br/><b><a href="assets/daily/quote-2026-10-13.svg">Sunny</a></b>
+<br/><sub>Shadow Slave</sub>
 </td>
 </tr>
 </table>
