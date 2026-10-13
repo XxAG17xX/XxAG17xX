@@ -74,33 +74,33 @@
 <table>
 <tr>
 <td width="50%" valign="top" align="center">
-<a href="https://epic.gsfc.nasa.gov/"><img src="https://epic.gsfc.nasa.gov/archive/natural/2026/10/10/jpg/epic_1b_20261010004554.jpg" alt="Earth, 2 days ago" width="48%" />
-<img src="https://epic.gsfc.nasa.gov/archive/natural/2026/10/10/jpg/epic_1b_20261010075804.jpg" alt="Earth, 2 days ago" width="48%" />
-<img src="https://epic.gsfc.nasa.gov/archive/natural/2026/10/10/jpg/epic_1b_20261010151013.jpg" alt="Earth, 2 days ago" width="48%" />
-<img src="https://epic.gsfc.nasa.gov/archive/natural/2026/10/10/jpg/epic_1b_20261010222223.jpg" alt="Earth, 2 days ago" width="48%" /></a>
+<a href="https://epic.gsfc.nasa.gov/"><img src="https://epic.gsfc.nasa.gov/archive/natural/2026/10/11/jpg/epic_1b_20261011010436.jpg" alt="Earth, 2 days ago" width="48%" />
+<img src="https://epic.gsfc.nasa.gov/archive/natural/2026/10/11/jpg/epic_1b_20261011081646.jpg" alt="Earth, 2 days ago" width="48%" />
+<img src="https://epic.gsfc.nasa.gov/archive/natural/2026/10/11/jpg/epic_1b_20261011152856.jpg" alt="Earth, 2 days ago" width="48%" />
+<img src="https://epic.gsfc.nasa.gov/archive/natural/2026/10/11/jpg/epic_1b_20261011224106.jpg" alt="Earth, 2 days ago" width="48%" /></a>
 <br/><br/>
 <b>Earth, 2 days ago</b>
 <br/>
-<sub>Full-disc Earth from DSCOVR, 1.57 million km out. 4 frames from 2026-10-10; the latest is centred on 2°N 164°W.</sub>
+<sub>Full-disc Earth from DSCOVR, 1.56 million km out. 4 frames from 2026-10-11; the latest is centred on 2°N 169°W.</sub>
 <br/><br/>
-<sub><i>NASA EPIC aboard DSCOVR, 2026-10-10</i></sub>
+<sub><i>NASA EPIC aboard DSCOVR, 2026-10-11</i></sub>
 </td>
 <td width="50%" valign="top" align="center">
-<img src="https://images-assets.nasa.gov/image/NHQ202606040047/NHQ202606040047~large.jpg" alt="Beyond the Deep Field: Hubble’s Legacy and the Future of Cosmi" width="100%" />
+<img src="https://images-assets.nasa.gov/image/PIA00397/PIA00397~thumb.jpg" alt="Boulder Big Joe And Surface Changes On Mars" width="100%" />
 <br/><br/>
-<b>Beyond the Deep Field: Hubble’s Legacy and the Future of Cosmi</b>
+<b>Boulder Big Joe And Surface Changes On Mars</b>
 <br/>
-<sub>Space Telescope Science Institute (STScI) head of the Hubble Space Telescope mission office Julia Roman-Duval, second from right, speaks about the...</sub>
+<sub>Boulder Big Joe And Surface Changes On Mars http://photojournal.jpl.nasa.gov/catalog/PIA00397</sub>
 <br/><br/>
-<sub><i>NASA Image Library, &quot;hubble deep field&quot;</i></sub>
+<sub><i>NASA Image Library, &quot;mars surface&quot;</i></sub>
 </td>
 </tr>
 </table>
 
 <table>
 <tr>
-<td width="40%" valign="middle"><a href="https://spacenews.com/jena-optronik-is-proud-to-partner-with-mda-space-for-its-first-astro-hp-mission/"><img src="https://i0.wp.com/spacenews.com/wp-content/uploads/2026/10/jenaoptronik.png?fit=719%2C719&ssl=1" alt="Jena-Optronik is proud to partner with MDA Space for its first ASTRO HP mission." width="100%" /></a></td>
-<td valign="middle">📰 <b>Today in spaceflight</b><br/><br/><b><a href="https://spacenews.com/jena-optronik-is-proud-to-partner-with-mda-space-for-its-first-astro-hp-mission/">Jena-Optronik is proud to partner with MDA Space for its first ASTRO HP mission.</a></b><br/><br/><sub>SpaceNews, 2026-10-12</sub></td>
+<td width="40%" valign="middle"><a href="https://www.nasa.gov/missions/moon-base/nasa-jpl-testing-readies-voyager-technologies-lander-for-moon-mission/"><img src="https://www.nasa.gov/wp-content/uploads/2026/10/1-pia26708-grifffin-tvac-wings.jpeg" alt="NASA JPL Testing Readies Voyager Technologies Lander for Moon Mission" width="100%" /></a></td>
+<td valign="middle">📰 <b>Today in spaceflight</b><br/><br/><b><a href="https://www.nasa.gov/missions/moon-base/nasa-jpl-testing-readies-voyager-technologies-lander-for-moon-mission/">NASA JPL Testing Readies Voyager Technologies Lander for Moon Mission</a></b><br/><br/><sub>NASA, 2026-10-13</sub></td>
 </tr>
 </table>
 <!-- SPACE:END -->
