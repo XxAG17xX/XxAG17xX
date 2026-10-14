@@ -74,33 +74,33 @@
 <table>
 <tr>
 <td width="50%" valign="top" align="center">
-<a href="https://epic.gsfc.nasa.gov/"><img src="https://epic.gsfc.nasa.gov/archive/natural/2026/10/11/jpg/epic_1b_20261011010436.jpg" alt="Earth, 2 days ago" width="48%" />
-<img src="https://epic.gsfc.nasa.gov/archive/natural/2026/10/11/jpg/epic_1b_20261011081646.jpg" alt="Earth, 2 days ago" width="48%" />
-<img src="https://epic.gsfc.nasa.gov/archive/natural/2026/10/11/jpg/epic_1b_20261011152856.jpg" alt="Earth, 2 days ago" width="48%" />
-<img src="https://epic.gsfc.nasa.gov/archive/natural/2026/10/11/jpg/epic_1b_20261011224106.jpg" alt="Earth, 2 days ago" width="48%" /></a>
+<a href="https://epic.gsfc.nasa.gov/"><img src="https://epic.gsfc.nasa.gov/archive/natural/2026/10/12/jpg/epic_1b_20261012005515.jpg" alt="Earth, 2 days ago" width="48%" />
+<img src="https://epic.gsfc.nasa.gov/archive/natural/2026/10/12/jpg/epic_1b_20261012061923.jpg" alt="Earth, 2 days ago" width="48%" />
+<img src="https://epic.gsfc.nasa.gov/archive/natural/2026/10/12/jpg/epic_1b_20261012114330.jpg" alt="Earth, 2 days ago" width="48%" />
+<img src="https://epic.gsfc.nasa.gov/archive/natural/2026/10/12/jpg/epic_1b_20261012170737.jpg" alt="Earth, 2 days ago" width="48%" /></a>
 <br/><br/>
 <b>Earth, 2 days ago</b>
 <br/>
-<sub>Full-disc Earth from DSCOVR, 1.56 million km out. 4 frames from 2026-10-11; the latest is centred on 2°N 169°W.</sub>
+<sub>Full-disc Earth from DSCOVR, 1.56 million km out. 4 frames from 2026-10-12; the latest is centred on 2°N 85°W.</sub>
 <br/><br/>
-<sub><i>NASA EPIC aboard DSCOVR, 2026-10-11</i></sub>
+<sub><i>NASA EPIC aboard DSCOVR, 2026-10-12</i></sub>
 </td>
 <td width="50%" valign="top" align="center">
-<img src="https://images-assets.nasa.gov/image/PIA00397/PIA00397~thumb.jpg" alt="Boulder Big Joe And Surface Changes On Mars" width="100%" />
+<img src="https://images-assets.nasa.gov/image/PIA08787/PIA08787~medium.jpg" alt="Amazing Andromeda Galaxy" width="100%" />
 <br/><br/>
-<b>Boulder Big Joe And Surface Changes On Mars</b>
+<b>Amazing Andromeda Galaxy</b>
 <br/>
-<sub>Boulder Big Joe And Surface Changes On Mars http://photojournal.jpl.nasa.gov/catalog/PIA00397</sub>
+<sub>The many personalities of our great galactic neighbor, the Andromeda galaxy, are exposed in this new composite image from NASA Galaxy Evolution...</sub>
 <br/><br/>
-<sub><i>NASA Image Library, &quot;mars surface&quot;</i></sub>
+<sub><i>NASA Image Library, &quot;andromeda&quot;</i></sub>
 </td>
 </tr>
 </table>
 
 <table>
 <tr>
-<td width="40%" valign="middle"><a href="https://www.nasa.gov/missions/moon-base/nasa-jpl-testing-readies-voyager-technologies-lander-for-moon-mission/"><img src="https://www.nasa.gov/wp-content/uploads/2026/10/1-pia26708-grifffin-tvac-wings.jpeg" alt="NASA JPL Testing Readies Voyager Technologies Lander for Moon Mission" width="100%" /></a></td>
-<td valign="middle">📰 <b>Today in spaceflight</b><br/><br/><b><a href="https://www.nasa.gov/missions/moon-base/nasa-jpl-testing-readies-voyager-technologies-lander-for-moon-mission/">NASA JPL Testing Readies Voyager Technologies Lander for Moon Mission</a></b><br/><br/><sub>NASA, 2026-10-13</sub></td>
+<td width="40%" valign="middle"><a href="https://spacepolicyonline.com/news/ship-40-back-at-starbase-after-surprise-reentry-survival/"><img src="https://spacepolicyonline.com/wp-content/uploads/2026/07/Starship-intact-ocean-July-24-26-300x173.jpg" alt="Ship 40 Back At Starbase After Surprise Reentry Survival" width="100%" /></a></td>
+<td valign="middle">📰 <b>Today in spaceflight</b><br/><br/><b><a href="https://spacepolicyonline.com/news/ship-40-back-at-starbase-after-surprise-reentry-survival/">Ship 40 Back At Starbase After Surprise Reentry Survival</a></b><br/><br/><sub>SpacePolicyOnline.com, 2026-10-14</sub></td>
 </tr>
 </table>
 <!-- SPACE:END -->
