@@ -74,33 +74,33 @@
 <table>
 <tr>
 <td width="50%" valign="top" align="center">
-<a href="https://epic.gsfc.nasa.gov/"><img src="https://epic.gsfc.nasa.gov/archive/natural/2026/10/12/jpg/epic_1b_20261012005515.jpg" alt="Earth, 2 days ago" width="48%" />
-<img src="https://epic.gsfc.nasa.gov/archive/natural/2026/10/12/jpg/epic_1b_20261012061923.jpg" alt="Earth, 2 days ago" width="48%" />
-<img src="https://epic.gsfc.nasa.gov/archive/natural/2026/10/12/jpg/epic_1b_20261012114330.jpg" alt="Earth, 2 days ago" width="48%" />
-<img src="https://epic.gsfc.nasa.gov/archive/natural/2026/10/12/jpg/epic_1b_20261012170737.jpg" alt="Earth, 2 days ago" width="48%" /></a>
+<a href="https://epic.gsfc.nasa.gov/"><img src="https://epic.gsfc.nasa.gov/archive/natural/2026/10/12/jpg/epic_1b_20261012005515.jpg" alt="Earth, 3 days ago" width="48%" />
+<img src="https://epic.gsfc.nasa.gov/archive/natural/2026/10/12/jpg/epic_1b_20261012080725.jpg" alt="Earth, 3 days ago" width="48%" />
+<img src="https://epic.gsfc.nasa.gov/archive/natural/2026/10/12/jpg/epic_1b_20261012151935.jpg" alt="Earth, 3 days ago" width="48%" />
+<img src="https://epic.gsfc.nasa.gov/archive/natural/2026/10/12/jpg/epic_1b_20261012223145.jpg" alt="Earth, 3 days ago" width="48%" /></a>
 <br/><br/>
-<b>Earth, 2 days ago</b>
+<b>Earth, 3 days ago</b>
 <br/>
-<sub>Full-disc Earth from DSCOVR, 1.56 million km out. 4 frames from 2026-10-12; the latest is centred on 2°N 85°W.</sub>
+<sub>Full-disc Earth from DSCOVR, 1.56 million km out. 4 frames from 2026-10-12; the latest is centred on 2°N 167°W.</sub>
 <br/><br/>
 <sub><i>NASA EPIC aboard DSCOVR, 2026-10-12</i></sub>
 </td>
 <td width="50%" valign="top" align="center">
-<img src="https://images-assets.nasa.gov/image/PIA08787/PIA08787~medium.jpg" alt="Amazing Andromeda Galaxy" width="100%" />
+<img src="https://images-assets.nasa.gov/image/PIA09178/PIA09178~medium.jpg" alt="Comets Kick up Dust in Helix Nebula" width="100%" />
 <br/><br/>
-<b>Amazing Andromeda Galaxy</b>
+<b>Comets Kick up Dust in Helix Nebula</b>
 <br/>
-<sub>The many personalities of our great galactic neighbor, the Andromeda galaxy, are exposed in this new composite image from NASA Galaxy Evolution...</sub>
+<sub>This infrared image from NASA Spitzer Space Telescope shows the Helix nebula, a cosmic starlet often photographed by amateur astronomers for its...</sub>
 <br/><br/>
-<sub><i>NASA Image Library, &quot;andromeda&quot;</i></sub>
+<sub><i>NASA Image Library, &quot;nebula&quot;</i></sub>
 </td>
 </tr>
 </table>
 
 <table>
 <tr>
-<td width="40%" valign="middle"><a href="https://spacepolicyonline.com/news/ship-40-back-at-starbase-after-surprise-reentry-survival/"><img src="https://spacepolicyonline.com/wp-content/uploads/2026/07/Starship-intact-ocean-July-24-26-300x173.jpg" alt="Ship 40 Back At Starbase After Surprise Reentry Survival" width="100%" /></a></td>
-<td valign="middle">📰 <b>Today in spaceflight</b><br/><br/><b><a href="https://spacepolicyonline.com/news/ship-40-back-at-starbase-after-surprise-reentry-survival/">Ship 40 Back At Starbase After Surprise Reentry Survival</a></b><br/><br/><sub>SpacePolicyOnline.com, 2026-10-14</sub></td>
+<td width="40%" valign="middle"><a href="https://europeanspaceflight.com/arianespace-targets-23-nov-ariane-6-return-following-reported-turbopump-fix/"><img src="https://europeanspaceflight.com/wp-content/uploads/2026/10/Arianespace-Targets-23-Nov-Ariane-6-Return-Following-Reported-Turbopump-Fix.webp" alt="Arianespace Targets 23 Nov Ariane 6 Return Following Reported Turbopump Fix" width="100%" /></a></td>
+<td valign="middle">📰 <b>Today in spaceflight</b><br/><br/><b><a href="https://europeanspaceflight.com/arianespace-targets-23-nov-ariane-6-return-following-reported-turbopump-fix/">Arianespace Targets 23 Nov Ariane 6 Return Following Reported Turbopump Fix</a></b><br/><br/><sub>European Spaceflight, 2026-10-15</sub></td>
 </tr>
 </table>
 <!-- SPACE:END -->
