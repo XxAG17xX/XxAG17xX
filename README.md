@@ -113,28 +113,28 @@
 <table>
 <tr>
 <td width="25%" valign="top" align="center">
-<a href="https://anilist.co/anime/176496"><img src="https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx176496-9BDMjAZGEbq4.png" alt="Solo Leveling Season 2 -Arise from the Shadow-" width="180" height="260" /></a>
+<a href="https://anilist.co/anime/108632"><img src="https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx108632-lQWnmw7XaNOK.jpg" alt="Re:ZERO -Starting Life in Another World- Season 2" width="180" height="260" /></a>
 <br/><sub><b>🎬 ANIME</b></sub>
-<br/><b><a href="https://anilist.co/anime/176496">Solo Leveling Season 2 -Arise from the...</a></b>
-<br/><sub>⭐ 8.4 · 2025 · 13 eps · Action · Adventure</sub>
+<br/><b><a href="https://anilist.co/anime/108632">Re:ZERO -Starting Life in Another World-...</a></b>
+<br/><sub>⭐ 8.3 · 2020 · 13 eps · Action · Adventure</sub>
 </td>
 <td width="25%" valign="top" align="center">
-<a href="https://anilist.co/manga/143743"><img src="https://s4.anilist.co/file/anilistcdn/media/manga/cover/large/bx143743-aHyZenBg4vCK.jpg" alt="Koyomimonogatari: Calendar Tale" width="180" height="260" /></a>
-<br/><sub><b>📖 NOVEL</b></sub>
-<br/><b><a href="https://anilist.co/manga/143743">Koyomimonogatari: Calendar Tale</a></b>
-<br/><sub>⭐ 7.2 · 2013 · 62 chs · Mystery · Psychological</sub>
+<a href="https://anilist.co/manga/87216"><img src="https://s4.anilist.co/file/anilistcdn/media/manga/cover/large/bx87216-c9bSNVD10UuD.png" alt="Demon Slayer: Kimetsu no Yaiba" width="180" height="260" /></a>
+<br/><sub><b>📖 MANGA</b></sub>
+<br/><b><a href="https://anilist.co/manga/87216">Demon Slayer: Kimetsu no Yaiba</a></b>
+<br/><sub>⭐ 7.9 · 2016 · 207 chs · Action · Adventure</sub>
 </td>
 <td width="25%" valign="top" align="center">
-<a href="https://openlibrary.org/works/OL20073906W"><img src="https://covers.openlibrary.org/b/id/8748478-L.jpg" alt="Recursion" width="180" height="260" /></a>
-<br/><sub><b>📚 SCI-FI</b></sub>
-<br/><b><a href="https://openlibrary.org/works/OL20073906W">Recursion</a></b>
-<br/><sub>Blake Crouch · 2019 · ⭐ 8.0</sub>
+<a href="https://openlibrary.org/works/OL471565W"><img src="https://covers.openlibrary.org/b/id/11172296-L.jpg" alt="And Then There Were None" width="180" height="260" /></a>
+<br/><sub><b>📚 THRILLER</b></sub>
+<br/><b><a href="https://openlibrary.org/works/OL471565W">And Then There Were None</a></b>
+<br/><sub>Agatha Christie · 1939 · ⭐ 8.6</sub>
 </td>
 <td width="25%" valign="top" align="center">
-<a href="assets/daily/quote-2026-10-14.svg"><img src="assets/daily/quote-2026-10-14.svg" alt="“Stay hungry. Stay foolish.” — Steve Jobs, Stanford, 2005" width="180" height="260" /></a>
+<a href="assets/daily/quote-2026-10-15.svg"><img src="assets/daily/quote-2026-10-15.svg" alt="“Power comes in response to a need, not a desire.” — Goku, Dragon Ball Z" width="180" height="260" /></a>
 <br/><sub><b>💬 QUOTE</b></sub>
-<br/><b><a href="assets/daily/quote-2026-10-14.svg">Steve Jobs</a></b>
-<br/><sub>Stanford, 2005</sub>
+<br/><b><a href="assets/daily/quote-2026-10-15.svg">Goku</a></b>
+<br/><sub>Dragon Ball Z</sub>
 </td>
 </tr>
 </table>
