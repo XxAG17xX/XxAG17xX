@@ -74,33 +74,33 @@
 <table>
 <tr>
 <td width="50%" valign="top" align="center">
-<a href="https://epic.gsfc.nasa.gov/"><img src="https://epic.gsfc.nasa.gov/archive/natural/2026/10/12/jpg/epic_1b_20261012005515.jpg" alt="Earth, 3 days ago" width="48%" />
-<img src="https://epic.gsfc.nasa.gov/archive/natural/2026/10/12/jpg/epic_1b_20261012080725.jpg" alt="Earth, 3 days ago" width="48%" />
-<img src="https://epic.gsfc.nasa.gov/archive/natural/2026/10/12/jpg/epic_1b_20261012151935.jpg" alt="Earth, 3 days ago" width="48%" />
-<img src="https://epic.gsfc.nasa.gov/archive/natural/2026/10/12/jpg/epic_1b_20261012223145.jpg" alt="Earth, 3 days ago" width="48%" /></a>
+<a href="https://epic.gsfc.nasa.gov/"><img src="https://epic.gsfc.nasa.gov/archive/natural/2026/10/13/jpg/epic_1b_20261013003633.jpg" alt="Earth, 3 days ago" width="48%" />
+<img src="https://epic.gsfc.nasa.gov/archive/natural/2026/10/13/jpg/epic_1b_20261013074843.jpg" alt="Earth, 3 days ago" width="48%" />
+<img src="https://epic.gsfc.nasa.gov/archive/natural/2026/10/13/jpg/epic_1b_20261013150054.jpg" alt="Earth, 3 days ago" width="48%" />
+<img src="https://epic.gsfc.nasa.gov/archive/natural/2026/10/13/jpg/epic_1b_20261013221304.jpg" alt="Earth, 3 days ago" width="48%" /></a>
 <br/><br/>
 <b>Earth, 3 days ago</b>
 <br/>
-<sub>Full-disc Earth from DSCOVR, 1.56 million km out. 4 frames from 2026-10-12; the latest is centred on 2°N 167°W.</sub>
+<sub>Full-disc Earth from DSCOVR, 1.56 million km out. 4 frames from 2026-10-13; the latest is centred on 1°N 162°W.</sub>
 <br/><br/>
-<sub><i>NASA EPIC aboard DSCOVR, 2026-10-12</i></sub>
+<sub><i>NASA EPIC aboard DSCOVR, 2026-10-13</i></sub>
 </td>
 <td width="50%" valign="top" align="center">
-<img src="https://images-assets.nasa.gov/image/PIA09178/PIA09178~medium.jpg" alt="Comets Kick up Dust in Helix Nebula" width="100%" />
+<img src="https://images-assets.nasa.gov/image/PIA04924/PIA04924~medium.jpg" alt="Galaxy NGC 300" width="100%" />
 <br/><br/>
-<b>Comets Kick up Dust in Helix Nebula</b>
+<b>Galaxy NGC 300</b>
 <br/>
-<sub>This infrared image from NASA Spitzer Space Telescope shows the Helix nebula, a cosmic starlet often photographed by amateur astronomers for its...</sub>
+<sub>This image of the nearby spiral galaxy NGC 300 was taken by Galaxy Evolution Explorer in a single orbit exposure of 27 minutes on October 10, 2003...</sub>
 <br/><br/>
-<sub><i>NASA Image Library, &quot;nebula&quot;</i></sub>
+<sub><i>NASA Image Library, &quot;galaxy&quot;</i></sub>
 </td>
 </tr>
 </table>
 
 <table>
 <tr>
-<td width="40%" valign="middle"><a href="https://europeanspaceflight.com/arianespace-targets-23-nov-ariane-6-return-following-reported-turbopump-fix/"><img src="https://europeanspaceflight.com/wp-content/uploads/2026/10/Arianespace-Targets-23-Nov-Ariane-6-Return-Following-Reported-Turbopump-Fix.webp" alt="Arianespace Targets 23 Nov Ariane 6 Return Following Reported Turbopump Fix" width="100%" /></a></td>
-<td valign="middle">📰 <b>Today in spaceflight</b><br/><br/><b><a href="https://europeanspaceflight.com/arianespace-targets-23-nov-ariane-6-return-following-reported-turbopump-fix/">Arianespace Targets 23 Nov Ariane 6 Return Following Reported Turbopump Fix</a></b><br/><br/><sub>European Spaceflight, 2026-10-15</sub></td>
+<td width="40%" valign="middle"><a href="https://arstechnica.com/space/2026/10/blue-origin-is-going-all-in-on-the-new-glenn-rocket/"><img src="https://cdn.arstechnica.net/wp-content/uploads/2026/10/Blue-Origin-Upper-Stage-Facility-Still-Render.png" alt="Blue Origin is going all in on the New Glenn rocket" width="100%" /></a></td>
+<td valign="middle">📰 <b>Today in spaceflight</b><br/><br/><b><a href="https://arstechnica.com/space/2026/10/blue-origin-is-going-all-in-on-the-new-glenn-rocket/">Blue Origin is going all in on the New Glenn rocket</a></b><br/><br/><sub>Arstechnica, 2026-10-16</sub></td>
 </tr>
 </table>
 <!-- SPACE:END -->
