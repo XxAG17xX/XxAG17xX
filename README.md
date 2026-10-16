@@ -113,28 +113,28 @@
 <table>
 <tr>
 <td width="25%" valign="top" align="center">
-<a href="https://anilist.co/anime/108632"><img src="https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx108632-lQWnmw7XaNOK.jpg" alt="Re:ZERO -Starting Life in Another World- Season 2" width="180" height="260" /></a>
+<a href="https://anilist.co/anime/116589"><img src="https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx116589-KawXHB6sApFt.jpg" alt="86 EIGHTY-SIX" width="180" height="260" /></a>
 <br/><sub><b>🎬 ANIME</b></sub>
-<br/><b><a href="https://anilist.co/anime/108632">Re:ZERO -Starting Life in Another World-...</a></b>
-<br/><sub>⭐ 8.3 · 2020 · 13 eps · Action · Adventure</sub>
+<br/><b><a href="https://anilist.co/anime/116589">86 EIGHTY-SIX</a></b>
+<br/><sub>⭐ 8.3 · 2021 · 11 eps · Action · Mecha</sub>
 </td>
 <td width="25%" valign="top" align="center">
-<a href="https://anilist.co/manga/87216"><img src="https://s4.anilist.co/file/anilistcdn/media/manga/cover/large/bx87216-c9bSNVD10UuD.png" alt="Demon Slayer: Kimetsu no Yaiba" width="180" height="260" /></a>
-<br/><sub><b>📖 MANGA</b></sub>
-<br/><b><a href="https://anilist.co/manga/87216">Demon Slayer: Kimetsu no Yaiba</a></b>
-<br/><sub>⭐ 7.9 · 2016 · 207 chs · Action · Adventure</sub>
+<a href="https://anilist.co/manga/129632"><img src="https://s4.anilist.co/file/anilistcdn/media/manga/cover/large/bx129632-ArHo6qvYQoHs.jpg" alt="The Tutorial Is Too Tough!" width="180" height="260" /></a>
+<br/><sub><b>📖 MANHWA</b></sub>
+<br/><b><a href="https://anilist.co/manga/129632">The Tutorial Is Too Tough!</a></b>
+<br/><sub>⭐ 7.1 · 2021 · Action</sub>
 </td>
 <td width="25%" valign="top" align="center">
-<a href="https://openlibrary.org/works/OL471565W"><img src="https://covers.openlibrary.org/b/id/11172296-L.jpg" alt="And Then There Were None" width="180" height="260" /></a>
-<br/><sub><b>📚 THRILLER</b></sub>
-<br/><b><a href="https://openlibrary.org/works/OL471565W">And Then There Were None</a></b>
-<br/><sub>Agatha Christie · 1939 · ⭐ 8.6</sub>
+<a href="https://openlibrary.org/works/OL271163W"><img src="https://covers.openlibrary.org/b/id/10693768-L.jpg" alt="The Forever War" width="180" height="260" /></a>
+<br/><sub><b>📚 SCI-FI</b></sub>
+<br/><b><a href="https://openlibrary.org/works/OL271163W">The Forever War</a></b>
+<br/><sub>Joe Haldeman · 1974 · ⭐ 8.2</sub>
 </td>
 <td width="25%" valign="top" align="center">
-<a href="assets/daily/quote-2026-10-15.svg"><img src="assets/daily/quote-2026-10-15.svg" alt="“Power comes in response to a need, not a desire.” — Goku, Dragon Ball Z" width="180" height="260" /></a>
+<a href="assets/daily/quote-2026-10-16.svg"><img src="assets/daily/quote-2026-10-16.svg" alt="“The only thing we&#x27;re allowed to do is to believe that we won&#x27;t regret the choice we made.” — Levi Ackerman, Attack on Titan" width="180" height="260" /></a>
 <br/><sub><b>💬 QUOTE</b></sub>
-<br/><b><a href="assets/daily/quote-2026-10-15.svg">Goku</a></b>
-<br/><sub>Dragon Ball Z</sub>
+<br/><b><a href="assets/daily/quote-2026-10-16.svg">Levi Ackerman</a></b>
+<br/><sub>Attack on Titan</sub>
 </td>
 </tr>
 </table>
