@@ -74,33 +74,33 @@
 <table>
 <tr>
 <td width="50%" valign="top" align="center">
-<a href="https://epic.gsfc.nasa.gov/"><img src="https://epic.gsfc.nasa.gov/archive/natural/2026/10/13/jpg/epic_1b_20261013003633.jpg" alt="Earth, 3 days ago" width="48%" />
-<img src="https://epic.gsfc.nasa.gov/archive/natural/2026/10/13/jpg/epic_1b_20261013074843.jpg" alt="Earth, 3 days ago" width="48%" />
-<img src="https://epic.gsfc.nasa.gov/archive/natural/2026/10/13/jpg/epic_1b_20261013150054.jpg" alt="Earth, 3 days ago" width="48%" />
-<img src="https://epic.gsfc.nasa.gov/archive/natural/2026/10/13/jpg/epic_1b_20261013221304.jpg" alt="Earth, 3 days ago" width="48%" /></a>
+<a href="https://epic.gsfc.nasa.gov/"><img src="https://epic.gsfc.nasa.gov/archive/natural/2026/10/14/jpg/epic_1b_20261014001752.jpg" alt="Earth, 3 days ago" width="48%" />
+<img src="https://epic.gsfc.nasa.gov/archive/natural/2026/10/14/jpg/epic_1b_20261014073001.jpg" alt="Earth, 3 days ago" width="48%" />
+<img src="https://epic.gsfc.nasa.gov/archive/natural/2026/10/14/jpg/epic_1b_20261014144210.jpg" alt="Earth, 3 days ago" width="48%" />
+<img src="https://epic.gsfc.nasa.gov/archive/natural/2026/10/14/jpg/epic_1b_20261014215419.jpg" alt="Earth, 3 days ago" width="48%" /></a>
 <br/><br/>
 <b>Earth, 3 days ago</b>
 <br/>
-<sub>Full-disc Earth from DSCOVR, 1.56 million km out. 4 frames from 2026-10-13; the latest is centred on 1°N 162°W.</sub>
+<sub>Full-disc Earth from DSCOVR, 1.55 million km out. 4 frames from 2026-10-14; the latest is centred on 1°N 158°W.</sub>
 <br/><br/>
-<sub><i>NASA EPIC aboard DSCOVR, 2026-10-13</i></sub>
+<sub><i>NASA EPIC aboard DSCOVR, 2026-10-14</i></sub>
 </td>
 <td width="50%" valign="top" align="center">
-<img src="https://images-assets.nasa.gov/image/PIA04924/PIA04924~medium.jpg" alt="Galaxy NGC 300" width="100%" />
+<img src="https://images-assets.nasa.gov/image/PIA01602/PIA01602~small.jpg" alt="Time Series of Jupiter Aurora" width="100%" />
 <br/><br/>
-<b>Galaxy NGC 300</b>
+<b>Time Series of Jupiter Aurora</b>
 <br/>
-<sub>This image of the nearby spiral galaxy NGC 300 was taken by Galaxy Evolution Explorer in a single orbit exposure of 27 minutes on October 10, 2003...</sub>
+<sub>Time Series of Jupiter Aurora</sub>
 <br/><br/>
-<sub><i>NASA Image Library, &quot;galaxy&quot;</i></sub>
+<sub><i>NASA Image Library, &quot;aurora&quot;</i></sub>
 </td>
 </tr>
 </table>
 
 <table>
 <tr>
-<td width="40%" valign="middle"><a href="https://arstechnica.com/space/2026/10/blue-origin-is-going-all-in-on-the-new-glenn-rocket/"><img src="https://cdn.arstechnica.net/wp-content/uploads/2026/10/Blue-Origin-Upper-Stage-Facility-Still-Render.png" alt="Blue Origin is going all in on the New Glenn rocket" width="100%" /></a></td>
-<td valign="middle">📰 <b>Today in spaceflight</b><br/><br/><b><a href="https://arstechnica.com/space/2026/10/blue-origin-is-going-all-in-on-the-new-glenn-rocket/">Blue Origin is going all in on the New Glenn rocket</a></b><br/><br/><sub>Arstechnica, 2026-10-16</sub></td>
+<td width="40%" valign="middle"><a href="https://science.nasa.gov/image-article/apod-2026-october-17-3d-67p/"><img src="https://assets.science.nasa.gov/dynamicimage/assets/science/cds/apod/apod/2026/october/anaglyph-NAC_2015-07-25T06.28.48.742Z_lamy.jpg" alt="APOD: 2026 October 17 – 3D 67P" width="100%" /></a></td>
+<td valign="middle">📰 <b>Today in spaceflight</b><br/><br/><b><a href="https://science.nasa.gov/image-article/apod-2026-october-17-3d-67p/">APOD: 2026 October 17 – 3D 67P</a></b><br/><br/><sub>NASA, 2026-10-17</sub></td>
 </tr>
 </table>
 <!-- SPACE:END -->
