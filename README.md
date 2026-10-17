@@ -113,28 +113,28 @@
 <table>
 <tr>
 <td width="25%" valign="top" align="center">
-<a href="https://anilist.co/anime/116589"><img src="https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx116589-KawXHB6sApFt.jpg" alt="86 EIGHTY-SIX" width="180" height="260" /></a>
+<a href="https://anilist.co/anime/105310"><img src="https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx105310-2PKUvoaA6fTn.jpg" alt="Fire Force" width="180" height="260" /></a>
 <br/><sub><b>🎬 ANIME</b></sub>
-<br/><b><a href="https://anilist.co/anime/116589">86 EIGHTY-SIX</a></b>
-<br/><sub>⭐ 8.3 · 2021 · 11 eps · Action · Mecha</sub>
+<br/><b><a href="https://anilist.co/anime/105310">Fire Force</a></b>
+<br/><sub>⭐ 7.6 · 2019 · 24 eps · Action · Sci-Fi</sub>
 </td>
 <td width="25%" valign="top" align="center">
-<a href="https://anilist.co/manga/129632"><img src="https://s4.anilist.co/file/anilistcdn/media/manga/cover/large/bx129632-ArHo6qvYQoHs.jpg" alt="The Tutorial Is Too Tough!" width="180" height="260" /></a>
-<br/><sub><b>📖 MANHWA</b></sub>
-<br/><b><a href="https://anilist.co/manga/129632">The Tutorial Is Too Tough!</a></b>
-<br/><sub>⭐ 7.1 · 2021 · Action</sub>
+<a href="https://anilist.co/manga/108050"><img src="https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/b108050-ZGWnOokjiHG7.jpg" alt="Reverend Insanity" width="180" height="260" /></a>
+<br/><sub><b>📖 MANHUA</b></sub>
+<br/><b><a href="https://anilist.co/manga/108050">Reverend Insanity</a></b>
+<br/><sub>⭐ 7.7 · 2018 · 96 chs · Adventure · Psychological</sub>
 </td>
 <td width="25%" valign="top" align="center">
-<a href="https://openlibrary.org/works/OL271163W"><img src="https://covers.openlibrary.org/b/id/10693768-L.jpg" alt="The Forever War" width="180" height="260" /></a>
-<br/><sub><b>📚 SCI-FI</b></sub>
-<br/><b><a href="https://openlibrary.org/works/OL271163W">The Forever War</a></b>
-<br/><sub>Joe Haldeman · 1974 · ⭐ 8.2</sub>
+<a href="https://openlibrary.org/works/OL1317211W"><img src="https://covers.openlibrary.org/b/id/211529-L.jpg" alt="Meditations" width="180" height="260" /></a>
+<br/><sub><b>📚 MINDSET</b></sub>
+<br/><b><a href="https://openlibrary.org/works/OL1317211W">Meditations</a></b>
+<br/><sub>Marcus Aurelius · 1626 · ⭐ 8.2</sub>
 </td>
 <td width="25%" valign="top" align="center">
-<a href="assets/daily/quote-2026-10-16.svg"><img src="assets/daily/quote-2026-10-16.svg" alt="“The only thing we&#x27;re allowed to do is to believe that we won&#x27;t regret the choice we made.” — Levi Ackerman, Attack on Titan" width="180" height="260" /></a>
+<a href="assets/daily/quote-2026-10-17.svg"><img src="assets/daily/quote-2026-10-17.svg" alt="“Today is victory over yourself of yesterday.” — Miyamoto Musashi, The Book of Five Rings" width="180" height="260" /></a>
 <br/><sub><b>💬 QUOTE</b></sub>
-<br/><b><a href="assets/daily/quote-2026-10-16.svg">Levi Ackerman</a></b>
-<br/><sub>Attack on Titan</sub>
+<br/><b><a href="assets/daily/quote-2026-10-17.svg">Miyamoto Musashi</a></b>
+<br/><sub>The Book of Five Rings</sub>
 </td>
 </tr>
 </table>
