@@ -113,28 +113,28 @@
 <table>
 <tr>
 <td width="25%" valign="top" align="center">
-<a href="https://anilist.co/anime/105310"><img src="https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx105310-2PKUvoaA6fTn.jpg" alt="Fire Force" width="180" height="260" /></a>
+<a href="https://anilist.co/anime/918"><img src="https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx918-iOaeBVUn4uK7.jpg" alt="Gintama" width="180" height="260" /></a>
 <br/><sub><b>🎬 ANIME</b></sub>
-<br/><b><a href="https://anilist.co/anime/105310">Fire Force</a></b>
-<br/><sub>⭐ 7.6 · 2019 · 24 eps · Action · Sci-Fi</sub>
+<br/><b><a href="https://anilist.co/anime/918">Gintama</a></b>
+<br/><sub>⭐ 8.5 · 2006 · 201 eps · Action · Sci-Fi</sub>
 </td>
 <td width="25%" valign="top" align="center">
-<a href="https://anilist.co/manga/108050"><img src="https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/b108050-ZGWnOokjiHG7.jpg" alt="Reverend Insanity" width="180" height="260" /></a>
-<br/><sub><b>📖 MANHUA</b></sub>
-<br/><b><a href="https://anilist.co/manga/108050">Reverend Insanity</a></b>
-<br/><sub>⭐ 7.7 · 2018 · 96 chs · Adventure · Psychological</sub>
+<a href="https://anilist.co/manga/97466"><img src="https://s4.anilist.co/file/anilistcdn/media/manga/cover/large/bx97466-W6l3O260srMZ.jpg" alt="Reincarnated as a Sword" width="180" height="260" /></a>
+<br/><sub><b>📖 NOVEL</b></sub>
+<br/><b><a href="https://anilist.co/manga/97466">Reincarnated as a Sword</a></b>
+<br/><sub>⭐ 7.7 · 2016 · Action · Adventure</sub>
 </td>
 <td width="25%" valign="top" align="center">
-<a href="https://openlibrary.org/works/OL1317211W"><img src="https://covers.openlibrary.org/b/id/211529-L.jpg" alt="Meditations" width="180" height="260" /></a>
-<br/><sub><b>📚 MINDSET</b></sub>
-<br/><b><a href="https://openlibrary.org/works/OL1317211W">Meditations</a></b>
-<br/><sub>Marcus Aurelius · 1626 · ⭐ 8.2</sub>
+<a href="https://openlibrary.org/works/OL24477958W"><img src="https://covers.openlibrary.org/b/id/11089125-L.jpg" alt="Killing Floor" width="180" height="260" /></a>
+<br/><sub><b>📚 THRILLER</b></sub>
+<br/><b><a href="https://openlibrary.org/works/OL24477958W">Killing Floor</a></b>
+<br/><sub>Lee Child · 1997 · ⭐ 7.5</sub>
 </td>
 <td width="25%" valign="top" align="center">
-<a href="assets/daily/quote-2026-10-17.svg"><img src="assets/daily/quote-2026-10-17.svg" alt="“Today is victory over yourself of yesterday.” — Miyamoto Musashi, The Book of Five Rings" width="180" height="260" /></a>
+<a href="assets/daily/quote-2026-10-18.svg"><img src="assets/daily/quote-2026-10-18.svg" alt="“Luck is something you have to make happen yourself.” — Sunny, Shadow Slave" width="180" height="260" /></a>
 <br/><sub><b>💬 QUOTE</b></sub>
-<br/><b><a href="assets/daily/quote-2026-10-17.svg">Miyamoto Musashi</a></b>
-<br/><sub>The Book of Five Rings</sub>
+<br/><b><a href="assets/daily/quote-2026-10-18.svg">Sunny</a></b>
+<br/><sub>Shadow Slave</sub>
 </td>
 </tr>
 </table>
