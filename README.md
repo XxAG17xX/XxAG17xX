@@ -74,25 +74,25 @@
 <table>
 <tr>
 <td width="50%" valign="top" align="center">
-<a href="https://epic.gsfc.nasa.gov/"><img src="https://epic.gsfc.nasa.gov/archive/natural/2026/10/14/jpg/epic_1b_20261014001752.jpg" alt="Earth, 3 days ago" width="48%" />
-<img src="https://epic.gsfc.nasa.gov/archive/natural/2026/10/14/jpg/epic_1b_20261014073001.jpg" alt="Earth, 3 days ago" width="48%" />
-<img src="https://epic.gsfc.nasa.gov/archive/natural/2026/10/14/jpg/epic_1b_20261014144210.jpg" alt="Earth, 3 days ago" width="48%" />
-<img src="https://epic.gsfc.nasa.gov/archive/natural/2026/10/14/jpg/epic_1b_20261014215419.jpg" alt="Earth, 3 days ago" width="48%" /></a>
+<a href="https://epic.gsfc.nasa.gov/"><img src="https://epic.gsfc.nasa.gov/archive/natural/2026/10/15/jpg/epic_1b_20261015000830.jpg" alt="Earth, 3 days ago" width="48%" />
+<img src="https://epic.gsfc.nasa.gov/archive/natural/2026/10/15/jpg/epic_1b_20261015072039.jpg" alt="Earth, 3 days ago" width="48%" />
+<img src="https://epic.gsfc.nasa.gov/archive/natural/2026/10/15/jpg/epic_1b_20261015143249.jpg" alt="Earth, 3 days ago" width="48%" />
+<img src="https://epic.gsfc.nasa.gov/archive/natural/2026/10/15/jpg/epic_1b_20261015214457.jpg" alt="Earth, 3 days ago" width="48%" /></a>
 <br/><br/>
 <b>Earth, 3 days ago</b>
 <br/>
-<sub>Full-disc Earth from DSCOVR, 1.55 million km out. 4 frames from 2026-10-14; the latest is centred on 1°N 158°W.</sub>
+<sub>Full-disc Earth from DSCOVR, 1.55 million km out. 4 frames from 2026-10-15; the latest is centred on 1°N 156°W.</sub>
 <br/><br/>
-<sub><i>NASA EPIC aboard DSCOVR, 2026-10-14</i></sub>
+<sub><i>NASA EPIC aboard DSCOVR, 2026-10-15</i></sub>
 </td>
 <td width="50%" valign="top" align="center">
-<img src="https://images-assets.nasa.gov/image/PIA01602/PIA01602~small.jpg" alt="Time Series of Jupiter Aurora" width="100%" />
+<img src="https://images-assets.nasa.gov/image/PIA06610/PIA06610~small.jpg" alt="Saturn at a Tilt" width="100%" />
 <br/><br/>
-<b>Time Series of Jupiter Aurora</b>
+<b>Saturn at a Tilt</b>
 <br/>
-<sub>Time Series of Jupiter Aurora</sub>
+<sub>Saturn at a Tilt</sub>
 <br/><br/>
-<sub><i>NASA Image Library, &quot;aurora&quot;</i></sub>
+<sub><i>NASA Image Library, &quot;saturn&quot;</i></sub>
 </td>
 </tr>
 </table>
