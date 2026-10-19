@@ -74,33 +74,33 @@
 <table>
 <tr>
 <td width="50%" valign="top" align="center">
-<a href="https://epic.gsfc.nasa.gov/"><img src="https://epic.gsfc.nasa.gov/archive/natural/2026/10/15/jpg/epic_1b_20261015000830.jpg" alt="Earth, 3 days ago" width="48%" />
-<img src="https://epic.gsfc.nasa.gov/archive/natural/2026/10/15/jpg/epic_1b_20261015072039.jpg" alt="Earth, 3 days ago" width="48%" />
-<img src="https://epic.gsfc.nasa.gov/archive/natural/2026/10/15/jpg/epic_1b_20261015143249.jpg" alt="Earth, 3 days ago" width="48%" />
-<img src="https://epic.gsfc.nasa.gov/archive/natural/2026/10/15/jpg/epic_1b_20261015214457.jpg" alt="Earth, 3 days ago" width="48%" /></a>
+<a href="https://epic.gsfc.nasa.gov/"><img src="https://epic.gsfc.nasa.gov/archive/natural/2026/10/17/jpg/epic_1b_20261017004554.jpg" alt="Earth, 2 days ago" width="48%" />
+<img src="https://epic.gsfc.nasa.gov/archive/natural/2026/10/17/jpg/epic_1b_20261017075803.jpg" alt="Earth, 2 days ago" width="48%" />
+<img src="https://epic.gsfc.nasa.gov/archive/natural/2026/10/17/jpg/epic_1b_20261017151012.jpg" alt="Earth, 2 days ago" width="48%" />
+<img src="https://epic.gsfc.nasa.gov/archive/natural/2026/10/17/jpg/epic_1b_20261017222222.jpg" alt="Earth, 2 days ago" width="48%" /></a>
 <br/><br/>
-<b>Earth, 3 days ago</b>
+<b>Earth, 2 days ago</b>
 <br/>
-<sub>Full-disc Earth from DSCOVR, 1.55 million km out. 4 frames from 2026-10-15; the latest is centred on 1°N 156°W.</sub>
+<sub>Full-disc Earth from DSCOVR, 1.54 million km out. 4 frames from 2026-10-17; the latest is centred on 0°N 166°W.</sub>
 <br/><br/>
-<sub><i>NASA EPIC aboard DSCOVR, 2026-10-15</i></sub>
+<sub><i>NASA EPIC aboard DSCOVR, 2026-10-17</i></sub>
 </td>
 <td width="50%" valign="top" align="center">
-<img src="https://images-assets.nasa.gov/image/PIA06610/PIA06610~small.jpg" alt="Saturn at a Tilt" width="100%" />
+<img src="https://images-assets.nasa.gov/image/PIA09342/PIA09342~medium.jpg" alt="Jupiter Rings: Sharpest View" width="100%" />
 <br/><br/>
-<b>Saturn at a Tilt</b>
+<b>Jupiter Rings: Sharpest View</b>
 <br/>
-<sub>Saturn at a Tilt</sub>
+<sub>Jupiter Rings: Sharpest View</sub>
 <br/><br/>
-<sub><i>NASA Image Library, &quot;saturn&quot;</i></sub>
+<sub><i>NASA Image Library, &quot;jupiter&quot;</i></sub>
 </td>
 </tr>
 </table>
 
 <table>
 <tr>
-<td width="40%" valign="middle"><a href="https://science.nasa.gov/image-article/apod-2026-october-17-3d-67p/"><img src="https://assets.science.nasa.gov/dynamicimage/assets/science/cds/apod/apod/2026/october/anaglyph-NAC_2015-07-25T06.28.48.742Z_lamy.jpg" alt="APOD: 2026 October 17 – 3D 67P" width="100%" /></a></td>
-<td valign="middle">📰 <b>Today in spaceflight</b><br/><br/><b><a href="https://science.nasa.gov/image-article/apod-2026-october-17-3d-67p/">APOD: 2026 October 17 – 3D 67P</a></b><br/><br/><sub>NASA, 2026-10-17</sub></td>
+<td width="40%" valign="middle"><a href="https://science.nasa.gov/image-article/apod-2026-october-19-treble-clef-unusual-x-ray-hot-radio-source/"><img src="https://assets.science.nasa.gov/dynamicimage/assets/science/cds/apod/apod/2026/october/trebleclef.jpg" alt="APOD: 2026 October 19 – Treble Clef: Unusual X-ray Hot Radio Source" width="100%" /></a></td>
+<td valign="middle">📰 <b>Today in spaceflight</b><br/><br/><b><a href="https://science.nasa.gov/image-article/apod-2026-october-19-treble-clef-unusual-x-ray-hot-radio-source/">APOD: 2026 October 19 – Treble Clef: Unusual X-ray Hot Radio Source</a></b><br/><br/><sub>NASA, 2026-10-19</sub></td>
 </tr>
 </table>
 <!-- SPACE:END -->
