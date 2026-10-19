@@ -113,28 +113,28 @@
 <table>
 <tr>
 <td width="25%" valign="top" align="center">
-<a href="https://anilist.co/anime/918"><img src="https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx918-iOaeBVUn4uK7.jpg" alt="Gintama" width="180" height="260" /></a>
+<a href="https://anilist.co/anime/140960"><img src="https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx140960-Kb6R5nYQfjmP.jpg" alt="SPY x FAMILY" width="180" height="260" /></a>
 <br/><sub><b>🎬 ANIME</b></sub>
-<br/><b><a href="https://anilist.co/anime/918">Gintama</a></b>
-<br/><sub>⭐ 8.5 · 2006 · 201 eps · Action · Sci-Fi</sub>
+<br/><b><a href="https://anilist.co/anime/140960">SPY x FAMILY</a></b>
+<br/><sub>⭐ 8.3 · 2022 · 12 eps · Action · Supernatural</sub>
 </td>
 <td width="25%" valign="top" align="center">
-<a href="https://anilist.co/manga/97466"><img src="https://s4.anilist.co/file/anilistcdn/media/manga/cover/large/bx97466-W6l3O260srMZ.jpg" alt="Reincarnated as a Sword" width="180" height="260" /></a>
-<br/><sub><b>📖 NOVEL</b></sub>
-<br/><b><a href="https://anilist.co/manga/97466">Reincarnated as a Sword</a></b>
-<br/><sub>⭐ 7.7 · 2016 · Action · Adventure</sub>
+<a href="https://anilist.co/manga/30001"><img src="https://s4.anilist.co/file/anilistcdn/media/manga/cover/large/bx30001-Knby7l1jevE7.jpg" alt="Monster" width="180" height="260" /></a>
+<br/><sub><b>📖 MANGA</b></sub>
+<br/><b><a href="https://anilist.co/manga/30001">Monster</a></b>
+<br/><sub>⭐ 9.0 · 1994 · 162 chs · Mystery · Psychological</sub>
 </td>
 <td width="25%" valign="top" align="center">
-<a href="https://openlibrary.org/works/OL24477958W"><img src="https://covers.openlibrary.org/b/id/11089125-L.jpg" alt="Killing Floor" width="180" height="260" /></a>
-<br/><sub><b>📚 THRILLER</b></sub>
-<br/><b><a href="https://openlibrary.org/works/OL24477958W">Killing Floor</a></b>
-<br/><sub>Lee Child · 1997 · ⭐ 7.5</sub>
+<a href="https://openlibrary.org/works/OL7924103W"><img src="https://covers.openlibrary.org/b/id/980232-L.jpg" alt="The Eye of the World" width="180" height="260" /></a>
+<br/><sub><b>📚 FANTASY</b></sub>
+<br/><b><a href="https://openlibrary.org/works/OL7924103W">The Eye of the World</a></b>
+<br/><sub>Robert Jordan · 1990 · ⭐ 7.8</sub>
 </td>
 <td width="25%" valign="top" align="center">
-<a href="assets/daily/quote-2026-10-18.svg"><img src="assets/daily/quote-2026-10-18.svg" alt="“Luck is something you have to make happen yourself.” — Sunny, Shadow Slave" width="180" height="260" /></a>
+<a href="assets/daily/quote-2026-10-19.svg"><img src="assets/daily/quote-2026-10-19.svg" alt="“You have no enemies. No one has any enemies.” — Thors, Vinland Saga" width="180" height="260" /></a>
 <br/><sub><b>💬 QUOTE</b></sub>
-<br/><b><a href="assets/daily/quote-2026-10-18.svg">Sunny</a></b>
-<br/><sub>Shadow Slave</sub>
+<br/><b><a href="assets/daily/quote-2026-10-19.svg">Thors</a></b>
+<br/><sub>Vinland Saga</sub>
 </td>
 </tr>
 </table>
