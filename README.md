@@ -113,28 +113,28 @@
 <table>
 <tr>
 <td width="25%" valign="top" align="center">
-<a href="https://anilist.co/anime/140960"><img src="https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx140960-Kb6R5nYQfjmP.jpg" alt="SPY x FAMILY" width="180" height="260" /></a>
+<a href="https://anilist.co/anime/108632"><img src="https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx108632-lQWnmw7XaNOK.jpg" alt="Re:ZERO -Starting Life in Another World- Season 2" width="180" height="260" /></a>
 <br/><sub><b>🎬 ANIME</b></sub>
-<br/><b><a href="https://anilist.co/anime/140960">SPY x FAMILY</a></b>
-<br/><sub>⭐ 8.3 · 2022 · 12 eps · Action · Supernatural</sub>
+<br/><b><a href="https://anilist.co/anime/108632">Re:ZERO -Starting Life in Another World-...</a></b>
+<br/><sub>⭐ 8.3 · 2020 · 13 eps · Action · Adventure</sub>
 </td>
 <td width="25%" valign="top" align="center">
-<a href="https://anilist.co/manga/30001"><img src="https://s4.anilist.co/file/anilistcdn/media/manga/cover/large/bx30001-Knby7l1jevE7.jpg" alt="Monster" width="180" height="260" /></a>
-<br/><sub><b>📖 MANGA</b></sub>
-<br/><b><a href="https://anilist.co/manga/30001">Monster</a></b>
-<br/><sub>⭐ 9.0 · 1994 · 162 chs · Mystery · Psychological</sub>
+<a href="https://anilist.co/manga/151460"><img src="https://s4.anilist.co/file/anilistcdn/media/manga/cover/large/bx151460-Cb2CXwN2ZElE.jpg" alt="Absolute Sword Sense" width="180" height="260" /></a>
+<br/><sub><b>📖 MANHWA</b></sub>
+<br/><b><a href="https://anilist.co/manga/151460">Absolute Sword Sense</a></b>
+<br/><sub>⭐ 7.8 · 2022 · Action</sub>
 </td>
 <td width="25%" valign="top" align="center">
-<a href="https://openlibrary.org/works/OL7924103W"><img src="https://covers.openlibrary.org/b/id/980232-L.jpg" alt="The Eye of the World" width="180" height="260" /></a>
-<br/><sub><b>📚 FANTASY</b></sub>
-<br/><b><a href="https://openlibrary.org/works/OL7924103W">The Eye of the World</a></b>
-<br/><sub>Robert Jordan · 1990 · ⭐ 7.8</sub>
+<a href="https://openlibrary.org/works/OL16085155W"><img src="https://covers.openlibrary.org/b/id/12374726-L.jpg" alt="Steve Jobs" width="180" height="260" /></a>
+<br/><sub><b>📚 BUILDER</b></sub>
+<br/><b><a href="https://openlibrary.org/works/OL16085155W">Steve Jobs</a></b>
+<br/><sub>Walter Isaacson · 2011 · ⭐ 8.4</sub>
 </td>
 <td width="25%" valign="top" align="center">
-<a href="assets/daily/quote-2026-10-19.svg"><img src="assets/daily/quote-2026-10-19.svg" alt="“You have no enemies. No one has any enemies.” — Thors, Vinland Saga" width="180" height="260" /></a>
+<a href="assets/daily/quote-2026-10-20.svg"><img src="assets/daily/quote-2026-10-20.svg" alt="“I know what I value, and I know what I want.” — Sunny, Shadow Slave" width="180" height="260" /></a>
 <br/><sub><b>💬 QUOTE</b></sub>
-<br/><b><a href="assets/daily/quote-2026-10-19.svg">Thors</a></b>
-<br/><sub>Vinland Saga</sub>
+<br/><b><a href="assets/daily/quote-2026-10-20.svg">Sunny</a></b>
+<br/><sub>Shadow Slave</sub>
 </td>
 </tr>
 </table>
