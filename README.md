@@ -74,33 +74,33 @@
 <table>
 <tr>
 <td width="50%" valign="top" align="center">
-<a href="https://epic.gsfc.nasa.gov/"><img src="https://epic.gsfc.nasa.gov/archive/natural/2026/10/17/jpg/epic_1b_20261017004554.jpg" alt="Earth, 3 days ago" width="48%" />
-<img src="https://epic.gsfc.nasa.gov/archive/natural/2026/10/17/jpg/epic_1b_20261017075803.jpg" alt="Earth, 3 days ago" width="48%" />
-<img src="https://epic.gsfc.nasa.gov/archive/natural/2026/10/17/jpg/epic_1b_20261017151012.jpg" alt="Earth, 3 days ago" width="48%" />
-<img src="https://epic.gsfc.nasa.gov/archive/natural/2026/10/17/jpg/epic_1b_20261017222222.jpg" alt="Earth, 3 days ago" width="48%" /></a>
+<a href="https://epic.gsfc.nasa.gov/"><img src="https://epic.gsfc.nasa.gov/archive/natural/2026/10/18/jpg/epic_1b_20261018010436.jpg" alt="Earth, 3 days ago" width="48%" />
+<img src="https://epic.gsfc.nasa.gov/archive/natural/2026/10/18/jpg/epic_1b_20261018081646.jpg" alt="Earth, 3 days ago" width="48%" />
+<img src="https://epic.gsfc.nasa.gov/archive/natural/2026/10/18/jpg/epic_1b_20261018152854.jpg" alt="Earth, 3 days ago" width="48%" />
+<img src="https://epic.gsfc.nasa.gov/archive/natural/2026/10/18/jpg/epic_1b_20261018224104.jpg" alt="Earth, 3 days ago" width="48%" /></a>
 <br/><br/>
 <b>Earth, 3 days ago</b>
 <br/>
-<sub>Full-disc Earth from DSCOVR, 1.54 million km out. 4 frames from 2026-10-17; the latest is centred on 0°N 166°W.</sub>
+<sub>Full-disc Earth from DSCOVR, 1.54 million km out. 4 frames from 2026-10-18; the latest is centred on 0°S 171°W.</sub>
 <br/><br/>
-<sub><i>NASA EPIC aboard DSCOVR, 2026-10-17</i></sub>
+<sub><i>NASA EPIC aboard DSCOVR, 2026-10-18</i></sub>
 </td>
 <td width="50%" valign="top" align="center">
-<img src="https://images-assets.nasa.gov/image/GSFC_20171208_Archive_e002134/GSFC_20171208_Archive_e002134~medium.jpg" alt="Supernova Remnant W49B" width="100%" />
+<img src="https://images-assets.nasa.gov/image/GSFC_20171208_Archive_e001677/GSFC_20171208_Archive_e001677~medium.jpg" alt="Hubble Watches Star Clusters on a Collision Course" width="100%" />
 <br/><br/>
-<b>Supernova Remnant W49B</b>
+<b>Hubble Watches Star Clusters on a Collision Course</b>
 <br/>
-<sub>Release date Dec. 30, 2009 In the supernova remnant W49B, Suzaku found another fossil fireball. It detected X-rays produced when heavily ionized iron...</sub>
+<sub>Image release August 16, 2012 Astronomers using data from NASA&#x27;s Hubble Space Telescope have caught two clusters full of massive stars that may be in...</sub>
 <br/><br/>
-<sub><i>NASA Image Library, &quot;supernova remnant&quot;</i></sub>
+<sub><i>NASA Image Library, &quot;star cluster&quot;</i></sub>
 </td>
 </tr>
 </table>
 
 <table>
 <tr>
-<td width="40%" valign="middle"><a href="https://europeanspaceflight.com/french-mps-propose-symbolic-e1-budget-line-for-vortex-spaceplane/"><img src="https://europeanspaceflight.com/wp-content/uploads/2026/10/French-MPs-propose-symbolic-E1-budget-line-for-VORTEX-spaceplane.webp" alt="French MPs propose symbolic €1 budget line for VORTEX spaceplane" width="100%" /></a></td>
-<td valign="middle">📰 <b>Today in spaceflight</b><br/><br/><b><a href="https://europeanspaceflight.com/french-mps-propose-symbolic-e1-budget-line-for-vortex-spaceplane/">French MPs propose symbolic €1 budget line for VORTEX spaceplane</a></b><br/><br/><sub>European Spaceflight, 2026-10-20</sub></td>
+<td width="40%" valign="middle"><a href="https://science.nasa.gov/image-article/apod-2026-october-21-new-ghosts-revealed-in-cassiopeia/"><img src="https://assets.science.nasa.gov/dynamicimage/assets/science/cds/apod/apod/2026/october/IC63.png" alt="APOD: 2026 October 21 – New Ghosts Revealed in Cassiopeia" width="100%" /></a></td>
+<td valign="middle">📰 <b>Today in spaceflight</b><br/><br/><b><a href="https://science.nasa.gov/image-article/apod-2026-october-21-new-ghosts-revealed-in-cassiopeia/">APOD: 2026 October 21 – New Ghosts Revealed in Cassiopeia</a></b><br/><br/><sub>NASA, 2026-10-21</sub></td>
 </tr>
 </table>
 <!-- SPACE:END -->
