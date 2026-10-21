@@ -113,28 +113,28 @@
 <table>
 <tr>
 <td width="25%" valign="top" align="center">
-<a href="https://anilist.co/anime/108632"><img src="https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx108632-lQWnmw7XaNOK.jpg" alt="Re:ZERO -Starting Life in Another World- Season 2" width="180" height="260" /></a>
+<a href="https://anilist.co/anime/6702"><img src="https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/b6702-KI4qgSMyI8Pm.png" alt="Fairy Tail" width="180" height="260" /></a>
 <br/><sub><b>🎬 ANIME</b></sub>
-<br/><b><a href="https://anilist.co/anime/108632">Re:ZERO -Starting Life in Another World-...</a></b>
-<br/><sub>⭐ 8.3 · 2020 · 13 eps · Action · Adventure</sub>
+<br/><b><a href="https://anilist.co/anime/6702">Fairy Tail</a></b>
+<br/><sub>⭐ 7.2 · 2009 · 175 eps · Action · Adventure</sub>
 </td>
 <td width="25%" valign="top" align="center">
-<a href="https://anilist.co/manga/151460"><img src="https://s4.anilist.co/file/anilistcdn/media/manga/cover/large/bx151460-Cb2CXwN2ZElE.jpg" alt="Absolute Sword Sense" width="180" height="260" /></a>
-<br/><sub><b>📖 MANHWA</b></sub>
-<br/><b><a href="https://anilist.co/manga/151460">Absolute Sword Sense</a></b>
-<br/><sub>⭐ 7.8 · 2022 · Action</sub>
+<a href="https://anilist.co/manga/97662"><img src="https://s4.anilist.co/file/anilistcdn/media/manga/cover/large/bx97662-JZiQ2deDA7LO.jpg" alt="The King&#x27;s Avatar" width="180" height="260" /></a>
+<br/><sub><b>📖 MANHUA</b></sub>
+<br/><b><a href="https://anilist.co/manga/97662">The King&#x27;s Avatar</a></b>
+<br/><sub>⭐ 7.3 · 2015 · 197 chs · Action · Adventure</sub>
 </td>
 <td width="25%" valign="top" align="center">
-<a href="https://openlibrary.org/works/OL16085155W"><img src="https://covers.openlibrary.org/b/id/12374726-L.jpg" alt="Steve Jobs" width="180" height="260" /></a>
+<a href="https://openlibrary.org/works/OL3510570W"><img src="https://covers.openlibrary.org/b/id/6915361-L.jpg" alt="The Mythical Man-Month" width="180" height="260" /></a>
 <br/><sub><b>📚 BUILDER</b></sub>
-<br/><b><a href="https://openlibrary.org/works/OL16085155W">Steve Jobs</a></b>
-<br/><sub>Walter Isaacson · 2011 · ⭐ 8.4</sub>
+<br/><b><a href="https://openlibrary.org/works/OL3510570W">The Mythical Man-Month</a></b>
+<br/><sub>Frederick P. Brooks · 1974 · ⭐ 8.3</sub>
 </td>
 <td width="25%" valign="top" align="center">
-<a href="assets/daily/quote-2026-10-20.svg"><img src="assets/daily/quote-2026-10-20.svg" alt="“I know what I value, and I know what I want.” — Sunny, Shadow Slave" width="180" height="260" /></a>
+<a href="assets/daily/quote-2026-10-21.svg"><img src="assets/daily/quote-2026-10-21.svg" alt="“I must not fear. Fear is the mind-killer.” — Litany Against Fear, Dune" width="180" height="260" /></a>
 <br/><sub><b>💬 QUOTE</b></sub>
-<br/><b><a href="assets/daily/quote-2026-10-20.svg">Sunny</a></b>
-<br/><sub>Shadow Slave</sub>
+<br/><b><a href="assets/daily/quote-2026-10-21.svg">Litany Against Fear</a></b>
+<br/><sub>Dune</sub>
 </td>
 </tr>
 </table>
