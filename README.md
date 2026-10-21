@@ -113,6 +113,18 @@
 <table>
 <tr>
 <td width="25%" valign="top" align="center">
+<a href="https://anilist.co/anime/6702"><img src="https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/b6702-KI4qgSMyI8Pm.png" alt="Fairy Tail" width="180" height="260" /></a>
+<br/><sub><b>🎬 ANIME</b></sub>
+<br/><b><a href="https://anilist.co/anime/6702">Fairy Tail</a></b>
+<br/><sub>⭐ 7.2 · 2009 · 175 eps · Action · Adventure</sub>
+</td>
+<td width="25%" valign="top" align="center">
+<a href="https://anilist.co/manga/97662"><img src="https://s4.anilist.co/file/anilistcdn/media/manga/cover/large/bx97662-JZiQ2deDA7LO.jpg" alt="The King&#x27;s Avatar" width="180" height="260" /></a>
+<br/><sub><b>📖 MANHUA</b></sub>
+<br/><b><a href="https://anilist.co/manga/97662">The King&#x27;s Avatar</a></b>
+<br/><sub>⭐ 7.3 · 2015 · 197 chs · Action · Adventure</sub>
+</td>
+<td width="25%" valign="top" align="center">
 <a href="https://openlibrary.org/works/OL3510570W"><img src="https://covers.openlibrary.org/b/id/6915361-L.jpg" alt="The Mythical Man-Month" width="180" height="260" /></a>
 <br/><sub><b>📚 BUILDER</b></sub>
 <br/><b><a href="https://openlibrary.org/works/OL3510570W">The Mythical Man-Month</a></b>
