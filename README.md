@@ -74,33 +74,33 @@
 <table>
 <tr>
 <td width="50%" valign="top" align="center">
-<a href="https://epic.gsfc.nasa.gov/"><img src="https://epic.gsfc.nasa.gov/archive/natural/2026/10/18/jpg/epic_1b_20261018010436.jpg" alt="Earth, 3 days ago" width="48%" />
-<img src="https://epic.gsfc.nasa.gov/archive/natural/2026/10/18/jpg/epic_1b_20261018081646.jpg" alt="Earth, 3 days ago" width="48%" />
-<img src="https://epic.gsfc.nasa.gov/archive/natural/2026/10/18/jpg/epic_1b_20261018152854.jpg" alt="Earth, 3 days ago" width="48%" />
-<img src="https://epic.gsfc.nasa.gov/archive/natural/2026/10/18/jpg/epic_1b_20261018224104.jpg" alt="Earth, 3 days ago" width="48%" /></a>
+<a href="https://www.star.nesdis.noaa.gov/GOES/fulldisk.php?sat=G19"><img src="https://cdn.star.nesdis.noaa.gov/GOES19/ABI/FD/GEOCOLOR/20262941720_GOES19-ABI-FD-GEOCOLOR-678x678.jpg" alt="Earth today" width="48%" />
+<img src="https://cdn.star.nesdis.noaa.gov/GOES19/ABI/FD/GEOCOLOR/20262942320_GOES19-ABI-FD-GEOCOLOR-678x678.jpg" alt="Earth today" width="48%" />
+<img src="https://cdn.star.nesdis.noaa.gov/GOES19/ABI/FD/GEOCOLOR/20262950520_GOES19-ABI-FD-GEOCOLOR-678x678.jpg" alt="Earth today" width="48%" />
+<img src="https://cdn.star.nesdis.noaa.gov/GOES19/ABI/FD/GEOCOLOR/20262951120_GOES19-ABI-FD-GEOCOLOR-678x678.jpg" alt="Earth today" width="48%" /></a>
 <br/><br/>
-<b>Earth, 3 days ago</b>
+<b>Earth today</b>
 <br/>
-<sub>Full-disc Earth from DSCOVR, 1.54 million km out. 4 frames from 2026-10-18; the latest is centred on 0°S 171°W.</sub>
+<sub>The Americas from NOAA&#x27;s GOES-19, 35,786 km up. 4 frames, six hours apart; the latest at 11:20 UTC. City lights show on the night side.</sub>
 <br/><br/>
-<sub><i>NASA EPIC aboard DSCOVR, 2026-10-18</i></sub>
+<sub><i>NOAA GOES-19 GeoColor, 2026-10-22</i></sub>
 </td>
 <td width="50%" valign="top" align="center">
-<img src="https://images-assets.nasa.gov/image/GSFC_20171208_Archive_e001677/GSFC_20171208_Archive_e001677~medium.jpg" alt="Hubble Watches Star Clusters on a Collision Course" width="100%" />
+<img src="https://images-assets.nasa.gov/image/MAF_20240408_NOLAeclipse04/MAF_20240408_NOLAeclipse04~medium.jpg" alt="Partial Solar Eclipse in New Orleans" width="100%" />
 <br/><br/>
-<b>Hubble Watches Star Clusters on a Collision Course</b>
+<b>Partial Solar Eclipse in New Orleans</b>
 <br/>
-<sub>Image release August 16, 2012 Astronomers using data from NASA&#x27;s Hubble Space Telescope have caught two clusters full of massive stars that may be in...</sub>
+<sub>Civil Air Patrol cadets (L to R) Gabrielle Griffith, Ronald Ecklund, and Alongkorn Lafargue of the Alvin Callander Composite Squadron record weather...</sub>
 <br/><br/>
-<sub><i>NASA Image Library, &quot;star cluster&quot;</i></sub>
+<sub><i>NASA Image Library, &quot;solar eclipse&quot;</i></sub>
 </td>
 </tr>
 </table>
 
 <table>
 <tr>
-<td width="40%" valign="middle"><a href="https://science.nasa.gov/image-article/apod-2026-october-21-new-ghosts-revealed-in-cassiopeia/"><img src="https://assets.science.nasa.gov/dynamicimage/assets/science/cds/apod/apod/2026/october/IC63.png" alt="APOD: 2026 October 21 – New Ghosts Revealed in Cassiopeia" width="100%" /></a></td>
-<td valign="middle">📰 <b>Today in spaceflight</b><br/><br/><b><a href="https://science.nasa.gov/image-article/apod-2026-october-21-new-ghosts-revealed-in-cassiopeia/">APOD: 2026 October 21 – New Ghosts Revealed in Cassiopeia</a></b><br/><br/><sub>NASA, 2026-10-21</sub></td>
+<td width="40%" valign="middle"><a href="https://science.nasa.gov/image-article/apod-2026-october-22-the-first-green-star-wd-j13306435/"><img src="https://assets.science.nasa.gov/dynamicimage/assets/science/cds/apod/apod/2026/october/green_wd_mark-garlick_annotated2.jpg" alt="APOD: 2026 October 22 – The First Green Star, WD J1330+6435" width="100%" /></a></td>
+<td valign="middle">📰 <b>Today in spaceflight</b><br/><br/><b><a href="https://science.nasa.gov/image-article/apod-2026-october-22-the-first-green-star-wd-j13306435/">APOD: 2026 October 22 – The First Green Star, WD J1330+6435</a></b><br/><br/><sub>NASA, 2026-10-22</sub></td>
 </tr>
 </table>
 <!-- SPACE:END -->
