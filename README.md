@@ -113,28 +113,28 @@
 <table>
 <tr>
 <td width="25%" valign="top" align="center">
-<a href="https://anilist.co/anime/6702"><img src="https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/b6702-KI4qgSMyI8Pm.png" alt="Fairy Tail" width="180" height="260" /></a>
+<a href="https://anilist.co/anime/1575"><img src="https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx1575-hsmWM2ydNm1m.jpg" alt="Code Geass: Lelouch of the Rebellion" width="180" height="260" /></a>
 <br/><sub><b>🎬 ANIME</b></sub>
-<br/><b><a href="https://anilist.co/anime/6702">Fairy Tail</a></b>
-<br/><sub>⭐ 7.2 · 2009 · 175 eps · Action · Adventure</sub>
+<br/><b><a href="https://anilist.co/anime/1575">Code Geass: Lelouch of the Rebellion</a></b>
+<br/><sub>⭐ 8.5 · 2006 · 25 eps · Action · Mecha</sub>
 </td>
 <td width="25%" valign="top" align="center">
-<a href="https://anilist.co/manga/97662"><img src="https://s4.anilist.co/file/anilistcdn/media/manga/cover/large/bx97662-JZiQ2deDA7LO.jpg" alt="The King&#x27;s Avatar" width="180" height="260" /></a>
-<br/><sub><b>📖 MANHUA</b></sub>
-<br/><b><a href="https://anilist.co/manga/97662">The King&#x27;s Avatar</a></b>
-<br/><sub>⭐ 7.3 · 2015 · 197 chs · Action · Adventure</sub>
+<a href="https://anilist.co/manga/123126"><img src="https://s4.anilist.co/file/anilistcdn/media/manga/cover/large/bx123126-XqfQktzT3nWO.jpg" alt="Bungo Stray Dogs: Dazai, Chuuya, Age Fifteen" width="180" height="260" /></a>
+<br/><sub><b>📖 NOVEL</b></sub>
+<br/><b><a href="https://anilist.co/manga/123126">Bungo Stray Dogs: Dazai, Chuuya, Age...</a></b>
+<br/><sub>⭐ 8.2 · 2019 · 8 chs · Action · Mystery</sub>
 </td>
 <td width="25%" valign="top" align="center">
-<a href="https://openlibrary.org/works/OL3510570W"><img src="https://covers.openlibrary.org/b/id/6915361-L.jpg" alt="The Mythical Man-Month" width="180" height="260" /></a>
-<br/><sub><b>📚 BUILDER</b></sub>
-<br/><b><a href="https://openlibrary.org/works/OL3510570W">The Mythical Man-Month</a></b>
-<br/><sub>Frederick P. Brooks · 1974 · ⭐ 8.3</sub>
+<a href="https://openlibrary.org/works/OL16239762W"><img src="https://covers.openlibrary.org/b/id/8368314-L.jpg" alt="Gone Girl" width="180" height="260" /></a>
+<br/><sub><b>📚 THRILLER</b></sub>
+<br/><b><a href="https://openlibrary.org/works/OL16239762W">Gone Girl</a></b>
+<br/><sub>Gillian Flynn · 2011 · ⭐ 7.6</sub>
 </td>
 <td width="25%" valign="top" align="center">
-<a href="assets/daily/quote-2026-10-21.svg"><img src="assets/daily/quote-2026-10-21.svg" alt="“I must not fear. Fear is the mind-killer.” — Litany Against Fear, Dune" width="180" height="260" /></a>
+<a href="assets/daily/quote-2026-10-22.svg"><img src="assets/daily/quote-2026-10-22.svg" alt="“There&#x27;s always another secret.” — Kelsier, Mistborn" width="180" height="260" /></a>
 <br/><sub><b>💬 QUOTE</b></sub>
-<br/><b><a href="assets/daily/quote-2026-10-21.svg">Litany Against Fear</a></b>
-<br/><sub>Dune</sub>
+<br/><b><a href="assets/daily/quote-2026-10-22.svg">Kelsier</a></b>
+<br/><sub>Mistborn</sub>
 </td>
 </tr>
 </table>
