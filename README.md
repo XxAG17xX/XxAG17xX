@@ -74,33 +74,33 @@
 <table>
 <tr>
 <td width="50%" valign="top" align="center">
-<a href="https://www.star.nesdis.noaa.gov/GOES/fulldisk.php?sat=G19"><img src="https://cdn.star.nesdis.noaa.gov/GOES19/ABI/FD/GEOCOLOR/20262941720_GOES19-ABI-FD-GEOCOLOR-678x678.jpg" alt="Earth today" width="48%" />
-<img src="https://cdn.star.nesdis.noaa.gov/GOES19/ABI/FD/GEOCOLOR/20262942320_GOES19-ABI-FD-GEOCOLOR-678x678.jpg" alt="Earth today" width="48%" />
-<img src="https://cdn.star.nesdis.noaa.gov/GOES19/ABI/FD/GEOCOLOR/20262950520_GOES19-ABI-FD-GEOCOLOR-678x678.jpg" alt="Earth today" width="48%" />
-<img src="https://cdn.star.nesdis.noaa.gov/GOES19/ABI/FD/GEOCOLOR/20262951120_GOES19-ABI-FD-GEOCOLOR-678x678.jpg" alt="Earth today" width="48%" /></a>
+<a href="https://epic.gsfc.nasa.gov/"><img src="https://epic.gsfc.nasa.gov/archive/natural/2026/10/20/jpg/epic_1b_20261020003633.jpg" alt="Earth, 3 days ago" width="48%" />
+<img src="https://epic.gsfc.nasa.gov/archive/natural/2026/10/20/jpg/epic_1b_20261020074843.jpg" alt="Earth, 3 days ago" width="48%" />
+<img src="https://epic.gsfc.nasa.gov/archive/natural/2026/10/20/jpg/epic_1b_20261020150052.jpg" alt="Earth, 3 days ago" width="48%" />
+<img src="https://epic.gsfc.nasa.gov/archive/natural/2026/10/20/jpg/epic_1b_20261020221301.jpg" alt="Earth, 3 days ago" width="48%" /></a>
 <br/><br/>
-<b>Earth today</b>
+<b>Earth, 3 days ago</b>
 <br/>
-<sub>The Americas from NOAA&#x27;s GOES-19, 35,786 km up. 4 frames, six hours apart; the latest at 11:20 UTC. City lights show on the night side.</sub>
+<sub>Full-disc Earth from DSCOVR, 1.53 million km out. 4 frames from 2026-10-20; the latest is centred on 1°S 164°W.</sub>
 <br/><br/>
-<sub><i>NOAA GOES-19 GeoColor, 2026-10-22</i></sub>
+<sub><i>NASA EPIC aboard DSCOVR, 2026-10-20</i></sub>
 </td>
 <td width="50%" valign="top" align="center">
-<img src="https://images-assets.nasa.gov/image/MAF_20240408_NOLAeclipse04/MAF_20240408_NOLAeclipse04~medium.jpg" alt="Partial Solar Eclipse in New Orleans" width="100%" />
+<img src="https://images-assets.nasa.gov/image/jsc2018e078337/jsc2018e078337~medium.jpg" alt="CCP Astronauts Practice Spacewalking" width="100%" />
 <br/><br/>
-<b>Partial Solar Eclipse in New Orleans</b>
+<b>CCP Astronauts Practice Spacewalking</b>
 <br/>
-<sub>Civil Air Patrol cadets (L to R) Gabrielle Griffith, Ronald Ecklund, and Alongkorn Lafargue of the Alvin Callander Composite Squadron record weather...</sub>
+<sub>Commercial Crew Astronaut Mike Hopkins practices spacewalking in the Virtual Reality Lab at Johnson Space Center in Houston. The training provides...</sub>
 <br/><br/>
-<sub><i>NASA Image Library, &quot;solar eclipse&quot;</i></sub>
+<sub><i>NASA Image Library, &quot;spacewalk&quot;</i></sub>
 </td>
 </tr>
 </table>
 
 <table>
 <tr>
-<td width="40%" valign="middle"><a href="https://science.nasa.gov/image-article/apod-2026-october-22-the-first-green-star-wd-j13306435/"><img src="https://assets.science.nasa.gov/dynamicimage/assets/science/cds/apod/apod/2026/october/green_wd_mark-garlick_annotated2.jpg" alt="APOD: 2026 October 22 – The First Green Star, WD J1330+6435" width="100%" /></a></td>
-<td valign="middle">📰 <b>Today in spaceflight</b><br/><br/><b><a href="https://science.nasa.gov/image-article/apod-2026-october-22-the-first-green-star-wd-j13306435/">APOD: 2026 October 22 – The First Green Star, WD J1330+6435</a></b><br/><br/><sub>NASA, 2026-10-22</sub></td>
+<td width="40%" valign="middle"><a href="https://europeanspaceflight.com/esa-director-not-sure-themis-will-make-its-first-flight-in-2026/"><img src="https://europeanspaceflight.com/wp-content/uploads/2026/10/ESA-Director-22Not-Sure22-Themis-Will-Make-Its-First-Flight-in-2026.webp" alt="ESA Director “Not Sure” Themis Will Make Its First Flight in 2026" width="100%" /></a></td>
+<td valign="middle">📰 <b>Today in spaceflight</b><br/><br/><b><a href="https://europeanspaceflight.com/esa-director-not-sure-themis-will-make-its-first-flight-in-2026/">ESA Director “Not Sure” Themis Will Make Its First Flight in 2026</a></b><br/><br/><sub>European Spaceflight, 2026-10-23</sub></td>
 </tr>
 </table>
 <!-- SPACE:END -->
