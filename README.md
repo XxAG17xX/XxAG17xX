@@ -113,28 +113,28 @@
 <table>
 <tr>
 <td width="25%" valign="top" align="center">
-<a href="https://anilist.co/anime/1575"><img src="https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx1575-hsmWM2ydNm1m.jpg" alt="Code Geass: Lelouch of the Rebellion" width="180" height="260" /></a>
+<a href="https://anilist.co/anime/1"><img src="https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx1-GCsPm7waJ4kS.png" alt="Cowboy Bebop" width="180" height="260" /></a>
 <br/><sub><b>🎬 ANIME</b></sub>
-<br/><b><a href="https://anilist.co/anime/1575">Code Geass: Lelouch of the Rebellion</a></b>
-<br/><sub>⭐ 8.5 · 2006 · 25 eps · Action · Mecha</sub>
+<br/><b><a href="https://anilist.co/anime/1">Cowboy Bebop</a></b>
+<br/><sub>⭐ 8.6 · 1998 · 26 eps · Action · Adventure</sub>
 </td>
 <td width="25%" valign="top" align="center">
-<a href="https://anilist.co/manga/123126"><img src="https://s4.anilist.co/file/anilistcdn/media/manga/cover/large/bx123126-XqfQktzT3nWO.jpg" alt="Bungo Stray Dogs: Dazai, Chuuya, Age Fifteen" width="180" height="260" /></a>
-<br/><sub><b>📖 NOVEL</b></sub>
-<br/><b><a href="https://anilist.co/manga/123126">Bungo Stray Dogs: Dazai, Chuuya, Age...</a></b>
-<br/><sub>⭐ 8.2 · 2019 · 8 chs · Action · Mystery</sub>
+<a href="https://anilist.co/manga/150378"><img src="https://s4.anilist.co/file/anilistcdn/media/manga/cover/large/bx150378-cClKErwmvgsv.jpg" alt="Gokurakugai" width="180" height="260" /></a>
+<br/><sub><b>📖 MANGA</b></sub>
+<br/><b><a href="https://anilist.co/manga/150378">Gokurakugai</a></b>
+<br/><sub>⭐ 7.6 · 2022 · Action · Supernatural</sub>
 </td>
 <td width="25%" valign="top" align="center">
-<a href="https://openlibrary.org/works/OL16239762W"><img src="https://covers.openlibrary.org/b/id/8368314-L.jpg" alt="Gone Girl" width="180" height="260" /></a>
-<br/><sub><b>📚 THRILLER</b></sub>
-<br/><b><a href="https://openlibrary.org/works/OL16239762W">Gone Girl</a></b>
-<br/><sub>Gillian Flynn · 2011 · ⭐ 7.6</sub>
+<a href="https://openlibrary.org/works/OL19977665W"><img src="https://covers.openlibrary.org/b/id/14428233-L.jpg" alt="The Obstacle Is the Way" width="180" height="260" /></a>
+<br/><sub><b>📚 MINDSET</b></sub>
+<br/><b><a href="https://openlibrary.org/works/OL19977665W">The Obstacle Is the Way</a></b>
+<br/><sub>Ryan Holiday · 2013 · ⭐ 7.8</sub>
 </td>
 <td width="25%" valign="top" align="center">
-<a href="assets/daily/quote-2026-10-22.svg"><img src="assets/daily/quote-2026-10-22.svg" alt="“There&#x27;s always another secret.” — Kelsier, Mistborn" width="180" height="260" /></a>
+<a href="assets/daily/quote-2026-10-23.svg"><img src="assets/daily/quote-2026-10-23.svg" alt="“All we have to decide is what to do with the time that is given us.” — Gandalf, The Fellowship of the Ring" width="180" height="260" /></a>
 <br/><sub><b>💬 QUOTE</b></sub>
-<br/><b><a href="assets/daily/quote-2026-10-22.svg">Kelsier</a></b>
-<br/><sub>Mistborn</sub>
+<br/><b><a href="assets/daily/quote-2026-10-23.svg">Gandalf</a></b>
+<br/><sub>The Fellowship of the Ring</sub>
 </td>
 </tr>
 </table>
