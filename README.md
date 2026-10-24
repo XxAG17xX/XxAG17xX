@@ -113,28 +113,28 @@
 <table>
 <tr>
 <td width="25%" valign="top" align="center">
-<a href="https://anilist.co/anime/1"><img src="https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx1-GCsPm7waJ4kS.png" alt="Cowboy Bebop" width="180" height="260" /></a>
+<a href="https://anilist.co/anime/21170"><img src="https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx21170-kbcfTTZGSaFt.jpg" alt="Assassination Classroom Second Season" width="180" height="260" /></a>
 <br/><sub><b>🎬 ANIME</b></sub>
-<br/><b><a href="https://anilist.co/anime/1">Cowboy Bebop</a></b>
-<br/><sub>⭐ 8.6 · 1998 · 26 eps · Action · Adventure</sub>
+<br/><b><a href="https://anilist.co/anime/21170">Assassination Classroom Second Season</a></b>
+<br/><sub>⭐ 8.3 · 2016 · 25 eps · Action · Supernatural</sub>
 </td>
 <td width="25%" valign="top" align="center">
-<a href="https://anilist.co/manga/150378"><img src="https://s4.anilist.co/file/anilistcdn/media/manga/cover/large/bx150378-cClKErwmvgsv.jpg" alt="Gokurakugai" width="180" height="260" /></a>
-<br/><sub><b>📖 MANGA</b></sub>
-<br/><b><a href="https://anilist.co/manga/150378">Gokurakugai</a></b>
-<br/><sub>⭐ 7.6 · 2022 · Action · Supernatural</sub>
+<a href="https://anilist.co/manga/119257"><img src="https://s4.anilist.co/file/anilistcdn/media/manga/cover/large/bx119257-Pi21aq3ey9GG.jpg" alt="Omniscient Reader" width="180" height="260" /></a>
+<br/><sub><b>📖 MANHWA</b></sub>
+<br/><b><a href="https://anilist.co/manga/119257">Omniscient Reader</a></b>
+<br/><sub>⭐ 8.6 · 2020 · Action · Adventure</sub>
 </td>
 <td width="25%" valign="top" align="center">
-<a href="https://openlibrary.org/works/OL19977665W"><img src="https://covers.openlibrary.org/b/id/14428233-L.jpg" alt="The Obstacle Is the Way" width="180" height="260" /></a>
-<br/><sub><b>📚 MINDSET</b></sub>
-<br/><b><a href="https://openlibrary.org/works/OL19977665W">The Obstacle Is the Way</a></b>
-<br/><sub>Ryan Holiday · 2013 · ⭐ 7.8</sub>
+<a href="https://openlibrary.org/works/OL514629W"><img src="https://covers.openlibrary.org/b/id/9274698-L.jpg" alt="Surely You&#x27;re Joking, Mr. Feynman!" width="180" height="260" /></a>
+<br/><sub><b>📚 SCIENCE</b></sub>
+<br/><b><a href="https://openlibrary.org/works/OL514629W">Surely You&#x27;re Joking, Mr. Feynman!</a></b>
+<br/><sub>Richard P. Feynman · 1984 · ⭐ 8.4</sub>
 </td>
 <td width="25%" valign="top" align="center">
-<a href="assets/daily/quote-2026-10-23.svg"><img src="assets/daily/quote-2026-10-23.svg" alt="“All we have to decide is what to do with the time that is given us.” — Gandalf, The Fellowship of the Ring" width="180" height="260" /></a>
+<a href="assets/daily/quote-2026-10-24.svg"><img src="assets/daily/quote-2026-10-24.svg" alt="“Fear is not evil. It tells you what your weakness is.” — Gildarts Clive, Fairy Tail" width="180" height="260" /></a>
 <br/><sub><b>💬 QUOTE</b></sub>
-<br/><b><a href="assets/daily/quote-2026-10-23.svg">Gandalf</a></b>
-<br/><sub>The Fellowship of the Ring</sub>
+<br/><b><a href="assets/daily/quote-2026-10-24.svg">Gildarts Clive</a></b>
+<br/><sub>Fairy Tail</sub>
 </td>
 </tr>
 </table>
