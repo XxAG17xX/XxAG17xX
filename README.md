@@ -74,33 +74,33 @@
 <table>
 <tr>
 <td width="50%" valign="top" align="center">
-<a href="https://epic.gsfc.nasa.gov/"><img src="https://epic.gsfc.nasa.gov/archive/natural/2026/10/20/jpg/epic_1b_20261020003633.jpg" alt="Earth, 3 days ago" width="48%" />
-<img src="https://epic.gsfc.nasa.gov/archive/natural/2026/10/20/jpg/epic_1b_20261020074843.jpg" alt="Earth, 3 days ago" width="48%" />
-<img src="https://epic.gsfc.nasa.gov/archive/natural/2026/10/20/jpg/epic_1b_20261020150052.jpg" alt="Earth, 3 days ago" width="48%" />
-<img src="https://epic.gsfc.nasa.gov/archive/natural/2026/10/20/jpg/epic_1b_20261020221301.jpg" alt="Earth, 3 days ago" width="48%" /></a>
+<a href="https://epic.gsfc.nasa.gov/"><img src="https://epic.gsfc.nasa.gov/archive/natural/2026/10/21/jpg/epic_1b_20261021001751.jpg" alt="Earth, 3 days ago" width="48%" />
+<img src="https://epic.gsfc.nasa.gov/archive/natural/2026/10/21/jpg/epic_1b_20261021073001.jpg" alt="Earth, 3 days ago" width="48%" />
+<img src="https://epic.gsfc.nasa.gov/archive/natural/2026/10/21/jpg/epic_1b_20261021144210.jpg" alt="Earth, 3 days ago" width="48%" />
+<img src="https://epic.gsfc.nasa.gov/archive/natural/2026/10/21/jpg/epic_1b_20261021215419.jpg" alt="Earth, 3 days ago" width="48%" /></a>
 <br/><br/>
 <b>Earth, 3 days ago</b>
 <br/>
-<sub>Full-disc Earth from DSCOVR, 1.53 million km out. 4 frames from 2026-10-20; the latest is centred on 1°S 164°W.</sub>
+<sub>Full-disc Earth from DSCOVR, 1.53 million km out. 4 frames from 2026-10-21; the latest is centred on 1°S 160°W.</sub>
 <br/><br/>
-<sub><i>NASA EPIC aboard DSCOVR, 2026-10-20</i></sub>
+<sub><i>NASA EPIC aboard DSCOVR, 2026-10-21</i></sub>
 </td>
 <td width="50%" valign="top" align="center">
-<img src="https://images-assets.nasa.gov/image/jsc2018e078337/jsc2018e078337~medium.jpg" alt="CCP Astronauts Practice Spacewalking" width="100%" />
+<img src="https://images-assets.nasa.gov/image/NHQ202606040042/NHQ202606040042~large.jpg" alt="Beyond the Deep Field: Hubble’s Legacy and the Future of Cosmi" width="100%" />
 <br/><br/>
-<b>CCP Astronauts Practice Spacewalking</b>
+<b>Beyond the Deep Field: Hubble’s Legacy and the Future of Cosmi</b>
 <br/>
-<sub>Commercial Crew Astronaut Mike Hopkins practices spacewalking in the Virtual Reality Lab at Johnson Space Center in Houston. The training provides...</sub>
+<sub>Former NASA Senior Project Scientist Dave Leckrone speaks about the history of the Hubble Space Telescope during an event titled “Beyond the Deep...</sub>
 <br/><br/>
-<sub><i>NASA Image Library, &quot;spacewalk&quot;</i></sub>
+<sub><i>NASA Image Library, &quot;hubble deep field&quot;</i></sub>
 </td>
 </tr>
 </table>
 
 <table>
 <tr>
-<td width="40%" valign="middle"><a href="https://europeanspaceflight.com/esa-director-not-sure-themis-will-make-its-first-flight-in-2026/"><img src="https://europeanspaceflight.com/wp-content/uploads/2026/10/ESA-Director-22Not-Sure22-Themis-Will-Make-Its-First-Flight-in-2026.webp" alt="ESA Director “Not Sure” Themis Will Make Its First Flight in 2026" width="100%" /></a></td>
-<td valign="middle">📰 <b>Today in spaceflight</b><br/><br/><b><a href="https://europeanspaceflight.com/esa-director-not-sure-themis-will-make-its-first-flight-in-2026/">ESA Director “Not Sure” Themis Will Make Its First Flight in 2026</a></b><br/><br/><sub>European Spaceflight, 2026-10-23</sub></td>
+<td width="40%" valign="middle"><a href="https://science.nasa.gov/image-article/apod-2026-october-24-rosettas-selfie/"><img src="https://assets.science.nasa.gov/dynamicimage/assets/science/cds/apod/apod/2026/october/ESA_Rosetta_Philae_CIVA_141007.png" alt="APOD: 2026 October 24 – Rosetta’s Selfie" width="100%" /></a></td>
+<td valign="middle">📰 <b>Today in spaceflight</b><br/><br/><b><a href="https://science.nasa.gov/image-article/apod-2026-october-24-rosettas-selfie/">APOD: 2026 October 24 – Rosetta’s Selfie</a></b><br/><br/><sub>NASA, 2026-10-24</sub></td>
 </tr>
 </table>
 <!-- SPACE:END -->
