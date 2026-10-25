@@ -113,28 +113,28 @@
 <table>
 <tr>
 <td width="25%" valign="top" align="center">
-<a href="https://anilist.co/anime/21170"><img src="https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx21170-kbcfTTZGSaFt.jpg" alt="Assassination Classroom Second Season" width="180" height="260" /></a>
+<a href="https://anilist.co/anime/20755"><img src="https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx20755-dWrhs569YGUO.jpg" alt="Assassination Classroom" width="180" height="260" /></a>
 <br/><sub><b>🎬 ANIME</b></sub>
-<br/><b><a href="https://anilist.co/anime/21170">Assassination Classroom Second Season</a></b>
-<br/><sub>⭐ 8.3 · 2016 · 25 eps · Action · Supernatural</sub>
+<br/><b><a href="https://anilist.co/anime/20755">Assassination Classroom</a></b>
+<br/><sub>⭐ 7.9 · 2015 · 22 eps · Action · Supernatural</sub>
 </td>
 <td width="25%" valign="top" align="center">
-<a href="https://anilist.co/manga/119257"><img src="https://s4.anilist.co/file/anilistcdn/media/manga/cover/large/bx119257-Pi21aq3ey9GG.jpg" alt="Omniscient Reader" width="180" height="260" /></a>
-<br/><sub><b>📖 MANHWA</b></sub>
-<br/><b><a href="https://anilist.co/manga/119257">Omniscient Reader</a></b>
-<br/><sub>⭐ 8.6 · 2020 · Action · Adventure</sub>
+<a href="https://anilist.co/manga/119428"><img src="https://s4.anilist.co/file/anilistcdn/media/manga/cover/large/bx119428-7v9Efjazd2je.png" alt="Yi Huang Chongsheng" width="180" height="260" /></a>
+<br/><sub><b>📖 MANHUA</b></sub>
+<br/><b><a href="https://anilist.co/manga/119428">Yi Huang Chongsheng</a></b>
+<br/><sub>⭐ 6.8 · 2018 · 380 chs · Action · Adventure</sub>
 </td>
 <td width="25%" valign="top" align="center">
-<a href="https://openlibrary.org/works/OL514629W"><img src="https://covers.openlibrary.org/b/id/9274698-L.jpg" alt="Surely You&#x27;re Joking, Mr. Feynman!" width="180" height="260" /></a>
-<br/><sub><b>📚 SCIENCE</b></sub>
-<br/><b><a href="https://openlibrary.org/works/OL514629W">Surely You&#x27;re Joking, Mr. Feynman!</a></b>
-<br/><sub>Richard P. Feynman · 1984 · ⭐ 8.4</sub>
+<a href="https://openlibrary.org/works/OL28148070W"><img src="https://covers.openlibrary.org/b/id/13191259-L.jpg" alt="Outlive" width="180" height="260" /></a>
+<br/><sub><b>📚 MINDSET</b></sub>
+<br/><b><a href="https://openlibrary.org/works/OL28148070W">Outlive</a></b>
+<br/><sub>Peter Attia · 2023 · ⭐ 8.7</sub>
 </td>
 <td width="25%" valign="top" align="center">
-<a href="assets/daily/quote-2026-10-24.svg"><img src="assets/daily/quote-2026-10-24.svg" alt="“Fear is not evil. It tells you what your weakness is.” — Gildarts Clive, Fairy Tail" width="180" height="260" /></a>
+<a href="assets/daily/quote-2026-10-25.svg"><img src="assets/daily/quote-2026-10-25.svg" alt="“He who has a why to live can bear almost any how.” — Friedrich Nietzsche, Twilight of the Idols" width="180" height="260" /></a>
 <br/><sub><b>💬 QUOTE</b></sub>
-<br/><b><a href="assets/daily/quote-2026-10-24.svg">Gildarts Clive</a></b>
-<br/><sub>Fairy Tail</sub>
+<br/><b><a href="assets/daily/quote-2026-10-25.svg">Friedrich Nietzsche</a></b>
+<br/><sub>Twilight of the Idols</sub>
 </td>
 </tr>
 </table>
