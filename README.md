@@ -74,33 +74,33 @@
 <table>
 <tr>
 <td width="50%" valign="top" align="center">
-<a href="https://epic.gsfc.nasa.gov/"><img src="https://epic.gsfc.nasa.gov/archive/natural/2026/10/21/jpg/epic_1b_20261021001751.jpg" alt="Earth, 3 days ago" width="48%" />
-<img src="https://epic.gsfc.nasa.gov/archive/natural/2026/10/21/jpg/epic_1b_20261021073001.jpg" alt="Earth, 3 days ago" width="48%" />
-<img src="https://epic.gsfc.nasa.gov/archive/natural/2026/10/21/jpg/epic_1b_20261021144210.jpg" alt="Earth, 3 days ago" width="48%" />
-<img src="https://epic.gsfc.nasa.gov/archive/natural/2026/10/21/jpg/epic_1b_20261021215419.jpg" alt="Earth, 3 days ago" width="48%" /></a>
+<a href="https://epic.gsfc.nasa.gov/"><img src="https://epic.gsfc.nasa.gov/archive/natural/2026/10/22/jpg/epic_1b_20261022000830.jpg" alt="Earth, 3 days ago" width="48%" />
+<img src="https://epic.gsfc.nasa.gov/archive/natural/2026/10/22/jpg/epic_1b_20261022072040.jpg" alt="Earth, 3 days ago" width="48%" />
+<img src="https://epic.gsfc.nasa.gov/archive/natural/2026/10/22/jpg/epic_1b_20261022143249.jpg" alt="Earth, 3 days ago" width="48%" />
+<img src="https://epic.gsfc.nasa.gov/archive/natural/2026/10/22/jpg/epic_1b_20261022214459.jpg" alt="Earth, 3 days ago" width="48%" /></a>
 <br/><br/>
 <b>Earth, 3 days ago</b>
 <br/>
-<sub>Full-disc Earth from DSCOVR, 1.53 million km out. 4 frames from 2026-10-21; the latest is centred on 1°S 160°W.</sub>
+<sub>Full-disc Earth from DSCOVR, 1.52 million km out. 4 frames from 2026-10-22; the latest is centred on 2°S 157°W.</sub>
 <br/><br/>
-<sub><i>NASA EPIC aboard DSCOVR, 2026-10-21</i></sub>
+<sub><i>NASA EPIC aboard DSCOVR, 2026-10-22</i></sub>
 </td>
 <td width="50%" valign="top" align="center">
-<img src="https://images-assets.nasa.gov/image/NHQ202606040042/NHQ202606040042~large.jpg" alt="Beyond the Deep Field: Hubble’s Legacy and the Future of Cosmi" width="100%" />
+<img src="https://images-assets.nasa.gov/image/PIA03806/PIA03806~medium.jpg" alt="Mars Surface Layers in Infrared" width="100%" />
 <br/><br/>
-<b>Beyond the Deep Field: Hubble’s Legacy and the Future of Cosmi</b>
+<b>Mars Surface Layers in Infrared</b>
 <br/>
-<sub>Former NASA Senior Project Scientist Dave Leckrone speaks about the history of the Hubble Space Telescope during an event titled “Beyond the Deep...</sub>
+<sub>Infrared imaging from NASA Mars Odyssey spacecraft shows signs of layering exposed at the surface in a region of Mars called Terra Meridiani.</sub>
 <br/><br/>
-<sub><i>NASA Image Library, &quot;hubble deep field&quot;</i></sub>
+<sub><i>NASA Image Library, &quot;mars surface&quot;</i></sub>
 </td>
 </tr>
 </table>
 
 <table>
 <tr>
-<td width="40%" valign="middle"><a href="https://science.nasa.gov/image-article/apod-2026-october-24-rosettas-selfie/"><img src="https://assets.science.nasa.gov/dynamicimage/assets/science/cds/apod/apod/2026/october/ESA_Rosetta_Philae_CIVA_141007.png" alt="APOD: 2026 October 24 – Rosetta’s Selfie" width="100%" /></a></td>
-<td valign="middle">📰 <b>Today in spaceflight</b><br/><br/><b><a href="https://science.nasa.gov/image-article/apod-2026-october-24-rosettas-selfie/">APOD: 2026 October 24 – Rosetta’s Selfie</a></b><br/><br/><sub>NASA, 2026-10-24</sub></td>
+<td width="40%" valign="middle"><a href="https://science.nasa.gov/image-article/apod-2026-october-25-dark-matter-in-a-simulated-universe/"><img src="https://assets.science.nasa.gov/content/dam/science/cds/apod/apod/2021/october/DarkMatter_KipacAmnh_1200.jpg" alt="APOD: 2026 October 25 – Dark Matter in a Simulated Universe" width="100%" /></a></td>
+<td valign="middle">📰 <b>Today in spaceflight</b><br/><br/><b><a href="https://science.nasa.gov/image-article/apod-2026-october-25-dark-matter-in-a-simulated-universe/">APOD: 2026 October 25 – Dark Matter in a Simulated Universe</a></b><br/><br/><sub>NASA, 2026-10-25</sub></td>
 </tr>
 </table>
 <!-- SPACE:END -->
