@@ -119,22 +119,22 @@
 <br/><sub>⭐ 7.9 · 2015 · 22 eps · Action · Supernatural</sub>
 </td>
 <td width="25%" valign="top" align="center">
-<a href="https://anilist.co/manga/119428"><img src="https://s4.anilist.co/file/anilistcdn/media/manga/cover/large/bx119428-7v9Efjazd2je.png" alt="Yi Huang Chongsheng" width="180" height="260" /></a>
-<br/><sub><b>📖 MANHUA</b></sub>
-<br/><b><a href="https://anilist.co/manga/119428">Yi Huang Chongsheng</a></b>
-<br/><sub>⭐ 6.8 · 2018 · 380 chs · Action · Adventure</sub>
+<a href="https://anilist.co/manga/100355"><img src="https://s4.anilist.co/file/anilistcdn/media/manga/cover/large/bx100355-lHbqR36Ux6sU.png" alt="Shinobumonogatari" width="180" height="260" /></a>
+<br/><sub><b>📖 NOVEL</b></sub>
+<br/><b><a href="https://anilist.co/manga/100355">Shinobumonogatari</a></b>
+<br/><sub>⭐ 8.2 · 2017 · 50 chs · Mystery · Psychological</sub>
 </td>
 <td width="25%" valign="top" align="center">
-<a href="https://openlibrary.org/works/OL28148070W"><img src="https://covers.openlibrary.org/b/id/13191259-L.jpg" alt="Outlive" width="180" height="260" /></a>
-<br/><sub><b>📚 MINDSET</b></sub>
-<br/><b><a href="https://openlibrary.org/works/OL28148070W">Outlive</a></b>
-<br/><sub>Peter Attia · 2023 · ⭐ 8.7</sub>
+<a href="https://openlibrary.org/works/OL40873W"><img src="https://covers.openlibrary.org/b/id/198120-L.jpg" alt="The Road" width="180" height="260" /></a>
+<br/><sub><b>📚 CLASSIC</b></sub>
+<br/><b><a href="https://openlibrary.org/works/OL40873W">The Road</a></b>
+<br/><sub>Cormac McCarthy · 2006 · ⭐ 7.8</sub>
 </td>
 <td width="25%" valign="top" align="center">
-<a href="assets/daily/quote-2026-10-25.svg"><img src="assets/daily/quote-2026-10-25.svg" alt="“He who has a why to live can bear almost any how.” — Friedrich Nietzsche, Twilight of the Idols" width="180" height="260" /></a>
+<a href="assets/daily/quote-2026-10-26.svg"><img src="assets/daily/quote-2026-10-26.svg" alt="“The only ones who should kill are those who are prepared to be killed.” — Lelouch vi Britannia, Code Geass" width="180" height="260" /></a>
 <br/><sub><b>💬 QUOTE</b></sub>
-<br/><b><a href="assets/daily/quote-2026-10-25.svg">Friedrich Nietzsche</a></b>
-<br/><sub>Twilight of the Idols</sub>
+<br/><b><a href="assets/daily/quote-2026-10-26.svg">Lelouch vi Britannia</a></b>
+<br/><sub>Code Geass</sub>
 </td>
 </tr>
 </table>
