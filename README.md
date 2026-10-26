@@ -74,33 +74,33 @@
 <table>
 <tr>
 <td width="50%" valign="top" align="center">
-<a href="https://epic.gsfc.nasa.gov/"><img src="https://epic.gsfc.nasa.gov/archive/natural/2026/10/22/jpg/epic_1b_20261022000830.jpg" alt="Earth, 3 days ago" width="48%" />
-<img src="https://epic.gsfc.nasa.gov/archive/natural/2026/10/22/jpg/epic_1b_20261022072040.jpg" alt="Earth, 3 days ago" width="48%" />
-<img src="https://epic.gsfc.nasa.gov/archive/natural/2026/10/22/jpg/epic_1b_20261022143249.jpg" alt="Earth, 3 days ago" width="48%" />
-<img src="https://epic.gsfc.nasa.gov/archive/natural/2026/10/22/jpg/epic_1b_20261022214459.jpg" alt="Earth, 3 days ago" width="48%" /></a>
+<a href="https://epic.gsfc.nasa.gov/"><img src="https://epic.gsfc.nasa.gov/archive/natural/2026/10/23/jpg/epic_1b_20261023002712.jpg" alt="Earth, 3 days ago" width="48%" />
+<img src="https://epic.gsfc.nasa.gov/archive/natural/2026/10/23/jpg/epic_1b_20261023073922.jpg" alt="Earth, 3 days ago" width="48%" />
+<img src="https://epic.gsfc.nasa.gov/archive/natural/2026/10/23/jpg/epic_1b_20261023145132.jpg" alt="Earth, 3 days ago" width="48%" />
+<img src="https://epic.gsfc.nasa.gov/archive/natural/2026/10/23/jpg/epic_1b_20261023220341.jpg" alt="Earth, 3 days ago" width="48%" /></a>
 <br/><br/>
 <b>Earth, 3 days ago</b>
 <br/>
-<sub>Full-disc Earth from DSCOVR, 1.52 million km out. 4 frames from 2026-10-22; the latest is centred on 2°S 157°W.</sub>
+<sub>Full-disc Earth from DSCOVR, 1.52 million km out. 4 frames from 2026-10-23; the latest is centred on 2°S 162°W.</sub>
 <br/><br/>
-<sub><i>NASA EPIC aboard DSCOVR, 2026-10-22</i></sub>
+<sub><i>NASA EPIC aboard DSCOVR, 2026-10-23</i></sub>
 </td>
 <td width="50%" valign="top" align="center">
-<img src="https://images-assets.nasa.gov/image/PIA03806/PIA03806~medium.jpg" alt="Mars Surface Layers in Infrared" width="100%" />
+<img src="https://images-assets.nasa.gov/image/ARC-1983-AC83-0565-2/ARC-1983-AC83-0565-2~medium.jpg" alt="ARC-1983-AC83-0565-2" width="100%" />
 <br/><br/>
-<b>Mars Surface Layers in Infrared</b>
+<b>ARC-1983-AC83-0565-2</b>
 <br/>
-<sub>Infrared imaging from NASA Mars Odyssey spacecraft shows signs of layering exposed at the surface in a region of Mars called Terra Meridiani.</sub>
+<sub>Andromeda galaxy from Palomar Observatory</sub>
 <br/><br/>
-<sub><i>NASA Image Library, &quot;mars surface&quot;</i></sub>
+<sub><i>NASA Image Library, &quot;andromeda&quot;</i></sub>
 </td>
 </tr>
 </table>
 
 <table>
 <tr>
-<td width="40%" valign="middle"><a href="https://science.nasa.gov/image-article/apod-2026-october-25-dark-matter-in-a-simulated-universe/"><img src="https://assets.science.nasa.gov/content/dam/science/cds/apod/apod/2021/october/DarkMatter_KipacAmnh_1200.jpg" alt="APOD: 2026 October 25 – Dark Matter in a Simulated Universe" width="100%" /></a></td>
-<td valign="middle">📰 <b>Today in spaceflight</b><br/><br/><b><a href="https://science.nasa.gov/image-article/apod-2026-october-25-dark-matter-in-a-simulated-universe/">APOD: 2026 October 25 – Dark Matter in a Simulated Universe</a></b><br/><br/><sub>NASA, 2026-10-25</sub></td>
+<td width="40%" valign="middle"><a href="https://spacenews.com/astranis-upgrades-falcon-9-launch-contract-to-dedicated-mission-for-entire-block-4-production-run-of-satellites/"><img src="https://i0.wp.com/spacenews.com/wp-content/uploads/2026/10/astranis-square.png?fit=1024%2C1014&ssl=1" alt="Astranis Upgrades Falcon 9 Launch Contract to Dedicated Mission for Entire Block 4 Production Run of Satellites" width="100%" /></a></td>
+<td valign="middle">📰 <b>Today in spaceflight</b><br/><br/><b><a href="https://spacenews.com/astranis-upgrades-falcon-9-launch-contract-to-dedicated-mission-for-entire-block-4-production-run-of-satellites/">Astranis Upgrades Falcon 9 Launch Contract to Dedicated Mission for Entire Block 4 Production Run of Satellites</a></b><br/><br/><sub>SpaceNews, 2026-10-26</sub></td>
 </tr>
 </table>
 <!-- SPACE:END -->
