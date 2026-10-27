@@ -74,33 +74,33 @@
 <table>
 <tr>
 <td width="50%" valign="top" align="center">
-<a href="https://epic.gsfc.nasa.gov/"><img src="https://epic.gsfc.nasa.gov/archive/natural/2026/10/23/jpg/epic_1b_20261023002712.jpg" alt="Earth, 3 days ago" width="48%" />
-<img src="https://epic.gsfc.nasa.gov/archive/natural/2026/10/23/jpg/epic_1b_20261023073922.jpg" alt="Earth, 3 days ago" width="48%" />
-<img src="https://epic.gsfc.nasa.gov/archive/natural/2026/10/23/jpg/epic_1b_20261023145132.jpg" alt="Earth, 3 days ago" width="48%" />
-<img src="https://epic.gsfc.nasa.gov/archive/natural/2026/10/23/jpg/epic_1b_20261023220341.jpg" alt="Earth, 3 days ago" width="48%" /></a>
+<a href="https://epic.gsfc.nasa.gov/"><img src="https://epic.gsfc.nasa.gov/archive/natural/2026/10/25/jpg/epic_1b_20261025010436.jpg" alt="Earth, 2 days ago" width="48%" />
+<img src="https://epic.gsfc.nasa.gov/archive/natural/2026/10/25/jpg/epic_1b_20261025081645.jpg" alt="Earth, 2 days ago" width="48%" />
+<img src="https://epic.gsfc.nasa.gov/archive/natural/2026/10/25/jpg/epic_1b_20261025152855.jpg" alt="Earth, 2 days ago" width="48%" />
+<img src="https://epic.gsfc.nasa.gov/archive/natural/2026/10/25/jpg/epic_1b_20261025205302.jpg" alt="Earth, 2 days ago" width="48%" /></a>
 <br/><br/>
-<b>Earth, 3 days ago</b>
+<b>Earth, 2 days ago</b>
 <br/>
-<sub>Full-disc Earth from DSCOVR, 1.52 million km out. 4 frames from 2026-10-23; the latest is centred on 2°S 162°W.</sub>
+<sub>Full-disc Earth from DSCOVR, 1.51 million km out. 4 frames from 2026-10-25; the latest is centred on 3°S 145°W.</sub>
 <br/><br/>
-<sub><i>NASA EPIC aboard DSCOVR, 2026-10-23</i></sub>
+<sub><i>NASA EPIC aboard DSCOVR, 2026-10-25</i></sub>
 </td>
 <td width="50%" valign="top" align="center">
-<img src="https://images-assets.nasa.gov/image/ARC-1983-AC83-0565-2/ARC-1983-AC83-0565-2~medium.jpg" alt="ARC-1983-AC83-0565-2" width="100%" />
+<img src="https://images-assets.nasa.gov/image/hubble-sees-the-wings-of-a-butterfly-the-twin-jet-nebula_20283986193_o/hubble-sees-the-wings-of-a-butterfly-the-twin-jet-nebula_20283986193_o~small.jpg" alt="The Twin Jet Nebula" width="100%" />
 <br/><br/>
-<b>ARC-1983-AC83-0565-2</b>
+<b>The Twin Jet Nebula</b>
 <br/>
-<sub>Andromeda galaxy from Palomar Observatory</sub>
+<sub>The Twin Jet Nebula, or PN M2-9, is a striking example of a bipolar planetary nebula. Bipolar planetary nebulae are formed when the central object is...</sub>
 <br/><br/>
-<sub><i>NASA Image Library, &quot;andromeda&quot;</i></sub>
+<sub><i>NASA Image Library, &quot;nebula&quot;</i></sub>
 </td>
 </tr>
 </table>
 
 <table>
 <tr>
-<td width="40%" valign="middle"><a href="https://spacenews.com/astranis-upgrades-falcon-9-launch-contract-to-dedicated-mission-for-entire-block-4-production-run-of-satellites/"><img src="https://i0.wp.com/spacenews.com/wp-content/uploads/2026/10/astranis-square.png?fit=1024%2C1014&ssl=1" alt="Astranis Upgrades Falcon 9 Launch Contract to Dedicated Mission for Entire Block 4 Production Run of Satellites" width="100%" /></a></td>
-<td valign="middle">📰 <b>Today in spaceflight</b><br/><br/><b><a href="https://spacenews.com/astranis-upgrades-falcon-9-launch-contract-to-dedicated-mission-for-entire-block-4-production-run-of-satellites/">Astranis Upgrades Falcon 9 Launch Contract to Dedicated Mission for Entire Block 4 Production Run of Satellites</a></b><br/><br/><sub>SpaceNews, 2026-10-26</sub></td>
+<td width="40%" valign="middle"><a href="https://www.spacescout.info/2026/10/starliner-to-return-to-flight-by-january-fly-crew-in-2028/"><img src="https://i0.wp.com/www.spacescout.info/wp-content/uploads/2026/10/image-14.png" alt="Starliner to Return to Flight by January, Fly Crew in 2028" width="100%" /></a></td>
+<td valign="middle">📰 <b>Today in spaceflight</b><br/><br/><b><a href="https://www.spacescout.info/2026/10/starliner-to-return-to-flight-by-january-fly-crew-in-2028/">Starliner to Return to Flight by January, Fly Crew in 2028</a></b><br/><br/><sub>Space Scout, 2026-10-27</sub></td>
 </tr>
 </table>
 <!-- SPACE:END -->
