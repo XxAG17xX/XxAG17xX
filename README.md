@@ -113,28 +113,28 @@
 <table>
 <tr>
 <td width="25%" valign="top" align="center">
-<a href="https://anilist.co/anime/20755"><img src="https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx20755-dWrhs569YGUO.jpg" alt="Assassination Classroom" width="180" height="260" /></a>
+<a href="https://anilist.co/anime/9919"><img src="https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx9919-nXS7JOZrWHfS.jpg" alt="Blue Exorcist" width="180" height="260" /></a>
 <br/><sub><b>🎬 ANIME</b></sub>
-<br/><b><a href="https://anilist.co/anime/20755">Assassination Classroom</a></b>
-<br/><sub>⭐ 7.9 · 2015 · 22 eps · Action · Supernatural</sub>
+<br/><b><a href="https://anilist.co/anime/9919">Blue Exorcist</a></b>
+<br/><sub>⭐ 7.2 · 2011 · 25 eps · Action · Supernatural</sub>
 </td>
 <td width="25%" valign="top" align="center">
-<a href="https://anilist.co/manga/100355"><img src="https://s4.anilist.co/file/anilistcdn/media/manga/cover/large/bx100355-lHbqR36Ux6sU.png" alt="Shinobumonogatari" width="180" height="260" /></a>
-<br/><sub><b>📖 NOVEL</b></sub>
-<br/><b><a href="https://anilist.co/manga/100355">Shinobumonogatari</a></b>
-<br/><sub>⭐ 8.2 · 2017 · 50 chs · Mystery · Psychological</sub>
+<a href="https://anilist.co/manga/144946"><img src="https://s4.anilist.co/file/anilistcdn/media/manga/cover/large/bx144946-cscic3n2SwdY.jpg" alt="Gachiakuta" width="180" height="260" /></a>
+<br/><sub><b>📖 MANGA</b></sub>
+<br/><b><a href="https://anilist.co/manga/144946">Gachiakuta</a></b>
+<br/><sub>⭐ 8.1 · 2022 · Action</sub>
 </td>
 <td width="25%" valign="top" align="center">
-<a href="https://openlibrary.org/works/OL40873W"><img src="https://covers.openlibrary.org/b/id/198120-L.jpg" alt="The Road" width="180" height="260" /></a>
+<a href="https://openlibrary.org/works/OL450063W"><img src="https://covers.openlibrary.org/b/id/12356249-L.jpg" alt="Frankenstein" width="180" height="260" /></a>
 <br/><sub><b>📚 CLASSIC</b></sub>
-<br/><b><a href="https://openlibrary.org/works/OL40873W">The Road</a></b>
-<br/><sub>Cormac McCarthy · 2006 · ⭐ 7.8</sub>
+<br/><b><a href="https://openlibrary.org/works/OL450063W">Frankenstein</a></b>
+<br/><sub>Mary Shelley · 1818 · ⭐ 7.9</sub>
 </td>
 <td width="25%" valign="top" align="center">
-<a href="assets/daily/quote-2026-10-26.svg"><img src="assets/daily/quote-2026-10-26.svg" alt="“The only ones who should kill are those who are prepared to be killed.” — Lelouch vi Britannia, Code Geass" width="180" height="260" /></a>
+<a href="assets/daily/quote-2026-10-27.svg"><img src="assets/daily/quote-2026-10-27.svg" alt="“You should enjoy the little detours to the fullest. Because that&#x27;s where you&#x27;ll find the things more important than what you want.” — Ging Freecss, Hunter x Hunter" width="180" height="260" /></a>
 <br/><sub><b>💬 QUOTE</b></sub>
-<br/><b><a href="assets/daily/quote-2026-10-26.svg">Lelouch vi Britannia</a></b>
-<br/><sub>Code Geass</sub>
+<br/><b><a href="assets/daily/quote-2026-10-27.svg">Ging Freecss</a></b>
+<br/><sub>Hunter x Hunter</sub>
 </td>
 </tr>
 </table>
