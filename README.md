@@ -74,33 +74,33 @@
 <table>
 <tr>
 <td width="50%" valign="top" align="center">
-<a href="https://epic.gsfc.nasa.gov/"><img src="https://epic.gsfc.nasa.gov/archive/natural/2026/10/25/jpg/epic_1b_20261025010436.jpg" alt="Earth, 2 days ago" width="48%" />
-<img src="https://epic.gsfc.nasa.gov/archive/natural/2026/10/25/jpg/epic_1b_20261025081645.jpg" alt="Earth, 2 days ago" width="48%" />
-<img src="https://epic.gsfc.nasa.gov/archive/natural/2026/10/25/jpg/epic_1b_20261025152855.jpg" alt="Earth, 2 days ago" width="48%" />
-<img src="https://epic.gsfc.nasa.gov/archive/natural/2026/10/25/jpg/epic_1b_20261025205302.jpg" alt="Earth, 2 days ago" width="48%" /></a>
+<a href="https://epic.gsfc.nasa.gov/"><img src="https://epic.gsfc.nasa.gov/archive/natural/2026/10/26/jpg/epic_1b_20261026005516.jpg" alt="Earth, 2 days ago" width="48%" />
+<img src="https://epic.gsfc.nasa.gov/archive/natural/2026/10/26/jpg/epic_1b_20261026080724.jpg" alt="Earth, 2 days ago" width="48%" />
+<img src="https://epic.gsfc.nasa.gov/archive/natural/2026/10/26/jpg/epic_1b_20261026151935.jpg" alt="Earth, 2 days ago" width="48%" />
+<img src="https://epic.gsfc.nasa.gov/archive/natural/2026/10/26/jpg/epic_1b_20261026223145.jpg" alt="Earth, 2 days ago" width="48%" /></a>
 <br/><br/>
 <b>Earth, 2 days ago</b>
 <br/>
-<sub>Full-disc Earth from DSCOVR, 1.51 million km out. 4 frames from 2026-10-25; the latest is centred on 3°S 145°W.</sub>
+<sub>Full-disc Earth from DSCOVR, 1.51 million km out. 4 frames from 2026-10-26; the latest is centred on 3°S 170°W.</sub>
 <br/><br/>
-<sub><i>NASA EPIC aboard DSCOVR, 2026-10-25</i></sub>
+<sub><i>NASA EPIC aboard DSCOVR, 2026-10-26</i></sub>
 </td>
 <td width="50%" valign="top" align="center">
-<img src="https://images-assets.nasa.gov/image/hubble-sees-the-wings-of-a-butterfly-the-twin-jet-nebula_20283986193_o/hubble-sees-the-wings-of-a-butterfly-the-twin-jet-nebula_20283986193_o~small.jpg" alt="The Twin Jet Nebula" width="100%" />
+<img src="https://images-assets.nasa.gov/image/PIA08646/PIA08646~small.jpg" alt="Triple Scoop from Galaxy Hunter" width="100%" />
 <br/><br/>
-<b>The Twin Jet Nebula</b>
+<b>Triple Scoop from Galaxy Hunter</b>
 <br/>
-<sub>The Twin Jet Nebula, or PN M2-9, is a striking example of a bipolar planetary nebula. Bipolar planetary nebulae are formed when the central object is...</sub>
+<sub>Located 10 million light-years away in the southern constellation Sculptor, the Silver Dollar galaxy, or NGC 253, is one of the brightest spiral...</sub>
 <br/><br/>
-<sub><i>NASA Image Library, &quot;nebula&quot;</i></sub>
+<sub><i>NASA Image Library, &quot;galaxy&quot;</i></sub>
 </td>
 </tr>
 </table>
 
 <table>
 <tr>
-<td width="40%" valign="middle"><a href="https://www.spacescout.info/2026/10/starliner-to-return-to-flight-by-january-fly-crew-in-2028/"><img src="https://i0.wp.com/www.spacescout.info/wp-content/uploads/2026/10/image-14.png" alt="Starliner to Return to Flight by January, Fly Crew in 2028" width="100%" /></a></td>
-<td valign="middle">📰 <b>Today in spaceflight</b><br/><br/><b><a href="https://www.spacescout.info/2026/10/starliner-to-return-to-flight-by-january-fly-crew-in-2028/">Starliner to Return to Flight by January, Fly Crew in 2028</a></b><br/><br/><sub>Space Scout, 2026-10-27</sub></td>
+<td width="40%" valign="middle"><a href="https://science.nasa.gov/blog/curiosity-blog-sols-5043-5049-preparing-to-drill-at-nazca/"><img src="https://assets.science.nasa.gov/dynamicimage/assets/science/missions/msl/2026/curiosity-rover-updates/october/https___mars.nasa.gov_msl-raw-images_msss_05048_mhli_5048MH0009170001804540R00_DXXX.jpg" alt="Curiosity Blog, Sols 5043-5049: Preparing to Drill at ‘Nazca’" width="100%" /></a></td>
+<td valign="middle">📰 <b>Today in spaceflight</b><br/><br/><b><a href="https://science.nasa.gov/blog/curiosity-blog-sols-5043-5049-preparing-to-drill-at-nazca/">Curiosity Blog, Sols 5043-5049: Preparing to Drill at ‘Nazca’</a></b><br/><br/><sub>NASA, 2026-10-28</sub></td>
 </tr>
 </table>
 <!-- SPACE:END -->
