@@ -113,28 +113,28 @@
 <table>
 <tr>
 <td width="25%" valign="top" align="center">
-<a href="https://anilist.co/anime/9919"><img src="https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx9919-nXS7JOZrWHfS.jpg" alt="Blue Exorcist" width="180" height="260" /></a>
+<a href="https://anilist.co/anime/99147"><img src="https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx99147-AiPDD8cwlCfi.jpg" alt="Attack on Titan Season 3" width="180" height="260" /></a>
 <br/><sub><b>🎬 ANIME</b></sub>
-<br/><b><a href="https://anilist.co/anime/9919">Blue Exorcist</a></b>
-<br/><sub>⭐ 7.2 · 2011 · 25 eps · Action · Supernatural</sub>
+<br/><b><a href="https://anilist.co/anime/99147">Attack on Titan Season 3</a></b>
+<br/><sub>⭐ 8.6 · 2018 · 12 eps · Action · Mystery</sub>
 </td>
 <td width="25%" valign="top" align="center">
-<a href="https://anilist.co/manga/144946"><img src="https://s4.anilist.co/file/anilistcdn/media/manga/cover/large/bx144946-cscic3n2SwdY.jpg" alt="Gachiakuta" width="180" height="260" /></a>
-<br/><sub><b>📖 MANGA</b></sub>
-<br/><b><a href="https://anilist.co/manga/144946">Gachiakuta</a></b>
-<br/><sub>⭐ 8.1 · 2022 · Action</sub>
+<a href="https://anilist.co/manga/143056"><img src="https://s4.anilist.co/file/anilistcdn/media/manga/cover/large/bx143056-MEpVxW7346jz.jpg" alt="The Return of the Disaster-Class Hero" width="180" height="260" /></a>
+<br/><sub><b>📖 MANHWA</b></sub>
+<br/><b><a href="https://anilist.co/manga/143056">The Return of the Disaster-Class Hero</a></b>
+<br/><sub>⭐ 7.5 · 2021 · Action</sub>
 </td>
 <td width="25%" valign="top" align="center">
-<a href="https://openlibrary.org/works/OL450063W"><img src="https://covers.openlibrary.org/b/id/12356249-L.jpg" alt="Frankenstein" width="180" height="260" /></a>
-<br/><sub><b>📚 CLASSIC</b></sub>
-<br/><b><a href="https://openlibrary.org/works/OL450063W">Frankenstein</a></b>
-<br/><sub>Mary Shelley · 1818 · ⭐ 7.9</sub>
+<a href="https://openlibrary.org/works/OL515754W"><img src="https://covers.openlibrary.org/b/id/12947700-L.jpg" alt="Flowers for Algernon" width="180" height="260" /></a>
+<br/><sub><b>📚 SCI-FI</b></sub>
+<br/><b><a href="https://openlibrary.org/works/OL515754W">Flowers for Algernon</a></b>
+<br/><sub>Daniel Keyes · 1966 · ⭐ 8.6</sub>
 </td>
 <td width="25%" valign="top" align="center">
-<a href="assets/daily/quote-2026-10-27.svg"><img src="assets/daily/quote-2026-10-27.svg" alt="“You should enjoy the little detours to the fullest. Because that&#x27;s where you&#x27;ll find the things more important than what you want.” — Ging Freecss, Hunter x Hunter" width="180" height="260" /></a>
+<a href="assets/daily/quote-2026-10-28.svg"><img src="assets/daily/quote-2026-10-28.svg" alt="“Do nothing that is of no use.” — Miyamoto Musashi, The Book of Five Rings" width="180" height="260" /></a>
 <br/><sub><b>💬 QUOTE</b></sub>
-<br/><b><a href="assets/daily/quote-2026-10-27.svg">Ging Freecss</a></b>
-<br/><sub>Hunter x Hunter</sub>
+<br/><b><a href="assets/daily/quote-2026-10-28.svg">Miyamoto Musashi</a></b>
+<br/><sub>The Book of Five Rings</sub>
 </td>
 </tr>
 </table>
