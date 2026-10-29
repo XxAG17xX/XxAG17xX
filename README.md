@@ -113,28 +113,28 @@
 <table>
 <tr>
 <td width="25%" valign="top" align="center">
-<a href="https://anilist.co/anime/99147"><img src="https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx99147-AiPDD8cwlCfi.jpg" alt="Attack on Titan Season 3" width="180" height="260" /></a>
+<a href="https://anilist.co/anime/105333"><img src="https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx105333-GybuoSoOZfpH.jpg" alt="Dr. STONE" width="180" height="260" /></a>
 <br/><sub><b>🎬 ANIME</b></sub>
-<br/><b><a href="https://anilist.co/anime/99147">Attack on Titan Season 3</a></b>
-<br/><sub>⭐ 8.6 · 2018 · 12 eps · Action · Mystery</sub>
+<br/><b><a href="https://anilist.co/anime/105333">Dr. STONE</a></b>
+<br/><sub>⭐ 8.1 · 2019 · 24 eps · Action · Adventure</sub>
 </td>
 <td width="25%" valign="top" align="center">
-<a href="https://anilist.co/manga/143056"><img src="https://s4.anilist.co/file/anilistcdn/media/manga/cover/large/bx143056-MEpVxW7346jz.jpg" alt="The Return of the Disaster-Class Hero" width="180" height="260" /></a>
-<br/><sub><b>📖 MANHWA</b></sub>
-<br/><b><a href="https://anilist.co/manga/143056">The Return of the Disaster-Class Hero</a></b>
-<br/><sub>⭐ 7.5 · 2021 · Action</sub>
+<a href="https://anilist.co/manga/113164"><img src="https://s4.anilist.co/file/anilistcdn/media/manga/cover/large/bx113164-vMqQwe414lAK.png" alt="Martial Arts Reigns" width="180" height="260" /></a>
+<br/><sub><b>📖 MANHUA</b></sub>
+<br/><b><a href="https://anilist.co/manga/113164">Martial Arts Reigns</a></b>
+<br/><sub>⭐ 6.9 · 2019 · 631 chs · Action · Adventure</sub>
 </td>
 <td width="25%" valign="top" align="center">
-<a href="https://openlibrary.org/works/OL515754W"><img src="https://covers.openlibrary.org/b/id/12947700-L.jpg" alt="Flowers for Algernon" width="180" height="260" /></a>
+<a href="https://openlibrary.org/works/OL2172356W"><img src="https://covers.openlibrary.org/b/id/207515-L.jpg" alt="Do Androids Dream of Electric Sheep?" width="180" height="260" /></a>
 <br/><sub><b>📚 SCI-FI</b></sub>
-<br/><b><a href="https://openlibrary.org/works/OL515754W">Flowers for Algernon</a></b>
-<br/><sub>Daniel Keyes · 1966 · ⭐ 8.6</sub>
+<br/><b><a href="https://openlibrary.org/works/OL2172356W">Do Androids Dream of Electric Sheep?</a></b>
+<br/><sub>Philip K. Dick · 1968 · ⭐ 8.1</sub>
 </td>
 <td width="25%" valign="top" align="center">
-<a href="assets/daily/quote-2026-10-28.svg"><img src="assets/daily/quote-2026-10-28.svg" alt="“Do nothing that is of no use.” — Miyamoto Musashi, The Book of Five Rings" width="180" height="260" /></a>
+<a href="assets/daily/quote-2026-10-29.svg"><img src="assets/daily/quote-2026-10-29.svg" alt="“The first principle is that you must not fool yourself, and you are the easiest person to fool.” — Richard Feynman, Cargo Cult Science" width="180" height="260" /></a>
 <br/><sub><b>💬 QUOTE</b></sub>
-<br/><b><a href="assets/daily/quote-2026-10-28.svg">Miyamoto Musashi</a></b>
-<br/><sub>The Book of Five Rings</sub>
+<br/><b><a href="assets/daily/quote-2026-10-29.svg">Richard Feynman</a></b>
+<br/><sub>Cargo Cult Science</sub>
 </td>
 </tr>
 </table>
