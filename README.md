@@ -74,33 +74,33 @@
 <table>
 <tr>
 <td width="50%" valign="top" align="center">
-<a href="https://epic.gsfc.nasa.gov/"><img src="https://epic.gsfc.nasa.gov/archive/natural/2026/10/26/jpg/epic_1b_20261026005516.jpg" alt="Earth, 2 days ago" width="48%" />
-<img src="https://epic.gsfc.nasa.gov/archive/natural/2026/10/26/jpg/epic_1b_20261026080724.jpg" alt="Earth, 2 days ago" width="48%" />
-<img src="https://epic.gsfc.nasa.gov/archive/natural/2026/10/26/jpg/epic_1b_20261026151935.jpg" alt="Earth, 2 days ago" width="48%" />
-<img src="https://epic.gsfc.nasa.gov/archive/natural/2026/10/26/jpg/epic_1b_20261026223145.jpg" alt="Earth, 2 days ago" width="48%" /></a>
+<a href="https://epic.gsfc.nasa.gov/"><img src="https://epic.gsfc.nasa.gov/archive/natural/2026/10/26/jpg/epic_1b_20261026005516.jpg" alt="Earth, 3 days ago" width="48%" />
+<img src="https://epic.gsfc.nasa.gov/archive/natural/2026/10/26/jpg/epic_1b_20261026080724.jpg" alt="Earth, 3 days ago" width="48%" />
+<img src="https://epic.gsfc.nasa.gov/archive/natural/2026/10/26/jpg/epic_1b_20261026151935.jpg" alt="Earth, 3 days ago" width="48%" />
+<img src="https://epic.gsfc.nasa.gov/archive/natural/2026/10/26/jpg/epic_1b_20261026223145.jpg" alt="Earth, 3 days ago" width="48%" /></a>
 <br/><br/>
-<b>Earth, 2 days ago</b>
+<b>Earth, 3 days ago</b>
 <br/>
 <sub>Full-disc Earth from DSCOVR, 1.51 million km out. 4 frames from 2026-10-26; the latest is centred on 3°S 170°W.</sub>
 <br/><br/>
 <sub><i>NASA EPIC aboard DSCOVR, 2026-10-26</i></sub>
 </td>
 <td width="50%" valign="top" align="center">
-<img src="https://images-assets.nasa.gov/image/PIA08646/PIA08646~small.jpg" alt="Triple Scoop from Galaxy Hunter" width="100%" />
+<img src="https://images-assets.nasa.gov/image/GSFC_20171208_Archive_e001180/GSFC_20171208_Archive_e001180~medium.jpg" alt="GREECE Mission Launching Into Aurora" width="100%" />
 <br/><br/>
-<b>Triple Scoop from Galaxy Hunter</b>
+<b>GREECE Mission Launching Into Aurora</b>
 <br/>
-<sub>Located 10 million light-years away in the southern constellation Sculptor, the Silver Dollar galaxy, or NGC 253, is one of the brightest spiral...</sub>
+<sub>Caption: A NASA-funded sounding rocket launches into an aurora in the early morning of March 3, 2014, over Venetie, Alaska. The GREECE mission...</sub>
 <br/><br/>
-<sub><i>NASA Image Library, &quot;galaxy&quot;</i></sub>
+<sub><i>NASA Image Library, &quot;aurora&quot;</i></sub>
 </td>
 </tr>
 </table>
 
 <table>
 <tr>
-<td width="40%" valign="middle"><a href="https://science.nasa.gov/blog/curiosity-blog-sols-5043-5049-preparing-to-drill-at-nazca/"><img src="https://assets.science.nasa.gov/dynamicimage/assets/science/missions/msl/2026/curiosity-rover-updates/october/https___mars.nasa.gov_msl-raw-images_msss_05048_mhli_5048MH0009170001804540R00_DXXX.jpg" alt="Curiosity Blog, Sols 5043-5049: Preparing to Drill at ‘Nazca’" width="100%" /></a></td>
-<td valign="middle">📰 <b>Today in spaceflight</b><br/><br/><b><a href="https://science.nasa.gov/blog/curiosity-blog-sols-5043-5049-preparing-to-drill-at-nazca/">Curiosity Blog, Sols 5043-5049: Preparing to Drill at ‘Nazca’</a></b><br/><br/><sub>NASA, 2026-10-28</sub></td>
+<td width="40%" valign="middle"><a href="https://arstechnica.com/space/2026/10/spacex-no-longer-needs-nasa-and-thats-a-problem-for-americas-space-agency/"><img src="https://cdn.arstechnica.net/wp-content/uploads/2026/10/spacex-nasa-slots.jpg" alt="SpaceX no longer needs NASA, and that&#x27;s a problem for America&#x27;s space agency" width="100%" /></a></td>
+<td valign="middle">📰 <b>Today in spaceflight</b><br/><br/><b><a href="https://arstechnica.com/space/2026/10/spacex-no-longer-needs-nasa-and-thats-a-problem-for-americas-space-agency/">SpaceX no longer needs NASA, and that&#x27;s a problem for America&#x27;s space agency</a></b><br/><br/><sub>Arstechnica, 2026-10-29</sub></td>
 </tr>
 </table>
 <!-- SPACE:END -->
