@@ -74,33 +74,33 @@
 <table>
 <tr>
 <td width="50%" valign="top" align="center">
-<a href="https://epic.gsfc.nasa.gov/"><img src="https://epic.gsfc.nasa.gov/archive/natural/2026/10/26/jpg/epic_1b_20261026005516.jpg" alt="Earth, 3 days ago" width="48%" />
-<img src="https://epic.gsfc.nasa.gov/archive/natural/2026/10/26/jpg/epic_1b_20261026080724.jpg" alt="Earth, 3 days ago" width="48%" />
-<img src="https://epic.gsfc.nasa.gov/archive/natural/2026/10/26/jpg/epic_1b_20261026151935.jpg" alt="Earth, 3 days ago" width="48%" />
-<img src="https://epic.gsfc.nasa.gov/archive/natural/2026/10/26/jpg/epic_1b_20261026223145.jpg" alt="Earth, 3 days ago" width="48%" /></a>
+<a href="https://www.star.nesdis.noaa.gov/GOES/fulldisk.php?sat=G19"><img src="https://cdn.star.nesdis.noaa.gov/GOES19/ABI/FD/GEOCOLOR/20263021730_GOES19-ABI-FD-GEOCOLOR-678x678.jpg" alt="Earth today" width="48%" />
+<img src="https://cdn.star.nesdis.noaa.gov/GOES19/ABI/FD/GEOCOLOR/20263022330_GOES19-ABI-FD-GEOCOLOR-678x678.jpg" alt="Earth today" width="48%" />
+<img src="https://cdn.star.nesdis.noaa.gov/GOES19/ABI/FD/GEOCOLOR/20263030600_GOES19-ABI-FD-GEOCOLOR-678x678.jpg" alt="Earth today" width="48%" />
+<img src="https://cdn.star.nesdis.noaa.gov/GOES19/ABI/FD/GEOCOLOR/20263031230_GOES19-ABI-FD-GEOCOLOR-678x678.jpg" alt="Earth today" width="48%" /></a>
 <br/><br/>
-<b>Earth, 3 days ago</b>
+<b>Earth today</b>
 <br/>
-<sub>Full-disc Earth from DSCOVR, 1.51 million km out. 4 frames from 2026-10-26; the latest is centred on 3°S 170°W.</sub>
+<sub>The Americas from NOAA&#x27;s GOES-19, 35,786 km up. 4 frames, six hours apart; the latest at 12:30 UTC. City lights show on the night side.</sub>
 <br/><br/>
-<sub><i>NASA EPIC aboard DSCOVR, 2026-10-26</i></sub>
+<sub><i>NOAA GOES-19 GeoColor, 2026-10-30</i></sub>
 </td>
 <td width="50%" valign="top" align="center">
-<img src="https://images-assets.nasa.gov/image/GSFC_20171208_Archive_e001180/GSFC_20171208_Archive_e001180~medium.jpg" alt="GREECE Mission Launching Into Aurora" width="100%" />
+<img src="https://images-assets.nasa.gov/image/PIA04913/PIA04913~small.jpg" alt="Looming Saturn" width="100%" />
 <br/><br/>
-<b>GREECE Mission Launching Into Aurora</b>
+<b>Looming Saturn</b>
 <br/>
-<sub>Caption: A NASA-funded sounding rocket launches into an aurora in the early morning of March 3, 2014, over Venetie, Alaska. The GREECE mission...</sub>
+<sub>Looming Saturn</sub>
 <br/><br/>
-<sub><i>NASA Image Library, &quot;aurora&quot;</i></sub>
+<sub><i>NASA Image Library, &quot;saturn&quot;</i></sub>
 </td>
 </tr>
 </table>
 
 <table>
 <tr>
-<td width="40%" valign="middle"><a href="https://arstechnica.com/space/2026/10/spacex-no-longer-needs-nasa-and-thats-a-problem-for-americas-space-agency/"><img src="https://cdn.arstechnica.net/wp-content/uploads/2026/10/spacex-nasa-slots.jpg" alt="SpaceX no longer needs NASA, and that&#x27;s a problem for America&#x27;s space agency" width="100%" /></a></td>
-<td valign="middle">📰 <b>Today in spaceflight</b><br/><br/><b><a href="https://arstechnica.com/space/2026/10/spacex-no-longer-needs-nasa-and-thats-a-problem-for-americas-space-agency/">SpaceX no longer needs NASA, and that&#x27;s a problem for America&#x27;s space agency</a></b><br/><br/><sub>Arstechnica, 2026-10-29</sub></td>
+<td width="40%" valign="middle"><a href="https://europeanspaceflight.com/ground-qualification-testing-begins-for-callisto-reusable-rocket-demonstrator/"><img src="https://europeanspaceflight.com/wp-content/uploads/2026/10/Callisto-Ground-Qualification-Begins-at-Old-Diamant-Launch-Facility.webp" alt="Ground Qualification Testing Begins for Callisto Reusable Rocket Demonstrator" width="100%" /></a></td>
+<td valign="middle">📰 <b>Today in spaceflight</b><br/><br/><b><a href="https://europeanspaceflight.com/ground-qualification-testing-begins-for-callisto-reusable-rocket-demonstrator/">Ground Qualification Testing Begins for Callisto Reusable Rocket Demonstrator</a></b><br/><br/><sub>European Spaceflight, 2026-10-30</sub></td>
 </tr>
 </table>
 <!-- SPACE:END -->
