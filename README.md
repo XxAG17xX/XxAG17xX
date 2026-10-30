@@ -113,28 +113,28 @@
 <table>
 <tr>
 <td width="25%" valign="top" align="center">
-<a href="https://anilist.co/anime/105333"><img src="https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx105333-GybuoSoOZfpH.jpg" alt="Dr. STONE" width="180" height="260" /></a>
+<a href="https://anilist.co/anime/16498"><img src="https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx16498-buvcRTBx4NSm.jpg" alt="Attack on Titan" width="180" height="260" /></a>
 <br/><sub><b>🎬 ANIME</b></sub>
-<br/><b><a href="https://anilist.co/anime/105333">Dr. STONE</a></b>
-<br/><sub>⭐ 8.1 · 2019 · 24 eps · Action · Adventure</sub>
+<br/><b><a href="https://anilist.co/anime/16498">Attack on Titan</a></b>
+<br/><sub>⭐ 8.5 · 2013 · 25 eps · Action · Mystery</sub>
 </td>
 <td width="25%" valign="top" align="center">
-<a href="https://anilist.co/manga/113164"><img src="https://s4.anilist.co/file/anilistcdn/media/manga/cover/large/bx113164-vMqQwe414lAK.png" alt="Martial Arts Reigns" width="180" height="260" /></a>
-<br/><sub><b>📖 MANHUA</b></sub>
-<br/><b><a href="https://anilist.co/manga/113164">Martial Arts Reigns</a></b>
-<br/><sub>⭐ 6.9 · 2019 · 631 chs · Action · Adventure</sub>
+<a href="https://anilist.co/manga/33807"><img src="https://s4.anilist.co/file/anilistcdn/media/manga/cover/large/bx33807-61dhqFAp23nL.png" alt="The Twelve Kingdoms: Sea of Shadow" width="180" height="260" /></a>
+<br/><sub><b>📖 NOVEL</b></sub>
+<br/><b><a href="https://anilist.co/manga/33807">The Twelve Kingdoms: Sea of Shadow</a></b>
+<br/><sub>⭐ 8.1 · 1992 · 8 chs · Action · Adventure</sub>
 </td>
 <td width="25%" valign="top" align="center">
-<a href="https://openlibrary.org/works/OL2172356W"><img src="https://covers.openlibrary.org/b/id/207515-L.jpg" alt="Do Androids Dream of Electric Sheep?" width="180" height="260" /></a>
-<br/><sub><b>📚 SCI-FI</b></sub>
-<br/><b><a href="https://openlibrary.org/works/OL2172356W">Do Androids Dream of Electric Sheep?</a></b>
-<br/><sub>Philip K. Dick · 1968 · ⭐ 8.1</sub>
+<a href="https://openlibrary.org/works/OL103123W"><img src="https://covers.openlibrary.org/b/id/12993656-L.jpg" alt="Fahrenheit 451" width="180" height="260" /></a>
+<br/><sub><b>📚 CLASSIC</b></sub>
+<br/><b><a href="https://openlibrary.org/works/OL103123W">Fahrenheit 451</a></b>
+<br/><sub>Ray Bradbury · 1953 · ⭐ 8.0</sub>
 </td>
 <td width="25%" valign="top" align="center">
-<a href="assets/daily/quote-2026-10-29.svg"><img src="assets/daily/quote-2026-10-29.svg" alt="“The first principle is that you must not fool yourself, and you are the easiest person to fool.” — Richard Feynman, Cargo Cult Science" width="180" height="260" /></a>
+<a href="assets/daily/quote-2026-10-30.svg"><img src="assets/daily/quote-2026-10-30.svg" alt="“Whatever happens, happens.” — Spike Spiegel, Cowboy Bebop" width="180" height="260" /></a>
 <br/><sub><b>💬 QUOTE</b></sub>
-<br/><b><a href="assets/daily/quote-2026-10-29.svg">Richard Feynman</a></b>
-<br/><sub>Cargo Cult Science</sub>
+<br/><b><a href="assets/daily/quote-2026-10-30.svg">Spike Spiegel</a></b>
+<br/><sub>Cowboy Bebop</sub>
 </td>
 </tr>
 </table>
