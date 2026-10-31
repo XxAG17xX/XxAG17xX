@@ -113,28 +113,28 @@
 <table>
 <tr>
 <td width="25%" valign="top" align="center">
-<a href="https://anilist.co/anime/16498"><img src="https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx16498-buvcRTBx4NSm.jpg" alt="Attack on Titan" width="180" height="260" /></a>
+<a href="https://anilist.co/anime/161645"><img src="https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx161645-QLbzHXiYRgV2.jpg" alt="The Apothecary Diaries" width="180" height="260" /></a>
 <br/><sub><b>🎬 ANIME</b></sub>
-<br/><b><a href="https://anilist.co/anime/16498">Attack on Titan</a></b>
-<br/><sub>⭐ 8.5 · 2013 · 25 eps · Action · Mystery</sub>
+<br/><b><a href="https://anilist.co/anime/161645">The Apothecary Diaries</a></b>
+<br/><sub>⭐ 8.8 · 2023 · 24 eps · Mystery</sub>
 </td>
 <td width="25%" valign="top" align="center">
-<a href="https://anilist.co/manga/33807"><img src="https://s4.anilist.co/file/anilistcdn/media/manga/cover/large/bx33807-61dhqFAp23nL.png" alt="The Twelve Kingdoms: Sea of Shadow" width="180" height="260" /></a>
-<br/><sub><b>📖 NOVEL</b></sub>
-<br/><b><a href="https://anilist.co/manga/33807">The Twelve Kingdoms: Sea of Shadow</a></b>
-<br/><sub>⭐ 8.1 · 1992 · 8 chs · Action · Adventure</sub>
+<a href="https://anilist.co/manga/86136"><img src="https://s4.anilist.co/file/anilistcdn/media/manga/cover/large/bx86136-CJRGk54qB6Ev.jpg" alt="Happiness" width="180" height="260" /></a>
+<br/><sub><b>📖 MANGA</b></sub>
+<br/><b><a href="https://anilist.co/manga/86136">Happiness</a></b>
+<br/><sub>⭐ 7.3 · 2015 · 50 chs · Supernatural</sub>
 </td>
 <td width="25%" valign="top" align="center">
-<a href="https://openlibrary.org/works/OL103123W"><img src="https://covers.openlibrary.org/b/id/12993656-L.jpg" alt="Fahrenheit 451" width="180" height="260" /></a>
-<br/><sub><b>📚 CLASSIC</b></sub>
-<br/><b><a href="https://openlibrary.org/works/OL103123W">Fahrenheit 451</a></b>
-<br/><sub>Ray Bradbury · 1953 · ⭐ 8.0</sub>
+<a href="https://openlibrary.org/works/OL16032768W"><img src="https://covers.openlibrary.org/b/id/6978703-L.jpg" alt="The Black Company" width="180" height="260" /></a>
+<br/><sub><b>📚 FANTASY</b></sub>
+<br/><b><a href="https://openlibrary.org/works/OL16032768W">The Black Company</a></b>
+<br/><sub>Glen Cook · 1984 · ⭐ 8.9</sub>
 </td>
 <td width="25%" valign="top" align="center">
-<a href="assets/daily/quote-2026-10-30.svg"><img src="assets/daily/quote-2026-10-30.svg" alt="“Whatever happens, happens.” — Spike Spiegel, Cowboy Bebop" width="180" height="260" /></a>
+<a href="assets/daily/quote-2026-10-31.svg"><img src="assets/daily/quote-2026-10-31.svg" alt="“Humans are like isolated islands, floating in the sea of fate.” — Fang Yuan, Reverend Insanity" width="180" height="260" /></a>
 <br/><sub><b>💬 QUOTE</b></sub>
-<br/><b><a href="assets/daily/quote-2026-10-30.svg">Spike Spiegel</a></b>
-<br/><sub>Cowboy Bebop</sub>
+<br/><b><a href="assets/daily/quote-2026-10-31.svg">Fang Yuan</a></b>
+<br/><sub>Reverend Insanity</sub>
 </td>
 </tr>
 </table>
