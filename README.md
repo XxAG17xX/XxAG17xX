@@ -74,33 +74,33 @@
 <table>
 <tr>
 <td width="50%" valign="top" align="center">
-<a href="https://www.star.nesdis.noaa.gov/GOES/fulldisk.php?sat=G19"><img src="https://cdn.star.nesdis.noaa.gov/GOES19/ABI/FD/GEOCOLOR/20263021730_GOES19-ABI-FD-GEOCOLOR-678x678.jpg" alt="Earth today" width="48%" />
-<img src="https://cdn.star.nesdis.noaa.gov/GOES19/ABI/FD/GEOCOLOR/20263022330_GOES19-ABI-FD-GEOCOLOR-678x678.jpg" alt="Earth today" width="48%" />
-<img src="https://cdn.star.nesdis.noaa.gov/GOES19/ABI/FD/GEOCOLOR/20263030600_GOES19-ABI-FD-GEOCOLOR-678x678.jpg" alt="Earth today" width="48%" />
-<img src="https://cdn.star.nesdis.noaa.gov/GOES19/ABI/FD/GEOCOLOR/20263031230_GOES19-ABI-FD-GEOCOLOR-678x678.jpg" alt="Earth today" width="48%" /></a>
+<a href="https://epic.gsfc.nasa.gov/"><img src="https://epic.gsfc.nasa.gov/archive/natural/2026/10/29/jpg/epic_1b_20261029000830.jpg" alt="Earth, 2 days ago" width="48%" />
+<img src="https://epic.gsfc.nasa.gov/archive/natural/2026/10/29/jpg/epic_1b_20261029072040.jpg" alt="Earth, 2 days ago" width="48%" />
+<img src="https://epic.gsfc.nasa.gov/archive/natural/2026/10/29/jpg/epic_1b_20261029143249.jpg" alt="Earth, 2 days ago" width="48%" />
+<img src="https://epic.gsfc.nasa.gov/archive/natural/2026/10/29/jpg/epic_1b_20261029214459.jpg" alt="Earth, 2 days ago" width="48%" /></a>
 <br/><br/>
-<b>Earth today</b>
+<b>Earth, 2 days ago</b>
 <br/>
-<sub>The Americas from NOAA&#x27;s GOES-19, 35,786 km up. 4 frames, six hours apart; the latest at 12:30 UTC. City lights show on the night side.</sub>
+<sub>Full-disc Earth from DSCOVR, 1.50 million km out. 4 frames from 2026-10-29; the latest is centred on 5°S 159°W.</sub>
 <br/><br/>
-<sub><i>NOAA GOES-19 GeoColor, 2026-10-30</i></sub>
+<sub><i>NASA EPIC aboard DSCOVR, 2026-10-29</i></sub>
 </td>
 <td width="50%" valign="top" align="center">
-<img src="https://images-assets.nasa.gov/image/PIA04913/PIA04913~small.jpg" alt="Looming Saturn" width="100%" />
+<img src="https://images-assets.nasa.gov/image/PIA01602/PIA01602~small.jpg" alt="Time Series of Jupiter Aurora" width="100%" />
 <br/><br/>
-<b>Looming Saturn</b>
+<b>Time Series of Jupiter Aurora</b>
 <br/>
-<sub>Looming Saturn</sub>
+<sub>Time Series of Jupiter Aurora</sub>
 <br/><br/>
-<sub><i>NASA Image Library, &quot;saturn&quot;</i></sub>
+<sub><i>NASA Image Library, &quot;jupiter&quot;</i></sub>
 </td>
 </tr>
 </table>
 
 <table>
 <tr>
-<td width="40%" valign="middle"><a href="https://europeanspaceflight.com/ground-qualification-testing-begins-for-callisto-reusable-rocket-demonstrator/"><img src="https://europeanspaceflight.com/wp-content/uploads/2026/10/Callisto-Ground-Qualification-Begins-at-Old-Diamant-Launch-Facility.webp" alt="Ground Qualification Testing Begins for Callisto Reusable Rocket Demonstrator" width="100%" /></a></td>
-<td valign="middle">📰 <b>Today in spaceflight</b><br/><br/><b><a href="https://europeanspaceflight.com/ground-qualification-testing-begins-for-callisto-reusable-rocket-demonstrator/">Ground Qualification Testing Begins for Callisto Reusable Rocket Demonstrator</a></b><br/><br/><sub>European Spaceflight, 2026-10-30</sub></td>
+<td width="40%" valign="middle"><a href="https://science.nasa.gov/image-article/apod-2026-october-31-night-on-a-spooky-planet/"><img src="https://assets.science.nasa.gov/dynamicimage/assets/science/cds/apod/apod/Hverir_Vetter_1300.jpg" alt="APOD: 2026 October 31 – Night on a Spooky Planet" width="100%" /></a></td>
+<td valign="middle">📰 <b>Today in spaceflight</b><br/><br/><b><a href="https://science.nasa.gov/image-article/apod-2026-october-31-night-on-a-spooky-planet/">APOD: 2026 October 31 – Night on a Spooky Planet</a></b><br/><br/><sub>NASA, 2026-10-31</sub></td>
 </tr>
 </table>
 <!-- SPACE:END -->
