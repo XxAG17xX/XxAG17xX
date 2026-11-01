@@ -74,33 +74,33 @@
 <table>
 <tr>
 <td width="50%" valign="top" align="center">
-<a href="https://epic.gsfc.nasa.gov/"><img src="https://epic.gsfc.nasa.gov/archive/natural/2026/10/29/jpg/epic_1b_20261029000830.jpg" alt="Earth, 2 days ago" width="48%" />
-<img src="https://epic.gsfc.nasa.gov/archive/natural/2026/10/29/jpg/epic_1b_20261029072040.jpg" alt="Earth, 2 days ago" width="48%" />
-<img src="https://epic.gsfc.nasa.gov/archive/natural/2026/10/29/jpg/epic_1b_20261029143249.jpg" alt="Earth, 2 days ago" width="48%" />
-<img src="https://epic.gsfc.nasa.gov/archive/natural/2026/10/29/jpg/epic_1b_20261029214459.jpg" alt="Earth, 2 days ago" width="48%" /></a>
+<a href="https://epic.gsfc.nasa.gov/"><img src="https://epic.gsfc.nasa.gov/archive/natural/2026/10/29/jpg/epic_1b_20261029000830.jpg" alt="Earth, 3 days ago" width="48%" />
+<img src="https://epic.gsfc.nasa.gov/archive/natural/2026/10/29/jpg/epic_1b_20261029072040.jpg" alt="Earth, 3 days ago" width="48%" />
+<img src="https://epic.gsfc.nasa.gov/archive/natural/2026/10/29/jpg/epic_1b_20261029143249.jpg" alt="Earth, 3 days ago" width="48%" />
+<img src="https://epic.gsfc.nasa.gov/archive/natural/2026/10/29/jpg/epic_1b_20261029214459.jpg" alt="Earth, 3 days ago" width="48%" /></a>
 <br/><br/>
-<b>Earth, 2 days ago</b>
+<b>Earth, 3 days ago</b>
 <br/>
 <sub>Full-disc Earth from DSCOVR, 1.50 million km out. 4 frames from 2026-10-29; the latest is centred on 5°S 159°W.</sub>
 <br/><br/>
 <sub><i>NASA EPIC aboard DSCOVR, 2026-10-29</i></sub>
 </td>
 <td width="50%" valign="top" align="center">
-<img src="https://images-assets.nasa.gov/image/PIA01602/PIA01602~small.jpg" alt="Time Series of Jupiter Aurora" width="100%" />
+<img src="https://images-assets.nasa.gov/image/GSFC_20171208_Archive_e001896/GSFC_20171208_Archive_e001896~medium.jpg" alt="NASA&#x27;s Hubble Sees A New Supernova Remnant Light Up" width="100%" />
 <br/><br/>
-<b>Time Series of Jupiter Aurora</b>
+<b>NASA&#x27;s Hubble Sees A New Supernova Remnant Light Up</b>
 <br/>
-<sub>Time Series of Jupiter Aurora</sub>
+<sub>NASA image release June 10, 2011 Astronomers using NASA&#x27;s Hubble Space Telescope are witnessing the unprecedented transition of a supernova to a...</sub>
 <br/><br/>
-<sub><i>NASA Image Library, &quot;jupiter&quot;</i></sub>
+<sub><i>NASA Image Library, &quot;supernova remnant&quot;</i></sub>
 </td>
 </tr>
 </table>
 
 <table>
 <tr>
-<td width="40%" valign="middle"><a href="https://science.nasa.gov/image-article/apod-2026-october-31-night-on-a-spooky-planet/"><img src="https://assets.science.nasa.gov/dynamicimage/assets/science/cds/apod/apod/Hverir_Vetter_1300.jpg" alt="APOD: 2026 October 31 – Night on a Spooky Planet" width="100%" /></a></td>
-<td valign="middle">📰 <b>Today in spaceflight</b><br/><br/><b><a href="https://science.nasa.gov/image-article/apod-2026-october-31-night-on-a-spooky-planet/">APOD: 2026 October 31 – Night on a Spooky Planet</a></b><br/><br/><sub>NASA, 2026-10-31</sub></td>
+<td width="40%" valign="middle"><a href="https://europeanspaceflight.com/canadian-mda-space-secures-e64-million-iris2-antenna-agreement/"><img src="https://europeanspaceflight.com/wp-content/uploads/2026/11/Canadian-MDA-Space-Secures-64-Million-Euros-IRIS2-Antenna-Agreement.webp" alt="Canadian MDA Space Secures €64 Million IRIS2 Antenna Agreement" width="100%" /></a></td>
+<td valign="middle">📰 <b>Today in spaceflight</b><br/><br/><b><a href="https://europeanspaceflight.com/canadian-mda-space-secures-e64-million-iris2-antenna-agreement/">Canadian MDA Space Secures €64 Million IRIS2 Antenna Agreement</a></b><br/><br/><sub>European Spaceflight, 2026-11-01</sub></td>
 </tr>
 </table>
 <!-- SPACE:END -->
