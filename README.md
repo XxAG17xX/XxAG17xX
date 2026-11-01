@@ -113,28 +113,28 @@
 <table>
 <tr>
 <td width="25%" valign="top" align="center">
-<a href="https://anilist.co/anime/161645"><img src="https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx161645-QLbzHXiYRgV2.jpg" alt="The Apothecary Diaries" width="180" height="260" /></a>
+<a href="https://anilist.co/anime/20474"><img src="https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx20474-xuqem5GBlBtb.jpg" alt="JoJo&#x27;s Bizarre Adventure: Stardust Crusaders" width="180" height="260" /></a>
 <br/><sub><b>🎬 ANIME</b></sub>
-<br/><b><a href="https://anilist.co/anime/161645">The Apothecary Diaries</a></b>
-<br/><sub>⭐ 8.8 · 2023 · 24 eps · Mystery</sub>
+<br/><b><a href="https://anilist.co/anime/20474">JoJo&#x27;s Bizarre Adventure: Stardust...</a></b>
+<br/><sub>⭐ 7.9 · 2014 · 24 eps · Action · Adventure</sub>
 </td>
 <td width="25%" valign="top" align="center">
-<a href="https://anilist.co/manga/86136"><img src="https://s4.anilist.co/file/anilistcdn/media/manga/cover/large/bx86136-CJRGk54qB6Ev.jpg" alt="Happiness" width="180" height="260" /></a>
-<br/><sub><b>📖 MANGA</b></sub>
-<br/><b><a href="https://anilist.co/manga/86136">Happiness</a></b>
-<br/><sub>⭐ 7.3 · 2015 · 50 chs · Supernatural</sub>
+<a href="https://anilist.co/manga/119174"><img src="https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/b119174-nFMZSHbrDDbt.png" alt="The Boxer" width="180" height="260" /></a>
+<br/><sub><b>📖 MANHWA</b></sub>
+<br/><b><a href="https://anilist.co/manga/119174">The Boxer</a></b>
+<br/><sub>⭐ 8.4 · 2019 · 133 chs · Action · Sports</sub>
 </td>
 <td width="25%" valign="top" align="center">
-<a href="https://openlibrary.org/works/OL16032768W"><img src="https://covers.openlibrary.org/b/id/6978703-L.jpg" alt="The Black Company" width="180" height="260" /></a>
-<br/><sub><b>📚 FANTASY</b></sub>
-<br/><b><a href="https://openlibrary.org/works/OL16032768W">The Black Company</a></b>
-<br/><sub>Glen Cook · 1984 · ⭐ 8.9</sub>
+<a href="https://openlibrary.org/works/OL16314245W"><img src="https://covers.openlibrary.org/b/id/10526598-L.jpg" alt="The Three-Body Problem" width="180" height="260" /></a>
+<br/><sub><b>📚 SCI-FI</b></sub>
+<br/><b><a href="https://openlibrary.org/works/OL16314245W">The Three-Body Problem</a></b>
+<br/><sub>Liu Cixin · 2008 · ⭐ 8.9</sub>
 </td>
 <td width="25%" valign="top" align="center">
-<a href="assets/daily/quote-2026-10-31.svg"><img src="assets/daily/quote-2026-10-31.svg" alt="“Humans are like isolated islands, floating in the sea of fate.” — Fang Yuan, Reverend Insanity" width="180" height="260" /></a>
+<a href="assets/daily/quote-2026-11-01.svg"><img src="assets/daily/quote-2026-11-01.svg" alt="“Journey before destination.” — The Knights Radiant, The Stormlight Archive" width="180" height="260" /></a>
 <br/><sub><b>💬 QUOTE</b></sub>
-<br/><b><a href="assets/daily/quote-2026-10-31.svg">Fang Yuan</a></b>
-<br/><sub>Reverend Insanity</sub>
+<br/><b><a href="assets/daily/quote-2026-11-01.svg">The Knights Radiant</a></b>
+<br/><sub>The Stormlight Archive</sub>
 </td>
 </tr>
 </table>
