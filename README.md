@@ -113,28 +113,28 @@
 <table>
 <tr>
 <td width="25%" valign="top" align="center">
-<a href="https://anilist.co/anime/20474"><img src="https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx20474-xuqem5GBlBtb.jpg" alt="JoJo&#x27;s Bizarre Adventure: Stardust Crusaders" width="180" height="260" /></a>
+<a href="https://anilist.co/anime/1535"><img src="https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx1535-kUgkcrfOrkUM.jpg" alt="Death Note" width="180" height="260" /></a>
 <br/><sub><b>🎬 ANIME</b></sub>
-<br/><b><a href="https://anilist.co/anime/20474">JoJo&#x27;s Bizarre Adventure: Stardust...</a></b>
-<br/><sub>⭐ 7.9 · 2014 · 24 eps · Action · Adventure</sub>
+<br/><b><a href="https://anilist.co/anime/1535">Death Note</a></b>
+<br/><sub>⭐ 8.4 · 2006 · 37 eps · Mystery · Psychological</sub>
 </td>
 <td width="25%" valign="top" align="center">
-<a href="https://anilist.co/manga/119174"><img src="https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/b119174-nFMZSHbrDDbt.png" alt="The Boxer" width="180" height="260" /></a>
-<br/><sub><b>📖 MANHWA</b></sub>
-<br/><b><a href="https://anilist.co/manga/119174">The Boxer</a></b>
-<br/><sub>⭐ 8.4 · 2019 · 133 chs · Action · Sports</sub>
+<a href="https://anilist.co/manga/123140"><img src="https://s4.anilist.co/file/anilistcdn/media/manga/cover/large/bx123140-vClrWNJ8Gt0h.jpg" alt="Villain Initialization" width="180" height="260" /></a>
+<br/><sub><b>📖 MANHUA</b></sub>
+<br/><b><a href="https://anilist.co/manga/123140">Villain Initialization</a></b>
+<br/><sub>⭐ 7.0 · 2019 · 156 chs · Action · Adventure</sub>
 </td>
 <td width="25%" valign="top" align="center">
-<a href="https://openlibrary.org/works/OL16314245W"><img src="https://covers.openlibrary.org/b/id/10526598-L.jpg" alt="The Three-Body Problem" width="180" height="260" /></a>
+<a href="https://openlibrary.org/works/OL46241W"><img src="https://covers.openlibrary.org/b/id/12385229-L.jpg" alt="I, Robot" width="180" height="260" /></a>
 <br/><sub><b>📚 SCI-FI</b></sub>
-<br/><b><a href="https://openlibrary.org/works/OL16314245W">The Three-Body Problem</a></b>
-<br/><sub>Liu Cixin · 2008 · ⭐ 8.9</sub>
+<br/><b><a href="https://openlibrary.org/works/OL46241W">I, Robot</a></b>
+<br/><sub>Isaac Asimov · 1950 · ⭐ 8.5</sub>
 </td>
 <td width="25%" valign="top" align="center">
-<a href="assets/daily/quote-2026-11-01.svg"><img src="assets/daily/quote-2026-11-01.svg" alt="“Journey before destination.” — The Knights Radiant, The Stormlight Archive" width="180" height="260" /></a>
+<a href="assets/daily/quote-2026-11-02.svg"><img src="assets/daily/quote-2026-11-02.svg" alt="“Throughout Heaven and Earth, I alone am the honored one.” — Satoru Gojo, Jujutsu Kaisen" width="180" height="260" /></a>
 <br/><sub><b>💬 QUOTE</b></sub>
-<br/><b><a href="assets/daily/quote-2026-11-01.svg">The Knights Radiant</a></b>
-<br/><sub>The Stormlight Archive</sub>
+<br/><b><a href="assets/daily/quote-2026-11-02.svg">Satoru Gojo</a></b>
+<br/><sub>Jujutsu Kaisen</sub>
 </td>
 </tr>
 </table>
