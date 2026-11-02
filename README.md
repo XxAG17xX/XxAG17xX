@@ -74,33 +74,33 @@
 <table>
 <tr>
 <td width="50%" valign="top" align="center">
-<a href="https://epic.gsfc.nasa.gov/"><img src="https://epic.gsfc.nasa.gov/archive/natural/2026/10/29/jpg/epic_1b_20261029000830.jpg" alt="Earth, 3 days ago" width="48%" />
-<img src="https://epic.gsfc.nasa.gov/archive/natural/2026/10/29/jpg/epic_1b_20261029072040.jpg" alt="Earth, 3 days ago" width="48%" />
-<img src="https://epic.gsfc.nasa.gov/archive/natural/2026/10/29/jpg/epic_1b_20261029143249.jpg" alt="Earth, 3 days ago" width="48%" />
-<img src="https://epic.gsfc.nasa.gov/archive/natural/2026/10/29/jpg/epic_1b_20261029214459.jpg" alt="Earth, 3 days ago" width="48%" /></a>
+<a href="https://www.star.nesdis.noaa.gov/GOES/fulldisk.php?sat=G19"><img src="https://cdn.star.nesdis.noaa.gov/GOES19/ABI/FD/GEOCOLOR/20263052130_GOES19-ABI-FD-GEOCOLOR-678x678.jpg" alt="Earth today" width="48%" />
+<img src="https://cdn.star.nesdis.noaa.gov/GOES19/ABI/FD/GEOCOLOR/20263060330_GOES19-ABI-FD-GEOCOLOR-678x678.jpg" alt="Earth today" width="48%" />
+<img src="https://cdn.star.nesdis.noaa.gov/GOES19/ABI/FD/GEOCOLOR/20263060930_GOES19-ABI-FD-GEOCOLOR-678x678.jpg" alt="Earth today" width="48%" />
+<img src="https://cdn.star.nesdis.noaa.gov/GOES19/ABI/FD/GEOCOLOR/20263061530_GOES19-ABI-FD-GEOCOLOR-678x678.jpg" alt="Earth today" width="48%" /></a>
 <br/><br/>
-<b>Earth, 3 days ago</b>
+<b>Earth today</b>
 <br/>
-<sub>Full-disc Earth from DSCOVR, 1.50 million km out. 4 frames from 2026-10-29; the latest is centred on 5°S 159°W.</sub>
+<sub>The Americas from NOAA&#x27;s GOES-19, 35,786 km up. 4 frames, six hours apart; the latest at 15:30 UTC. City lights show on the night side.</sub>
 <br/><br/>
-<sub><i>NASA EPIC aboard DSCOVR, 2026-10-29</i></sub>
+<sub><i>NOAA GOES-19 GeoColor, 2026-11-02</i></sub>
 </td>
 <td width="50%" valign="top" align="center">
-<img src="https://images-assets.nasa.gov/image/GSFC_20171208_Archive_e001896/GSFC_20171208_Archive_e001896~medium.jpg" alt="NASA&#x27;s Hubble Sees A New Supernova Remnant Light Up" width="100%" />
+<img src="https://images-assets.nasa.gov/image/GSFC_20171208_Archive_e001789/GSFC_20171208_Archive_e001789~small.jpg" alt="Young Stars at Home in Ancient Cluster" width="100%" />
 <br/><br/>
-<b>NASA&#x27;s Hubble Sees A New Supernova Remnant Light Up</b>
+<b>Young Stars at Home in Ancient Cluster</b>
 <br/>
-<sub>NASA image release June 10, 2011 Astronomers using NASA&#x27;s Hubble Space Telescope are witnessing the unprecedented transition of a supernova to a...</sub>
+<sub>NASA image release February 8, 2012 Looking like a hoard of gems fit for an emperor&#x27;s collection, this deep sky object called NGC 6752 is in fact far...</sub>
 <br/><br/>
-<sub><i>NASA Image Library, &quot;supernova remnant&quot;</i></sub>
+<sub><i>NASA Image Library, &quot;star cluster&quot;</i></sub>
 </td>
 </tr>
 </table>
 
 <table>
 <tr>
-<td width="40%" valign="middle"><a href="https://europeanspaceflight.com/canadian-mda-space-secures-e64-million-iris2-antenna-agreement/"><img src="https://europeanspaceflight.com/wp-content/uploads/2026/11/Canadian-MDA-Space-Secures-64-Million-Euros-IRIS2-Antenna-Agreement.webp" alt="Canadian MDA Space Secures €64 Million IRIS2 Antenna Agreement" width="100%" /></a></td>
-<td valign="middle">📰 <b>Today in spaceflight</b><br/><br/><b><a href="https://europeanspaceflight.com/canadian-mda-space-secures-e64-million-iris2-antenna-agreement/">Canadian MDA Space Secures €64 Million IRIS2 Antenna Agreement</a></b><br/><br/><sub>European Spaceflight, 2026-11-01</sub></td>
+<td width="40%" valign="middle"><a href="https://science.nasa.gov/missions/hubble/nasas-hubble-uncovers-case-of-missing-oxygen-in-nearby-dwarf-galaxies/"><img src="https://assets.science.nasa.gov/dynamicimage/assets/science/missions/hubble/releases/2026/11/STScI-01M4RST3TGWT2T53FVXQBSP75D.jpg" alt="NASA’s Hubble Uncovers Case of Missing Oxygen in Nearby Dwarf Galaxies" width="100%" /></a></td>
+<td valign="middle">📰 <b>Today in spaceflight</b><br/><br/><b><a href="https://science.nasa.gov/missions/hubble/nasas-hubble-uncovers-case-of-missing-oxygen-in-nearby-dwarf-galaxies/">NASA’s Hubble Uncovers Case of Missing Oxygen in Nearby Dwarf Galaxies</a></b><br/><br/><sub>NASA, 2026-11-02</sub></td>
 </tr>
 </table>
 <!-- SPACE:END -->
