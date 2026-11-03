@@ -74,33 +74,33 @@
 <table>
 <tr>
 <td width="50%" valign="top" align="center">
-<a href="https://www.star.nesdis.noaa.gov/GOES/fulldisk.php?sat=G19"><img src="https://cdn.star.nesdis.noaa.gov/GOES19/ABI/FD/GEOCOLOR/20263052130_GOES19-ABI-FD-GEOCOLOR-678x678.jpg" alt="Earth today" width="48%" />
-<img src="https://cdn.star.nesdis.noaa.gov/GOES19/ABI/FD/GEOCOLOR/20263060330_GOES19-ABI-FD-GEOCOLOR-678x678.jpg" alt="Earth today" width="48%" />
-<img src="https://cdn.star.nesdis.noaa.gov/GOES19/ABI/FD/GEOCOLOR/20263060930_GOES19-ABI-FD-GEOCOLOR-678x678.jpg" alt="Earth today" width="48%" />
-<img src="https://cdn.star.nesdis.noaa.gov/GOES19/ABI/FD/GEOCOLOR/20263061530_GOES19-ABI-FD-GEOCOLOR-678x678.jpg" alt="Earth today" width="48%" /></a>
+<a href="https://epic.gsfc.nasa.gov/"><img src="https://epic.gsfc.nasa.gov/archive/natural/2026/11/01/jpg/epic_1b_20261101010436.jpg" alt="Earth, 2 days ago" width="48%" />
+<img src="https://epic.gsfc.nasa.gov/archive/natural/2026/11/01/jpg/epic_1b_20261101081645.jpg" alt="Earth, 2 days ago" width="48%" />
+<img src="https://epic.gsfc.nasa.gov/archive/natural/2026/11/01/jpg/epic_1b_20261101152855.jpg" alt="Earth, 2 days ago" width="48%" />
+<img src="https://epic.gsfc.nasa.gov/archive/natural/2026/11/01/jpg/epic_1b_20261101224105.jpg" alt="Earth, 2 days ago" width="48%" /></a>
 <br/><br/>
-<b>Earth today</b>
+<b>Earth, 2 days ago</b>
 <br/>
-<sub>The Americas from NOAA&#x27;s GOES-19, 35,786 km up. 4 frames, six hours apart; the latest at 15:30 UTC. City lights show on the night side.</sub>
+<sub>Full-disc Earth from DSCOVR, 1.49 million km out. 4 frames from 2026-11-01; the latest is centred on 6°S 173°W.</sub>
 <br/><br/>
-<sub><i>NOAA GOES-19 GeoColor, 2026-11-02</i></sub>
+<sub><i>NASA EPIC aboard DSCOVR, 2026-11-01</i></sub>
 </td>
 <td width="50%" valign="top" align="center">
-<img src="https://images-assets.nasa.gov/image/GSFC_20171208_Archive_e001789/GSFC_20171208_Archive_e001789~small.jpg" alt="Young Stars at Home in Ancient Cluster" width="100%" />
+<img src="https://images-assets.nasa.gov/image/MAF_20240408_NOLAeclipse03/MAF_20240408_NOLAeclipse03~medium.jpg" alt="Partial Solar Eclipse in New Orleans" width="100%" />
 <br/><br/>
-<b>Young Stars at Home in Ancient Cluster</b>
+<b>Partial Solar Eclipse in New Orleans</b>
 <br/>
-<sub>NASA image release February 8, 2012 Looking like a hoard of gems fit for an emperor&#x27;s collection, this deep sky object called NGC 6752 is in fact far...</sub>
+<sub>Civil Air Patrol cadets (L to R) Benjamin Errington, Caden Thomas, and Isabelle Cooper of the Alvin Callander Composite Squadron record weather data...</sub>
 <br/><br/>
-<sub><i>NASA Image Library, &quot;star cluster&quot;</i></sub>
+<sub><i>NASA Image Library, &quot;solar eclipse&quot;</i></sub>
 </td>
 </tr>
 </table>
 
 <table>
 <tr>
-<td width="40%" valign="middle"><a href="https://science.nasa.gov/missions/hubble/nasas-hubble-uncovers-case-of-missing-oxygen-in-nearby-dwarf-galaxies/"><img src="https://assets.science.nasa.gov/dynamicimage/assets/science/missions/hubble/releases/2026/11/STScI-01M4RST3TGWT2T53FVXQBSP75D.jpg" alt="NASA’s Hubble Uncovers Case of Missing Oxygen in Nearby Dwarf Galaxies" width="100%" /></a></td>
-<td valign="middle">📰 <b>Today in spaceflight</b><br/><br/><b><a href="https://science.nasa.gov/missions/hubble/nasas-hubble-uncovers-case-of-missing-oxygen-in-nearby-dwarf-galaxies/">NASA’s Hubble Uncovers Case of Missing Oxygen in Nearby Dwarf Galaxies</a></b><br/><br/><sub>NASA, 2026-11-02</sub></td>
+<td width="40%" valign="middle"><a href="https://spaceflightnow.com/2026/11/03/nasas-neil-gehrels-swift-observatory-to-burn-up-this-week-after-two-decades-in-space/"><img src="https://spaceflightnow.com/wp-content/uploads/2026/11/Swift_in_space_11.jpg" alt="NASA’s Neil Gehrels Swift Observatory to burn up this week after more than two decades in space" width="100%" /></a></td>
+<td valign="middle">📰 <b>Today in spaceflight</b><br/><br/><b><a href="https://spaceflightnow.com/2026/11/03/nasas-neil-gehrels-swift-observatory-to-burn-up-this-week-after-two-decades-in-space/">NASA’s Neil Gehrels Swift Observatory to burn up this week after more than two decades in space</a></b><br/><br/><sub>Spaceflight Now, 2026-11-03</sub></td>
 </tr>
 </table>
 <!-- SPACE:END -->
