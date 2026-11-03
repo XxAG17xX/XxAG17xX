@@ -113,28 +113,28 @@
 <table>
 <tr>
 <td width="25%" valign="top" align="center">
-<a href="https://anilist.co/anime/1535"><img src="https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx1535-kUgkcrfOrkUM.jpg" alt="Death Note" width="180" height="260" /></a>
+<a href="https://anilist.co/anime/9253"><img src="https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx9253-tIUXF2gfU8Sg.jpg" alt="Steins;Gate" width="180" height="260" /></a>
 <br/><sub><b>🎬 ANIME</b></sub>
-<br/><b><a href="https://anilist.co/anime/1535">Death Note</a></b>
-<br/><sub>⭐ 8.4 · 2006 · 37 eps · Mystery · Psychological</sub>
+<br/><b><a href="https://anilist.co/anime/9253">Steins;Gate</a></b>
+<br/><sub>⭐ 8.9 · 2011 · 24 eps · Psychological · Sci-Fi</sub>
 </td>
 <td width="25%" valign="top" align="center">
-<a href="https://anilist.co/manga/123140"><img src="https://s4.anilist.co/file/anilistcdn/media/manga/cover/large/bx123140-vClrWNJ8Gt0h.jpg" alt="Villain Initialization" width="180" height="260" /></a>
-<br/><sub><b>📖 MANHUA</b></sub>
-<br/><b><a href="https://anilist.co/manga/123140">Villain Initialization</a></b>
-<br/><sub>⭐ 7.0 · 2019 · 156 chs · Action · Adventure</sub>
+<a href="https://anilist.co/manga/59699"><img src="https://s4.anilist.co/file/anilistcdn/media/manga/cover/large/bx59699-PaLgEovLey99.jpg" alt="Another" width="180" height="260" /></a>
+<br/><sub><b>📖 NOVEL</b></sub>
+<br/><b><a href="https://anilist.co/manga/59699">Another</a></b>
+<br/><sub>⭐ 7.6 · 2012 · 21 chs · Mystery · Supernatural</sub>
 </td>
 <td width="25%" valign="top" align="center">
-<a href="https://openlibrary.org/works/OL46241W"><img src="https://covers.openlibrary.org/b/id/12385229-L.jpg" alt="I, Robot" width="180" height="260" /></a>
-<br/><sub><b>📚 SCI-FI</b></sub>
-<br/><b><a href="https://openlibrary.org/works/OL46241W">I, Robot</a></b>
-<br/><sub>Isaac Asimov · 1950 · ⭐ 8.5</sub>
+<a href="https://openlibrary.org/works/OL679360W"><img src="https://covers.openlibrary.org/b/id/8494659-L.jpg" alt="American Gods" width="180" height="260" /></a>
+<br/><sub><b>📚 FANTASY</b></sub>
+<br/><b><a href="https://openlibrary.org/works/OL679360W">American Gods</a></b>
+<br/><sub>Neil Gaiman · 2001 · ⭐ 8.5</sub>
 </td>
 <td width="25%" valign="top" align="center">
-<a href="assets/daily/quote-2026-11-02.svg"><img src="assets/daily/quote-2026-11-02.svg" alt="“Throughout Heaven and Earth, I alone am the honored one.” — Satoru Gojo, Jujutsu Kaisen" width="180" height="260" /></a>
+<a href="assets/daily/quote-2026-11-03.svg"><img src="assets/daily/quote-2026-11-03.svg" alt="“If you win, you live. If you lose, you die. If you don&#x27;t fight, you can&#x27;t win!” — Eren Yeager, Attack on Titan" width="180" height="260" /></a>
 <br/><sub><b>💬 QUOTE</b></sub>
-<br/><b><a href="assets/daily/quote-2026-11-02.svg">Satoru Gojo</a></b>
-<br/><sub>Jujutsu Kaisen</sub>
+<br/><b><a href="assets/daily/quote-2026-11-03.svg">Eren Yeager</a></b>
+<br/><sub>Attack on Titan</sub>
 </td>
 </tr>
 </table>
