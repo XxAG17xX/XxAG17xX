@@ -113,28 +113,28 @@
 <table>
 <tr>
 <td width="25%" valign="top" align="center">
-<a href="https://anilist.co/anime/9253"><img src="https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx9253-tIUXF2gfU8Sg.jpg" alt="Steins;Gate" width="180" height="260" /></a>
+<a href="https://anilist.co/anime/97940"><img src="https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx97940-fyh8o7gNbha0.png" alt="Black Clover" width="180" height="260" /></a>
 <br/><sub><b>🎬 ANIME</b></sub>
-<br/><b><a href="https://anilist.co/anime/9253">Steins;Gate</a></b>
-<br/><sub>⭐ 8.9 · 2011 · 24 eps · Psychological · Sci-Fi</sub>
+<br/><b><a href="https://anilist.co/anime/97940">Black Clover</a></b>
+<br/><sub>⭐ 7.9 · 2017 · 170 eps · Action · Adventure</sub>
 </td>
 <td width="25%" valign="top" align="center">
-<a href="https://anilist.co/manga/59699"><img src="https://s4.anilist.co/file/anilistcdn/media/manga/cover/large/bx59699-PaLgEovLey99.jpg" alt="Another" width="180" height="260" /></a>
-<br/><sub><b>📖 NOVEL</b></sub>
-<br/><b><a href="https://anilist.co/manga/59699">Another</a></b>
-<br/><sub>⭐ 7.6 · 2012 · 21 chs · Mystery · Supernatural</sub>
+<a href="https://anilist.co/manga/33866"><img src="https://s4.anilist.co/file/anilistcdn/media/manga/cover/large/bx33866-3BaQrUrA7c2w.jpg" alt="Black Butler" width="180" height="260" /></a>
+<br/><sub><b>📖 MANGA</b></sub>
+<br/><b><a href="https://anilist.co/manga/33866">Black Butler</a></b>
+<br/><sub>⭐ 8.1 · 2006 · Action · Mystery</sub>
 </td>
 <td width="25%" valign="top" align="center">
-<a href="https://openlibrary.org/works/OL679360W"><img src="https://covers.openlibrary.org/b/id/8494659-L.jpg" alt="American Gods" width="180" height="260" /></a>
-<br/><sub><b>📚 FANTASY</b></sub>
-<br/><b><a href="https://openlibrary.org/works/OL679360W">American Gods</a></b>
-<br/><sub>Neil Gaiman · 2001 · ⭐ 8.5</sub>
+<a href="https://openlibrary.org/works/OL46881W"><img src="https://covers.openlibrary.org/b/id/12882940-L.jpg" alt="Jurassic Park" width="180" height="260" /></a>
+<br/><sub><b>📚 THRILLER</b></sub>
+<br/><b><a href="https://openlibrary.org/works/OL46881W">Jurassic Park</a></b>
+<br/><sub>Michael Crichton · 1990 · ⭐ 8.3</sub>
 </td>
 <td width="25%" valign="top" align="center">
-<a href="assets/daily/quote-2026-11-03.svg"><img src="assets/daily/quote-2026-11-03.svg" alt="“If you win, you live. If you lose, you die. If you don&#x27;t fight, you can&#x27;t win!” — Eren Yeager, Attack on Titan" width="180" height="260" /></a>
+<a href="assets/daily/quote-2026-11-04.svg"><img src="assets/daily/quote-2026-11-04.svg" alt="“Those who break the rules are scum, but those who abandon their friends are worse than scum.” — Kakashi Hatake, Naruto" width="180" height="260" /></a>
 <br/><sub><b>💬 QUOTE</b></sub>
-<br/><b><a href="assets/daily/quote-2026-11-03.svg">Eren Yeager</a></b>
-<br/><sub>Attack on Titan</sub>
+<br/><b><a href="assets/daily/quote-2026-11-04.svg">Kakashi Hatake</a></b>
+<br/><sub>Naruto</sub>
 </td>
 </tr>
 </table>
