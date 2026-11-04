@@ -74,33 +74,33 @@
 <table>
 <tr>
 <td width="50%" valign="top" align="center">
-<a href="https://epic.gsfc.nasa.gov/"><img src="https://epic.gsfc.nasa.gov/archive/natural/2026/11/01/jpg/epic_1b_20261101010436.jpg" alt="Earth, 2 days ago" width="48%" />
-<img src="https://epic.gsfc.nasa.gov/archive/natural/2026/11/01/jpg/epic_1b_20261101081645.jpg" alt="Earth, 2 days ago" width="48%" />
-<img src="https://epic.gsfc.nasa.gov/archive/natural/2026/11/01/jpg/epic_1b_20261101152855.jpg" alt="Earth, 2 days ago" width="48%" />
-<img src="https://epic.gsfc.nasa.gov/archive/natural/2026/11/01/jpg/epic_1b_20261101224105.jpg" alt="Earth, 2 days ago" width="48%" /></a>
+<a href="https://epic.gsfc.nasa.gov/"><img src="https://epic.gsfc.nasa.gov/archive/natural/2026/11/01/jpg/epic_1b_20261101010436.jpg" alt="Earth, 3 days ago" width="48%" />
+<img src="https://epic.gsfc.nasa.gov/archive/natural/2026/11/01/jpg/epic_1b_20261101081645.jpg" alt="Earth, 3 days ago" width="48%" />
+<img src="https://epic.gsfc.nasa.gov/archive/natural/2026/11/01/jpg/epic_1b_20261101152855.jpg" alt="Earth, 3 days ago" width="48%" />
+<img src="https://epic.gsfc.nasa.gov/archive/natural/2026/11/01/jpg/epic_1b_20261101224105.jpg" alt="Earth, 3 days ago" width="48%" /></a>
 <br/><br/>
-<b>Earth, 2 days ago</b>
+<b>Earth, 3 days ago</b>
 <br/>
 <sub>Full-disc Earth from DSCOVR, 1.49 million km out. 4 frames from 2026-11-01; the latest is centred on 6°S 173°W.</sub>
 <br/><br/>
 <sub><i>NASA EPIC aboard DSCOVR, 2026-11-01</i></sub>
 </td>
 <td width="50%" valign="top" align="center">
-<img src="https://images-assets.nasa.gov/image/MAF_20240408_NOLAeclipse03/MAF_20240408_NOLAeclipse03~medium.jpg" alt="Partial Solar Eclipse in New Orleans" width="100%" />
+<img src="https://images-assets.nasa.gov/image/jsc2024e055570/jsc2024e055570~medium.jpg" alt="NASA astronaut Chris Williams participates in spacewalk training" width="100%" />
 <br/><br/>
-<b>Partial Solar Eclipse in New Orleans</b>
+<b>NASA astronaut Chris Williams participates in spacewalk training</b>
 <br/>
-<sub>Civil Air Patrol cadets (L to R) Benjamin Errington, Caden Thomas, and Isabelle Cooper of the Alvin Callander Composite Squadron record weather data...</sub>
+<sub>jsc2024e055570 (Aug. 13, 2024) --- NASA astronaut Chris Williams participates in spacewalk training at the Neutral Buoyancy Lab at NASA’s Johnson...</sub>
 <br/><br/>
-<sub><i>NASA Image Library, &quot;solar eclipse&quot;</i></sub>
+<sub><i>NASA Image Library, &quot;spacewalk&quot;</i></sub>
 </td>
 </tr>
 </table>
 
 <table>
 <tr>
-<td width="40%" valign="middle"><a href="https://spaceflightnow.com/2026/11/03/nasas-neil-gehrels-swift-observatory-to-burn-up-this-week-after-two-decades-in-space/"><img src="https://spaceflightnow.com/wp-content/uploads/2026/11/Swift_in_space_11.jpg" alt="NASA’s Neil Gehrels Swift Observatory to burn up this week after more than two decades in space" width="100%" /></a></td>
-<td valign="middle">📰 <b>Today in spaceflight</b><br/><br/><b><a href="https://spaceflightnow.com/2026/11/03/nasas-neil-gehrels-swift-observatory-to-burn-up-this-week-after-two-decades-in-space/">NASA’s Neil Gehrels Swift Observatory to burn up this week after more than two decades in space</a></b><br/><br/><sub>Spaceflight Now, 2026-11-03</sub></td>
+<td width="40%" valign="middle"><a href="https://europeanspaceflight.com/pld-space-completes-miura-5-flight-termination-system-test/"><img src="https://europeanspaceflight.com/wp-content/uploads/2026/11/PLD-Space-Completes-MIURA-5-Flight-Termination-System-Test.webp" alt="PLD Space Completes MIURA 5 Flight Termination System Test" width="100%" /></a></td>
+<td valign="middle">📰 <b>Today in spaceflight</b><br/><br/><b><a href="https://europeanspaceflight.com/pld-space-completes-miura-5-flight-termination-system-test/">PLD Space Completes MIURA 5 Flight Termination System Test</a></b><br/><br/><sub>European Spaceflight, 2026-11-04</sub></td>
 </tr>
 </table>
 <!-- SPACE:END -->
