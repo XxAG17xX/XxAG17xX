@@ -74,33 +74,33 @@
 <table>
 <tr>
 <td width="50%" valign="top" align="center">
-<a href="https://epic.gsfc.nasa.gov/"><img src="https://epic.gsfc.nasa.gov/archive/natural/2026/11/01/jpg/epic_1b_20261101010436.jpg" alt="Earth, 3 days ago" width="48%" />
-<img src="https://epic.gsfc.nasa.gov/archive/natural/2026/11/01/jpg/epic_1b_20261101081645.jpg" alt="Earth, 3 days ago" width="48%" />
-<img src="https://epic.gsfc.nasa.gov/archive/natural/2026/11/01/jpg/epic_1b_20261101152855.jpg" alt="Earth, 3 days ago" width="48%" />
-<img src="https://epic.gsfc.nasa.gov/archive/natural/2026/11/01/jpg/epic_1b_20261101224105.jpg" alt="Earth, 3 days ago" width="48%" /></a>
+<a href="https://epic.gsfc.nasa.gov/"><img src="https://epic.gsfc.nasa.gov/archive/natural/2026/11/03/jpg/epic_1b_20261103003634.jpg" alt="Earth, 2 days ago" width="48%" />
+<img src="https://epic.gsfc.nasa.gov/archive/natural/2026/11/03/jpg/epic_1b_20261103041238.jpg" alt="Earth, 2 days ago" width="48%" />
+<img src="https://epic.gsfc.nasa.gov/archive/natural/2026/11/03/jpg/epic_1b_20261103074843.jpg" alt="Earth, 2 days ago" width="48%" />
+<img src="https://epic.gsfc.nasa.gov/archive/natural/2026/11/03/jpg/epic_1b_20261103112447.jpg" alt="Earth, 2 days ago" width="48%" /></a>
 <br/><br/>
-<b>Earth, 3 days ago</b>
+<b>Earth, 2 days ago</b>
 <br/>
-<sub>Full-disc Earth from DSCOVR, 1.49 million km out. 4 frames from 2026-11-01; the latest is centred on 6°S 173°W.</sub>
+<sub>Full-disc Earth from DSCOVR, 1.49 million km out. 4 frames from 2026-11-03; the latest is centred on 7°S 4°W.</sub>
 <br/><br/>
-<sub><i>NASA EPIC aboard DSCOVR, 2026-11-01</i></sub>
+<sub><i>NASA EPIC aboard DSCOVR, 2026-11-03</i></sub>
 </td>
 <td width="50%" valign="top" align="center">
-<img src="https://images-assets.nasa.gov/image/jsc2024e055570/jsc2024e055570~medium.jpg" alt="NASA astronaut Chris Williams participates in spacewalk training" width="100%" />
+<img src="https://images-assets.nasa.gov/image/NHQ202606050007/NHQ202606050007~large.jpg" alt="Beyond the Deep Field: Hubble’s Legacy and the Future of Cosmi" width="100%" />
 <br/><br/>
-<b>NASA astronaut Chris Williams participates in spacewalk training</b>
+<b>Beyond the Deep Field: Hubble’s Legacy and the Future of Cosmi</b>
 <br/>
-<sub>jsc2024e055570 (Aug. 13, 2024) --- NASA astronaut Chris Williams participates in spacewalk training at the Neutral Buoyancy Lab at NASA’s Johnson...</sub>
+<sub>Matt Mountain, president of AURA, speaks about the history of the Hubble Space Telescope’s partnerships during an event titled “Beyond the Deep...</sub>
 <br/><br/>
-<sub><i>NASA Image Library, &quot;spacewalk&quot;</i></sub>
+<sub><i>NASA Image Library, &quot;hubble deep field&quot;</i></sub>
 </td>
 </tr>
 </table>
 
 <table>
 <tr>
-<td width="40%" valign="middle"><a href="https://europeanspaceflight.com/pld-space-completes-miura-5-flight-termination-system-test/"><img src="https://europeanspaceflight.com/wp-content/uploads/2026/11/PLD-Space-Completes-MIURA-5-Flight-Termination-System-Test.webp" alt="PLD Space Completes MIURA 5 Flight Termination System Test" width="100%" /></a></td>
-<td valign="middle">📰 <b>Today in spaceflight</b><br/><br/><b><a href="https://europeanspaceflight.com/pld-space-completes-miura-5-flight-termination-system-test/">PLD Space Completes MIURA 5 Flight Termination System Test</a></b><br/><br/><sub>European Spaceflight, 2026-11-04</sub></td>
+<td width="40%" valign="middle"><a href="https://spacenews.com/building-a-highway-to-the-moon-and-back-with-winnie-lai/"><img src="https://i0.wp.com/spacenews.com/wp-content/uploads/2026/11/space-minds-podcast-auriga-2000-1500.jpg?fit=1024%2C768&ssl=1" alt="Building a ‘highway to the moon and back’ with Winnie Lai" width="100%" /></a></td>
+<td valign="middle">📰 <b>Today in spaceflight</b><br/><br/><b><a href="https://spacenews.com/building-a-highway-to-the-moon-and-back-with-winnie-lai/">Building a ‘highway to the moon and back’ with Winnie Lai</a></b><br/><br/><sub>SpaceNews, 2026-11-05</sub></td>
 </tr>
 </table>
 <!-- SPACE:END -->
