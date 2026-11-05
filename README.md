@@ -113,27 +113,27 @@
 <table>
 <tr>
 <td width="25%" valign="top" align="center">
-<a href="https://anilist.co/anime/97940"><img src="https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx97940-fyh8o7gNbha0.png" alt="Black Clover" width="180" height="260" /></a>
+<a href="https://anilist.co/anime/101347"><img src="https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx101347-TGaDwEYqLfm1.jpg" alt="Dororo" width="180" height="260" /></a>
 <br/><sub><b>🎬 ANIME</b></sub>
-<br/><b><a href="https://anilist.co/anime/97940">Black Clover</a></b>
-<br/><sub>⭐ 7.9 · 2017 · 170 eps · Action · Adventure</sub>
+<br/><b><a href="https://anilist.co/anime/101347">Dororo</a></b>
+<br/><sub>⭐ 8.1 · 2019 · 24 eps · Action · Adventure</sub>
 </td>
 <td width="25%" valign="top" align="center">
-<a href="https://anilist.co/manga/33866"><img src="https://s4.anilist.co/file/anilistcdn/media/manga/cover/large/bx33866-3BaQrUrA7c2w.jpg" alt="Black Butler" width="180" height="260" /></a>
-<br/><sub><b>📖 MANGA</b></sub>
-<br/><b><a href="https://anilist.co/manga/33866">Black Butler</a></b>
-<br/><sub>⭐ 8.1 · 2006 · Action · Mystery</sub>
+<a href="https://anilist.co/manga/136331"><img src="https://s4.anilist.co/file/anilistcdn/media/manga/cover/large/bx136331-cM7yJu8RtCoU.jpg" alt="The Return of the 8th Class Mage" width="180" height="260" /></a>
+<br/><sub><b>📖 MANHWA</b></sub>
+<br/><b><a href="https://anilist.co/manga/136331">The Return of the 8th Class Mage</a></b>
+<br/><sub>⭐ 7.4 · 2021 · 81 chs · Action</sub>
 </td>
 <td width="25%" valign="top" align="center">
-<a href="https://openlibrary.org/works/OL46881W"><img src="https://covers.openlibrary.org/b/id/12882940-L.jpg" alt="Jurassic Park" width="180" height="260" /></a>
-<br/><sub><b>📚 THRILLER</b></sub>
-<br/><b><a href="https://openlibrary.org/works/OL46881W">Jurassic Park</a></b>
-<br/><sub>Michael Crichton · 1990 · ⭐ 8.3</sub>
+<a href="https://openlibrary.org/works/OL17429337W"><img src="https://covers.openlibrary.org/b/id/7561012-L.jpg" alt="Mastery" width="180" height="260" /></a>
+<br/><sub><b>📚 MINDSET</b></sub>
+<br/><b><a href="https://openlibrary.org/works/OL17429337W">Mastery</a></b>
+<br/><sub>Robert Greene · 2012 · ⭐ 7.7</sub>
 </td>
 <td width="25%" valign="top" align="center">
-<a href="assets/daily/quote-2026-11-04.svg"><img src="assets/daily/quote-2026-11-04.svg" alt="“Those who break the rules are scum, but those who abandon their friends are worse than scum.” — Kakashi Hatake, Naruto" width="180" height="260" /></a>
+<a href="assets/daily/quote-2026-11-05.svg"><img src="assets/daily/quote-2026-11-05.svg" alt="“People&#x27;s lives don&#x27;t end when they die. It ends when they lose faith.” — Itachi Uchiha, Naruto" width="180" height="260" /></a>
 <br/><sub><b>💬 QUOTE</b></sub>
-<br/><b><a href="assets/daily/quote-2026-11-04.svg">Kakashi Hatake</a></b>
+<br/><b><a href="assets/daily/quote-2026-11-05.svg">Itachi Uchiha</a></b>
 <br/><sub>Naruto</sub>
 </td>
 </tr>
