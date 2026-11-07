@@ -74,33 +74,33 @@
 <table>
 <tr>
 <td width="50%" valign="top" align="center">
-<a href="https://epic.gsfc.nasa.gov/"><img src="https://epic.gsfc.nasa.gov/archive/natural/2026/11/03/jpg/epic_1b_20261103003634.jpg" alt="Earth, 3 days ago" width="48%" />
-<img src="https://epic.gsfc.nasa.gov/archive/natural/2026/11/03/jpg/epic_1b_20261103041238.jpg" alt="Earth, 3 days ago" width="48%" />
-<img src="https://epic.gsfc.nasa.gov/archive/natural/2026/11/03/jpg/epic_1b_20261103074843.jpg" alt="Earth, 3 days ago" width="48%" />
-<img src="https://epic.gsfc.nasa.gov/archive/natural/2026/11/03/jpg/epic_1b_20261103112447.jpg" alt="Earth, 3 days ago" width="48%" /></a>
+<a href="https://www.star.nesdis.noaa.gov/GOES/fulldisk.php?sat=G19"><img src="https://cdn.star.nesdis.noaa.gov/GOES19/ABI/FD/GEOCOLOR/20263101830_GOES19-ABI-FD-GEOCOLOR-678x678.jpg" alt="Earth today" width="48%" />
+<img src="https://cdn.star.nesdis.noaa.gov/GOES19/ABI/FD/GEOCOLOR/20263110030_GOES19-ABI-FD-GEOCOLOR-678x678.jpg" alt="Earth today" width="48%" />
+<img src="https://cdn.star.nesdis.noaa.gov/GOES19/ABI/FD/GEOCOLOR/20263110630_GOES19-ABI-FD-GEOCOLOR-678x678.jpg" alt="Earth today" width="48%" />
+<img src="https://cdn.star.nesdis.noaa.gov/GOES19/ABI/FD/GEOCOLOR/20263111230_GOES19-ABI-FD-GEOCOLOR-678x678.jpg" alt="Earth today" width="48%" /></a>
 <br/><br/>
-<b>Earth, 3 days ago</b>
+<b>Earth today</b>
 <br/>
-<sub>Full-disc Earth from DSCOVR, 1.49 million km out. 4 frames from 2026-11-03; the latest is centred on 7°S 4°W.</sub>
+<sub>The Americas from NOAA&#x27;s GOES-19, 35,786 km up. 4 frames, six hours apart; the latest at 12:30 UTC. City lights show on the night side.</sub>
 <br/><br/>
-<sub><i>NASA EPIC aboard DSCOVR, 2026-11-03</i></sub>
+<sub><i>NOAA GOES-19 GeoColor, 2026-11-07</i></sub>
 </td>
 <td width="50%" valign="top" align="center">
-<img src="https://images-assets.nasa.gov/image/PIA11222/PIA11222~thumb.jpg" alt="Surface Stereo Imager on Mars, Side View" width="100%" />
+<img src="https://images-assets.nasa.gov/image/GSFC_20171208_Archive_e000833/GSFC_20171208_Archive_e000833~small.jpg" alt="Hubble&#x27;s High-Definition Panoramic View of the Andromeda Galaxy" width="100%" />
 <br/><br/>
-<b>Surface Stereo Imager on Mars, Side View</b>
+<b>Hubble&#x27;s High-Definition Panoramic View of the Andromeda Galaxy</b>
 <br/>
-<sub>Surface Stereo Imager on Mars, Side View</sub>
+<sub>Zoom into the Andromeda galaxy. The largest NASA Hubble Space Telescope image ever assembled, this sweeping view of a portion of the Andromeda galaxy...</sub>
 <br/><br/>
-<sub><i>NASA Image Library, &quot;mars surface&quot;</i></sub>
+<sub><i>NASA Image Library, &quot;andromeda&quot;</i></sub>
 </td>
 </tr>
 </table>
 
 <table>
 <tr>
-<td width="40%" valign="middle"><a href="https://europeanspaceflight.com/avio-scales-back-demonstrator-programme-amid-technical-challenges/"><img src="https://europeanspaceflight.com/wp-content/uploads/2026/11/Avio-Scales-Back-Demonstrator-Programme-Amid-Technical-Challenges.webp" alt="Avio Scales Back Demonstrator Programme Amid Technical Challenges" width="100%" /></a></td>
-<td valign="middle">📰 <b>Today in spaceflight</b><br/><br/><b><a href="https://europeanspaceflight.com/avio-scales-back-demonstrator-programme-amid-technical-challenges/">Avio Scales Back Demonstrator Programme Amid Technical Challenges</a></b><br/><br/><sub>European Spaceflight, 2026-11-06</sub></td>
+<td width="40%" valign="middle"><a href="https://science.nasa.gov/image-article/apod-2026-november-7-de-gerlache-kocher-massif/"><img src="https://assets.science.nasa.gov/dynamicimage/assets/science/cds/apod/apod/2026/november/GerlacheKocherMassif_Sans.jpg" alt="APOD: 2026 November 7 – De Gerlache-Kocher Massif" width="100%" /></a></td>
+<td valign="middle">📰 <b>Today in spaceflight</b><br/><br/><b><a href="https://science.nasa.gov/image-article/apod-2026-november-7-de-gerlache-kocher-massif/">APOD: 2026 November 7 – De Gerlache-Kocher Massif</a></b><br/><br/><sub>NASA, 2026-11-07</sub></td>
 </tr>
 </table>
 <!-- SPACE:END -->
