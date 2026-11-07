@@ -113,28 +113,28 @@
 <table>
 <tr>
 <td width="25%" valign="top" align="center">
-<a href="https://anilist.co/anime/161645"><img src="https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx161645-QLbzHXiYRgV2.jpg" alt="The Apothecary Diaries" width="180" height="260" /></a>
+<a href="https://anilist.co/anime/176496"><img src="https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx176496-9BDMjAZGEbq4.png" alt="Solo Leveling Season 2 -Arise from the Shadow-" width="180" height="260" /></a>
 <br/><sub><b>🎬 ANIME</b></sub>
-<br/><b><a href="https://anilist.co/anime/161645">The Apothecary Diaries</a></b>
-<br/><sub>⭐ 8.8 · 2023 · 24 eps · Mystery</sub>
+<br/><b><a href="https://anilist.co/anime/176496">Solo Leveling Season 2 -Arise from the...</a></b>
+<br/><sub>⭐ 8.4 · 2025 · 13 eps · Action · Adventure</sub>
 </td>
 <td width="25%" valign="top" align="center">
-<a href="https://anilist.co/manga/149800"><img src="https://s4.anilist.co/file/anilistcdn/media/manga/cover/large/bx149800-JW2EmQq94ym1.jpg" alt="Rhodes Kitchen - Tidbits" width="180" height="260" /></a>
-<br/><sub><b>📖 MANHUA</b></sub>
-<br/><b><a href="https://anilist.co/manga/149800">Rhodes Kitchen - Tidbits</a></b>
-<br/><sub>⭐ 6.8 · 2022 · 12 chs · Sci-Fi</sub>
+<a href="https://anilist.co/manga/108428"><img src="https://s4.anilist.co/file/anilistcdn/media/manga/cover/large/bx108428-wTg20rSpvkU9.jpg" alt="The Eminence in Shadow" width="180" height="260" /></a>
+<br/><sub><b>📖 NOVEL</b></sub>
+<br/><b><a href="https://anilist.co/manga/108428">The Eminence in Shadow</a></b>
+<br/><sub>⭐ 8.3 · 2018 · Action</sub>
 </td>
 <td width="25%" valign="top" align="center">
-<a href="https://openlibrary.org/works/OL24557376W"><img src="https://covers.openlibrary.org/b/id/11203708-L.jpg" alt="Man&#x27;s Search for Meaning" width="180" height="260" /></a>
-<br/><sub><b>📚 MINDSET</b></sub>
-<br/><b><a href="https://openlibrary.org/works/OL24557376W">Man&#x27;s Search for Meaning</a></b>
-<br/><sub>Viktor E. Frankl · 2017 · ⭐ 6.8</sub>
+<a href="https://openlibrary.org/works/OL29914687W"><img src="https://covers.openlibrary.org/b/id/13223488-L.jpg" alt="Altered Carbon" width="180" height="260" /></a>
+<br/><sub><b>📚 SCI-FI</b></sub>
+<br/><b><a href="https://openlibrary.org/works/OL29914687W">Altered Carbon</a></b>
+<br/><sub>Richard K. Morgan · 2002 · ⭐ 7.7</sub>
 </td>
 <td width="25%" valign="top" align="center">
-<a href="assets/daily/quote-2026-11-06.svg"><img src="assets/daily/quote-2026-11-06.svg" alt="“What I cannot create, I do not understand.” — Richard Feynman, his blackboard, 1988" width="180" height="260" /></a>
+<a href="assets/daily/quote-2026-11-07.svg"><img src="assets/daily/quote-2026-11-07.svg" alt="“I am nobody. And I have nothing. So let&#x27;s change everything.” — Sunny, Shadow Slave" width="180" height="260" /></a>
 <br/><sub><b>💬 QUOTE</b></sub>
-<br/><b><a href="assets/daily/quote-2026-11-06.svg">Richard Feynman</a></b>
-<br/><sub>his blackboard, 1988</sub>
+<br/><b><a href="assets/daily/quote-2026-11-07.svg">Sunny</a></b>
+<br/><sub>Shadow Slave</sub>
 </td>
 </tr>
 </table>
