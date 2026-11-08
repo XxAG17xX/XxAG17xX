@@ -74,33 +74,33 @@
 <table>
 <tr>
 <td width="50%" valign="top" align="center">
-<a href="https://www.star.nesdis.noaa.gov/GOES/fulldisk.php?sat=G19"><img src="https://cdn.star.nesdis.noaa.gov/GOES19/ABI/FD/GEOCOLOR/20263101830_GOES19-ABI-FD-GEOCOLOR-678x678.jpg" alt="Earth today" width="48%" />
-<img src="https://cdn.star.nesdis.noaa.gov/GOES19/ABI/FD/GEOCOLOR/20263110030_GOES19-ABI-FD-GEOCOLOR-678x678.jpg" alt="Earth today" width="48%" />
-<img src="https://cdn.star.nesdis.noaa.gov/GOES19/ABI/FD/GEOCOLOR/20263110630_GOES19-ABI-FD-GEOCOLOR-678x678.jpg" alt="Earth today" width="48%" />
-<img src="https://cdn.star.nesdis.noaa.gov/GOES19/ABI/FD/GEOCOLOR/20263111230_GOES19-ABI-FD-GEOCOLOR-678x678.jpg" alt="Earth today" width="48%" /></a>
+<a href="https://epic.gsfc.nasa.gov/"><img src="https://epic.gsfc.nasa.gov/archive/natural/2026/11/06/jpg/epic_1b_20261106002712.jpg" alt="Earth, 2 days ago" width="48%" />
+<img src="https://epic.gsfc.nasa.gov/archive/natural/2026/11/06/jpg/epic_1b_20261106055119.jpg" alt="Earth, 2 days ago" width="48%" />
+<img src="https://epic.gsfc.nasa.gov/archive/natural/2026/11/06/jpg/epic_1b_20261106130329.jpg" alt="Earth, 2 days ago" width="48%" />
+<img src="https://epic.gsfc.nasa.gov/archive/natural/2026/11/06/jpg/epic_1b_20261106182737.jpg" alt="Earth, 2 days ago" width="48%" /></a>
 <br/><br/>
-<b>Earth today</b>
+<b>Earth, 2 days ago</b>
 <br/>
-<sub>The Americas from NOAA&#x27;s GOES-19, 35,786 km up. 4 frames, six hours apart; the latest at 12:30 UTC. City lights show on the night side.</sub>
+<sub>Full-disc Earth from DSCOVR, 1.48 million km out. 4 frames from 2026-11-06; the latest is centred on 9°S 110°W.</sub>
 <br/><br/>
-<sub><i>NOAA GOES-19 GeoColor, 2026-11-07</i></sub>
+<sub><i>NASA EPIC aboard DSCOVR, 2026-11-06</i></sub>
 </td>
 <td width="50%" valign="top" align="center">
-<img src="https://images-assets.nasa.gov/image/GSFC_20171208_Archive_e000833/GSFC_20171208_Archive_e000833~small.jpg" alt="Hubble&#x27;s High-Definition Panoramic View of the Andromeda Galaxy" width="100%" />
+<img src="https://images-assets.nasa.gov/image/PIA04200/PIA04200~medium.jpg" alt="Doradus Nebula" width="100%" />
 <br/><br/>
-<b>Hubble&#x27;s High-Definition Panoramic View of the Andromeda Galaxy</b>
+<b>Doradus Nebula</b>
 <br/>
-<sub>Zoom into the Andromeda galaxy. The largest NASA Hubble Space Telescope image ever assembled, this sweeping view of a portion of the Andromeda galaxy...</sub>
+<sub>A panoramic view of a vast, sculpted area of gas and dust where thousands of stars are being born has been captured by NASA&#x27;s Hubble Space Telescope...</sub>
 <br/><br/>
-<sub><i>NASA Image Library, &quot;andromeda&quot;</i></sub>
+<sub><i>NASA Image Library, &quot;nebula&quot;</i></sub>
 </td>
 </tr>
 </table>
 
 <table>
 <tr>
-<td width="40%" valign="middle"><a href="https://science.nasa.gov/image-article/apod-2026-november-7-de-gerlache-kocher-massif/"><img src="https://assets.science.nasa.gov/dynamicimage/assets/science/cds/apod/apod/2026/november/GerlacheKocherMassif_Sans.jpg" alt="APOD: 2026 November 7 – De Gerlache-Kocher Massif" width="100%" /></a></td>
-<td valign="middle">📰 <b>Today in spaceflight</b><br/><br/><b><a href="https://science.nasa.gov/image-article/apod-2026-november-7-de-gerlache-kocher-massif/">APOD: 2026 November 7 – De Gerlache-Kocher Massif</a></b><br/><br/><sub>NASA, 2026-11-07</sub></td>
+<td width="40%" valign="middle"><a href="https://science.nasa.gov/image-article/apod-2026-november-8-major-fireball-meteor/"><img src="https://assets.science.nasa.gov/dynamicimage/assets/science/cds/apod/apod/2026/november/meteor2017_Taylor_1200.jpg" alt="APOD: 2026 November 8 – Major Fireball Meteor" width="100%" /></a></td>
+<td valign="middle">📰 <b>Today in spaceflight</b><br/><br/><b><a href="https://science.nasa.gov/image-article/apod-2026-november-8-major-fireball-meteor/">APOD: 2026 November 8 – Major Fireball Meteor</a></b><br/><br/><sub>NASA, 2026-11-08</sub></td>
 </tr>
 </table>
 <!-- SPACE:END -->
