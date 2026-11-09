@@ -113,27 +113,27 @@
 <table>
 <tr>
 <td width="25%" valign="top" align="center">
-<a href="https://anilist.co/anime/918"><img src="https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx918-iOaeBVUn4uK7.jpg" alt="Gintama" width="180" height="260" /></a>
+<a href="https://anilist.co/anime/20992"><img src="https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx20992-aHgNbcalVEqk.png" alt="HAIKYU!! 2nd Season" width="180" height="260" /></a>
 <br/><sub><b>🎬 ANIME</b></sub>
-<br/><b><a href="https://anilist.co/anime/918">Gintama</a></b>
-<br/><sub>⭐ 8.5 · 2006 · 201 eps · Action · Sci-Fi</sub>
+<br/><b><a href="https://anilist.co/anime/20992">HAIKYU!! 2nd Season</a></b>
+<br/><sub>⭐ 8.6 · 2015 · 25 eps · Sports</sub>
 </td>
 <td width="25%" valign="top" align="center">
-<a href="https://anilist.co/manga/74489"><img src="https://s4.anilist.co/file/anilistcdn/media/manga/cover/large/bx74489-5HtDCFfut8Be.jpg" alt="Land of the Lustrous" width="180" height="260" /></a>
-<br/><sub><b>📖 MANGA</b></sub>
-<br/><b><a href="https://anilist.co/manga/74489">Land of the Lustrous</a></b>
-<br/><sub>⭐ 8.9 · 2012 · 120 chs · Action · Mystery</sub>
+<a href="https://anilist.co/manga/123573"><img src="https://s4.anilist.co/file/anilistcdn/media/manga/cover/large/bx123573-LKoCKwRouEMW.png" alt="Lout of Count’s Family" width="180" height="260" /></a>
+<br/><sub><b>📖 MANHWA</b></sub>
+<br/><b><a href="https://anilist.co/manga/123573">Lout of Count’s Family</a></b>
+<br/><sub>⭐ 7.8 · 2020 · Action · Adventure</sub>
 </td>
 <td width="25%" valign="top" align="center">
-<a href="https://openlibrary.org/works/OL510405W"><img src="https://covers.openlibrary.org/b/id/8999878-L.jpg" alt="Ringworld" width="180" height="260" /></a>
-<br/><sub><b>📚 SCI-FI</b></sub>
-<br/><b><a href="https://openlibrary.org/works/OL510405W">Ringworld</a></b>
-<br/><sub>Larry Niven · 1970 · ⭐ 7.7</sub>
+<a href="https://openlibrary.org/works/OL453657W"><img src="https://covers.openlibrary.org/b/id/14647238-L.jpg" alt="The Colour of Magic" width="180" height="260" /></a>
+<br/><sub><b>📚 FANTASY</b></sub>
+<br/><b><a href="https://openlibrary.org/works/OL453657W">The Colour of Magic</a></b>
+<br/><sub>Terry Pratchett · 1983 · ⭐ 7.9</sub>
 </td>
 <td width="25%" valign="top" align="center">
-<a href="assets/daily/quote-2026-11-08.svg"><img src="assets/daily/quote-2026-11-08.svg" alt="“Only perseverance remains in my heart.” — Fang Yuan, Reverend Insanity" width="180" height="260" /></a>
+<a href="assets/daily/quote-2026-11-09.svg"><img src="assets/daily/quote-2026-11-09.svg" alt="“Because hardships strengthen resolve, the strong-minded will not be lured by worldly affairs. Today I step on grass; later I shall step on mountains and rivers!” — Fang Yuan, Reverend Insanity" width="180" height="260" /></a>
 <br/><sub><b>💬 QUOTE</b></sub>
-<br/><b><a href="assets/daily/quote-2026-11-08.svg">Fang Yuan</a></b>
+<br/><b><a href="assets/daily/quote-2026-11-09.svg">Fang Yuan</a></b>
 <br/><sub>Reverend Insanity</sub>
 </td>
 </tr>
