@@ -113,16 +113,16 @@
 <table>
 <tr>
 <td width="25%" valign="top" align="center">
-<a href="https://anilist.co/anime/20992"><img src="https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx20992-aHgNbcalVEqk.png" alt="HAIKYU!! 2nd Season" width="180" height="260" /></a>
+<a href="https://anilist.co/anime/105310"><img src="https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx105310-2PKUvoaA6fTn.jpg" alt="Fire Force" width="180" height="260" /></a>
 <br/><sub><b>🎬 ANIME</b></sub>
-<br/><b><a href="https://anilist.co/anime/20992">HAIKYU!! 2nd Season</a></b>
-<br/><sub>⭐ 8.6 · 2015 · 25 eps · Sports</sub>
+<br/><b><a href="https://anilist.co/anime/105310">Fire Force</a></b>
+<br/><sub>⭐ 7.6 · 2019 · 24 eps · Action · Sci-Fi</sub>
 </td>
 <td width="25%" valign="top" align="center">
-<a href="https://anilist.co/manga/123573"><img src="https://s4.anilist.co/file/anilistcdn/media/manga/cover/large/bx123573-LKoCKwRouEMW.png" alt="Lout of Count’s Family" width="180" height="260" /></a>
-<br/><sub><b>📖 MANHWA</b></sub>
-<br/><b><a href="https://anilist.co/manga/123573">Lout of Count’s Family</a></b>
-<br/><sub>⭐ 7.8 · 2020 · Action · Adventure</sub>
+<a href="https://anilist.co/manga/125291"><img src="https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/b125291-5UbQcPd0JwiV.png" alt="Lord of the Mysteries" width="180" height="260" /></a>
+<br/><sub><b>📖 MANHUA</b></sub>
+<br/><b><a href="https://anilist.co/manga/125291">Lord of the Mysteries</a></b>
+<br/><sub>⭐ 7.4 · 2020 · 65 chs · Action · Mystery</sub>
 </td>
 <td width="25%" valign="top" align="center">
 <a href="https://openlibrary.org/works/OL453657W"><img src="https://covers.openlibrary.org/b/id/14647238-L.jpg" alt="The Colour of Magic" width="180" height="260" /></a>
@@ -131,10 +131,10 @@
 <br/><sub>Terry Pratchett · 1983 · ⭐ 7.9</sub>
 </td>
 <td width="25%" valign="top" align="center">
-<a href="assets/daily/quote-2026-11-09.svg"><img src="assets/daily/quote-2026-11-09.svg" alt="“Because hardships strengthen resolve, the strong-minded will not be lured by worldly affairs. Today I step on grass; later I shall step on mountains and rivers!” — Fang Yuan, Reverend Insanity" width="180" height="260" /></a>
+<a href="assets/daily/quote-2026-11-10.svg"><img src="assets/daily/quote-2026-11-10.svg" alt="“A place where someone still thinks about you is a place you can call home.” — Jiraiya, Naruto" width="180" height="260" /></a>
 <br/><sub><b>💬 QUOTE</b></sub>
-<br/><b><a href="assets/daily/quote-2026-11-09.svg">Fang Yuan</a></b>
-<br/><sub>Reverend Insanity</sub>
+<br/><b><a href="assets/daily/quote-2026-11-10.svg">Jiraiya</a></b>
+<br/><sub>Naruto</sub>
 </td>
 </tr>
 </table>
