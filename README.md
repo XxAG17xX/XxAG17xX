@@ -74,33 +74,33 @@
 <table>
 <tr>
 <td width="50%" valign="top" align="center">
-<a href="https://epic.gsfc.nasa.gov/"><img src="https://epic.gsfc.nasa.gov/archive/natural/2026/11/07/jpg/epic_1b_20261107004554.jpg" alt="Earth, 2 days ago" width="48%" />
-<img src="https://epic.gsfc.nasa.gov/archive/natural/2026/11/07/jpg/epic_1b_20261107075803.jpg" alt="Earth, 2 days ago" width="48%" />
-<img src="https://epic.gsfc.nasa.gov/archive/natural/2026/11/07/jpg/epic_1b_20261107151013.jpg" alt="Earth, 2 days ago" width="48%" />
-<img src="https://epic.gsfc.nasa.gov/archive/natural/2026/11/07/jpg/epic_1b_20261107222223.jpg" alt="Earth, 2 days ago" width="48%" /></a>
+<a href="https://epic.gsfc.nasa.gov/"><img src="https://epic.gsfc.nasa.gov/archive/natural/2026/11/07/jpg/epic_1b_20261107004554.jpg" alt="Earth, 3 days ago" width="48%" />
+<img src="https://epic.gsfc.nasa.gov/archive/natural/2026/11/07/jpg/epic_1b_20261107075803.jpg" alt="Earth, 3 days ago" width="48%" />
+<img src="https://epic.gsfc.nasa.gov/archive/natural/2026/11/07/jpg/epic_1b_20261107151013.jpg" alt="Earth, 3 days ago" width="48%" />
+<img src="https://epic.gsfc.nasa.gov/archive/natural/2026/11/07/jpg/epic_1b_20261107222223.jpg" alt="Earth, 3 days ago" width="48%" /></a>
 <br/><br/>
-<b>Earth, 2 days ago</b>
+<b>Earth, 3 days ago</b>
 <br/>
 <sub>Full-disc Earth from DSCOVR, 1.47 million km out. 4 frames from 2026-11-07; the latest is centred on 9°S 169°W.</sub>
 <br/><br/>
 <sub><i>NASA EPIC aboard DSCOVR, 2026-11-07</i></sub>
 </td>
 <td width="50%" valign="top" align="center">
-<img src="https://images-assets.nasa.gov/image/PIA04624/PIA04624~medium.jpg" alt="Galaxy Centaurus A" width="100%" />
+<img src="https://images-assets.nasa.gov/image/GSFC_20171208_Archive_e001187/GSFC_20171208_Archive_e001187~medium.jpg" alt="GREECE Mission Launching Into Aurora" width="100%" />
 <br/><br/>
-<b>Galaxy Centaurus A</b>
+<b>GREECE Mission Launching Into Aurora</b>
 <br/>
-<sub>This image of the active galaxy Centaurus A was taken by NASA&#x27;s Galaxy Evolution Explorer on June 7, 2003. The galaxy is located 30 million...</sub>
+<sub>Caption: A NASA-funded sounding rocket launches into an aurora in the early morning of March 3, 2014, over Venetie, Alaska. The GREECE mission...</sub>
 <br/><br/>
-<sub><i>NASA Image Library, &quot;galaxy&quot;</i></sub>
+<sub><i>NASA Image Library, &quot;aurora&quot;</i></sub>
 </td>
 </tr>
 </table>
 
 <table>
 <tr>
-<td width="40%" valign="middle"><a href="https://www.nasa.gov/general/max-power-nasas-inaugural-aerospace-expo-ignites-americas-future/"><img src="https://www.nasa.gov/wp-content/uploads/2026/11/ksc-20261107-ph-jls01-0269.jpg" alt="MAX POWER: NASA’s Inaugural Aerospace Expo Ignites America’s Future" width="100%" /></a></td>
-<td valign="middle">📰 <b>Today in spaceflight</b><br/><br/><b><a href="https://www.nasa.gov/general/max-power-nasas-inaugural-aerospace-expo-ignites-americas-future/">MAX POWER: NASA’s Inaugural Aerospace Expo Ignites America’s Future</a></b><br/><br/><sub>NASA, 2026-11-09</sub></td>
+<td width="40%" valign="middle"><a href="https://spacenews.com/escapade-on-its-way-to-mars-after-earth-flybys/"><img src="https://i0.wp.com/spacenews.com/wp-content/uploads/2025/11/escapade_twins_Mars.jpg?fit=1024%2C482&ssl=1" alt="ESCAPADE on its way to Mars after Earth flybys" width="100%" /></a></td>
+<td valign="middle">📰 <b>Today in spaceflight</b><br/><br/><b><a href="https://spacenews.com/escapade-on-its-way-to-mars-after-earth-flybys/">ESCAPADE on its way to Mars after Earth flybys</a></b><br/><br/><sub>SpaceNews, 2026-11-10</sub></td>
 </tr>
 </table>
 <!-- SPACE:END -->
