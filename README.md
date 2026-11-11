@@ -113,28 +113,28 @@
 <table>
 <tr>
 <td width="25%" valign="top" align="center">
-<a href="https://anilist.co/anime/105310"><img src="https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx105310-2PKUvoaA6fTn.jpg" alt="Fire Force" width="180" height="260" /></a>
+<a href="https://anilist.co/anime/20931"><img src="https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/nx20931-bktYqOcxPERi.jpg" alt="Death Parade" width="180" height="260" /></a>
 <br/><sub><b>🎬 ANIME</b></sub>
-<br/><b><a href="https://anilist.co/anime/105310">Fire Force</a></b>
-<br/><sub>⭐ 7.6 · 2019 · 24 eps · Action · Sci-Fi</sub>
+<br/><b><a href="https://anilist.co/anime/20931">Death Parade</a></b>
+<br/><sub>⭐ 8.0 · 2015 · 12 eps · Mystery · Psychological</sub>
 </td>
 <td width="25%" valign="top" align="center">
-<a href="https://anilist.co/manga/125291"><img src="https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/b125291-5UbQcPd0JwiV.png" alt="Lord of the Mysteries" width="180" height="260" /></a>
-<br/><sub><b>📖 MANHUA</b></sub>
-<br/><b><a href="https://anilist.co/manga/125291">Lord of the Mysteries</a></b>
-<br/><sub>⭐ 7.4 · 2020 · 65 chs · Action · Mystery</sub>
+<a href="https://anilist.co/manga/86355"><img src="https://s4.anilist.co/file/anilistcdn/media/manga/cover/large/bx86355-pGwmLqVTwwE4.jpg" alt="That Time I Got Reincarnated as a Slime" width="180" height="260" /></a>
+<br/><sub><b>📖 NOVEL</b></sub>
+<br/><b><a href="https://anilist.co/manga/86355">That Time I Got Reincarnated as a Slime</a></b>
+<br/><sub>⭐ 8.4 · 2014 · 168 chs · Adventure</sub>
 </td>
 <td width="25%" valign="top" align="center">
-<a href="https://openlibrary.org/works/OL453657W"><img src="https://covers.openlibrary.org/b/id/14647238-L.jpg" alt="The Colour of Magic" width="180" height="260" /></a>
-<br/><sub><b>📚 FANTASY</b></sub>
-<br/><b><a href="https://openlibrary.org/works/OL453657W">The Colour of Magic</a></b>
-<br/><sub>Terry Pratchett · 1983 · ⭐ 7.9</sub>
+<a href="https://openlibrary.org/works/OL15992072W"><img src="https://covers.openlibrary.org/b/id/13290711-L.jpg" alt="Thinking, Fast and Slow" width="180" height="260" /></a>
+<br/><sub><b>📚 SCIENCE</b></sub>
+<br/><b><a href="https://openlibrary.org/works/OL15992072W">Thinking, Fast and Slow</a></b>
+<br/><sub>Daniel Kahneman · 2011 · ⭐ 8.2</sub>
 </td>
 <td width="25%" valign="top" align="center">
-<a href="assets/daily/quote-2026-11-10.svg"><img src="assets/daily/quote-2026-11-10.svg" alt="“A place where someone still thinks about you is a place you can call home.” — Jiraiya, Naruto" width="180" height="260" /></a>
+<a href="assets/daily/quote-2026-11-11.svg"><img src="assets/daily/quote-2026-11-11.svg" alt="“You have to be realistic about these things.” — Logen Ninefingers, The First Law" width="180" height="260" /></a>
 <br/><sub><b>💬 QUOTE</b></sub>
-<br/><b><a href="assets/daily/quote-2026-11-10.svg">Jiraiya</a></b>
-<br/><sub>Naruto</sub>
+<br/><b><a href="assets/daily/quote-2026-11-11.svg">Logen Ninefingers</a></b>
+<br/><sub>The First Law</sub>
 </td>
 </tr>
 </table>
