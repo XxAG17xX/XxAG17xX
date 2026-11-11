@@ -74,33 +74,33 @@
 <table>
 <tr>
 <td width="50%" valign="top" align="center">
-<a href="https://epic.gsfc.nasa.gov/"><img src="https://epic.gsfc.nasa.gov/archive/natural/2026/11/07/jpg/epic_1b_20261107004554.jpg" alt="Earth, 3 days ago" width="48%" />
-<img src="https://epic.gsfc.nasa.gov/archive/natural/2026/11/07/jpg/epic_1b_20261107075803.jpg" alt="Earth, 3 days ago" width="48%" />
-<img src="https://epic.gsfc.nasa.gov/archive/natural/2026/11/07/jpg/epic_1b_20261107151013.jpg" alt="Earth, 3 days ago" width="48%" />
-<img src="https://epic.gsfc.nasa.gov/archive/natural/2026/11/07/jpg/epic_1b_20261107222223.jpg" alt="Earth, 3 days ago" width="48%" /></a>
+<a href="https://epic.gsfc.nasa.gov/"><img src="https://epic.gsfc.nasa.gov/archive/natural/2026/11/09/jpg/epic_1b_20261109005515.jpg" alt="Earth, 2 days ago" width="48%" />
+<img src="https://epic.gsfc.nasa.gov/archive/natural/2026/11/09/jpg/epic_1b_20261109080725.jpg" alt="Earth, 2 days ago" width="48%" />
+<img src="https://epic.gsfc.nasa.gov/archive/natural/2026/11/09/jpg/epic_1b_20261109151936.jpg" alt="Earth, 2 days ago" width="48%" />
+<img src="https://epic.gsfc.nasa.gov/archive/natural/2026/11/09/jpg/epic_1b_20261109204343.jpg" alt="Earth, 2 days ago" width="48%" /></a>
 <br/><br/>
-<b>Earth, 3 days ago</b>
+<b>Earth, 2 days ago</b>
 <br/>
-<sub>Full-disc Earth from DSCOVR, 1.47 million km out. 4 frames from 2026-11-07; the latest is centred on 9°S 169°W.</sub>
+<sub>Full-disc Earth from DSCOVR, 1.46 million km out. 4 frames from 2026-11-09; the latest is centred on 10°S 144°W.</sub>
 <br/><br/>
-<sub><i>NASA EPIC aboard DSCOVR, 2026-11-07</i></sub>
+<sub><i>NASA EPIC aboard DSCOVR, 2026-11-09</i></sub>
 </td>
 <td width="50%" valign="top" align="center">
-<img src="https://images-assets.nasa.gov/image/GSFC_20171208_Archive_e001187/GSFC_20171208_Archive_e001187~medium.jpg" alt="GREECE Mission Launching Into Aurora" width="100%" />
+<img src="https://images-assets.nasa.gov/image/PIA09755/PIA09755~small.jpg" alt="Whirlwinds of Saturn" width="100%" />
 <br/><br/>
-<b>GREECE Mission Launching Into Aurora</b>
+<b>Whirlwinds of Saturn</b>
 <br/>
-<sub>Caption: A NASA-funded sounding rocket launches into an aurora in the early morning of March 3, 2014, over Venetie, Alaska. The GREECE mission...</sub>
+<sub>Whirlwinds of Saturn</sub>
 <br/><br/>
-<sub><i>NASA Image Library, &quot;aurora&quot;</i></sub>
+<sub><i>NASA Image Library, &quot;saturn&quot;</i></sub>
 </td>
 </tr>
 </table>
 
 <table>
 <tr>
-<td width="40%" valign="middle"><a href="https://spacenews.com/escapade-on-its-way-to-mars-after-earth-flybys/"><img src="https://i0.wp.com/spacenews.com/wp-content/uploads/2025/11/escapade_twins_Mars.jpg?fit=1024%2C482&ssl=1" alt="ESCAPADE on its way to Mars after Earth flybys" width="100%" /></a></td>
-<td valign="middle">📰 <b>Today in spaceflight</b><br/><br/><b><a href="https://spacenews.com/escapade-on-its-way-to-mars-after-earth-flybys/">ESCAPADE on its way to Mars after Earth flybys</a></b><br/><br/><sub>SpaceNews, 2026-11-10</sub></td>
+<td width="40%" valign="middle"><a href="https://spacenews.com/horizon-microtechnologies-targets-constellation-scale-production-as-esa-phi-lab-selection-strengthens-industrialisation-push/"><img src="https://i0.wp.com/spacenews.com/wp-content/uploads/2026/11/horizon-microtechnologies.png?fit=1021%2C1024&ssl=1" alt="Horizon Microtechnologies Targets Constellation-Scale Production As Esa Phi-Lab Selection Strengthens Industrialisation Push" width="100%" /></a></td>
+<td valign="middle">📰 <b>Today in spaceflight</b><br/><br/><b><a href="https://spacenews.com/horizon-microtechnologies-targets-constellation-scale-production-as-esa-phi-lab-selection-strengthens-industrialisation-push/">Horizon Microtechnologies Targets Constellation-Scale Production As Esa Phi-Lab Selection Strengthens Industrialisation Push</a></b><br/><br/><sub>SpaceNews, 2026-11-11</sub></td>
 </tr>
 </table>
 <!-- SPACE:END -->
