@@ -74,33 +74,33 @@
 <table>
 <tr>
 <td width="50%" valign="top" align="center">
-<a href="https://epic.gsfc.nasa.gov/"><img src="https://epic.gsfc.nasa.gov/archive/natural/2026/11/09/jpg/epic_1b_20261109005515.jpg" alt="Earth, 2 days ago" width="48%" />
-<img src="https://epic.gsfc.nasa.gov/archive/natural/2026/11/09/jpg/epic_1b_20261109080725.jpg" alt="Earth, 2 days ago" width="48%" />
-<img src="https://epic.gsfc.nasa.gov/archive/natural/2026/11/09/jpg/epic_1b_20261109151936.jpg" alt="Earth, 2 days ago" width="48%" />
-<img src="https://epic.gsfc.nasa.gov/archive/natural/2026/11/09/jpg/epic_1b_20261109204343.jpg" alt="Earth, 2 days ago" width="48%" /></a>
+<a href="https://epic.gsfc.nasa.gov/"><img src="https://epic.gsfc.nasa.gov/archive/natural/2026/11/10/jpg/epic_1b_20261110003633.jpg" alt="Earth, 2 days ago" width="48%" />
+<img src="https://epic.gsfc.nasa.gov/archive/natural/2026/11/10/jpg/epic_1b_20261110060041.jpg" alt="Earth, 2 days ago" width="48%" />
+<img src="https://epic.gsfc.nasa.gov/archive/natural/2026/11/10/jpg/epic_1b_20261110150053.jpg" alt="Earth, 2 days ago" width="48%" />
+<img src="https://epic.gsfc.nasa.gov/archive/natural/2026/11/10/jpg/epic_1b_20261110202500.jpg" alt="Earth, 2 days ago" width="48%" /></a>
 <br/><br/>
 <b>Earth, 2 days ago</b>
 <br/>
-<sub>Full-disc Earth from DSCOVR, 1.46 million km out. 4 frames from 2026-11-09; the latest is centred on 10°S 144°W.</sub>
+<sub>Full-disc Earth from DSCOVR, 1.46 million km out. 4 frames from 2026-11-10; the latest is centred on 11°S 139°W.</sub>
 <br/><br/>
-<sub><i>NASA EPIC aboard DSCOVR, 2026-11-09</i></sub>
+<sub><i>NASA EPIC aboard DSCOVR, 2026-11-10</i></sub>
 </td>
 <td width="50%" valign="top" align="center">
-<img src="https://images-assets.nasa.gov/image/PIA09755/PIA09755~small.jpg" alt="Whirlwinds of Saturn" width="100%" />
+<img src="https://images-assets.nasa.gov/image/PIA01521/PIA01521~small.jpg" alt="Jupiter White Oval" width="100%" />
 <br/><br/>
-<b>Whirlwinds of Saturn</b>
+<b>Jupiter White Oval</b>
 <br/>
-<sub>Whirlwinds of Saturn</sub>
+<sub>Jupiter White Oval</sub>
 <br/><br/>
-<sub><i>NASA Image Library, &quot;saturn&quot;</i></sub>
+<sub><i>NASA Image Library, &quot;jupiter&quot;</i></sub>
 </td>
 </tr>
 </table>
 
 <table>
 <tr>
-<td width="40%" valign="middle"><a href="https://spacenews.com/horizon-microtechnologies-targets-constellation-scale-production-as-esa-phi-lab-selection-strengthens-industrialisation-push/"><img src="https://i0.wp.com/spacenews.com/wp-content/uploads/2026/11/horizon-microtechnologies.png?fit=1021%2C1024&ssl=1" alt="Horizon Microtechnologies Targets Constellation-Scale Production As Esa Phi-Lab Selection Strengthens Industrialisation Push" width="100%" /></a></td>
-<td valign="middle">📰 <b>Today in spaceflight</b><br/><br/><b><a href="https://spacenews.com/horizon-microtechnologies-targets-constellation-scale-production-as-esa-phi-lab-selection-strengthens-industrialisation-push/">Horizon Microtechnologies Targets Constellation-Scale Production As Esa Phi-Lab Selection Strengthens Industrialisation Push</a></b><br/><br/><sub>SpaceNews, 2026-11-11</sub></td>
+<td width="40%" valign="middle"><a href="https://science.nasa.gov/missions/hubble/nasas-hubble-offers-cosmic-sampler-of-targets-for-roman/"><img src="https://assets.science.nasa.gov/dynamicimage/assets/science/missions/hubble/gravitational-lens/Hubble_lenscollage_P18085_ok4_noletters.tif" alt="NASA’s Hubble Offers Cosmic Sampler of Targets for Roman" width="100%" /></a></td>
+<td valign="middle">📰 <b>Today in spaceflight</b><br/><br/><b><a href="https://science.nasa.gov/missions/hubble/nasas-hubble-offers-cosmic-sampler-of-targets-for-roman/">NASA’s Hubble Offers Cosmic Sampler of Targets for Roman</a></b><br/><br/><sub>NASA, 2026-11-12</sub></td>
 </tr>
 </table>
 <!-- SPACE:END -->
