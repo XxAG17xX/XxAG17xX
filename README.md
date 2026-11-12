@@ -113,28 +113,28 @@
 <table>
 <tr>
 <td width="25%" valign="top" align="center">
-<a href="https://anilist.co/anime/20931"><img src="https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/nx20931-bktYqOcxPERi.jpg" alt="Death Parade" width="180" height="260" /></a>
+<a href="https://anilist.co/anime/151807"><img src="https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx151807-it355ZgzquUd.png" alt="Solo Leveling" width="180" height="260" /></a>
 <br/><sub><b>🎬 ANIME</b></sub>
-<br/><b><a href="https://anilist.co/anime/20931">Death Parade</a></b>
-<br/><sub>⭐ 8.0 · 2015 · 12 eps · Mystery · Psychological</sub>
+<br/><b><a href="https://anilist.co/anime/151807">Solo Leveling</a></b>
+<br/><sub>⭐ 8.0 · 2024 · 12 eps · Action · Adventure</sub>
 </td>
 <td width="25%" valign="top" align="center">
-<a href="https://anilist.co/manga/86355"><img src="https://s4.anilist.co/file/anilistcdn/media/manga/cover/large/bx86355-pGwmLqVTwwE4.jpg" alt="That Time I Got Reincarnated as a Slime" width="180" height="260" /></a>
-<br/><sub><b>📖 NOVEL</b></sub>
-<br/><b><a href="https://anilist.co/manga/86355">That Time I Got Reincarnated as a Slime</a></b>
-<br/><sub>⭐ 8.4 · 2014 · 168 chs · Adventure</sub>
+<a href="https://anilist.co/manga/31630"><img src="https://s4.anilist.co/file/anilistcdn/media/manga/cover/large/bx31630-Fg8JERVKuWB5.jpg" alt="JoJo&#x27;s Bizarre Adventure Part 2: Battle Tendency" width="180" height="260" /></a>
+<br/><sub><b>📖 MANGA</b></sub>
+<br/><b><a href="https://anilist.co/manga/31630">JoJo&#x27;s Bizarre Adventure Part 2: Battle...</a></b>
+<br/><sub>⭐ 7.8 · 1987 · 69 chs · Action · Adventure</sub>
 </td>
 <td width="25%" valign="top" align="center">
-<a href="https://openlibrary.org/works/OL15992072W"><img src="https://covers.openlibrary.org/b/id/13290711-L.jpg" alt="Thinking, Fast and Slow" width="180" height="260" /></a>
-<br/><sub><b>📚 SCIENCE</b></sub>
-<br/><b><a href="https://openlibrary.org/works/OL15992072W">Thinking, Fast and Slow</a></b>
-<br/><sub>Daniel Kahneman · 2011 · ⭐ 8.2</sub>
+<a href="https://openlibrary.org/works/OL17076473W"><img src="https://covers.openlibrary.org/b/id/7316188-L.jpg" alt="Red Rising" width="180" height="260" /></a>
+<br/><sub><b>📚 SCI-FI</b></sub>
+<br/><b><a href="https://openlibrary.org/works/OL17076473W">Red Rising</a></b>
+<br/><sub>Pierce Brown · 2014 · ⭐ 7.9</sub>
 </td>
 <td width="25%" valign="top" align="center">
-<a href="assets/daily/quote-2026-11-11.svg"><img src="assets/daily/quote-2026-11-11.svg" alt="“You have to be realistic about these things.” — Logen Ninefingers, The First Law" width="180" height="260" /></a>
+<a href="assets/daily/quote-2026-11-12.svg"><img src="assets/daily/quote-2026-11-12.svg" alt="“Hard work is worthless for those that don&#x27;t believe in themselves.” — Naruto Uzumaki, Naruto" width="180" height="260" /></a>
 <br/><sub><b>💬 QUOTE</b></sub>
-<br/><b><a href="assets/daily/quote-2026-11-11.svg">Logen Ninefingers</a></b>
-<br/><sub>The First Law</sub>
+<br/><b><a href="assets/daily/quote-2026-11-12.svg">Naruto Uzumaki</a></b>
+<br/><sub>Naruto</sub>
 </td>
 </tr>
 </table>
