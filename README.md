@@ -74,33 +74,33 @@
 <table>
 <tr>
 <td width="50%" valign="top" align="center">
-<a href="https://epic.gsfc.nasa.gov/"><img src="https://epic.gsfc.nasa.gov/archive/natural/2026/11/10/jpg/epic_1b_20261110003633.jpg" alt="Earth, 2 days ago" width="48%" />
-<img src="https://epic.gsfc.nasa.gov/archive/natural/2026/11/10/jpg/epic_1b_20261110060041.jpg" alt="Earth, 2 days ago" width="48%" />
-<img src="https://epic.gsfc.nasa.gov/archive/natural/2026/11/10/jpg/epic_1b_20261110150053.jpg" alt="Earth, 2 days ago" width="48%" />
-<img src="https://epic.gsfc.nasa.gov/archive/natural/2026/11/10/jpg/epic_1b_20261110202500.jpg" alt="Earth, 2 days ago" width="48%" /></a>
+<a href="https://epic.gsfc.nasa.gov/"><img src="https://epic.gsfc.nasa.gov/archive/natural/2026/11/11/jpg/epic_1b_20261111001752.jpg" alt="Earth, 2 days ago" width="48%" />
+<img src="https://epic.gsfc.nasa.gov/archive/natural/2026/11/11/jpg/epic_1b_20261111073001.jpg" alt="Earth, 2 days ago" width="48%" />
+<img src="https://epic.gsfc.nasa.gov/archive/natural/2026/11/11/jpg/epic_1b_20261111144211.jpg" alt="Earth, 2 days ago" width="48%" />
+<img src="https://epic.gsfc.nasa.gov/archive/natural/2026/11/11/jpg/epic_1b_20261111200619.jpg" alt="Earth, 2 days ago" width="48%" /></a>
 <br/><br/>
 <b>Earth, 2 days ago</b>
 <br/>
-<sub>Full-disc Earth from DSCOVR, 1.46 million km out. 4 frames from 2026-11-10; the latest is centred on 11°S 139°W.</sub>
+<sub>Full-disc Earth from DSCOVR, 1.46 million km out. 4 frames from 2026-11-11; the latest is centred on 11°S 135°W.</sub>
 <br/><br/>
-<sub><i>NASA EPIC aboard DSCOVR, 2026-11-10</i></sub>
+<sub><i>NASA EPIC aboard DSCOVR, 2026-11-11</i></sub>
 </td>
 <td width="50%" valign="top" align="center">
-<img src="https://images-assets.nasa.gov/image/PIA01521/PIA01521~small.jpg" alt="Jupiter White Oval" width="100%" />
+<img src="https://images-assets.nasa.gov/image/0200145/0200145~medium.jpg" alt="History of Chandra X-Ray Observatory" width="100%" />
 <br/><br/>
-<b>Jupiter White Oval</b>
+<b>History of Chandra X-Ray Observatory</b>
 <br/>
-<sub>Jupiter White Oval</sub>
+<sub>This image is a color composite of the supernova remnant E0102-72: x-ray (blue), optical (green), and radio (red). E0102-72 is the remnant of a star...</sub>
 <br/><br/>
-<sub><i>NASA Image Library, &quot;jupiter&quot;</i></sub>
+<sub><i>NASA Image Library, &quot;supernova remnant&quot;</i></sub>
 </td>
 </tr>
 </table>
 
 <table>
 <tr>
-<td width="40%" valign="middle"><a href="https://science.nasa.gov/missions/hubble/nasas-hubble-offers-cosmic-sampler-of-targets-for-roman/"><img src="https://assets.science.nasa.gov/dynamicimage/assets/science/missions/hubble/gravitational-lens/Hubble_lenscollage_P18085_ok4_noletters.tif" alt="NASA’s Hubble Offers Cosmic Sampler of Targets for Roman" width="100%" /></a></td>
-<td valign="middle">📰 <b>Today in spaceflight</b><br/><br/><b><a href="https://science.nasa.gov/missions/hubble/nasas-hubble-offers-cosmic-sampler-of-targets-for-roman/">NASA’s Hubble Offers Cosmic Sampler of Targets for Roman</a></b><br/><br/><sub>NASA, 2026-11-12</sub></td>
+<td width="40%" valign="middle"><a href="https://arstechnica.com/space/2026/11/rocket-report-starship-set-for-historic-test-flight-a-century-of-electron/"><img src="https://cdn.arstechnica.net/wp-content/uploads/2026/11/electron-livery.jpeg" alt="Rocket Report: Starship set for historic test flight; a century of Electron" width="100%" /></a></td>
+<td valign="middle">📰 <b>Today in spaceflight</b><br/><br/><b><a href="https://arstechnica.com/space/2026/11/rocket-report-starship-set-for-historic-test-flight-a-century-of-electron/">Rocket Report: Starship set for historic test flight; a century of Electron</a></b><br/><br/><sub>Arstechnica, 2026-11-13</sub></td>
 </tr>
 </table>
 <!-- SPACE:END -->
