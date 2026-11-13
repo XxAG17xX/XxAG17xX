@@ -113,28 +113,28 @@
 <table>
 <tr>
 <td width="25%" valign="top" align="center">
-<a href="https://anilist.co/anime/151807"><img src="https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx151807-it355ZgzquUd.png" alt="Solo Leveling" width="180" height="260" /></a>
+<a href="https://anilist.co/anime/13601"><img src="https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx13601-i42VFuHpqEOJ.jpg" alt="PSYCHO-PASS" width="180" height="260" /></a>
 <br/><sub><b>🎬 ANIME</b></sub>
-<br/><b><a href="https://anilist.co/anime/151807">Solo Leveling</a></b>
-<br/><sub>⭐ 8.0 · 2024 · 12 eps · Action · Adventure</sub>
+<br/><b><a href="https://anilist.co/anime/13601">PSYCHO-PASS</a></b>
+<br/><sub>⭐ 8.1 · 2012 · 22 eps · Action · Psychological</sub>
 </td>
 <td width="25%" valign="top" align="center">
-<a href="https://anilist.co/manga/31630"><img src="https://s4.anilist.co/file/anilistcdn/media/manga/cover/large/bx31630-Fg8JERVKuWB5.jpg" alt="JoJo&#x27;s Bizarre Adventure Part 2: Battle Tendency" width="180" height="260" /></a>
-<br/><sub><b>📖 MANGA</b></sub>
-<br/><b><a href="https://anilist.co/manga/31630">JoJo&#x27;s Bizarre Adventure Part 2: Battle...</a></b>
-<br/><sub>⭐ 7.8 · 1987 · 69 chs · Action · Adventure</sub>
+<a href="https://anilist.co/manga/103156"><img src="https://s4.anilist.co/file/anilistcdn/media/manga/cover/large/bx103156-yTVWAW2N8uGi.jpg" alt="The Skeleton Soldier Failed to Defend the Dungeon" width="180" height="260" /></a>
+<br/><sub><b>📖 MANHWA</b></sub>
+<br/><b><a href="https://anilist.co/manga/103156">The Skeleton Soldier Failed to Defend the...</a></b>
+<br/><sub>⭐ 7.4 · 2018 · Action · Adventure</sub>
 </td>
 <td width="25%" valign="top" align="center">
-<a href="https://openlibrary.org/works/OL17076473W"><img src="https://covers.openlibrary.org/b/id/7316188-L.jpg" alt="Red Rising" width="180" height="260" /></a>
-<br/><sub><b>📚 SCI-FI</b></sub>
-<br/><b><a href="https://openlibrary.org/works/OL17076473W">Red Rising</a></b>
-<br/><sub>Pierce Brown · 2014 · ⭐ 7.9</sub>
+<a href="https://openlibrary.org/works/OL1673205W"><img src="https://covers.openlibrary.org/b/id/6507069-L.jpg" alt="The Godfather" width="180" height="260" /></a>
+<br/><sub><b>📚 THRILLER</b></sub>
+<br/><b><a href="https://openlibrary.org/works/OL1673205W">The Godfather</a></b>
+<br/><sub>Mario Puzo · 1969 · ⭐ 8.6</sub>
 </td>
 <td width="25%" valign="top" align="center">
-<a href="assets/daily/quote-2026-11-12.svg"><img src="assets/daily/quote-2026-11-12.svg" alt="“Hard work is worthless for those that don&#x27;t believe in themselves.” — Naruto Uzumaki, Naruto" width="180" height="260" /></a>
+<a href="assets/daily/quote-2026-11-13.svg"><img src="assets/daily/quote-2026-11-13.svg" alt="“We suffer more often in imagination than in reality.” — Seneca, Letters to Lucilius" width="180" height="260" /></a>
 <br/><sub><b>💬 QUOTE</b></sub>
-<br/><b><a href="assets/daily/quote-2026-11-12.svg">Naruto Uzumaki</a></b>
-<br/><sub>Naruto</sub>
+<br/><b><a href="assets/daily/quote-2026-11-13.svg">Seneca</a></b>
+<br/><sub>Letters to Lucilius</sub>
 </td>
 </tr>
 </table>
