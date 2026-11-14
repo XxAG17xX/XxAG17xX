@@ -74,33 +74,33 @@
 <table>
 <tr>
 <td width="50%" valign="top" align="center">
-<a href="https://epic.gsfc.nasa.gov/"><img src="https://epic.gsfc.nasa.gov/archive/natural/2026/11/11/jpg/epic_1b_20261111001752.jpg" alt="Earth, 2 days ago" width="48%" />
-<img src="https://epic.gsfc.nasa.gov/archive/natural/2026/11/11/jpg/epic_1b_20261111073001.jpg" alt="Earth, 2 days ago" width="48%" />
-<img src="https://epic.gsfc.nasa.gov/archive/natural/2026/11/11/jpg/epic_1b_20261111144211.jpg" alt="Earth, 2 days ago" width="48%" />
-<img src="https://epic.gsfc.nasa.gov/archive/natural/2026/11/11/jpg/epic_1b_20261111200619.jpg" alt="Earth, 2 days ago" width="48%" /></a>
+<a href="https://epic.gsfc.nasa.gov/"><img src="https://epic.gsfc.nasa.gov/archive/natural/2026/11/12/jpg/epic_1b_20261112000830.jpg" alt="Earth, 2 days ago" width="48%" />
+<img src="https://epic.gsfc.nasa.gov/archive/natural/2026/11/12/jpg/epic_1b_20261112072041.jpg" alt="Earth, 2 days ago" width="48%" />
+<img src="https://epic.gsfc.nasa.gov/archive/natural/2026/11/12/jpg/epic_1b_20261112143251.jpg" alt="Earth, 2 days ago" width="48%" />
+<img src="https://epic.gsfc.nasa.gov/archive/natural/2026/11/12/jpg/epic_1b_20261112195658.jpg" alt="Earth, 2 days ago" width="48%" /></a>
 <br/><br/>
 <b>Earth, 2 days ago</b>
 <br/>
-<sub>Full-disc Earth from DSCOVR, 1.46 million km out. 4 frames from 2026-11-11; the latest is centred on 11°S 135°W.</sub>
+<sub>Full-disc Earth from DSCOVR, 1.45 million km out. 4 frames from 2026-11-12; the latest is centred on 12°S 132°W.</sub>
 <br/><br/>
-<sub><i>NASA EPIC aboard DSCOVR, 2026-11-11</i></sub>
+<sub><i>NASA EPIC aboard DSCOVR, 2026-11-12</i></sub>
 </td>
 <td width="50%" valign="top" align="center">
-<img src="https://images-assets.nasa.gov/image/0200145/0200145~medium.jpg" alt="History of Chandra X-Ray Observatory" width="100%" />
+<img src="https://images-assets.nasa.gov/image/GSFC_20171208_Archive_e000635/GSFC_20171208_Archive_e000635~small.jpg" alt="Hubble Sees a Youthful Cluster" width="100%" />
 <br/><br/>
-<b>History of Chandra X-Ray Observatory</b>
+<b>Hubble Sees a Youthful Cluster</b>
 <br/>
-<sub>This image is a color composite of the supernova remnant E0102-72: x-ray (blue), optical (green), and radio (red). E0102-72 is the remnant of a star...</sub>
+<sub>Shown here in a new image taken with the Advanced Camera for Surveys (ACS) on board the NASA/ESA Hubble Space Telescope is the globular cluster NGC...</sub>
 <br/><br/>
-<sub><i>NASA Image Library, &quot;supernova remnant&quot;</i></sub>
+<sub><i>NASA Image Library, &quot;star cluster&quot;</i></sub>
 </td>
 </tr>
 </table>
 
 <table>
 <tr>
-<td width="40%" valign="middle"><a href="https://arstechnica.com/space/2026/11/rocket-report-starship-set-for-historic-test-flight-a-century-of-electron/"><img src="https://cdn.arstechnica.net/wp-content/uploads/2026/11/electron-livery.jpeg" alt="Rocket Report: Starship set for historic test flight; a century of Electron" width="100%" /></a></td>
-<td valign="middle">📰 <b>Today in spaceflight</b><br/><br/><b><a href="https://arstechnica.com/space/2026/11/rocket-report-starship-set-for-historic-test-flight-a-century-of-electron/">Rocket Report: Starship set for historic test flight; a century of Electron</a></b><br/><br/><sub>Arstechnica, 2026-11-13</sub></td>
+<td width="40%" valign="middle"><a href="https://europeanspaceflight.com/next-vega-c-launch-edges-closer-to-christmas-day-as-satellites-arrive-late/"><img src="https://europeanspaceflight.com/wp-content/uploads/2026/11/Next-Vega-C-Launch-Edges-Closer-to-Christmas-Day-as-Satellites-Arrive-Late.webp" alt="Next Vega C Launch Edges Closer to Christmas Day as Satellites Arrive Late" width="100%" /></a></td>
+<td valign="middle">📰 <b>Today in spaceflight</b><br/><br/><b><a href="https://europeanspaceflight.com/next-vega-c-launch-edges-closer-to-christmas-day-as-satellites-arrive-late/">Next Vega C Launch Edges Closer to Christmas Day as Satellites Arrive Late</a></b><br/><br/><sub>European Spaceflight, 2026-11-14</sub></td>
 </tr>
 </table>
 <!-- SPACE:END -->
