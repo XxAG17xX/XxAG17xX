@@ -74,33 +74,33 @@
 <table>
 <tr>
 <td width="50%" valign="top" align="center">
-<a href="https://epic.gsfc.nasa.gov/"><img src="https://epic.gsfc.nasa.gov/archive/natural/2026/11/12/jpg/epic_1b_20261112000830.jpg" alt="Earth, 2 days ago" width="48%" />
-<img src="https://epic.gsfc.nasa.gov/archive/natural/2026/11/12/jpg/epic_1b_20261112072041.jpg" alt="Earth, 2 days ago" width="48%" />
-<img src="https://epic.gsfc.nasa.gov/archive/natural/2026/11/12/jpg/epic_1b_20261112143251.jpg" alt="Earth, 2 days ago" width="48%" />
-<img src="https://epic.gsfc.nasa.gov/archive/natural/2026/11/12/jpg/epic_1b_20261112195658.jpg" alt="Earth, 2 days ago" width="48%" /></a>
+<a href="https://epic.gsfc.nasa.gov/"><img src="https://epic.gsfc.nasa.gov/archive/natural/2026/11/13/jpg/epic_1b_20261113002712.jpg" alt="Earth, 2 days ago" width="48%" />
+<img src="https://epic.gsfc.nasa.gov/archive/natural/2026/11/13/jpg/epic_1b_20261113073923.jpg" alt="Earth, 2 days ago" width="48%" />
+<img src="https://epic.gsfc.nasa.gov/archive/natural/2026/11/13/jpg/epic_1b_20261113145133.jpg" alt="Earth, 2 days ago" width="48%" />
+<img src="https://epic.gsfc.nasa.gov/archive/natural/2026/11/13/jpg/epic_1b_20261113201540.jpg" alt="Earth, 2 days ago" width="48%" /></a>
 <br/><br/>
 <b>Earth, 2 days ago</b>
 <br/>
-<sub>Full-disc Earth from DSCOVR, 1.45 million km out. 4 frames from 2026-11-12; the latest is centred on 12°S 132°W.</sub>
+<sub>Full-disc Earth from DSCOVR, 1.45 million km out. 4 frames from 2026-11-13; the latest is centred on 13°S 137°W.</sub>
 <br/><br/>
-<sub><i>NASA EPIC aboard DSCOVR, 2026-11-12</i></sub>
+<sub><i>NASA EPIC aboard DSCOVR, 2026-11-13</i></sub>
 </td>
 <td width="50%" valign="top" align="center">
-<img src="https://images-assets.nasa.gov/image/GSFC_20171208_Archive_e000635/GSFC_20171208_Archive_e000635~small.jpg" alt="Hubble Sees a Youthful Cluster" width="100%" />
+<img src="https://images-assets.nasa.gov/image/MSFC-1701260/MSFC-1701260~medium.jpg" alt="2017 Solar Eclipse Event" width="100%" />
 <br/><br/>
-<b>Hubble Sees a Youthful Cluster</b>
+<b>2017 Solar Eclipse Event</b>
 <br/>
-<sub>Shown here in a new image taken with the Advanced Camera for Surveys (ACS) on board the NASA/ESA Hubble Space Telescope is the globular cluster NGC...</sub>
+<sub>Judy Darwin of the Marshall Space Flight Center’s Office of the Chief Information Officer (CIO) views the August 21, 2017 solar eclipse through the...</sub>
 <br/><br/>
-<sub><i>NASA Image Library, &quot;star cluster&quot;</i></sub>
+<sub><i>NASA Image Library, &quot;solar eclipse&quot;</i></sub>
 </td>
 </tr>
 </table>
 
 <table>
 <tr>
-<td width="40%" valign="middle"><a href="https://europeanspaceflight.com/next-vega-c-launch-edges-closer-to-christmas-day-as-satellites-arrive-late/"><img src="https://europeanspaceflight.com/wp-content/uploads/2026/11/Next-Vega-C-Launch-Edges-Closer-to-Christmas-Day-as-Satellites-Arrive-Late.webp" alt="Next Vega C Launch Edges Closer to Christmas Day as Satellites Arrive Late" width="100%" /></a></td>
-<td valign="middle">📰 <b>Today in spaceflight</b><br/><br/><b><a href="https://europeanspaceflight.com/next-vega-c-launch-edges-closer-to-christmas-day-as-satellites-arrive-late/">Next Vega C Launch Edges Closer to Christmas Day as Satellites Arrive Late</a></b><br/><br/><sub>European Spaceflight, 2026-11-14</sub></td>
+<td width="40%" valign="middle"><a href="https://science.nasa.gov/image-article/apod-2026-november-15-leonid-meteors-through-orion/"><img src="https://assets.science.nasa.gov/dynamicimage/assets/science/cds/apod/apod/2026/november/Leonids2022_Hongyang_2880.jpg" alt="APOD: 2026 November 15 – Leonid Meteors Through Orion" width="100%" /></a></td>
+<td valign="middle">📰 <b>Today in spaceflight</b><br/><br/><b><a href="https://science.nasa.gov/image-article/apod-2026-november-15-leonid-meteors-through-orion/">APOD: 2026 November 15 – Leonid Meteors Through Orion</a></b><br/><br/><sub>NASA, 2026-11-15</sub></td>
 </tr>
 </table>
 <!-- SPACE:END -->
