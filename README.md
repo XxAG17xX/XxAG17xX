@@ -113,28 +113,28 @@
 <table>
 <tr>
 <td width="25%" valign="top" align="center">
-<a href="https://anilist.co/anime/145139"><img src="https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx145139-rRimpHGWLhym.png" alt="Demon Slayer: Kimetsu no Yaiba Swordsmith Village Arc" width="180" height="260" /></a>
+<a href="https://anilist.co/anime/99263"><img src="https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx99263-LcazQwdlWzMy.jpg" alt="The Rising of the Shield Hero" width="180" height="260" /></a>
 <br/><sub><b>🎬 ANIME</b></sub>
-<br/><b><a href="https://anilist.co/anime/145139">Demon Slayer: Kimetsu no Yaiba Swordsmith...</a></b>
-<br/><sub>⭐ 8.0 · 2023 · 11 eps · Action · Adventure</sub>
+<br/><b><a href="https://anilist.co/anime/99263">The Rising of the Shield Hero</a></b>
+<br/><sub>⭐ 7.6 · 2019 · 25 eps · Action · Adventure</sub>
 </td>
 <td width="25%" valign="top" align="center">
-<a href="https://anilist.co/manga/177424"><img src="https://s4.anilist.co/file/anilistcdn/media/manga/cover/large/bx177424-oaFEkD6yeigq.jpg" alt="I Am Invincible: Start From Awing My Empress Wife" width="180" height="260" /></a>
-<br/><sub><b>📖 MANHUA</b></sub>
-<br/><b><a href="https://anilist.co/manga/177424">I Am Invincible: Start From Awing My...</a></b>
-<br/><sub>⭐ 6.8 · 2023 · Action</sub>
+<a href="https://anilist.co/manga/85976"><img src="https://s4.anilist.co/file/anilistcdn/media/manga/cover/large/bx85976-hVr99G1kD1M5.png" alt="Overlord" width="180" height="260" /></a>
+<br/><sub><b>📖 NOVEL</b></sub>
+<br/><b><a href="https://anilist.co/manga/85976">Overlord</a></b>
+<br/><sub>⭐ 8.5 · 2012 · Action · Adventure</sub>
 </td>
 <td width="25%" valign="top" align="center">
-<a href="https://openlibrary.org/works/OL17078706W"><img src="https://covers.openlibrary.org/b/id/9002334-L.jpg" alt="Zero to One" width="180" height="260" /></a>
-<br/><sub><b>📚 BUILDER</b></sub>
-<br/><b><a href="https://openlibrary.org/works/OL17078706W">Zero to One</a></b>
-<br/><sub>Peter Thiel · 2001 · ⭐ 8.2</sub>
+<a href="https://openlibrary.org/works/OL13805586W"><img src="https://covers.openlibrary.org/b/id/8473368-L.jpg" alt="Born to Run" width="180" height="260" /></a>
+<br/><sub><b>📚 MINDSET</b></sub>
+<br/><b><a href="https://openlibrary.org/works/OL13805586W">Born to Run</a></b>
+<br/><sub>Christopher McDougall · 2009 · ⭐ 9.0</sub>
 </td>
 <td width="25%" valign="top" align="center">
-<a href="assets/daily/quote-2026-11-14.svg"><img src="assets/daily/quote-2026-11-14.svg" alt="“We are a way for the cosmos to know itself.” — Carl Sagan, Cosmos" width="180" height="260" /></a>
+<a href="assets/daily/quote-2026-11-15.svg"><img src="assets/daily/quote-2026-11-15.svg" alt="“Because it has no legs, only wings, thus it has no choice but to fly.” — Fang Yuan, Reverend Insanity" width="180" height="260" /></a>
 <br/><sub><b>💬 QUOTE</b></sub>
-<br/><b><a href="assets/daily/quote-2026-11-14.svg">Carl Sagan</a></b>
-<br/><sub>Cosmos</sub>
+<br/><b><a href="assets/daily/quote-2026-11-15.svg">Fang Yuan</a></b>
+<br/><sub>Reverend Insanity</sub>
 </td>
 </tr>
 </table>
