@@ -113,28 +113,28 @@
 <table>
 <tr>
 <td width="25%" valign="top" align="center">
-<a href="https://anilist.co/anime/99263"><img src="https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx99263-LcazQwdlWzMy.jpg" alt="The Rising of the Shield Hero" width="180" height="260" /></a>
+<a href="https://anilist.co/anime/129874"><img src="https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx129874-g6ZKXB94Hui1.jpg" alt="Demon Slayer: Kimetsu no Yaiba Mugen Train Arc" width="180" height="260" /></a>
 <br/><sub><b>🎬 ANIME</b></sub>
-<br/><b><a href="https://anilist.co/anime/99263">The Rising of the Shield Hero</a></b>
-<br/><sub>⭐ 7.6 · 2019 · 25 eps · Action · Adventure</sub>
+<br/><b><a href="https://anilist.co/anime/129874">Demon Slayer: Kimetsu no Yaiba Mugen...</a></b>
+<br/><sub>⭐ 8.2 · 2021 · 7 eps · Action · Adventure</sub>
 </td>
 <td width="25%" valign="top" align="center">
-<a href="https://anilist.co/manga/85976"><img src="https://s4.anilist.co/file/anilistcdn/media/manga/cover/large/bx85976-hVr99G1kD1M5.png" alt="Overlord" width="180" height="260" /></a>
-<br/><sub><b>📖 NOVEL</b></sub>
-<br/><b><a href="https://anilist.co/manga/85976">Overlord</a></b>
-<br/><sub>⭐ 8.5 · 2012 · Action · Adventure</sub>
+<a href="https://anilist.co/manga/85316"><img src="https://s4.anilist.co/file/anilistcdn/media/manga/cover/large/bx85316-EGrSrwSMeOxd.jpg" alt="Dead Dead Demon&#x27;s Dededede Destruction" width="180" height="260" /></a>
+<br/><sub><b>📖 MANGA</b></sub>
+<br/><b><a href="https://anilist.co/manga/85316">Dead Dead Demon&#x27;s Dededede Destruction</a></b>
+<br/><sub>⭐ 8.1 · 2014 · 101 chs · Sci-Fi</sub>
 </td>
 <td width="25%" valign="top" align="center">
-<a href="https://openlibrary.org/works/OL13805586W"><img src="https://covers.openlibrary.org/b/id/8473368-L.jpg" alt="Born to Run" width="180" height="260" /></a>
+<a href="https://openlibrary.org/works/OL20131297W"><img src="https://covers.openlibrary.org/b/id/8782615-L.jpg" alt="Range" width="180" height="260" /></a>
 <br/><sub><b>📚 MINDSET</b></sub>
-<br/><b><a href="https://openlibrary.org/works/OL13805586W">Born to Run</a></b>
-<br/><sub>Christopher McDougall · 2009 · ⭐ 9.0</sub>
+<br/><b><a href="https://openlibrary.org/works/OL20131297W">Range</a></b>
+<br/><sub>David Epstein · 2019 · ⭐ 7.6</sub>
 </td>
 <td width="25%" valign="top" align="center">
-<a href="assets/daily/quote-2026-11-15.svg"><img src="assets/daily/quote-2026-11-15.svg" alt="“Because it has no legs, only wings, thus it has no choice but to fly.” — Fang Yuan, Reverend Insanity" width="180" height="260" /></a>
+<a href="assets/daily/quote-2026-11-16.svg"><img src="assets/daily/quote-2026-11-16.svg" alt="“Stand up and walk. Keep moving forward. You&#x27;ve got two good legs.” — Edward Elric, Fullmetal Alchemist" width="180" height="260" /></a>
 <br/><sub><b>💬 QUOTE</b></sub>
-<br/><b><a href="assets/daily/quote-2026-11-15.svg">Fang Yuan</a></b>
-<br/><sub>Reverend Insanity</sub>
+<br/><b><a href="assets/daily/quote-2026-11-16.svg">Edward Elric</a></b>
+<br/><sub>Fullmetal Alchemist</sub>
 </td>
 </tr>
 </table>
