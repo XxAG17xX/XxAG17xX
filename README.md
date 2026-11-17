@@ -74,33 +74,33 @@
 <table>
 <tr>
 <td width="50%" valign="top" align="center">
-<a href="https://epic.gsfc.nasa.gov/"><img src="https://epic.gsfc.nasa.gov/archive/natural/2026/11/14/jpg/epic_1b_20261114004554.jpg" alt="Earth, 2 days ago" width="48%" />
-<img src="https://epic.gsfc.nasa.gov/archive/natural/2026/11/14/jpg/epic_1b_20261114075804.jpg" alt="Earth, 2 days ago" width="48%" />
-<img src="https://epic.gsfc.nasa.gov/archive/natural/2026/11/14/jpg/epic_1b_20261114151014.jpg" alt="Earth, 2 days ago" width="48%" />
-<img src="https://epic.gsfc.nasa.gov/archive/natural/2026/11/14/jpg/epic_1b_20261114222224.jpg" alt="Earth, 2 days ago" width="48%" /></a>
+<a href="https://epic.gsfc.nasa.gov/"><img src="https://epic.gsfc.nasa.gov/archive/natural/2026/11/14/jpg/epic_1b_20261114004554.jpg" alt="Earth, 3 days ago" width="48%" />
+<img src="https://epic.gsfc.nasa.gov/archive/natural/2026/11/14/jpg/epic_1b_20261114075804.jpg" alt="Earth, 3 days ago" width="48%" />
+<img src="https://epic.gsfc.nasa.gov/archive/natural/2026/11/14/jpg/epic_1b_20261114151014.jpg" alt="Earth, 3 days ago" width="48%" />
+<img src="https://epic.gsfc.nasa.gov/archive/natural/2026/11/14/jpg/epic_1b_20261114222224.jpg" alt="Earth, 3 days ago" width="48%" /></a>
 <br/><br/>
-<b>Earth, 2 days ago</b>
+<b>Earth, 3 days ago</b>
 <br/>
 <sub>Full-disc Earth from DSCOVR, 1.44 million km out. 4 frames from 2026-11-14; the latest is centred on 13°S 168°W.</sub>
 <br/><br/>
 <sub><i>NASA EPIC aboard DSCOVR, 2026-11-14</i></sub>
 </td>
 <td width="50%" valign="top" align="center">
-<img src="https://images-assets.nasa.gov/image/iss032e021058/iss032e021058~medium.jpg" alt="Russian EVA-31 spacewalk" width="100%" />
+<img src="https://images-assets.nasa.gov/image/NHQ202606050023/NHQ202606050023~large.jpg" alt="Beyond the Deep Field: Hubble’s Legacy and the Future of Cosmi" width="100%" />
 <br/><br/>
-<b>Russian EVA-31 spacewalk</b>
+<b>Beyond the Deep Field: Hubble’s Legacy and the Future of Cosmi</b>
 <br/>
-<sub>ISS032-E-021058 (20 Aug. 2012) --- Russian cosmonaut Yuri Malenchenko, Expedition 32 flight engineer, participates in a session of extravehicular...</sub>
+<sub>Mark Clampin, Deputy Associate Administrator in the Science Mission Directorate at NASA Headquarters, speaks about the contributions of the Hubble...</sub>
 <br/><br/>
-<sub><i>NASA Image Library, &quot;spacewalk&quot;</i></sub>
+<sub><i>NASA Image Library, &quot;hubble deep field&quot;</i></sub>
 </td>
 </tr>
 </table>
 
 <table>
 <tr>
-<td width="40%" valign="middle"><a href="https://www.nasa.gov/centers-and-facilities/stennis/contractor-to-civil-servant-jim-mirandy/"><img src="https://www.nasa.gov/wp-content/uploads/2026/11/s26-013-jim-mirandy.jpg" alt="Contractor to Civil Servant: NASA Welcomes Jim Mirandy" width="100%" /></a></td>
-<td valign="middle">📰 <b>Today in spaceflight</b><br/><br/><b><a href="https://www.nasa.gov/centers-and-facilities/stennis/contractor-to-civil-servant-jim-mirandy/">Contractor to Civil Servant: NASA Welcomes Jim Mirandy</a></b><br/><br/><sub>NASA, 2026-11-16</sub></td>
+<td width="40%" valign="middle"><a href="https://europeanspaceflight.com/iceye-launches-e2-05b-takeover-bid-for-italian-rocket-builder-avio/"><img src="https://europeanspaceflight.com/wp-content/uploads/2026/11/ICEYE-Launches-2.05B-Euros-Takeover-Bid-for-Italian-Rocket-Builder-Avio.webp" alt="ICEYE Launches €2.05B Takeover Bid for Italian Rocket Builder Avio" width="100%" /></a></td>
+<td valign="middle">📰 <b>Today in spaceflight</b><br/><br/><b><a href="https://europeanspaceflight.com/iceye-launches-e2-05b-takeover-bid-for-italian-rocket-builder-avio/">ICEYE Launches €2.05B Takeover Bid for Italian Rocket Builder Avio</a></b><br/><br/><sub>European Spaceflight, 2026-11-17</sub></td>
 </tr>
 </table>
 <!-- SPACE:END -->
