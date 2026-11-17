@@ -113,28 +113,28 @@
 <table>
 <tr>
 <td width="25%" valign="top" align="center">
-<a href="https://anilist.co/anime/129874"><img src="https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx129874-g6ZKXB94Hui1.jpg" alt="Demon Slayer: Kimetsu no Yaiba Mugen Train Arc" width="180" height="260" /></a>
+<a href="https://anilist.co/anime/112151"><img src="https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx112151-1qlQwPB1RrJe.png" alt="Demon Slayer -Kimetsu no Yaiba- The Movie: Mugen Train" width="180" height="260" /></a>
 <br/><sub><b>🎬 ANIME</b></sub>
-<br/><b><a href="https://anilist.co/anime/129874">Demon Slayer: Kimetsu no Yaiba Mugen...</a></b>
-<br/><sub>⭐ 8.2 · 2021 · 7 eps · Action · Adventure</sub>
+<br/><b><a href="https://anilist.co/anime/112151">Demon Slayer -Kimetsu no Yaiba- The...</a></b>
+<br/><sub>⭐ 8.4 · 2020 · 1 ep · Action · Adventure</sub>
 </td>
 <td width="25%" valign="top" align="center">
-<a href="https://anilist.co/manga/85316"><img src="https://s4.anilist.co/file/anilistcdn/media/manga/cover/large/bx85316-EGrSrwSMeOxd.jpg" alt="Dead Dead Demon&#x27;s Dededede Destruction" width="180" height="260" /></a>
-<br/><sub><b>📖 MANGA</b></sub>
-<br/><b><a href="https://anilist.co/manga/85316">Dead Dead Demon&#x27;s Dededede Destruction</a></b>
-<br/><sub>⭐ 8.1 · 2014 · 101 chs · Sci-Fi</sub>
+<a href="https://anilist.co/manga/130229"><img src="https://s4.anilist.co/file/anilistcdn/media/manga/cover/large/bx130229-w8eYyQnAaPh8.jpg" alt="Shotgun Boy" width="180" height="260" /></a>
+<br/><sub><b>📖 MANHWA</b></sub>
+<br/><b><a href="https://anilist.co/manga/130229">Shotgun Boy</a></b>
+<br/><sub>⭐ 7.7 · 2021 · 69 chs · Action · Psychological</sub>
 </td>
 <td width="25%" valign="top" align="center">
-<a href="https://openlibrary.org/works/OL20131297W"><img src="https://covers.openlibrary.org/b/id/8782615-L.jpg" alt="Range" width="180" height="260" /></a>
-<br/><sub><b>📚 MINDSET</b></sub>
-<br/><b><a href="https://openlibrary.org/works/OL20131297W">Range</a></b>
-<br/><sub>David Epstein · 2019 · ⭐ 7.6</sub>
+<a href="https://openlibrary.org/works/OL2950948W"><img src="https://covers.openlibrary.org/b/id/14417175-L.jpg" alt="Pale Blue Dot" width="180" height="260" /></a>
+<br/><sub><b>📚 SCIENCE</b></sub>
+<br/><b><a href="https://openlibrary.org/works/OL2950948W">Pale Blue Dot</a></b>
+<br/><sub>Carl Sagan · 1994 · ⭐ 9.1</sub>
 </td>
 <td width="25%" valign="top" align="center">
-<a href="assets/daily/quote-2026-11-16.svg"><img src="assets/daily/quote-2026-11-16.svg" alt="“Stand up and walk. Keep moving forward. You&#x27;ve got two good legs.” — Edward Elric, Fullmetal Alchemist" width="180" height="260" /></a>
+<a href="assets/daily/quote-2026-11-17.svg"><img src="assets/daily/quote-2026-11-17.svg" alt="“The only thing lacking in this world is a medicine for regret.” — Fang Yuan, Reverend Insanity" width="180" height="260" /></a>
 <br/><sub><b>💬 QUOTE</b></sub>
-<br/><b><a href="assets/daily/quote-2026-11-16.svg">Edward Elric</a></b>
-<br/><sub>Fullmetal Alchemist</sub>
+<br/><b><a href="assets/daily/quote-2026-11-17.svg">Fang Yuan</a></b>
+<br/><sub>Reverend Insanity</sub>
 </td>
 </tr>
 </table>
