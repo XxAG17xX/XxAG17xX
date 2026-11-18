@@ -74,33 +74,31 @@
 <table>
 <tr>
 <td width="50%" valign="top" align="center">
-<a href="https://epic.gsfc.nasa.gov/"><img src="https://epic.gsfc.nasa.gov/archive/natural/2026/11/14/jpg/epic_1b_20261114004554.jpg" alt="Earth, 3 days ago" width="48%" />
-<img src="https://epic.gsfc.nasa.gov/archive/natural/2026/11/14/jpg/epic_1b_20261114075804.jpg" alt="Earth, 3 days ago" width="48%" />
-<img src="https://epic.gsfc.nasa.gov/archive/natural/2026/11/14/jpg/epic_1b_20261114151014.jpg" alt="Earth, 3 days ago" width="48%" />
-<img src="https://epic.gsfc.nasa.gov/archive/natural/2026/11/14/jpg/epic_1b_20261114222224.jpg" alt="Earth, 3 days ago" width="48%" /></a>
+<a href="https://epic.gsfc.nasa.gov/"><img src="https://epic.gsfc.nasa.gov/archive/natural/2026/11/16/jpg/epic_1b_20261116005516.jpg" alt="Earth, 2 days ago" width="48%" />
+<img src="https://epic.gsfc.nasa.gov/archive/natural/2026/11/16/jpg/epic_1b_20261116043120.jpg" alt="Earth, 2 days ago" width="48%" /></a>
 <br/><br/>
-<b>Earth, 3 days ago</b>
+<b>Earth, 2 days ago</b>
 <br/>
-<sub>Full-disc Earth from DSCOVR, 1.44 million km out. 4 frames from 2026-11-14; the latest is centred on 13°S 168°W.</sub>
+<sub>Full-disc Earth from DSCOVR, 1.44 million km out. 2 frames from 2026-11-16; the latest is centred on 14°S 100°E.</sub>
 <br/><br/>
-<sub><i>NASA EPIC aboard DSCOVR, 2026-11-14</i></sub>
+<sub><i>NASA EPIC aboard DSCOVR, 2026-11-16</i></sub>
 </td>
 <td width="50%" valign="top" align="center">
-<img src="https://images-assets.nasa.gov/image/NHQ202606050023/NHQ202606050023~large.jpg" alt="Beyond the Deep Field: Hubble’s Legacy and the Future of Cosmi" width="100%" />
+<img src="https://images-assets.nasa.gov/image/PIA11428/PIA11428~small.jpg" alt="Device for Lowering Mars Science Laboratory Rover to the Surface" width="100%" />
 <br/><br/>
-<b>Beyond the Deep Field: Hubble’s Legacy and the Future of Cosmi</b>
+<b>Device for Lowering Mars Science Laboratory Rover to the Surface</b>
 <br/>
-<sub>Mark Clampin, Deputy Associate Administrator in the Science Mission Directorate at NASA Headquarters, speaks about the contributions of the Hubble...</sub>
+<sub>This is hardware for controlling the final lowering of NASA Mars Science Laboratory rover to the surface of Mars from the spacecraft hovering...</sub>
 <br/><br/>
-<sub><i>NASA Image Library, &quot;hubble deep field&quot;</i></sub>
+<sub><i>NASA Image Library, &quot;mars surface&quot;</i></sub>
 </td>
 </tr>
 </table>
 
 <table>
 <tr>
-<td width="40%" valign="middle"><a href="https://europeanspaceflight.com/iceye-launches-e2-05b-takeover-bid-for-italian-rocket-builder-avio/"><img src="https://europeanspaceflight.com/wp-content/uploads/2026/11/ICEYE-Launches-2.05B-Euros-Takeover-Bid-for-Italian-Rocket-Builder-Avio.webp" alt="ICEYE Launches €2.05B Takeover Bid for Italian Rocket Builder Avio" width="100%" /></a></td>
-<td valign="middle">📰 <b>Today in spaceflight</b><br/><br/><b><a href="https://europeanspaceflight.com/iceye-launches-e2-05b-takeover-bid-for-italian-rocket-builder-avio/">ICEYE Launches €2.05B Takeover Bid for Italian Rocket Builder Avio</a></b><br/><br/><sub>European Spaceflight, 2026-11-17</sub></td>
+<td width="40%" valign="middle"><a href="https://europeanspaceflight.com/pld-space-investor-selects-miura-5-to-launch-demo-mission/"><img src="https://europeanspaceflight.com/wp-content/uploads/2026/11/PLD-Space-Investor-Selects-MIURA-5-to-Launch-Demo-Mission.webp" alt="PLD Space Investor Selects MIURA 5 to Launch Demo Mission" width="100%" /></a></td>
+<td valign="middle">📰 <b>Today in spaceflight</b><br/><br/><b><a href="https://europeanspaceflight.com/pld-space-investor-selects-miura-5-to-launch-demo-mission/">PLD Space Investor Selects MIURA 5 to Launch Demo Mission</a></b><br/><br/><sub>European Spaceflight, 2026-11-18</sub></td>
 </tr>
 </table>
 <!-- SPACE:END -->
