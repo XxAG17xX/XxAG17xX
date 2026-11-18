@@ -111,28 +111,28 @@
 <table>
 <tr>
 <td width="25%" valign="top" align="center">
-<a href="https://anilist.co/anime/112151"><img src="https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx112151-1qlQwPB1RrJe.png" alt="Demon Slayer -Kimetsu no Yaiba- The Movie: Mugen Train" width="180" height="260" /></a>
+<a href="https://anilist.co/anime/101348"><img src="https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx101348-2fhDFPCuMNiz.jpg" alt="Vinland Saga" width="180" height="260" /></a>
 <br/><sub><b>🎬 ANIME</b></sub>
-<br/><b><a href="https://anilist.co/anime/112151">Demon Slayer -Kimetsu no Yaiba- The...</a></b>
-<br/><sub>⭐ 8.4 · 2020 · 1 ep · Action · Adventure</sub>
+<br/><b><a href="https://anilist.co/anime/101348">Vinland Saga</a></b>
+<br/><sub>⭐ 8.7 · 2019 · 24 eps · Action · Adventure</sub>
 </td>
 <td width="25%" valign="top" align="center">
-<a href="https://anilist.co/manga/130229"><img src="https://s4.anilist.co/file/anilistcdn/media/manga/cover/large/bx130229-w8eYyQnAaPh8.jpg" alt="Shotgun Boy" width="180" height="260" /></a>
-<br/><sub><b>📖 MANHWA</b></sub>
-<br/><b><a href="https://anilist.co/manga/130229">Shotgun Boy</a></b>
-<br/><sub>⭐ 7.7 · 2021 · 69 chs · Action · Psychological</sub>
+<a href="https://anilist.co/manga/102196"><img src="https://s4.anilist.co/file/anilistcdn/media/manga/cover/large/nx102196-MUEQZeLjcCrx.jpg" alt="Xi Xing Ji" width="180" height="260" /></a>
+<br/><sub><b>📖 MANHUA</b></sub>
+<br/><b><a href="https://anilist.co/manga/102196">Xi Xing Ji</a></b>
+<br/><sub>⭐ 6.9 · 2015 · 185 chs · Action · Adventure</sub>
 </td>
 <td width="25%" valign="top" align="center">
-<a href="https://openlibrary.org/works/OL2950948W"><img src="https://covers.openlibrary.org/b/id/14417175-L.jpg" alt="Pale Blue Dot" width="180" height="260" /></a>
-<br/><sub><b>📚 SCIENCE</b></sub>
-<br/><b><a href="https://openlibrary.org/works/OL2950948W">Pale Blue Dot</a></b>
-<br/><sub>Carl Sagan · 1994 · ⭐ 9.1</sub>
+<a href="https://openlibrary.org/works/OL17829905W"><img src="https://covers.openlibrary.org/b/id/9295719-L.jpg" alt="Seveneves" width="180" height="260" /></a>
+<br/><sub><b>📚 SCI-FI</b></sub>
+<br/><b><a href="https://openlibrary.org/works/OL17829905W">Seveneves</a></b>
+<br/><sub>Neal Stephenson · 2015 · ⭐ 8.8</sub>
 </td>
 <td width="25%" valign="top" align="center">
-<a href="assets/daily/quote-2026-11-17.svg"><img src="assets/daily/quote-2026-11-17.svg" alt="“The only thing lacking in this world is a medicine for regret.” — Fang Yuan, Reverend Insanity" width="180" height="260" /></a>
+<a href="assets/daily/quote-2026-11-18.svg"><img src="assets/daily/quote-2026-11-18.svg" alt="“The most important step a man can take. It&#x27;s not the first one, is it? It&#x27;s the next one.” — Dalinar Kholin, The Stormlight Archive" width="180" height="260" /></a>
 <br/><sub><b>💬 QUOTE</b></sub>
-<br/><b><a href="assets/daily/quote-2026-11-17.svg">Fang Yuan</a></b>
-<br/><sub>Reverend Insanity</sub>
+<br/><b><a href="assets/daily/quote-2026-11-18.svg">Dalinar Kholin</a></b>
+<br/><sub>The Stormlight Archive</sub>
 </td>
 </tr>
 </table>
