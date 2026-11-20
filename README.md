@@ -74,33 +74,33 @@
 <table>
 <tr>
 <td width="50%" valign="top" align="center">
-<a href="https://epic.gsfc.nasa.gov/"><img src="https://epic.gsfc.nasa.gov/archive/natural/2026/11/16/jpg/epic_1b_20261116005516.jpg" alt="Earth, 3 days ago" width="48%" />
-<img src="https://epic.gsfc.nasa.gov/archive/natural/2026/11/16/jpg/epic_1b_20261116080725.jpg" alt="Earth, 3 days ago" width="48%" />
-<img src="https://epic.gsfc.nasa.gov/archive/natural/2026/11/16/jpg/epic_1b_20261116151935.jpg" alt="Earth, 3 days ago" width="48%" />
-<img src="https://epic.gsfc.nasa.gov/archive/natural/2026/11/16/jpg/epic_1b_20261116223145.jpg" alt="Earth, 3 days ago" width="48%" /></a>
+<a href="https://epic.gsfc.nasa.gov/"><img src="https://epic.gsfc.nasa.gov/archive/natural/2026/11/18/jpg/epic_1b_20261118001751.jpg" alt="Earth, 2 days ago" width="48%" />
+<img src="https://epic.gsfc.nasa.gov/archive/natural/2026/11/18/jpg/epic_1b_20261118054159.jpg" alt="Earth, 2 days ago" width="48%" />
+<img src="https://epic.gsfc.nasa.gov/archive/natural/2026/11/18/jpg/epic_1b_20261118125409.jpg" alt="Earth, 2 days ago" width="48%" />
+<img src="https://epic.gsfc.nasa.gov/archive/natural/2026/11/18/jpg/epic_1b_20261118215422.jpg" alt="Earth, 2 days ago" width="48%" /></a>
 <br/><br/>
-<b>Earth, 3 days ago</b>
+<b>Earth, 2 days ago</b>
 <br/>
-<sub>Full-disc Earth from DSCOVR, 1.43 million km out. 4 frames from 2026-11-16; the latest is centred on 14°S 170°W.</sub>
+<sub>Full-disc Earth from DSCOVR, 1.42 million km out. 4 frames from 2026-11-18; the latest is centred on 16°S 161°W.</sub>
 <br/><br/>
-<sub><i>NASA EPIC aboard DSCOVR, 2026-11-16</i></sub>
+<sub><i>NASA EPIC aboard DSCOVR, 2026-11-18</i></sub>
 </td>
 <td width="50%" valign="top" align="center">
-<img src="https://images-assets.nasa.gov/image/PIA13771/PIA13771~medium.jpg" alt="Andromeda is So Hot n Cold" width="100%" />
+<img src="https://images-assets.nasa.gov/image/PIA14417/PIA14417~medium.jpg" alt="Weighing in on the Dumbbell Nebula" width="100%" />
 <br/><br/>
-<b>Andromeda is So Hot n Cold</b>
+<b>Weighing in on the Dumbbell Nebula</b>
 <br/>
-<sub>This mosaic of the Andromeda spiral galaxy highlights explosive stars in its interior, and cooler, dusty stars forming in its many rings. This is a...</sub>
+<sub>The Dumbbell nebula, also known as Messier 27, pumps out infrared light in this image from NASA Spitzer Space Telescope. Planetary nebulae are now...</sub>
 <br/><br/>
-<sub><i>NASA Image Library, &quot;andromeda&quot;</i></sub>
+<sub><i>NASA Image Library, &quot;nebula&quot;</i></sub>
 </td>
 </tr>
 </table>
 
 <table>
 <tr>
-<td width="40%" valign="middle"><a href="https://spacenews.com/making-the-case-for-optical/"><img src="https://i0.wp.com/spacenews.com/wp-content/uploads/2026/11/2000-1500-spacenews-space-tech-expo-europe-morizur-scaled.jpg?fit=1024%2C768&ssl=1" alt="Making the case for optical" width="100%" /></a></td>
-<td valign="middle">📰 <b>Today in spaceflight</b><br/><br/><b><a href="https://spacenews.com/making-the-case-for-optical/">Making the case for optical</a></b><br/><br/><sub>SpaceNews, 2026-11-19</sub></td>
+<td width="40%" valign="middle"><a href="https://europeanspaceflight.com/danish-soldiers-are-sneaking-starlink-terminals-into-greenland/"><img src="https://europeanspaceflight.com/wp-content/uploads/2026/11/Danish-Soldiers-Are-Sneaking-Starlink-Terminals-into-Greenland.webp" alt="Danish Soldiers Are Sneaking Starlink Terminals into Greenland" width="100%" /></a></td>
+<td valign="middle">📰 <b>Today in spaceflight</b><br/><br/><b><a href="https://europeanspaceflight.com/danish-soldiers-are-sneaking-starlink-terminals-into-greenland/">Danish Soldiers Are Sneaking Starlink Terminals into Greenland</a></b><br/><br/><sub>European Spaceflight, 2026-11-20</sub></td>
 </tr>
 </table>
 <!-- SPACE:END -->
