@@ -113,28 +113,28 @@
 <table>
 <tr>
 <td width="25%" valign="top" align="center">
-<a href="https://anilist.co/anime/918"><img src="https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx918-iOaeBVUn4uK7.jpg" alt="Gintama" width="180" height="260" /></a>
+<a href="https://anilist.co/anime/20464"><img src="https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx20464-ooZUyBe4ptp9.png" alt="HAIKYU!!" width="180" height="260" /></a>
 <br/><sub><b>🎬 ANIME</b></sub>
-<br/><b><a href="https://anilist.co/anime/918">Gintama</a></b>
-<br/><sub>⭐ 8.5 · 2006 · 201 eps · Action · Sci-Fi</sub>
+<br/><b><a href="https://anilist.co/anime/20464">HAIKYU!!</a></b>
+<br/><sub>⭐ 8.3 · 2014 · 25 eps · Sports</sub>
 </td>
 <td width="25%" valign="top" align="center">
-<a href="https://anilist.co/manga/103852"><img src="https://s4.anilist.co/file/anilistcdn/media/manga/cover/large/nx103852-cz9qvunnh1Cm.jpg" alt="Bofuri: I Don&#x27;t Want to Get Hurt, so I&#x27;ll Max Out My Defense." width="180" height="260" /></a>
-<br/><sub><b>📖 NOVEL</b></sub>
-<br/><b><a href="https://anilist.co/manga/103852">Bofuri: I Don&#x27;t Want to Get Hurt, so I&#x27;ll...</a></b>
-<br/><sub>⭐ 7.5 · 2016 · Action · Adventure</sub>
+<a href="https://anilist.co/manga/138603"><img src="https://s4.anilist.co/file/anilistcdn/media/manga/cover/large/bx138603-j0gcshf7PVkN.jpg" alt="The Summer Hikaru Died" width="180" height="260" /></a>
+<br/><sub><b>📖 MANGA</b></sub>
+<br/><b><a href="https://anilist.co/manga/138603">The Summer Hikaru Died</a></b>
+<br/><sub>⭐ 8.4 · 2021 · 160 chs · Mystery · Psychological</sub>
 </td>
 <td width="25%" valign="top" align="center">
-<a href="https://openlibrary.org/works/OL109524W"><img src="https://covers.openlibrary.org/b/id/12313764-L.jpg" alt="Solaris" width="180" height="260" /></a>
-<br/><sub><b>📚 SCI-FI</b></sub>
-<br/><b><a href="https://openlibrary.org/works/OL109524W">Solaris</a></b>
-<br/><sub>Stanislaw Lem · 1961 · ⭐ 7.9</sub>
+<a href="https://openlibrary.org/works/OL5734756W"><img src="https://covers.openlibrary.org/b/id/374277-L.jpg" alt="Gardens of the Moon" width="180" height="260" /></a>
+<br/><sub><b>📚 FANTASY</b></sub>
+<br/><b><a href="https://openlibrary.org/works/OL5734756W">Gardens of the Moon</a></b>
+<br/><sub>Steven Erikson · 1999 · ⭐ 8.0</sub>
 </td>
 <td width="25%" valign="top" align="center">
-<a href="assets/daily/quote-2026-11-19.svg"><img src="assets/daily/quote-2026-11-19.svg" alt="“My soldiers, rage! My soldiers, scream! My soldiers, fight!” — Erwin Smith, Attack on Titan" width="180" height="260" /></a>
+<a href="assets/daily/quote-2026-11-20.svg"><img src="assets/daily/quote-2026-11-20.svg" alt="“Arise.” — Sung Jinwoo, Solo Leveling" width="180" height="260" /></a>
 <br/><sub><b>💬 QUOTE</b></sub>
-<br/><b><a href="assets/daily/quote-2026-11-19.svg">Erwin Smith</a></b>
-<br/><sub>Attack on Titan</sub>
+<br/><b><a href="assets/daily/quote-2026-11-20.svg">Sung Jinwoo</a></b>
+<br/><sub>Solo Leveling</sub>
 </td>
 </tr>
 </table>
