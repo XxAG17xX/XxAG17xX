@@ -74,33 +74,33 @@
 <table>
 <tr>
 <td width="50%" valign="top" align="center">
-<a href="https://epic.gsfc.nasa.gov/"><img src="https://epic.gsfc.nasa.gov/archive/natural/2026/11/18/jpg/epic_1b_20261118001751.jpg" alt="Earth, 2 days ago" width="48%" />
-<img src="https://epic.gsfc.nasa.gov/archive/natural/2026/11/18/jpg/epic_1b_20261118054159.jpg" alt="Earth, 2 days ago" width="48%" />
-<img src="https://epic.gsfc.nasa.gov/archive/natural/2026/11/18/jpg/epic_1b_20261118125409.jpg" alt="Earth, 2 days ago" width="48%" />
-<img src="https://epic.gsfc.nasa.gov/archive/natural/2026/11/18/jpg/epic_1b_20261118215422.jpg" alt="Earth, 2 days ago" width="48%" /></a>
+<a href="https://epic.gsfc.nasa.gov/"><img src="https://epic.gsfc.nasa.gov/archive/natural/2026/11/19/jpg/epic_1b_20261119000831.jpg" alt="Earth, 2 days ago" width="48%" />
+<img src="https://epic.gsfc.nasa.gov/archive/natural/2026/11/19/jpg/epic_1b_20261119072040.jpg" alt="Earth, 2 days ago" width="48%" />
+<img src="https://epic.gsfc.nasa.gov/archive/natural/2026/11/19/jpg/epic_1b_20261119143251.jpg" alt="Earth, 2 days ago" width="48%" />
+<img src="https://epic.gsfc.nasa.gov/archive/natural/2026/11/19/jpg/epic_1b_20261119214501.jpg" alt="Earth, 2 days ago" width="48%" /></a>
 <br/><br/>
 <b>Earth, 2 days ago</b>
 <br/>
-<sub>Full-disc Earth from DSCOVR, 1.42 million km out. 4 frames from 2026-11-18; the latest is centred on 16°S 161°W.</sub>
+<sub>Full-disc Earth from DSCOVR, 1.42 million km out. 4 frames from 2026-11-19; the latest is centred on 16°S 158°W.</sub>
 <br/><br/>
-<sub><i>NASA EPIC aboard DSCOVR, 2026-11-18</i></sub>
+<sub><i>NASA EPIC aboard DSCOVR, 2026-11-19</i></sub>
 </td>
 <td width="50%" valign="top" align="center">
-<img src="https://images-assets.nasa.gov/image/PIA14417/PIA14417~medium.jpg" alt="Weighing in on the Dumbbell Nebula" width="100%" />
+<img src="https://images-assets.nasa.gov/image/PIA04634/PIA04634~small.jpg" alt="Galaxy NGC5474" width="100%" />
 <br/><br/>
-<b>Weighing in on the Dumbbell Nebula</b>
+<b>Galaxy NGC5474</b>
 <br/>
-<sub>The Dumbbell nebula, also known as Messier 27, pumps out infrared light in this image from NASA Spitzer Space Telescope. Planetary nebulae are now...</sub>
+<sub>NASA Galaxy Evolution Explorer took this ultraviolet color image of the galaxy NGC5474 on June 7, 2003. NGC5474 is located 20 million light-years...</sub>
 <br/><br/>
-<sub><i>NASA Image Library, &quot;nebula&quot;</i></sub>
+<sub><i>NASA Image Library, &quot;galaxy&quot;</i></sub>
 </td>
 </tr>
 </table>
 
 <table>
 <tr>
-<td width="40%" valign="middle"><a href="https://europeanspaceflight.com/danish-soldiers-are-sneaking-starlink-terminals-into-greenland/"><img src="https://europeanspaceflight.com/wp-content/uploads/2026/11/Danish-Soldiers-Are-Sneaking-Starlink-Terminals-into-Greenland.webp" alt="Danish Soldiers Are Sneaking Starlink Terminals into Greenland" width="100%" /></a></td>
-<td valign="middle">📰 <b>Today in spaceflight</b><br/><br/><b><a href="https://europeanspaceflight.com/danish-soldiers-are-sneaking-starlink-terminals-into-greenland/">Danish Soldiers Are Sneaking Starlink Terminals into Greenland</a></b><br/><br/><sub>European Spaceflight, 2026-11-20</sub></td>
+<td width="40%" valign="middle"><a href="https://europeanspaceflight.com/denmarks-gomspace-secures-e8m-contract-for-blue-origin-moon-mission/"><img src="https://europeanspaceflight.com/wp-content/uploads/2026/11/Denmarks-GomSpace-Secures-8-Million-Euro-Contract-for-Blue-Origin-Moon-Mission.webp" alt="Denmark’s GomSpace Secures €8M Contract for Blue Origin Moon Mission" width="100%" /></a></td>
+<td valign="middle">📰 <b>Today in spaceflight</b><br/><br/><b><a href="https://europeanspaceflight.com/denmarks-gomspace-secures-e8m-contract-for-blue-origin-moon-mission/">Denmark’s GomSpace Secures €8M Contract for Blue Origin Moon Mission</a></b><br/><br/><sub>European Spaceflight, 2026-11-21</sub></td>
 </tr>
 </table>
 <!-- SPACE:END -->
