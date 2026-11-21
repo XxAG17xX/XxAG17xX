@@ -113,28 +113,28 @@
 <table>
 <tr>
 <td width="25%" valign="top" align="center">
-<a href="https://anilist.co/anime/20464"><img src="https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx20464-ooZUyBe4ptp9.png" alt="HAIKYU!!" width="180" height="260" /></a>
+<a href="https://anilist.co/anime/9253"><img src="https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx9253-tIUXF2gfU8Sg.jpg" alt="Steins;Gate" width="180" height="260" /></a>
 <br/><sub><b>🎬 ANIME</b></sub>
-<br/><b><a href="https://anilist.co/anime/20464">HAIKYU!!</a></b>
-<br/><sub>⭐ 8.3 · 2014 · 25 eps · Sports</sub>
+<br/><b><a href="https://anilist.co/anime/9253">Steins;Gate</a></b>
+<br/><sub>⭐ 8.9 · 2011 · 24 eps · Psychological · Sci-Fi</sub>
 </td>
 <td width="25%" valign="top" align="center">
-<a href="https://anilist.co/manga/138603"><img src="https://s4.anilist.co/file/anilistcdn/media/manga/cover/large/bx138603-j0gcshf7PVkN.jpg" alt="The Summer Hikaru Died" width="180" height="260" /></a>
-<br/><sub><b>📖 MANGA</b></sub>
-<br/><b><a href="https://anilist.co/manga/138603">The Summer Hikaru Died</a></b>
-<br/><sub>⭐ 8.4 · 2021 · 160 chs · Mystery · Psychological</sub>
+<a href="https://anilist.co/manga/151512"><img src="https://s4.anilist.co/file/anilistcdn/media/manga/cover/large/bx151512-q0Xddr1JNKNq.png" alt="My Blasted Reincarnated Life" width="180" height="260" /></a>
+<br/><sub><b>📖 MANHWA</b></sub>
+<br/><b><a href="https://anilist.co/manga/151512">My Blasted Reincarnated Life</a></b>
+<br/><sub>⭐ 7.8 · 2022 · 81 chs · Action</sub>
 </td>
 <td width="25%" valign="top" align="center">
-<a href="https://openlibrary.org/works/OL5734756W"><img src="https://covers.openlibrary.org/b/id/374277-L.jpg" alt="Gardens of the Moon" width="180" height="260" /></a>
-<br/><sub><b>📚 FANTASY</b></sub>
-<br/><b><a href="https://openlibrary.org/works/OL5734756W">Gardens of the Moon</a></b>
-<br/><sub>Steven Erikson · 1999 · ⭐ 8.0</sub>
+<a href="https://openlibrary.org/works/OL5734647W"><img src="https://covers.openlibrary.org/b/id/524402-L.jpg" alt="Old Man&#x27;s War" width="180" height="260" /></a>
+<br/><sub><b>📚 SCI-FI</b></sub>
+<br/><b><a href="https://openlibrary.org/works/OL5734647W">Old Man&#x27;s War</a></b>
+<br/><sub>John Scalzi · 2005 · ⭐ 8.4</sub>
 </td>
 <td width="25%" valign="top" align="center">
-<a href="assets/daily/quote-2026-11-20.svg"><img src="assets/daily/quote-2026-11-20.svg" alt="“Arise.” — Sung Jinwoo, Solo Leveling" width="180" height="260" /></a>
+<a href="assets/daily/quote-2026-11-21.svg"><img src="assets/daily/quote-2026-11-21.svg" alt="“Being weak is nothing to be ashamed of. Staying weak is!” — Fuegoleon Vermillion, Black Clover" width="180" height="260" /></a>
 <br/><sub><b>💬 QUOTE</b></sub>
-<br/><b><a href="assets/daily/quote-2026-11-20.svg">Sung Jinwoo</a></b>
-<br/><sub>Solo Leveling</sub>
+<br/><b><a href="assets/daily/quote-2026-11-21.svg">Fuegoleon Vermillion</a></b>
+<br/><sub>Black Clover</sub>
 </td>
 </tr>
 </table>
