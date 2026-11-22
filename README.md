@@ -113,16 +113,16 @@
 <table>
 <tr>
 <td width="25%" valign="top" align="center">
-<a href="https://anilist.co/anime/9253"><img src="https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx9253-tIUXF2gfU8Sg.jpg" alt="Steins;Gate" width="180" height="260" /></a>
+<a href="https://anilist.co/anime/20829"><img src="https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx20829-pgsXVjrfyI5V.png" alt="Seraph of the End: Vampire Reign" width="180" height="260" /></a>
 <br/><sub><b>🎬 ANIME</b></sub>
-<br/><b><a href="https://anilist.co/anime/9253">Steins;Gate</a></b>
-<br/><sub>⭐ 8.9 · 2011 · 24 eps · Psychological · Sci-Fi</sub>
+<br/><b><a href="https://anilist.co/anime/20829">Seraph of the End: Vampire Reign</a></b>
+<br/><sub>⭐ 7.3 · 2015 · 12 eps · Action · Mystery</sub>
 </td>
 <td width="25%" valign="top" align="center">
-<a href="https://anilist.co/manga/151512"><img src="https://s4.anilist.co/file/anilistcdn/media/manga/cover/large/bx151512-q0Xddr1JNKNq.png" alt="My Blasted Reincarnated Life" width="180" height="260" /></a>
-<br/><sub><b>📖 MANHWA</b></sub>
-<br/><b><a href="https://anilist.co/manga/151512">My Blasted Reincarnated Life</a></b>
-<br/><sub>⭐ 7.8 · 2022 · 81 chs · Action</sub>
+<a href="https://anilist.co/manga/73913"><img src="https://s4.anilist.co/file/anilistcdn/media/manga/cover/large/bx73913-PG7AL3qV591d.png" alt="Feng Shen Ji" width="180" height="260" /></a>
+<br/><sub><b>📖 MANHUA</b></sub>
+<br/><b><a href="https://anilist.co/manga/73913">Feng Shen Ji</a></b>
+<br/><sub>⭐ 7.7 · 2010 · 38 chs · Action · Supernatural</sub>
 </td>
 <td width="25%" valign="top" align="center">
 <a href="https://openlibrary.org/works/OL5734647W"><img src="https://covers.openlibrary.org/b/id/524402-L.jpg" alt="Old Man&#x27;s War" width="180" height="260" /></a>
@@ -131,10 +131,10 @@
 <br/><sub>John Scalzi · 2005 · ⭐ 8.4</sub>
 </td>
 <td width="25%" valign="top" align="center">
-<a href="assets/daily/quote-2026-11-21.svg"><img src="assets/daily/quote-2026-11-21.svg" alt="“Being weak is nothing to be ashamed of. Staying weak is!” — Fuegoleon Vermillion, Black Clover" width="180" height="260" /></a>
+<a href="assets/daily/quote-2026-11-22.svg"><img src="assets/daily/quote-2026-11-22.svg" alt="“Waste no more time arguing what a good man should be. Be one.” — Marcus Aurelius, Meditations" width="180" height="260" /></a>
 <br/><sub><b>💬 QUOTE</b></sub>
-<br/><b><a href="assets/daily/quote-2026-11-21.svg">Fuegoleon Vermillion</a></b>
-<br/><sub>Black Clover</sub>
+<br/><b><a href="assets/daily/quote-2026-11-22.svg">Marcus Aurelius</a></b>
+<br/><sub>Meditations</sub>
 </td>
 </tr>
 </table>
