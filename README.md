@@ -74,33 +74,33 @@
 <table>
 <tr>
 <td width="50%" valign="top" align="center">
-<a href="https://epic.gsfc.nasa.gov/"><img src="https://epic.gsfc.nasa.gov/archive/natural/2026/11/20/jpg/epic_1b_20261120002712.jpg" alt="Earth, 2 days ago" width="48%" />
-<img src="https://epic.gsfc.nasa.gov/archive/natural/2026/11/20/jpg/epic_1b_20261120073922.jpg" alt="Earth, 2 days ago" width="48%" />
-<img src="https://epic.gsfc.nasa.gov/archive/natural/2026/11/20/jpg/epic_1b_20261120145132.jpg" alt="Earth, 2 days ago" width="48%" />
-<img src="https://epic.gsfc.nasa.gov/archive/natural/2026/11/20/jpg/epic_1b_20261120220342.jpg" alt="Earth, 2 days ago" width="48%" /></a>
+<a href="https://epic.gsfc.nasa.gov/"><img src="https://epic.gsfc.nasa.gov/archive/natural/2026/11/21/jpg/epic_1b_20261121004555.jpg" alt="Earth, 2 days ago" width="48%" />
+<img src="https://epic.gsfc.nasa.gov/archive/natural/2026/11/21/jpg/epic_1b_20261121061002.jpg" alt="Earth, 2 days ago" width="48%" />
+<img src="https://epic.gsfc.nasa.gov/archive/natural/2026/11/21/jpg/epic_1b_20261121132211.jpg" alt="Earth, 2 days ago" width="48%" />
+<img src="https://epic.gsfc.nasa.gov/archive/natural/2026/11/21/jpg/epic_1b_20261121184618.jpg" alt="Earth, 2 days ago" width="48%" /></a>
 <br/><br/>
 <b>Earth, 2 days ago</b>
 <br/>
-<sub>Full-disc Earth from DSCOVR, 1.41 million km out. 4 frames from 2026-11-20; the latest is centred on 17°S 162°W.</sub>
+<sub>Full-disc Earth from DSCOVR, 1.41 million km out. 4 frames from 2026-11-21; the latest is centred on 17°S 113°W.</sub>
 <br/><br/>
-<sub><i>NASA EPIC aboard DSCOVR, 2026-11-20</i></sub>
+<sub><i>NASA EPIC aboard DSCOVR, 2026-11-21</i></sub>
 </td>
 <td width="50%" valign="top" align="center">
-<img src="https://images-assets.nasa.gov/image/PIA01637/PIA01637~thumb.jpg" alt="Io Aurorae" width="100%" />
+<img src="https://images-assets.nasa.gov/image/PIA05437/PIA05437~thumb.jpg" alt="Saturn in Red" width="100%" />
 <br/><br/>
-<b>Io Aurorae</b>
+<b>Saturn in Red</b>
 <br/>
-<sub>Io Aurorae</sub>
+<sub>Saturn in Red</sub>
 <br/><br/>
-<sub><i>NASA Image Library, &quot;aurora&quot;</i></sub>
+<sub><i>NASA Image Library, &quot;saturn&quot;</i></sub>
 </td>
 </tr>
 </table>
 
 <table>
 <tr>
-<td width="40%" valign="middle"><a href="https://science.nasa.gov/image-article/apod-2026-november-22-swirls-and-colors-on-jupiter-from-juno/"><img src="https://assets.science.nasa.gov/dynamicimage/assets/science/cds/apod/apod/2026/november/JupiterSwirls_JunoBrealey_3709.jpg" alt="APOD: 2026 November 22 – Swirls and Colors on Jupiter from Juno" width="100%" /></a></td>
-<td valign="middle">📰 <b>Today in spaceflight</b><br/><br/><b><a href="https://science.nasa.gov/image-article/apod-2026-november-22-swirls-and-colors-on-jupiter-from-juno/">APOD: 2026 November 22 – Swirls and Colors on Jupiter from Juno</a></b><br/><br/><sub>NASA, 2026-11-22</sub></td>
+<td width="40%" valign="middle"><a href="https://www.nasa.gov/image-article/studying-cancer-cells-in-microgravity/"><img src="https://www.nasa.gov/wp-content/uploads/2026/11/jsc2026e426880orig.jpg" alt="Studying Cancer Cells in Microgravity" width="100%" /></a></td>
+<td valign="middle">📰 <b>Today in spaceflight</b><br/><br/><b><a href="https://www.nasa.gov/image-article/studying-cancer-cells-in-microgravity/">Studying Cancer Cells in Microgravity</a></b><br/><br/><sub>NASA, 2026-11-23</sub></td>
 </tr>
 </table>
 <!-- SPACE:END -->
