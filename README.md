@@ -113,28 +113,28 @@
 <table>
 <tr>
 <td width="25%" valign="top" align="center">
-<a href="https://anilist.co/anime/20829"><img src="https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx20829-pgsXVjrfyI5V.png" alt="Seraph of the End: Vampire Reign" width="180" height="260" /></a>
+<a href="https://anilist.co/anime/101922"><img src="https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx101922-WBsBl0ClmgYL.jpg" alt="Demon Slayer: Kimetsu no Yaiba" width="180" height="260" /></a>
 <br/><sub><b>🎬 ANIME</b></sub>
-<br/><b><a href="https://anilist.co/anime/20829">Seraph of the End: Vampire Reign</a></b>
-<br/><sub>⭐ 7.3 · 2015 · 12 eps · Action · Mystery</sub>
+<br/><b><a href="https://anilist.co/anime/101922">Demon Slayer: Kimetsu no Yaiba</a></b>
+<br/><sub>⭐ 8.2 · 2019 · 26 eps · Action · Adventure</sub>
 </td>
 <td width="25%" valign="top" align="center">
-<a href="https://anilist.co/manga/73913"><img src="https://s4.anilist.co/file/anilistcdn/media/manga/cover/large/bx73913-PG7AL3qV591d.png" alt="Feng Shen Ji" width="180" height="260" /></a>
-<br/><sub><b>📖 MANHUA</b></sub>
-<br/><b><a href="https://anilist.co/manga/73913">Feng Shen Ji</a></b>
-<br/><sub>⭐ 7.7 · 2010 · 38 chs · Action · Supernatural</sub>
+<a href="https://anilist.co/manga/77917"><img src="https://s4.anilist.co/file/anilistcdn/media/manga/cover/large/bx77917-vBUbEq4R1zyv.jpg" alt="Danganronpa/Zero" width="180" height="260" /></a>
+<br/><sub><b>📖 NOVEL</b></sub>
+<br/><b><a href="https://anilist.co/manga/77917">Danganronpa/Zero</a></b>
+<br/><sub>⭐ 7.3 · 2011 · 33 chs · Mystery</sub>
 </td>
 <td width="25%" valign="top" align="center">
-<a href="https://openlibrary.org/works/OL5734647W"><img src="https://covers.openlibrary.org/b/id/524402-L.jpg" alt="Old Man&#x27;s War" width="180" height="260" /></a>
+<a href="https://openlibrary.org/works/OL49488W"><img src="https://covers.openlibrary.org/b/id/12996033-L.jpg" alt="Ender&#x27;s Game" width="180" height="260" /></a>
 <br/><sub><b>📚 SCI-FI</b></sub>
-<br/><b><a href="https://openlibrary.org/works/OL5734647W">Old Man&#x27;s War</a></b>
-<br/><sub>John Scalzi · 2005 · ⭐ 8.4</sub>
+<br/><b><a href="https://openlibrary.org/works/OL49488W">Ender&#x27;s Game</a></b>
+<br/><sub>Orson Scott Card · 1985 · ⭐ 8.7</sub>
 </td>
 <td width="25%" valign="top" align="center">
-<a href="assets/daily/quote-2026-11-22.svg"><img src="assets/daily/quote-2026-11-22.svg" alt="“Waste no more time arguing what a good man should be. Be one.” — Marcus Aurelius, Meditations" width="180" height="260" /></a>
+<a href="assets/daily/quote-2026-11-23.svg"><img src="assets/daily/quote-2026-11-23.svg" alt="“A true warrior doesn&#x27;t need a sword.” — Thors, Vinland Saga" width="180" height="260" /></a>
 <br/><sub><b>💬 QUOTE</b></sub>
-<br/><b><a href="assets/daily/quote-2026-11-22.svg">Marcus Aurelius</a></b>
-<br/><sub>Meditations</sub>
+<br/><b><a href="assets/daily/quote-2026-11-23.svg">Thors</a></b>
+<br/><sub>Vinland Saga</sub>
 </td>
 </tr>
 </table>
