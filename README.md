@@ -113,28 +113,28 @@
 <table>
 <tr>
 <td width="25%" valign="top" align="center">
-<a href="https://anilist.co/anime/101922"><img src="https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx101922-WBsBl0ClmgYL.jpg" alt="Demon Slayer: Kimetsu no Yaiba" width="180" height="260" /></a>
+<a href="https://anilist.co/anime/20958"><img src="https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx20958-HuFJyr54Mmir.jpg" alt="Attack on Titan Season 2" width="180" height="260" /></a>
 <br/><sub><b>🎬 ANIME</b></sub>
-<br/><b><a href="https://anilist.co/anime/101922">Demon Slayer: Kimetsu no Yaiba</a></b>
-<br/><sub>⭐ 8.2 · 2019 · 26 eps · Action · Adventure</sub>
+<br/><b><a href="https://anilist.co/anime/20958">Attack on Titan Season 2</a></b>
+<br/><sub>⭐ 8.5 · 2017 · 12 eps · Action · Mystery</sub>
 </td>
 <td width="25%" valign="top" align="center">
-<a href="https://anilist.co/manga/77917"><img src="https://s4.anilist.co/file/anilistcdn/media/manga/cover/large/bx77917-vBUbEq4R1zyv.jpg" alt="Danganronpa/Zero" width="180" height="260" /></a>
-<br/><sub><b>📖 NOVEL</b></sub>
-<br/><b><a href="https://anilist.co/manga/77917">Danganronpa/Zero</a></b>
-<br/><sub>⭐ 7.3 · 2011 · 33 chs · Mystery</sub>
+<a href="https://anilist.co/manga/86082"><img src="https://s4.anilist.co/file/anilistcdn/media/manga/cover/large/bx86082-MXizJxzbijdd.jpg" alt="Delicious in Dungeon" width="180" height="260" /></a>
+<br/><sub><b>📖 MANGA</b></sub>
+<br/><b><a href="https://anilist.co/manga/86082">Delicious in Dungeon</a></b>
+<br/><sub>⭐ 8.8 · 2014 · 111 chs · Adventure</sub>
 </td>
 <td width="25%" valign="top" align="center">
-<a href="https://openlibrary.org/works/OL49488W"><img src="https://covers.openlibrary.org/b/id/12996033-L.jpg" alt="Ender&#x27;s Game" width="180" height="260" /></a>
-<br/><sub><b>📚 SCI-FI</b></sub>
-<br/><b><a href="https://openlibrary.org/works/OL49488W">Ender&#x27;s Game</a></b>
-<br/><sub>Orson Scott Card · 1985 · ⭐ 8.7</sub>
+<a href="https://openlibrary.org/works/OL17378277W"><img src="https://covers.openlibrary.org/b/id/7459498-L.jpg" alt="An Astronaut&#x27;s Guide to Life on Earth" width="180" height="260" /></a>
+<br/><sub><b>📚 SCIENCE</b></sub>
+<br/><b><a href="https://openlibrary.org/works/OL17378277W">An Astronaut&#x27;s Guide to Life on Earth</a></b>
+<br/><sub>Chris Hadfield · 2013 · ⭐ 8.1</sub>
 </td>
 <td width="25%" valign="top" align="center">
-<a href="assets/daily/quote-2026-11-23.svg"><img src="assets/daily/quote-2026-11-23.svg" alt="“A true warrior doesn&#x27;t need a sword.” — Thors, Vinland Saga" width="180" height="260" /></a>
+<a href="assets/daily/quote-2026-11-24.svg"><img src="assets/daily/quote-2026-11-24.svg" alt="“The impediment to action advances action. What stands in the way becomes the way.” — Marcus Aurelius, Meditations" width="180" height="260" /></a>
 <br/><sub><b>💬 QUOTE</b></sub>
-<br/><b><a href="assets/daily/quote-2026-11-23.svg">Thors</a></b>
-<br/><sub>Vinland Saga</sub>
+<br/><b><a href="assets/daily/quote-2026-11-24.svg">Marcus Aurelius</a></b>
+<br/><sub>Meditations</sub>
 </td>
 </tr>
 </table>
