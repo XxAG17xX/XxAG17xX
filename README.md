@@ -74,33 +74,33 @@
 <table>
 <tr>
 <td width="50%" valign="top" align="center">
-<a href="https://epic.gsfc.nasa.gov/"><img src="https://epic.gsfc.nasa.gov/archive/natural/2026/11/21/jpg/epic_1b_20261121004555.jpg" alt="Earth, 2 days ago" width="48%" />
-<img src="https://epic.gsfc.nasa.gov/archive/natural/2026/11/21/jpg/epic_1b_20261121061002.jpg" alt="Earth, 2 days ago" width="48%" />
-<img src="https://epic.gsfc.nasa.gov/archive/natural/2026/11/21/jpg/epic_1b_20261121132211.jpg" alt="Earth, 2 days ago" width="48%" />
-<img src="https://epic.gsfc.nasa.gov/archive/natural/2026/11/21/jpg/epic_1b_20261121184618.jpg" alt="Earth, 2 days ago" width="48%" /></a>
+<a href="https://epic.gsfc.nasa.gov/"><img src="https://epic.gsfc.nasa.gov/archive/natural/2026/11/22/jpg/epic_1b_20261122010436.jpg" alt="Earth, 2 days ago" width="48%" />
+<img src="https://epic.gsfc.nasa.gov/archive/natural/2026/11/22/jpg/epic_1b_20261122081646.jpg" alt="Earth, 2 days ago" width="48%" />
+<img src="https://epic.gsfc.nasa.gov/archive/natural/2026/11/22/jpg/epic_1b_20261122152856.jpg" alt="Earth, 2 days ago" width="48%" />
+<img src="https://epic.gsfc.nasa.gov/archive/natural/2026/11/22/jpg/epic_1b_20261122224105.jpg" alt="Earth, 2 days ago" width="48%" /></a>
 <br/><br/>
 <b>Earth, 2 days ago</b>
 <br/>
-<sub>Full-disc Earth from DSCOVR, 1.41 million km out. 4 frames from 2026-11-21; the latest is centred on 17°S 113°W.</sub>
+<sub>Full-disc Earth from DSCOVR, 1.41 million km out. 4 frames from 2026-11-22; the latest is centred on 18°S 171°W.</sub>
 <br/><br/>
-<sub><i>NASA EPIC aboard DSCOVR, 2026-11-21</i></sub>
+<sub><i>NASA EPIC aboard DSCOVR, 2026-11-22</i></sub>
 </td>
 <td width="50%" valign="top" align="center">
-<img src="https://images-assets.nasa.gov/image/PIA05437/PIA05437~thumb.jpg" alt="Saturn in Red" width="100%" />
+<img src="https://images-assets.nasa.gov/image/PIA01602/PIA01602~small.jpg" alt="Time Series of Jupiter Aurora" width="100%" />
 <br/><br/>
-<b>Saturn in Red</b>
+<b>Time Series of Jupiter Aurora</b>
 <br/>
-<sub>Saturn in Red</sub>
+<sub>Time Series of Jupiter Aurora</sub>
 <br/><br/>
-<sub><i>NASA Image Library, &quot;saturn&quot;</i></sub>
+<sub><i>NASA Image Library, &quot;jupiter&quot;</i></sub>
 </td>
 </tr>
 </table>
 
 <table>
 <tr>
-<td width="40%" valign="middle"><a href="https://www.nasa.gov/image-article/studying-cancer-cells-in-microgravity/"><img src="https://www.nasa.gov/wp-content/uploads/2026/11/jsc2026e426880orig.jpg" alt="Studying Cancer Cells in Microgravity" width="100%" /></a></td>
-<td valign="middle">📰 <b>Today in spaceflight</b><br/><br/><b><a href="https://www.nasa.gov/image-article/studying-cancer-cells-in-microgravity/">Studying Cancer Cells in Microgravity</a></b><br/><br/><sub>NASA, 2026-11-23</sub></td>
+<td width="40%" valign="middle"><a href="https://www.nasa.gov/image-article/webb-reveals-new-details-in-supernova-remnant/"><img src="https://www.nasa.gov/wp-content/uploads/2026/11/cas-a-webb-miri.png" alt="Webb Reveals New Details in Supernova Remnant" width="100%" /></a></td>
+<td valign="middle">📰 <b>Today in spaceflight</b><br/><br/><b><a href="https://www.nasa.gov/image-article/webb-reveals-new-details-in-supernova-remnant/">Webb Reveals New Details in Supernova Remnant</a></b><br/><br/><sub>NASA, 2026-11-24</sub></td>
 </tr>
 </table>
 <!-- SPACE:END -->
