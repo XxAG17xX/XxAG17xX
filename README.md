@@ -77,9 +77,9 @@
 </td></tr>
 </table>
 
-<p align="center"><img src="assets/divider-neon.svg" alt="" width="100%" /></p>
+<p align="center"><img src="assets/themes/neon/divider.svg" alt="" width="100%" /></p>
 
-<p align="center"><img src="assets/patches-neon.svg" alt="Mission patches" width="100%" /></p>
+<p align="center"><img src="assets/themes/neon/patches.svg" alt="Section banner: patches" width="100%" /></p>
 
 <p align="center">
 <a href="https://www.credly.com/badges/d9677579-c0e7-49e6-8d7a-544ba7a5303a/public_url"><img src="assets/patches/nasa-open-science-101.png" width="132" alt="NASA Open Science 101 mission patch" /></a>
@@ -87,9 +87,9 @@
 <a href="https://github.com/XxAG17xX/techarena-2026"><img src="assets/patches/techarena-2026.svg" width="132" alt="TechArena 2026 patch: third place in the Dublin final, round ranks 14th, 13th, 1st, 2nd" /></a>
 </p>
 
-<p align="center"><img src="assets/divider-neon.svg" alt="" width="100%" /></p>
+<p align="center"><img src="assets/themes/neon/divider.svg" alt="" width="100%" /></p>
 
-<p align="center"><img src="assets/activity-neon.svg" alt="Activity log: every lit square is a day I shipped, the snake eats them" width="100%" /></p>
+<p align="center"><img src="assets/themes/neon/activity.svg" alt="Section banner: activity" width="100%" /></p>
 
 <p align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=XxAG17xX&hide_border=true&background=0D0221&stroke=2A0845&ring=FF2BD6&fire=FF2BD6&currStreakNum=F4F7FF&sideNums=F4F7FF&currStreakLabel=7DF9FF&sideLabels=7DF9FF&dates=9AA6D8" alt="GitHub streak" /></p>
 
@@ -102,9 +102,9 @@
 </picture>
 </p>
 
-<p align="center"><img src="assets/divider-neon.svg" alt="" width="100%" /></p>
+<p align="center"><img src="assets/themes/neon/divider.svg" alt="" width="100%" /></p>
 
-<p align="center"><img src="assets/orbit-neon.svg" alt="🛰️ From orbit today" width="100%" /></p>
+<p align="center"><img src="assets/themes/neon/orbit.svg" alt="Section banner: today in the sky" width="100%" /></p>
 
 <!-- SPACE:START -->
 <table>
@@ -141,9 +141,9 @@
 </table>
 <!-- SPACE:END -->
 
-<p align="center"><img src="assets/divider-neon.svg" alt="" width="100%" /></p>
+<p align="center"><img src="assets/themes/neon/divider.svg" alt="" width="100%" /></p>
 
-<p align="center"><img src="assets/picks-neon.svg" alt="Daily picks: anime, manga, books and a quote" width="100%" /></p>
+<p align="center"><img src="assets/themes/neon/picks.svg" alt="Section banner: daily picks" width="100%" /></p>
 
 <!-- PICKS:START -->
 <table>
@@ -176,6 +176,6 @@
 </table>
 <!-- PICKS:END -->
 
-<p align="center"><img src="assets/footer-neon.svg" alt="End of transmission" width="100%" /></p>
+<p align="center"><img src="assets/themes/neon/footer.svg" alt="Section banner: end of page" width="100%" /></p>
 
 <!-- © 2026 Kartik Gupta. All rights reserved; see LICENSE. The SPACE and PICKS blocks are machine-written daily. -->
