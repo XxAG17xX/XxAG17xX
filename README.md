@@ -113,28 +113,28 @@
 <table>
 <tr>
 <td width="25%" valign="top" align="center">
-<a href="https://anilist.co/anime/20958"><img src="https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx20958-HuFJyr54Mmir.jpg" alt="Attack on Titan Season 2" width="180" height="260" /></a>
+<a href="https://anilist.co/anime/9919"><img src="https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx9919-nXS7JOZrWHfS.jpg" alt="Blue Exorcist" width="180" height="260" /></a>
 <br/><sub><b>🎬 ANIME</b></sub>
-<br/><b><a href="https://anilist.co/anime/20958">Attack on Titan Season 2</a></b>
-<br/><sub>⭐ 8.5 · 2017 · 12 eps · Action · Mystery</sub>
+<br/><b><a href="https://anilist.co/anime/9919">Blue Exorcist</a></b>
+<br/><sub>⭐ 7.2 · 2011 · 25 eps · Action · Supernatural</sub>
 </td>
 <td width="25%" valign="top" align="center">
-<a href="https://anilist.co/manga/86082"><img src="https://s4.anilist.co/file/anilistcdn/media/manga/cover/large/bx86082-MXizJxzbijdd.jpg" alt="Delicious in Dungeon" width="180" height="260" /></a>
-<br/><sub><b>📖 MANGA</b></sub>
-<br/><b><a href="https://anilist.co/manga/86082">Delicious in Dungeon</a></b>
-<br/><sub>⭐ 8.8 · 2014 · 111 chs · Adventure</sub>
+<a href="https://anilist.co/manga/107518"><img src="https://s4.anilist.co/file/anilistcdn/media/manga/cover/large/bx107518-mIYnC1TQIe4P.png" alt="Heavenly Demon Reborn!" width="180" height="260" /></a>
+<br/><sub><b>📖 MANHWA</b></sub>
+<br/><b><a href="https://anilist.co/manga/107518">Heavenly Demon Reborn!</a></b>
+<br/><sub>⭐ 7.7 · 2018 · 252 chs · Action · Adventure</sub>
 </td>
 <td width="25%" valign="top" align="center">
-<a href="https://openlibrary.org/works/OL17378277W"><img src="https://covers.openlibrary.org/b/id/7459498-L.jpg" alt="An Astronaut&#x27;s Guide to Life on Earth" width="180" height="260" /></a>
+<a href="https://openlibrary.org/works/OL1925474W"><img src="https://covers.openlibrary.org/b/id/3326778-L.jpg" alt="The Right Stuff" width="180" height="260" /></a>
 <br/><sub><b>📚 SCIENCE</b></sub>
-<br/><b><a href="https://openlibrary.org/works/OL17378277W">An Astronaut&#x27;s Guide to Life on Earth</a></b>
-<br/><sub>Chris Hadfield · 2013 · ⭐ 8.1</sub>
+<br/><b><a href="https://openlibrary.org/works/OL1925474W">The Right Stuff</a></b>
+<br/><sub>Tom Wolfe · 1973 · ⭐ 8.5</sub>
 </td>
 <td width="25%" valign="top" align="center">
-<a href="assets/daily/quote-2026-11-24.svg"><img src="assets/daily/quote-2026-11-24.svg" alt="“The impediment to action advances action. What stands in the way becomes the way.” — Marcus Aurelius, Meditations" width="180" height="260" /></a>
+<a href="assets/daily/quote-2026-11-25.svg"><img src="assets/daily/quote-2026-11-25.svg" alt="“A lesson without pain is meaningless. That&#x27;s because no one can gain without sacrificing something.” — Edward Elric, Fullmetal Alchemist" width="180" height="260" /></a>
 <br/><sub><b>💬 QUOTE</b></sub>
-<br/><b><a href="assets/daily/quote-2026-11-24.svg">Marcus Aurelius</a></b>
-<br/><sub>Meditations</sub>
+<br/><b><a href="assets/daily/quote-2026-11-25.svg">Edward Elric</a></b>
+<br/><sub>Fullmetal Alchemist</sub>
 </td>
 </tr>
 </table>
