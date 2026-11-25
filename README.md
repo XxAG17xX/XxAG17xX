@@ -1,12 +1,12 @@
 <p align="center"><img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=700&size=28&duration=2600&pause=900&color=7DF9FF&center=true&vCenter=true&width=760&height=56&lines=Hi,+I'm+Kartik+Gupta;%E3%82%AB%E3%83%AB%E3%83%86%E3%82%A3%E3%82%AF%E3%83%BB%E3%82%B0%E3%83%97%E3%82%BF%E3%81%A7%E3%81%99;Computer+Engineering+%40+Trinity+College+Dublin;AWS+%C2%B7+Applied+ML+%C2%B7+Mixed+Reality;I+build+things+that+run+on+their+own" alt="Hi, I'm Kartik Gupta" /></p>
 
+<a href="https://www.credly.com/badges/d9677579-c0e7-49e6-8d7a-544ba7a5303a/public_url"><img align="right" src="assets/badges/nasa-open-science-101.png" width="118" alt="NASA Open Science 101 mission patch" /></a>
+
 ### MAI in Computer Engineering at Trinity College Dublin. I build things that run autonomously and get measured against something real.
 
-- 🔭 I'm currently building **Pagerless, an AI on-call engineer: when an alert fires, it investigates metrics, traces and logs and writes a root-cause report that cites its evidence**
+- 🔭 I'm currently working on **my MAI thesis: stochastic prediction of train delays on the Irish Rail network**
 
-- 🌱 I'm currently **working toward an AWS certification**
-
-- 💬 Ask me about **AWS serverless, applied ML on real operational data, and mixed reality on Quest 3**
+- 💬 Ask me about **AI agents and MCP, applied ML on live operational data, AWS serverless, and mixed reality on Quest 3**
 
 - 📫 How to reach me **guptakartik30304@gmail.com**
 
@@ -22,33 +22,55 @@
 <table>
 <tr><td align="right"><b>Languages</b></td><td>
 <img src="https://skillicons.dev/icons?i=py" width="44" alt="Python" />
-<img src="https://skillicons.dev/icons?i=c" width="44" alt="C" />
+<img src="https://skillicons.dev/icons?i=ts" width="44" alt="TypeScript" />
 <img src="https://skillicons.dev/icons?i=cpp" width="44" alt="C++" />
+<img src="https://skillicons.dev/icons?i=c" width="44" alt="C" />
 <img src="https://skillicons.dev/icons?i=cs" width="44" alt="C#" />
+<img src="https://skillicons.dev/icons?i=java" width="44" alt="Java" />
 </td></tr>
 <tr><td align="right"><b>ML &amp; Data</b></td><td>
 <img src="https://skillicons.dev/icons?i=pytorch" width="44" alt="PyTorch" />
+<img src="https://skillicons.dev/icons?i=sklearn" width="44" alt="scikit-learn" />
 <img src="https://skillicons.dev/icons?i=opencv" width="44" alt="OpenCV" />
 <img src="assets/icons/numpy.svg" width="44" alt="NumPy" />
 <img src="assets/icons/pandas.svg" width="44" alt="pandas" />
 <img src="assets/icons/matplotlib.svg" width="44" alt="Matplotlib" />
-<img src="https://skillicons.dev/icons?i=anaconda" width="44" alt="Anaconda" />
 <img src="https://skillicons.dev/icons?i=matlab" width="44" alt="MATLAB" />
 </td></tr>
-<tr><td align="right"><b>Cloud &amp; Databases</b></td><td>
-<img src="https://skillicons.dev/icons?i=aws" width="44" alt="AWS" />
+<tr><td align="right"><b>Web &amp; Apps</b></td><td>
+<img src="https://skillicons.dev/icons?i=react" width="44" alt="React" />
+<img src="https://skillicons.dev/icons?i=nextjs" width="44" alt="Next.js" />
+<img src="https://skillicons.dev/icons?i=tailwind" width="44" alt="Tailwind CSS" />
 <img src="https://skillicons.dev/icons?i=fastapi" width="44" alt="FastAPI" />
+<img src="https://skillicons.dev/icons?i=firebase" width="44" alt="Firebase" />
+<img src="https://skillicons.dev/icons?i=vercel" width="44" alt="Vercel" />
+</td></tr>
+<tr><td align="right"><b>Cloud &amp; Ops</b></td><td>
+<img src="https://skillicons.dev/icons?i=aws" width="44" alt="AWS" />
+<img src="https://skillicons.dev/icons?i=docker" width="44" alt="Docker" />
+<img src="https://skillicons.dev/icons?i=githubactions" width="44" alt="GitHub Actions" />
+<img src="https://skillicons.dev/icons?i=prometheus" width="44" alt="Prometheus" />
+<img src="https://skillicons.dev/icons?i=grafana" width="44" alt="Grafana" />
+<img src="assets/icons/opentelemetry.svg" width="44" alt="OpenTelemetry" />
+</td></tr>
+<tr><td align="right"><b>Databases</b></td><td>
+<img src="https://skillicons.dev/icons?i=postgres" width="44" alt="PostgreSQL" />
 <img src="https://skillicons.dev/icons?i=mysql" width="44" alt="MySQL" />
 <img src="assets/icons/sqlserver.svg" width="44" alt="Microsoft SQL Server" />
 <img src="assets/icons/oracle.svg" width="44" alt="Oracle Database" />
 </td></tr>
 <tr><td align="right"><b>XR, 3D &amp; Hardware</b></td><td>
 <img src="https://skillicons.dev/icons?i=unity" width="44" alt="Unity" />
+<img src="https://skillicons.dev/icons?i=unreal" width="44" alt="Unreal Engine" />
 <img src="https://skillicons.dev/icons?i=blender" width="44" alt="Blender" />
 <img src="https://skillicons.dev/icons?i=arduino" width="44" alt="Arduino" />
 </td></tr>
 <tr><td align="right"><b>Tools</b></td><td>
 <img src="https://skillicons.dev/icons?i=git" width="44" alt="Git" />
+<img src="https://skillicons.dev/icons?i=linux" width="44" alt="Linux" />
+<img src="https://skillicons.dev/icons?i=vscode" width="44" alt="VS Code" />
+<img src="https://skillicons.dev/icons?i=latex" width="44" alt="LaTeX" />
+<img src="assets/icons/claude.svg" width="44" alt="Claude" />
 <img src="https://skillicons.dev/icons?i=photoshop" width="44" alt="Photoshop" />
 </td></tr>
 </table>
