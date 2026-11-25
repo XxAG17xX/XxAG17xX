@@ -1,10 +1,12 @@
 <p align="center"><img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=700&size=28&duration=2600&pause=900&color=7DF9FF&center=true&vCenter=true&width=760&height=56&lines=Hi,+I'm+Kartik+Gupta;%E3%82%AB%E3%83%AB%E3%83%86%E3%82%A3%E3%82%AF%E3%83%BB%E3%82%B0%E3%83%97%E3%82%BF%E3%81%A7%E3%81%99;Computer+Engineering+%40+Trinity+College+Dublin;AWS+%C2%B7+Applied+ML+%C2%B7+Mixed+Reality;I+build+things+that+run+on+their+own" alt="Hi, I'm Kartik Gupta" /></p>
 
-<a href="https://www.credly.com/badges/d9677579-c0e7-49e6-8d7a-544ba7a5303a/public_url"><img align="right" src="assets/badges/nasa-open-science-101.png" width="118" alt="NASA Open Science 101 mission patch" /></a>
-
 ### MAI in Computer Engineering at Trinity College Dublin. I build things that run autonomously and get measured against something real.
 
 - 🔭 I'm currently working on **my MAI thesis: stochastic prediction of train delays on the Irish Rail network**
+
+<!-- LATEST:START -->
+- 🛰️ Latest build **<a href="https://github.com/XxAG17xX/pagerless">pagerless</a>**: On-call AI agent: investigates alerts across metrics, traces and logs via MCP and writes a cited root-cause report. 85% correct on 8 injected fault types.
+<!-- LATEST:END -->
 
 - 💬 Ask me about **AI agents and MCP, applied ML on live operational data, AWS serverless, and mixed reality on Quest 3**
 
@@ -77,9 +79,21 @@
 
 <p align="center"><img src="assets/divider-neon.svg" alt="" width="100%" /></p>
 
+<p align="center"><img src="assets/patches-neon.svg" alt="Mission patches" width="100%" /></p>
+
+<p align="center">
+<a href="https://www.credly.com/badges/d9677579-c0e7-49e6-8d7a-544ba7a5303a/public_url"><img src="assets/patches/nasa-open-science-101.png" width="132" alt="NASA Open Science 101 mission patch" /></a>
+&nbsp;&nbsp;&nbsp;&nbsp;
+<a href="https://github.com/XxAG17xX/techarena-2026"><img src="assets/patches/techarena-2026.svg" width="132" alt="TechArena 2026 patch: third place in the Dublin final, round ranks 14th, 13th, 1st, 2nd" /></a>
+</p>
+
+<p align="center"><img src="assets/divider-neon.svg" alt="" width="100%" /></p>
+
 <p align="center"><img src="assets/activity-neon.svg" alt="Activity log: every lit square is a day I shipped, the snake eats them" width="100%" /></p>
 
 <p align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=XxAG17xX&hide_border=true&background=0D0221&stroke=2A0845&ring=FF2BD6&fire=FF2BD6&currStreakNum=F4F7FF&sideNums=F4F7FF&currStreakLabel=7DF9FF&sideLabels=7DF9FF&dates=9AA6D8" alt="GitHub streak" /></p>
+
+<p align="center"><img src="https://raw.githubusercontent.com/XxAG17xX/XxAG17xX/output/3d-neon.svg" alt="My contributions as a 3D city" width="100%" /></p>
 
 <p align="center">
 <picture>
