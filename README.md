@@ -110,33 +110,33 @@
 <table>
 <tr>
 <td width="50%" valign="top" align="center">
-<a href="https://epic.gsfc.nasa.gov/"><img src="https://epic.gsfc.nasa.gov/archive/natural/2026/11/23/jpg/epic_1b_20261123005515.jpg" alt="Earth, 2 days ago" width="48%" />
-<img src="https://epic.gsfc.nasa.gov/archive/natural/2026/11/23/jpg/epic_1b_20261123080724.jpg" alt="Earth, 2 days ago" width="48%" />
-<img src="https://epic.gsfc.nasa.gov/archive/natural/2026/11/23/jpg/epic_1b_20261123151933.jpg" alt="Earth, 2 days ago" width="48%" />
-<img src="https://epic.gsfc.nasa.gov/archive/natural/2026/11/23/jpg/epic_1b_20261123223142.jpg" alt="Earth, 2 days ago" width="48%" /></a>
+<a href="https://epic.gsfc.nasa.gov/"><img src="https://epic.gsfc.nasa.gov/archive/natural/2026/11/23/jpg/epic_1b_20261123005515.jpg" alt="Earth, 3 days ago" width="48%" />
+<img src="https://epic.gsfc.nasa.gov/archive/natural/2026/11/23/jpg/epic_1b_20261123080724.jpg" alt="Earth, 3 days ago" width="48%" />
+<img src="https://epic.gsfc.nasa.gov/archive/natural/2026/11/23/jpg/epic_1b_20261123151933.jpg" alt="Earth, 3 days ago" width="48%" />
+<img src="https://epic.gsfc.nasa.gov/archive/natural/2026/11/23/jpg/epic_1b_20261123223142.jpg" alt="Earth, 3 days ago" width="48%" /></a>
 <br/><br/>
-<b>Earth, 2 days ago</b>
+<b>Earth, 3 days ago</b>
 <br/>
 <sub>Full-disc Earth from DSCOVR, 1.40 million km out. 4 frames from 2026-11-23; the latest is centred on 18°S 169°W.</sub>
 <br/><br/>
 <sub><i>NASA EPIC aboard DSCOVR, 2026-11-23</i></sub>
 </td>
 <td width="50%" valign="top" align="center">
-<img src="https://images-assets.nasa.gov/image/PIA22569/PIA22569~medium.jpg" alt="Supernova Remnant G54" width="100%" />
+<img src="https://images-assets.nasa.gov/image/PIA13335/PIA13335~medium.jpg" alt="Ancient Galaxy Cluster Still Producing Stars" width="100%" />
 <br/><br/>
-<b>Supernova Remnant G54</b>
+<b>Ancient Galaxy Cluster Still Producing Stars</b>
 <br/>
-<sub>This image of supernova remnant G54.1+0.3 includes radio, infrared and X-ray light. The saturated yellow point at the center of the image indicates...</sub>
+<sub>Astronomers have found that stars are forming more rapidly in the center of a distant galaxy cluster than at its edges, which is completely reversed...</sub>
 <br/><br/>
-<sub><i>NASA Image Library, &quot;supernova remnant&quot;</i></sub>
+<sub><i>NASA Image Library, &quot;star cluster&quot;</i></sub>
 </td>
 </tr>
 </table>
 
 <table>
 <tr>
-<td width="40%" valign="middle"><a href="https://www.nasa.gov/centers-and-facilities/goddard/childhood-career-come-full-circle-for-budget-analyst-at-nasa-goddard/"><img src="https://www.nasa.gov/wp-content/uploads/2026/11/ashley-knight-and-parents.jpg" alt="Childhood, Career Come Full Circle for Budget Analyst at NASA Goddard" width="100%" /></a></td>
-<td valign="middle">📰 <b>Today in spaceflight</b><br/><br/><b><a href="https://www.nasa.gov/centers-and-facilities/goddard/childhood-career-come-full-circle-for-budget-analyst-at-nasa-goddard/">Childhood, Career Come Full Circle for Budget Analyst at NASA Goddard</a></b><br/><br/><sub>NASA, 2026-11-25</sub></td>
+<td width="40%" valign="middle"><a href="https://europeanspaceflight.com/thales-alenia-space-to-establish-dedicated-company-for-cargo-return-services/"><img src="https://europeanspaceflight.com/wp-content/uploads/2026/11/Thales-Alenia-Space-to-Establish-Dedicated-Company-for-Cargo-Return-Services.webp" alt="Thales Alenia Space to Establish Dedicated Company for Cargo Return Services" width="100%" /></a></td>
+<td valign="middle">📰 <b>Today in spaceflight</b><br/><br/><b><a href="https://europeanspaceflight.com/thales-alenia-space-to-establish-dedicated-company-for-cargo-return-services/">Thales Alenia Space to Establish Dedicated Company for Cargo Return Services</a></b><br/><br/><sub>European Spaceflight, 2026-11-26</sub></td>
 </tr>
 </table>
 <!-- SPACE:END -->
