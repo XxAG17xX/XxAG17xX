@@ -1,4 +1,4 @@
-<p align="center"><img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=700&size=28&duration=2600&pause=900&color=7DF9FF&center=true&vCenter=true&width=760&height=56&lines=Hi,+I'm+Kartik+Gupta;%E3%82%AB%E3%83%AB%E3%83%86%E3%82%A3%E3%82%AF%E3%83%BB%E3%82%B0%E3%83%97%E3%82%BF%E3%81%A7%E3%81%99;Computer+Engineering+%40+Trinity+College+Dublin;AWS+%C2%B7+Applied+ML+%C2%B7+Mixed+Reality;I+build+things+that+run+on+their+own" alt="Hi, I'm Kartik Gupta" /></p>
+<p align="center"><img src="https://readme-typing-svg.demolab.com?font=Playfair+Display&weight=900&size=28&duration=2600&pause=900&color=C8C8C8&center=true&vCenter=true&width=760&height=56&lines=Hi,+I'm+Kartik+Gupta;%E3%82%AB%E3%83%AB%E3%83%86%E3%82%A3%E3%82%AF%E3%83%BB%E3%82%B0%E3%83%97%E3%82%BF%E3%81%A7%E3%81%99;Computer+Engineering+%40+Trinity+College+Dublin;AWS+%C2%B7+Applied+ML+%C2%B7+Mixed+Reality;I+build+things+that+run+on+their+own" alt="Hi, I'm Kartik Gupta" /></p>
 
 ### MAI in Computer Engineering at Trinity College Dublin. I build things that run autonomously and get measured against something real.
 
@@ -77,9 +77,9 @@
 </td></tr>
 </table>
 
-<p align="center"><img src="assets/themes/neon/divider.svg" alt="" width="100%" /></p>
+<p align="center"><img src="assets/themes/noir/divider.svg" alt="" width="100%" /></p>
 
-<p align="center"><img src="assets/themes/neon/patches.svg" alt="Section banner: patches" width="100%" /></p>
+<p align="center"><img src="assets/themes/noir/patches.svg" alt="Section banner: patches" width="100%" /></p>
 
 <p align="center">
 <a href="https://www.credly.com/badges/d9677579-c0e7-49e6-8d7a-544ba7a5303a/public_url"><img src="assets/patches/nasa-open-science-101.png" width="132" alt="NASA Open Science 101 mission patch" /></a>
@@ -87,24 +87,24 @@
 <a href="https://github.com/XxAG17xX/techarena-2026"><img src="assets/patches/techarena-2026.svg" width="132" alt="TechArena 2026 patch: third place in the Dublin final, round ranks 14th, 13th, 1st, 2nd" /></a>
 </p>
 
-<p align="center"><img src="assets/themes/neon/divider.svg" alt="" width="100%" /></p>
+<p align="center"><img src="assets/themes/noir/divider.svg" alt="" width="100%" /></p>
 
-<p align="center"><img src="assets/themes/neon/activity.svg" alt="Section banner: activity" width="100%" /></p>
+<p align="center"><img src="assets/themes/noir/activity.svg" alt="Section banner: activity" width="100%" /></p>
 
-<p align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=XxAG17xX&hide_border=true&background=0D0221&stroke=2A0845&ring=FF2BD6&fire=FF2BD6&currStreakNum=F4F7FF&sideNums=F4F7FF&currStreakLabel=7DF9FF&sideLabels=7DF9FF&dates=9AA6D8" alt="GitHub streak" /></p>
+<p align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=XxAG17xX&hide_border=true&background=0A0A0A&stroke=2A2A2A&ring=F2F2F2&fire=C8102E&currStreakNum=F2F2F2&sideNums=F2F2F2&currStreakLabel=BDBDBD&sideLabels=BDBDBD&dates=8A8A8A" alt="GitHub streak" /></p>
 
-<p align="center"><img src="https://raw.githubusercontent.com/XxAG17xX/XxAG17xX/output/3d-neon.svg" alt="My contributions as a 3D city" width="100%" /></p>
+<p align="center"><img src="https://raw.githubusercontent.com/XxAG17xX/XxAG17xX/output/3d-noir.svg" alt="My contributions as a 3D city" width="100%" /></p>
 
 <p align="center">
 <picture>
-<source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/XxAG17xX/XxAG17xX/output/snake-neon.svg" />
+<source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/XxAG17xX/XxAG17xX/output/snake-noir.svg" />
 <img src="https://raw.githubusercontent.com/XxAG17xX/XxAG17xX/output/snake-light.svg" alt="Snake eating my contribution graph" width="100%" />
 </picture>
 </p>
 
-<p align="center"><img src="assets/themes/neon/divider.svg" alt="" width="100%" /></p>
+<p align="center"><img src="assets/themes/noir/divider.svg" alt="" width="100%" /></p>
 
-<p align="center"><img src="assets/themes/neon/orbit.svg" alt="Section banner: today in the sky" width="100%" /></p>
+<p align="center"><img src="assets/themes/noir/orbit.svg" alt="Section banner: today in the sky" width="100%" /></p>
 
 <!-- SPACE:START -->
 <table>
@@ -141,41 +141,41 @@
 </table>
 <!-- SPACE:END -->
 
-<p align="center"><img src="assets/themes/neon/divider.svg" alt="" width="100%" /></p>
+<p align="center"><img src="assets/themes/noir/divider.svg" alt="" width="100%" /></p>
 
-<p align="center"><img src="assets/themes/neon/picks.svg" alt="Section banner: daily picks" width="100%" /></p>
+<p align="center"><img src="assets/themes/noir/picks.svg" alt="Section banner: daily picks" width="100%" /></p>
 
 <!-- PICKS:START -->
 <table>
 <tr>
 <td width="25%" valign="top" align="center">
-<a href="https://anilist.co/anime/9919"><img src="https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx9919-nXS7JOZrWHfS.jpg" alt="Blue Exorcist" width="180" height="260" /></a>
+<a href="https://anilist.co/anime/21459"><img src="https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx21459-nYh85uj2Fuwr.jpg" alt="My Hero Academia" width="180" height="260" /></a>
 <br/><sub><b>🎬 ANIME</b></sub>
-<br/><b><a href="https://anilist.co/anime/9919">Blue Exorcist</a></b>
-<br/><sub>⭐ 7.2 · 2011 · 25 eps · Action · Supernatural</sub>
+<br/><b><a href="https://anilist.co/anime/21459">My Hero Academia</a></b>
+<br/><sub>⭐ 7.6 · 2016 · 13 eps · Action · Adventure</sub>
 </td>
 <td width="25%" valign="top" align="center">
-<a href="https://anilist.co/manga/107518"><img src="https://s4.anilist.co/file/anilistcdn/media/manga/cover/large/bx107518-mIYnC1TQIe4P.png" alt="Heavenly Demon Reborn!" width="180" height="260" /></a>
-<br/><sub><b>📖 MANHWA</b></sub>
-<br/><b><a href="https://anilist.co/manga/107518">Heavenly Demon Reborn!</a></b>
-<br/><sub>⭐ 7.7 · 2018 · 252 chs · Action · Adventure</sub>
+<a href="https://anilist.co/manga/170923"><img src="https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/b170923-jjFcL8VtDV7U.jpg" alt="Kaiju Qian Dao Huanggu Shengti" width="180" height="260" /></a>
+<br/><sub><b>📖 MANHUA</b></sub>
+<br/><b><a href="https://anilist.co/manga/170923">Kaiju Qian Dao Huanggu Shengti</a></b>
+<br/><sub>⭐ 6.8 · 2023 · Action</sub>
 </td>
 <td width="25%" valign="top" align="center">
-<a href="https://openlibrary.org/works/OL1925474W"><img src="https://covers.openlibrary.org/b/id/3326778-L.jpg" alt="The Right Stuff" width="180" height="260" /></a>
-<br/><sub><b>📚 SCIENCE</b></sub>
-<br/><b><a href="https://openlibrary.org/works/OL1925474W">The Right Stuff</a></b>
-<br/><sub>Tom Wolfe · 1973 · ⭐ 8.5</sub>
+<a href="https://openlibrary.org/works/OL18108064W"><img src="https://covers.openlibrary.org/b/id/8305903-L.jpg" alt="Can&#x27;t Hurt Me" width="180" height="260" /></a>
+<br/><sub><b>📚 MINDSET</b></sub>
+<br/><b><a href="https://openlibrary.org/works/OL18108064W">Can&#x27;t Hurt Me</a></b>
+<br/><sub>David Goggins · 2018 · ⭐ 8.4</sub>
 </td>
 <td width="25%" valign="top" align="center">
-<a href="assets/daily/quote-2026-11-25.svg"><img src="assets/daily/quote-2026-11-25.svg" alt="“A lesson without pain is meaningless. That&#x27;s because no one can gain without sacrificing something.” — Edward Elric, Fullmetal Alchemist" width="180" height="260" /></a>
+<a href="assets/daily/quote-2026-11-26.svg"><img src="assets/daily/quote-2026-11-26.svg" alt="“Although I do not want to die, I do not fear death.” — Fang Yuan, Reverend Insanity" width="180" height="260" /></a>
 <br/><sub><b>💬 QUOTE</b></sub>
-<br/><b><a href="assets/daily/quote-2026-11-25.svg">Edward Elric</a></b>
-<br/><sub>Fullmetal Alchemist</sub>
+<br/><b><a href="assets/daily/quote-2026-11-26.svg">Fang Yuan</a></b>
+<br/><sub>Reverend Insanity</sub>
 </td>
 </tr>
 </table>
 <!-- PICKS:END -->
 
-<p align="center"><img src="assets/themes/neon/footer.svg" alt="Section banner: end of page" width="100%" /></p>
+<p align="center"><img src="assets/themes/noir/footer.svg" alt="Section banner: end of page" width="100%" /></p>
 
 <!-- © 2026 Kartik Gupta. All rights reserved; see LICENSE. The SPACE and PICKS blocks are machine-written daily. -->
