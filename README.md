@@ -110,33 +110,33 @@
 <table>
 <tr>
 <td width="50%" valign="top" align="center">
-<a href="https://epic.gsfc.nasa.gov/"><img src="https://epic.gsfc.nasa.gov/archive/natural/2026/11/23/jpg/epic_1b_20261123005515.jpg" alt="Earth, 3 days ago" width="48%" />
-<img src="https://epic.gsfc.nasa.gov/archive/natural/2026/11/23/jpg/epic_1b_20261123080724.jpg" alt="Earth, 3 days ago" width="48%" />
-<img src="https://epic.gsfc.nasa.gov/archive/natural/2026/11/23/jpg/epic_1b_20261123151933.jpg" alt="Earth, 3 days ago" width="48%" />
-<img src="https://epic.gsfc.nasa.gov/archive/natural/2026/11/23/jpg/epic_1b_20261123223142.jpg" alt="Earth, 3 days ago" width="48%" /></a>
+<a href="https://epic.gsfc.nasa.gov/"><img src="https://epic.gsfc.nasa.gov/archive/natural/2026/11/25/jpg/epic_1b_20261125001751.jpg" alt="Earth, 2 days ago" width="48%" />
+<img src="https://epic.gsfc.nasa.gov/archive/natural/2026/11/25/jpg/epic_1b_20261125073000.jpg" alt="Earth, 2 days ago" width="48%" />
+<img src="https://epic.gsfc.nasa.gov/archive/natural/2026/11/25/jpg/epic_1b_20261125144209.jpg" alt="Earth, 2 days ago" width="48%" />
+<img src="https://epic.gsfc.nasa.gov/archive/natural/2026/11/25/jpg/epic_1b_20261125215419.jpg" alt="Earth, 2 days ago" width="48%" /></a>
 <br/><br/>
-<b>Earth, 3 days ago</b>
+<b>Earth, 2 days ago</b>
 <br/>
-<sub>Full-disc Earth from DSCOVR, 1.40 million km out. 4 frames from 2026-11-23; the latest is centred on 18°S 169°W.</sub>
+<sub>Full-disc Earth from DSCOVR, 1.40 million km out. 4 frames from 2026-11-25; the latest is centred on 20°S 159°W.</sub>
 <br/><br/>
-<sub><i>NASA EPIC aboard DSCOVR, 2026-11-23</i></sub>
+<sub><i>NASA EPIC aboard DSCOVR, 2026-11-25</i></sub>
 </td>
 <td width="50%" valign="top" align="center">
-<img src="https://images-assets.nasa.gov/image/PIA13335/PIA13335~medium.jpg" alt="Ancient Galaxy Cluster Still Producing Stars" width="100%" />
+<img src="https://images-assets.nasa.gov/image/PIA07540/PIA07540~small.jpg" alt="Solar Eclipses…Daily" width="100%" />
 <br/><br/>
-<b>Ancient Galaxy Cluster Still Producing Stars</b>
+<b>Solar Eclipses…Daily</b>
 <br/>
-<sub>Astronomers have found that stars are forming more rapidly in the center of a distant galaxy cluster than at its edges, which is completely reversed...</sub>
+<sub>Solar Eclipses…Daily</sub>
 <br/><br/>
-<sub><i>NASA Image Library, &quot;star cluster&quot;</i></sub>
+<sub><i>NASA Image Library, &quot;solar eclipse&quot;</i></sub>
 </td>
 </tr>
 </table>
 
 <table>
 <tr>
-<td width="40%" valign="middle"><a href="https://europeanspaceflight.com/thales-alenia-space-to-establish-dedicated-company-for-cargo-return-services/"><img src="https://europeanspaceflight.com/wp-content/uploads/2026/11/Thales-Alenia-Space-to-Establish-Dedicated-Company-for-Cargo-Return-Services.webp" alt="Thales Alenia Space to Establish Dedicated Company for Cargo Return Services" width="100%" /></a></td>
-<td valign="middle">📰 <b>Today in spaceflight</b><br/><br/><b><a href="https://europeanspaceflight.com/thales-alenia-space-to-establish-dedicated-company-for-cargo-return-services/">Thales Alenia Space to Establish Dedicated Company for Cargo Return Services</a></b><br/><br/><sub>European Spaceflight, 2026-11-26</sub></td>
+<td width="40%" valign="middle"><a href="https://spacenews.com/governments-invest-71-8b-in-space-defense-as-militarization-of-space-accelerates/"><img src="https://i0.wp.com/spacenews.com/wp-content/uploads/2025/04/novaspace-square.png?fit=1021%2C1024&ssl=1" alt="Governments Invest $71.8B in Space Defense as Militarization of Space Accelerates" width="100%" /></a></td>
+<td valign="middle">📰 <b>Today in spaceflight</b><br/><br/><b><a href="https://spacenews.com/governments-invest-71-8b-in-space-defense-as-militarization-of-space-accelerates/">Governments Invest $71.8B in Space Defense as Militarization of Space Accelerates</a></b><br/><br/><sub>SpaceNews, 2026-11-27</sub></td>
 </tr>
 </table>
 <!-- SPACE:END -->
