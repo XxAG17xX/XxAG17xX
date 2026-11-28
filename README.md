@@ -1,4 +1,4 @@
-<p align="center"><img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=700&size=28&duration=2600&pause=900&color=7DF9FF&center=true&vCenter=true&width=760&height=56&lines=Hi,+I'm+Kartik+Gupta;%E3%82%AB%E3%83%AB%E3%83%86%E3%82%A3%E3%82%AF%E3%83%BB%E3%82%B0%E3%83%97%E3%82%BF%E3%81%A7%E3%81%99;Computer+Engineering+%40+Trinity+College+Dublin;AWS+%C2%B7+Applied+ML+%C2%B7+Mixed+Reality;I+build+things+that+run+on+their+own" alt="Hi, I'm Kartik Gupta" /></p>
+<p align="center"><img src="https://readme-typing-svg.demolab.com?font=Titillium+Web&weight=900&size=28&duration=2600&pause=900&color=E10600&center=true&vCenter=true&width=760&height=56&lines=Hi,+I'm+Kartik+Gupta;%E3%82%AB%E3%83%AB%E3%83%86%E3%82%A3%E3%82%AF%E3%83%BB%E3%82%B0%E3%83%97%E3%82%BF%E3%81%A7%E3%81%99;Computer+Engineering+%40+Trinity+College+Dublin;AWS+%C2%B7+Applied+ML+%C2%B7+Mixed+Reality;I+build+things+that+run+on+their+own" alt="Hi, I'm Kartik Gupta" /></p>
 
 ### MAI in Computer Engineering at Trinity College Dublin. I build things that run autonomously and get measured against something real.
 
@@ -77,9 +77,9 @@
 </td></tr>
 </table>
 
-<p align="center"><img src="assets/themes/neon/divider.svg" alt="" width="100%" /></p>
+<p align="center"><img src="assets/themes/f1/divider.svg" alt="" width="100%" /></p>
 
-<p align="center"><img src="assets/themes/neon/patches.svg" alt="Section banner: patches" width="100%" /></p>
+<p align="center"><img src="assets/themes/f1/patches.svg" alt="Section banner: patches" width="100%" /></p>
 
 <p align="center">
 <a href="https://www.credly.com/badges/d9677579-c0e7-49e6-8d7a-544ba7a5303a/public_url"><img src="assets/patches/nasa-open-science-101.png" width="132" alt="NASA Open Science 101 mission patch" /></a>
@@ -87,24 +87,24 @@
 <a href="https://github.com/XxAG17xX/techarena-2026"><img src="assets/patches/techarena-2026.svg" width="132" alt="TechArena 2026 patch: third place in the Dublin final, round ranks 14th, 13th, 1st, 2nd" /></a>
 </p>
 
-<p align="center"><img src="assets/themes/neon/divider.svg" alt="" width="100%" /></p>
+<p align="center"><img src="assets/themes/f1/divider.svg" alt="" width="100%" /></p>
 
-<p align="center"><img src="assets/themes/neon/activity.svg" alt="Section banner: activity" width="100%" /></p>
+<p align="center"><img src="assets/themes/f1/activity.svg" alt="Section banner: activity" width="100%" /></p>
 
-<p align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=XxAG17xX&hide_border=true&background=0D0221&stroke=2A0845&ring=FF2BD6&fire=FF2BD6&currStreakNum=F4F7FF&sideNums=F4F7FF&currStreakLabel=7DF9FF&sideLabels=7DF9FF&dates=9AA6D8" alt="GitHub streak" /></p>
+<p align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=XxAG17xX&hide_border=true&background=0B0B0F&stroke=26262E&ring=E10600&fire=E10600&currStreakNum=F5F5F7&sideNums=F5F5F7&currStreakLabel=C7C7D1&sideLabels=C7C7D1&dates=9A9AA8" alt="GitHub streak" /></p>
 
-<p align="center"><img src="https://raw.githubusercontent.com/XxAG17xX/XxAG17xX/output/3d-neon.svg" alt="My contributions as a 3D city" width="100%" /></p>
+<p align="center"><img src="https://raw.githubusercontent.com/XxAG17xX/XxAG17xX/output/3d-f1.svg" alt="My contributions as a 3D city" width="100%" /></p>
 
 <p align="center">
 <picture>
-<source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/XxAG17xX/XxAG17xX/output/snake-neon.svg" />
+<source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/XxAG17xX/XxAG17xX/output/snake-f1.svg" />
 <img src="https://raw.githubusercontent.com/XxAG17xX/XxAG17xX/output/snake-light.svg" alt="Snake eating my contribution graph" width="100%" />
 </picture>
 </p>
 
-<p align="center"><img src="assets/themes/neon/divider.svg" alt="" width="100%" /></p>
+<p align="center"><img src="assets/themes/f1/divider.svg" alt="" width="100%" /></p>
 
-<p align="center"><img src="assets/themes/neon/orbit.svg" alt="Section banner: today in the sky" width="100%" /></p>
+<p align="center"><img src="assets/themes/f1/orbit.svg" alt="Section banner: today in the sky" width="100%" /></p>
 
 <!-- SPACE:START -->
 <table>
@@ -141,41 +141,41 @@
 </table>
 <!-- SPACE:END -->
 
-<p align="center"><img src="assets/themes/neon/divider.svg" alt="" width="100%" /></p>
+<p align="center"><img src="assets/themes/f1/divider.svg" alt="" width="100%" /></p>
 
-<p align="center"><img src="assets/themes/neon/picks.svg" alt="Section banner: daily picks" width="100%" /></p>
+<p align="center"><img src="assets/themes/f1/picks.svg" alt="Section banner: daily picks" width="100%" /></p>
 
 <!-- PICKS:START -->
 <table>
 <tr>
 <td width="25%" valign="top" align="center">
-<a href="https://anilist.co/anime/176496"><img src="https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx176496-9BDMjAZGEbq4.png" alt="Solo Leveling Season 2 -Arise from the Shadow-" width="180" height="260" /></a>
+<a href="https://anilist.co/anime/102883"><img src="https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx102883-S9KzdMJhDswJ.png" alt="JoJo&#x27;s Bizarre Adventure: Golden Wind" width="180" height="260" /></a>
 <br/><sub><b>🎬 ANIME</b></sub>
-<br/><b><a href="https://anilist.co/anime/176496">Solo Leveling Season 2 -Arise from the...</a></b>
-<br/><sub>⭐ 8.4 · 2025 · 13 eps · Action · Adventure</sub>
+<br/><b><a href="https://anilist.co/anime/102883">JoJo&#x27;s Bizarre Adventure: Golden Wind</a></b>
+<br/><sub>⭐ 8.5 · 2018 · 39 eps · Action · Adventure</sub>
 </td>
 <td width="25%" valign="top" align="center">
-<a href="https://anilist.co/manga/87230"><img src="https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/57230-g7Y7zQqw7XQc.jpg" alt="Naruto Secret Chronicles Book Series" width="180" height="260" /></a>
-<br/><sub><b>📖 NOVEL</b></sub>
-<br/><b><a href="https://anilist.co/manga/87230">Naruto Secret Chronicles Book Series</a></b>
-<br/><sub>⭐ 7.5 · 2015 · 49 chs · Action · Adventure</sub>
+<a href="https://anilist.co/manga/33009"><img src="https://s4.anilist.co/file/anilistcdn/media/manga/cover/large/nx33009-jF9dqLJcZC4n.png" alt="JoJo&#x27;s Bizarre Adventure Part 6: Stone Ocean" width="180" height="260" /></a>
+<br/><sub><b>📖 MANGA</b></sub>
+<br/><b><a href="https://anilist.co/manga/33009">JoJo&#x27;s Bizarre Adventure Part 6: Stone...</a></b>
+<br/><sub>⭐ 8.2 · 1999 · 158 chs · Action · Adventure</sub>
 </td>
 <td width="25%" valign="top" align="center">
-<a href="https://openlibrary.org/works/OL244537W"><img src="https://covers.openlibrary.org/b/id/4849549-L.jpg" alt="The Art of War" width="180" height="260" /></a>
-<br/><sub><b>📚 MINDSET</b></sub>
-<br/><b><a href="https://openlibrary.org/works/OL244537W">The Art of War</a></b>
-<br/><sub>Sun Tzu · 1900 · ⭐ 8.1</sub>
+<a href="https://openlibrary.org/works/OL19096402W"><img src="https://covers.openlibrary.org/b/id/9407338-L.jpg" alt="The Silent Patient" width="180" height="260" /></a>
+<br/><sub><b>📚 THRILLER</b></sub>
+<br/><b><a href="https://openlibrary.org/works/OL19096402W">The Silent Patient</a></b>
+<br/><sub>Alex Michaelides · 2018 · ⭐ 8.1</sub>
 </td>
 <td width="25%" valign="top" align="center">
-<a href="assets/daily/quote-2026-11-27.svg"><img src="assets/daily/quote-2026-11-27.svg" alt="“Whatever you lose, you&#x27;ll find it again. But what you throw away you&#x27;ll never get back.” — Kenshin Himura, Rurouni Kenshin" width="180" height="260" /></a>
+<a href="assets/daily/quote-2026-11-28.svg"><img src="assets/daily/quote-2026-11-28.svg" alt="“If you don&#x27;t take risks, you can&#x27;t create a future.” — Monkey D. Luffy, One Piece" width="180" height="260" /></a>
 <br/><sub><b>💬 QUOTE</b></sub>
-<br/><b><a href="assets/daily/quote-2026-11-27.svg">Kenshin Himura</a></b>
-<br/><sub>Rurouni Kenshin</sub>
+<br/><b><a href="assets/daily/quote-2026-11-28.svg">Monkey D. Luffy</a></b>
+<br/><sub>One Piece</sub>
 </td>
 </tr>
 </table>
 <!-- PICKS:END -->
 
-<p align="center"><img src="assets/themes/neon/footer.svg" alt="Section banner: end of page" width="100%" /></p>
+<p align="center"><img src="assets/themes/f1/footer.svg" alt="Section banner: end of page" width="100%" /></p>
 
 <!-- © 2026 Kartik Gupta. All rights reserved; see LICENSE. The SPACE and PICKS blocks are machine-written daily. -->
