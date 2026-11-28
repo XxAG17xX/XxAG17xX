@@ -110,33 +110,33 @@
 <table>
 <tr>
 <td width="50%" valign="top" align="center">
-<a href="https://epic.gsfc.nasa.gov/"><img src="https://epic.gsfc.nasa.gov/archive/natural/2026/11/25/jpg/epic_1b_20261125001751.jpg" alt="Earth, 2 days ago" width="48%" />
-<img src="https://epic.gsfc.nasa.gov/archive/natural/2026/11/25/jpg/epic_1b_20261125073000.jpg" alt="Earth, 2 days ago" width="48%" />
-<img src="https://epic.gsfc.nasa.gov/archive/natural/2026/11/25/jpg/epic_1b_20261125144209.jpg" alt="Earth, 2 days ago" width="48%" />
-<img src="https://epic.gsfc.nasa.gov/archive/natural/2026/11/25/jpg/epic_1b_20261125215419.jpg" alt="Earth, 2 days ago" width="48%" /></a>
+<a href="https://epic.gsfc.nasa.gov/"><img src="https://epic.gsfc.nasa.gov/archive/natural/2026/11/26/jpg/epic_1b_20261126000830.jpg" alt="Earth, 2 days ago" width="48%" />
+<img src="https://epic.gsfc.nasa.gov/archive/natural/2026/11/26/jpg/epic_1b_20261126072039.jpg" alt="Earth, 2 days ago" width="48%" />
+<img src="https://epic.gsfc.nasa.gov/archive/natural/2026/11/26/jpg/epic_1b_20261126143248.jpg" alt="Earth, 2 days ago" width="48%" />
+<img src="https://epic.gsfc.nasa.gov/archive/natural/2026/11/26/jpg/epic_1b_20261126214457.jpg" alt="Earth, 2 days ago" width="48%" /></a>
 <br/><br/>
 <b>Earth, 2 days ago</b>
 <br/>
-<sub>Full-disc Earth from DSCOVR, 1.40 million km out. 4 frames from 2026-11-25; the latest is centred on 20°S 159°W.</sub>
+<sub>Full-disc Earth from DSCOVR, 1.40 million km out. 4 frames from 2026-11-26; the latest is centred on 20°S 156°W.</sub>
 <br/><br/>
-<sub><i>NASA EPIC aboard DSCOVR, 2026-11-25</i></sub>
+<sub><i>NASA EPIC aboard DSCOVR, 2026-11-26</i></sub>
 </td>
 <td width="50%" valign="top" align="center">
-<img src="https://images-assets.nasa.gov/image/PIA07540/PIA07540~small.jpg" alt="Solar Eclipses…Daily" width="100%" />
+<img src="https://images-assets.nasa.gov/image/jsc2023e080760/jsc2023e080760~medium.jpg" alt="NASA astronaut Mike Fincke conducts training for a spacewalk " width="100%" />
 <br/><br/>
-<b>Solar Eclipses…Daily</b>
+<b>NASA astronaut Mike Fincke conducts training for a spacewalk </b>
 <br/>
-<sub>Solar Eclipses…Daily</sub>
+<sub>jsc2023e080760 (Dec. 15, 2023) --- NASA astronaut Mike Fincke conducts training for a spacewalk at the Neutral Buoyancy Laboratory at NASA&#x27;s Johnson...</sub>
 <br/><br/>
-<sub><i>NASA Image Library, &quot;solar eclipse&quot;</i></sub>
+<sub><i>NASA Image Library, &quot;spacewalk&quot;</i></sub>
 </td>
 </tr>
 </table>
 
 <table>
 <tr>
-<td width="40%" valign="middle"><a href="https://spacenews.com/governments-invest-71-8b-in-space-defense-as-militarization-of-space-accelerates/"><img src="https://i0.wp.com/spacenews.com/wp-content/uploads/2025/04/novaspace-square.png?fit=1021%2C1024&ssl=1" alt="Governments Invest $71.8B in Space Defense as Militarization of Space Accelerates" width="100%" /></a></td>
-<td valign="middle">📰 <b>Today in spaceflight</b><br/><br/><b><a href="https://spacenews.com/governments-invest-71-8b-in-space-defense-as-militarization-of-space-accelerates/">Governments Invest $71.8B in Space Defense as Militarization of Space Accelerates</a></b><br/><br/><sub>SpaceNews, 2026-11-27</sub></td>
+<td width="40%" valign="middle"><a href="https://spaceflightnow.com/2026/11/28/live-coverage-spacex-to-launch-satellites-for-u-s-space-forces-data-network/"><img src="https://spaceflightnow.com/wp-content/uploads/2026/04/20260414-Falcon-9-File.jpg" alt="Live coverage: SpaceX to launch satellites for U.S. Space Force’s data network" width="100%" /></a></td>
+<td valign="middle">📰 <b>Today in spaceflight</b><br/><br/><b><a href="https://spaceflightnow.com/2026/11/28/live-coverage-spacex-to-launch-satellites-for-u-s-space-forces-data-network/">Live coverage: SpaceX to launch satellites for U.S. Space Force’s data network</a></b><br/><br/><sub>Spaceflight Now, 2026-11-28</sub></td>
 </tr>
 </table>
 <!-- SPACE:END -->
